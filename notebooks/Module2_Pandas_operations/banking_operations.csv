@@ -1,0 +1,51 @@
+Transaction_ID,Transaction_Date,Customer_ID,Account_Type,Transaction_Type,Channel,Branch_City,Amount,Balance_After_Transaction,Status
+TXN0001,2026-01-04,CUST001,Savings,Deposit,Branch,Hyderabad,1875,37800,Completed
+TXN0002,2026-02-07,CUST002,Current,Withdrawal,ATM,Mumbai,3250,33600,Completed
+TXN0003,2026-03-10,CUST003,Salary,Transfer,UPI,Chennai,4625,33150,Completed
+TXN0004,2026-04-13,CUST004,Savings,Bill Payment,Mobile Banking,Bengaluru,6000,32700,Pending
+TXN0005,2026-05-16,CUST005,Current,ATM Withdrawal,Net Banking,Delhi,7375,32250,Completed
+TXN0006,2026-06-19,CUST006,Savings,Deposit,POS,Pune,8750,49300,Failed
+TXN0007,2026-01-22,CUST007,Current,Withdrawal,Branch,Kolkata,10125,31350,Completed
+TXN0008,2026-02-25,CUST008,Salary,Transfer,ATM,Hyderabad,11500,30900,Completed
+TXN0009,2026-03-01,CUST009,Savings,Bill Payment,UPI,,12875,30450,Completed
+TXN0010,2026-04-04,CUST010,Current,ATM Withdrawal,Mobile Banking,Chennai,14250,30000,Pending
+TXN0011,2026-05-07,CUST011,Savings,Deposit,Net Banking,Bengaluru,15625,60800,Completed
+TXN0012,2026-06-10,CUST012,Current,Withdrawal,POS,Delhi,17000,29100,Failed
+TXN0013,2026-01-13,CUST013,Salary,Transfer,,Pune,18375,28650,Completed
+TXN0014,2026-02-16,CUST014,Savings,Bill Payment,ATM,Kolkata,19750,28200,Completed
+TXN0015,2026-03-19,CUST015,Current,ATM Withdrawal,UPI,Hyderabad,21125,27750,Completed
+TXN0016,2026-04-22,CUST001,Savings,Deposit,Mobile Banking,Mumbai,22500,72300,Pending
+TXN0017,2026-05-25,CUST002,Current,Withdrawal,Net Banking,Chennai,23875,26850,Completed
+TXN0018,2026-06-01,CUST003,Salary,Transfer,POS,Bengaluru,750,50900,Failed
+TXN0019,2026-01-04,CUST004,Savings,Bill Payment,Branch,Delhi,2125,50450,Completed
+TXN0020,2026-02-07,CUST005,Current,ATM Withdrawal,ATM,Pune,3500,50000,Completed
+TXN0021,2026-03-10,CUST006,Savings,Deposit,UPI,Kolkata,4875,59300,Completed
+TXN0022,2026-04-13,CUST007,Current,Withdrawal,Mobile Banking,Hyderabad,6250,49100,Pending
+TXN0023,2026-05-16,CUST008,Salary,Transfer,Net Banking,Mumbai,7625,48650,Completed
+TXN0024,2026-06-19,CUST009,Savings,Bill Payment,POS,Chennai,9000,48200,Failed
+TXN0025,2026-01-22,CUST010,Current,ATM Withdrawal,Branch,Bengaluru,10375,47750,Completed
+TXN0026,2026-02-25,CUST011,Savings,Deposit,ATM,Delhi,11750,70800,Completed
+TXN0027,2026-03-01,CUST012,Current,Withdrawal,UPI,Pune,13125,46850,Completed
+TXN0028,2026-04-04,CUST013,Salary,Transfer,Mobile Banking,,14500,46400,Pending
+TXN0029,2026-05-07,CUST014,Savings,Bill Payment,Net Banking,Hyderabad,15875,45950,Completed
+TXN0030,2026-06-10,CUST015,Current,ATM Withdrawal,POS,Mumbai,17250,45500,Failed
+TXN0031,2026-01-13,CUST001,Savings,Deposit,Branch,Chennai,18625,82300,Completed
+TXN0032,2026-02-16,CUST002,Current,Withdrawal,ATM,Bengaluru,20000,44600,Completed
+TXN0033,2026-03-19,CUST003,Salary,Transfer,UPI,Delhi,21375,44150,Completed
+TXN0034,2026-04-22,CUST004,Savings,Bill Payment,Mobile Banking,Pune,22750,43700,Pending
+TXN0035,2026-05-25,CUST005,Current,ATM Withdrawal,Net Banking,Kolkata,24125,43250,Completed
+TXN0036,2026-06-01,CUST006,Savings,Deposit,POS,Hyderabad,1000,69300,Failed
+TXN0037,2026-01-04,CUST007,Current,Withdrawal,,Mumbai,2375,66850,Completed
+TXN0038,2026-02-07,CUST008,Salary,Transfer,ATM,Chennai,3750,66400,Completed
+TXN0039,2026-03-10,CUST009,Savings,Bill Payment,UPI,Bengaluru,5125,65950,Completed
+TXN0040,2026-04-13,CUST010,Current,ATM Withdrawal,Mobile Banking,Delhi,6500,65500,Pending
+TXN0041,2026-05-16,CUST011,Savings,Deposit,Net Banking,Pune,7875,80800,Completed
+TXN0042,2026-06-19,CUST012,Current,Withdrawal,POS,Kolkata,9250,64600,Failed
+TXN0043,2026-01-22,CUST013,Salary,Transfer,Branch,Hyderabad,10625,64150,Completed
+TXN0044,2026-02-25,CUST014,Savings,Bill Payment,ATM,Mumbai,12000,63700,Completed
+TXN0045,2026-03-01,CUST015,Current,ATM Withdrawal,UPI,Chennai,13375,63250,Completed
+TXN0046,2026-04-04,CUST001,Savings,Deposit,Mobile Banking,,14750,92300,Pending
+TXN0047,2026-05-07,CUST002,Current,Withdrawal,Net Banking,Delhi,16125,62350,Completed
+TXN0048,2026-06-10,CUST003,Salary,Transfer,POS,Pune,17500,61900,Failed
+TXN0049,2026-01-13,CUST004,Savings,Bill Payment,Branch,Kolkata,18875,61450,Completed
+TXN0050,2026-02-16,CUST005,Current,ATM Withdrawal,ATM,Hyderabad,20250,61000,Completed
