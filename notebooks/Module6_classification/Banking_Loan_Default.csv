@@ -1,0 +1,101 @@
+age,monthly_income_inr,employment_type,years_employed,education_level,marital_status,dependents,residence_type,years_at_address,loan_amount_inr,loan_term_months,loan_purpose,existing_loans,monthly_debt_payments_inr,credit_score,late_payments_last_12m,savings_balance_inr,account_tenure_years,has_guarantor,loan_default
+45,44000,Contract,0,Postgraduate,Single,4,Family,23,1370000,12,Education,2,38000,714,1,75000,16,Yes,1
+28,70000,Salaried,4,Graduate,Married,0,Rented,10,990000,12,Education,0,39000,734,0,85000,5,No,1
+31,154000,Self-employed,0,High school,Single,0,Family,12,440000,24,Vehicle,1,26000,491,2,335000,1,No,1
+43,152000,Salaried,8,High school,Single,4,Family,21,890000,12,Business,2,17000,782,2,775000,6,Yes,0
+35,116000,Salaried,3,High school,Married,4,Family,1,950000,60,Education,3,69000,547,0,425000,11,No,1
+56,43000,Salaried,26,High school,Single,2,Owned,14,250000,12,Business,0,29000,677,0,140000,10,No,0
+47,130000,Salaried,18,Postgraduate,Married,3,Owned,13,1460000,36,Home improvement,0,57000,840,3,65000,7,Yes,0
+42,76000,Salaried,6,Postgraduate,Single,3,Rented,7,860000,12,Medical,2,36000,675,3,180000,4,No,1
+55,96000,Salaried,22,Postgraduate,Married,3,Rented,5,1360000,48,Business,2,54000,564,0,445000,6,Yes,1
+61,129000,Contract,14,Graduate,Married,2,Rented,23,1030000,36,Business,3,47000,638,2,705000,17,Yes,1
+37,119000,Contract,0,Graduate,Single,1,Family,7,1420000,48,Business,0,33000,728,0,555000,0,No,0
+37,93000,Salaried,7,Graduate,Single,0,Family,3,1260000,36,Vehicle,0,2000,747,0,55000,9,No,0
+50,74000,Contract,14,High school,Married,1,Rented,14,1200000,24,Home improvement,1,58000,821,1,590000,9,Yes,0
+58,52000,Contract,0,High school,Married,2,Rented,23,430000,24,Education,1,38000,671,1,715000,16,Yes,1
+43,118000,Self-employed,0,High school,Married,2,Rented,15,1570000,24,Business,2,16000,528,0,85000,11,Yes,0
+45,134000,Self-employed,0,Postgraduate,Single,0,Family,23,930000,48,Home improvement,2,63000,622,1,550000,9,No,0
+49,67000,Self-employed,25,Postgraduate,Married,0,Rented,8,950000,60,Personal,2,55000,779,0,310000,6,No,1
+32,42000,Self-employed,6,Graduate,Married,1,Rented,14,1860000,24,Vehicle,1,18000,515,2,585000,8,No,1
+41,136000,Self-employed,0,Postgraduate,Married,2,Owned,0,650000,36,Vehicle,2,23000,644,1,150000,11,No,1
+55,44000,Salaried,2,Graduate,Married,1,Owned,25,570000,36,Business,1,20000,554,0,595000,3,No,0
+34,36000,Self-employed,5,Graduate,Married,3,Rented,1,1160000,12,Education,1,8000,593,1,615000,8,No,0
+40,101000,Salaried,11,High school,Single,2,Rented,10,1830000,24,Home improvement,1,47000,730,3,435000,11,Yes,1
+45,143000,Contract,25,Graduate,Single,2,Rented,13,1560000,48,Home improvement,0,28000,724,0,745000,18,No,0
+52,147000,Salaried,22,Graduate,Single,3,Owned,21,1910000,48,Vehicle,1,13000,646,0,115000,1,Yes,0
+49,68000,Self-employed,4,High school,Married,0,Owned,9,420000,48,Business,0,0,646,0,45000,14,Yes,1
+53,32000,Salaried,11,Graduate,Married,3,Family,16,1080000,48,Medical,2,23000,722,0,280000,1,Yes,0
+23,33000,Salaried,4,Graduate,Single,2,Owned,1,1950000,60,Personal,1,7000,721,0,410000,1,Yes,0
+34,100000,Salaried,12,Graduate,Married,0,Rented,8,330000,48,Vehicle,1,9000,739,4,380000,12,No,0
+39,95000,Self-employed,20,High school,Married,2,Rented,7,150000,60,Vehicle,2,26000,645,0,470000,12,No,0
+58,58000,Self-employed,11,High school,Married,4,Owned,13,1710000,36,Medical,1,41000,833,1,565000,3,No,0
+54,84000,Salaried,0,Graduate,Married,3,Owned,22,1520000,48,Medical,0,36000,560,1,435000,7,No,1
+59,116000,Contract,6,Postgraduate,Single,4,Owned,24,230000,36,Medical,0,40000,538,1,70000,6,Yes,1
+50,107000,Salaried,28,High school,Married,3,Owned,15,280000,36,Home improvement,1,38000,667,4,315000,18,No,1
+59,136000,Contract,5,Graduate,Married,0,Rented,15,1020000,36,Business,1,61000,721,1,200000,14,No,1
+33,127000,Contract,11,Graduate,Married,1,Rented,3,1460000,36,Vehicle,2,18000,602,0,205000,6,No,1
+23,97000,Contract,2,Postgraduate,Married,0,Family,0,1480000,48,Personal,2,60000,713,0,295000,0,No,1
+46,82000,Salaried,17,High school,Married,4,Family,24,1660000,36,Business,1,47000,734,2,525000,14,Yes,1
+61,151000,Contract,4,Postgraduate,Single,3,Owned,17,770000,48,Personal,2,47000,706,2,275000,0,Yes,0
+54,66000,Salaried,30,High school,Single,2,Owned,5,990000,12,Medical,0,50000,532,2,245000,13,No,1
+50,61000,Salaried,29,High school,Married,3,Family,10,80000,12,Education,1,17000,563,0,455000,15,No,1
+30,74000,Salaried,11,Graduate,Married,3,Rented,6,1930000,12,Vehicle,3,26000,565,4,65000,9,Yes,1
+60,69000,Self-employed,25,Postgraduate,Single,0,Rented,8,1820000,36,Medical,1,35000,669,0,550000,15,Yes,1
+33,37000,Self-employed,14,Postgraduate,Single,4,Owned,7,120000,60,Personal,1,3000,628,0,655000,13,Yes,0
+60,90000,Self-employed,17,Graduate,Married,1,Rented,5,80000,12,Education,0,68000,717,2,645000,13,Yes,0
+55,153000,Salaried,10,High school,Single,0,Owned,5,1660000,12,Personal,0,30000,618,0,605000,11,Yes,1
+43,21000,Salaried,14,Graduate,Single,3,Rented,15,1500000,48,Vehicle,0,1000,548,0,450000,4,No,1
+38,153000,Salaried,8,Postgraduate,Married,2,Family,9,1680000,12,Business,3,47000,831,0,695000,2,Yes,0
+51,39000,Salaried,24,High school,Single,0,Family,12,190000,24,Education,0,6000,608,0,750000,11,Yes,0
+57,41000,Self-employed,2,Postgraduate,Single,2,Family,3,1660000,24,Business,0,25000,685,1,205000,6,Yes,1
+49,152000,Salaried,6,High school,Married,0,Rented,4,190000,60,Business,1,50000,796,0,525000,4,Yes,0
+25,116000,Salaried,0,High school,Single,1,Owned,0,1450000,36,Medical,3,27000,657,0,450000,6,Yes,0
+31,36000,Self-employed,0,Graduate,Married,1,Rented,7,640000,24,Vehicle,1,16000,732,4,700000,4,Yes,1
+56,29000,Self-employed,17,Graduate,Married,3,Rented,17,400000,12,Education,1,7000,773,0,690000,9,Yes,1
+23,99000,Contract,1,Postgraduate,Single,1,Rented,0,1650000,12,Medical,0,51000,621,0,35000,3,No,1
+44,65000,Salaried,15,Postgraduate,Married,4,Family,18,1370000,60,Business,1,22000,600,2,50000,7,No,1
+41,126000,Salaried,6,High school,Single,4,Owned,14,1200000,36,Vehicle,2,41000,800,0,315000,0,Yes,0
+23,35000,Self-employed,0,Postgraduate,Married,1,Owned,3,800000,24,Education,1,28000,788,1,645000,0,No,0
+54,44000,Self-employed,6,Postgraduate,Single,0,Rented,3,1310000,24,Vehicle,1,35000,580,1,720000,5,Yes,1
+56,53000,Salaried,18,Postgraduate,Married,0,Owned,14,350000,48,Business,0,35000,680,0,580000,0,Yes,1
+32,53000,Salaried,6,Graduate,Single,4,Owned,9,150000,12,Business,0,11000,688,0,135000,4,No,1
+61,143000,Self-employed,18,Graduate,Single,4,Family,5,120000,48,Business,1,47000,629,2,130000,5,No,1
+53,38000,Self-employed,22,High school,Married,4,Rented,25,420000,60,Vehicle,2,31000,747,0,450000,4,No,0
+22,20000,Salaried,3,Postgraduate,Married,2,Family,4,1940000,48,Home improvement,1,7000,553,0,125000,1,Yes,0
+26,117000,Contract,0,High school,Single,1,Owned,7,1540000,12,Personal,0,52000,673,2,750000,5,No,0
+50,119000,Salaried,27,High school,Married,2,Family,0,1130000,24,Personal,0,27000,612,0,380000,9,No,1
+53,113000,Salaried,20,Postgraduate,Married,0,Owned,7,880000,60,Personal,0,15000,623,0,730000,18,Yes,0
+45,117000,Self-employed,20,High school,Married,4,Family,17,100000,60,Education,2,23000,831,0,660000,10,Yes,0
+22,22000,Self-employed,1,Graduate,Married,3,Family,1,690000,48,Business,0,17000,754,1,715000,0,Yes,1
+47,45000,Contract,5,Postgraduate,Single,0,Rented,4,580000,36,Vehicle,1,4000,805,0,630000,17,No,1
+44,143000,Salaried,11,Postgraduate,Single,1,Rented,24,850000,36,Medical,1,14000,528,1,505000,16,Yes,1
+61,151000,Self-employed,30,Postgraduate,Married,0,Family,11,1420000,36,Vehicle,0,65000,706,0,575000,9,No,0
+28,141000,Salaried,2,High school,Married,1,Family,1,1250000,12,Home improvement,3,20000,788,0,635000,9,Yes,0
+56,68000,Salaried,12,Postgraduate,Single,4,Rented,14,360000,36,Personal,2,23000,559,1,590000,1,No,1
+48,144000,Self-employed,14,Postgraduate,Single,0,Family,17,1430000,36,Medical,0,41000,583,2,480000,3,Yes,1
+23,105000,Salaried,1,Graduate,Married,0,Family,2,280000,60,Home improvement,1,6000,564,1,715000,5,Yes,1
+24,72000,Self-employed,4,Graduate,Single,1,Rented,5,70000,48,Business,0,36000,628,0,230000,0,Yes,0
+55,125000,Salaried,20,Graduate,Single,3,Owned,11,980000,24,Medical,1,3000,527,0,205000,8,Yes,0
+35,64000,Salaried,0,Graduate,Married,0,Owned,10,100000,60,Business,0,27000,669,1,570000,13,Yes,1
+45,55000,Salaried,2,High school,Married,3,Owned,22,980000,48,Business,0,7000,658,0,650000,9,Yes,0
+42,116000,Salaried,18,High school,Single,1,Rented,11,1960000,24,Medical,1,63000,511,3,35000,5,No,1
+35,151000,Self-employed,3,Graduate,Single,0,Owned,0,1850000,36,Education,0,63000,483,2,725000,13,No,1
+46,76000,Self-employed,18,Postgraduate,Single,3,Owned,7,1280000,12,Business,0,55000,484,1,555000,5,Yes,1
+26,29000,Contract,5,Graduate,Single,3,Owned,7,1740000,60,Education,0,18000,620,1,605000,4,Yes,1
+26,49000,Salaried,4,Postgraduate,Married,2,Family,2,1200000,60,Education,1,13000,629,0,0,5,Yes,0
+47,58000,Salaried,0,High school,Married,0,Rented,20,60000,24,Home improvement,0,52000,694,2,530000,4,No,1
+32,78000,Self-employed,8,High school,Married,0,Family,6,210000,24,Home improvement,1,53000,546,1,65000,13,No,1
+39,22000,Self-employed,4,Graduate,Married,3,Owned,16,1030000,48,Business,2,6000,504,1,470000,16,No,1
+55,32000,Salaried,11,Graduate,Single,1,Owned,6,190000,24,Personal,2,14000,738,1,480000,19,No,0
+42,56000,Salaried,3,Postgraduate,Married,2,Rented,12,1630000,12,Personal,1,1000,607,0,335000,7,No,1
+40,28000,Salaried,5,High school,Single,2,Family,0,1410000,24,Medical,0,23000,524,3,700000,12,Yes,1
+53,51000,Contract,3,Postgraduate,Married,3,Rented,13,530000,60,Home improvement,1,22000,827,3,190000,10,Yes,0
+28,39000,Contract,2,Graduate,Married,1,Family,1,1760000,48,Education,2,32000,617,1,225000,3,Yes,1
+32,40000,Salaried,13,Graduate,Single,0,Rented,7,1810000,24,Education,1,12000,488,0,480000,3,Yes,0
+29,25000,Salaried,10,Postgraduate,Married,1,Owned,0,1620000,48,Education,0,9000,714,1,110000,9,Yes,0
+52,146000,Salaried,17,Graduate,Single,0,Rented,4,1860000,24,Home improvement,2,69000,743,0,60000,2,Yes,0
+27,121000,Self-employed,5,High school,Single,4,Rented,5,1670000,60,Medical,3,68000,589,0,755000,7,No,1
+57,32000,Salaried,9,Postgraduate,Single,3,Family,17,530000,60,Personal,1,14000,657,0,265000,13,No,1
+49,132000,Self-employed,15,Postgraduate,Single,1,Owned,5,680000,12,Vehicle,0,5000,740,1,325000,8,No,0
+23,57000,Self-employed,4,Postgraduate,Married,3,Owned,2,450000,36,Home improvement,1,43000,497,0,130000,5,No,1
+43,95000,Self-employed,14,High school,Single,1,Family,3,790000,48,Home improvement,1,40000,799,2,195000,18,No,0
