@@ -1,0 +1,1001 @@
+application_id,applicant_age,annual_income_inr,loan_amount_inr,loan_term_months,credit_score,existing_emis_inr,employment_years,missed_payments_12m,credit_utilization_pct,savings_balance_inr,property_owner,employment_type,loan_purpose,residence_type,education_level,dependents,previous_loans,channel,default_next_12m
+01000001,43,1284331,1328716,47,605,55225,15,3,7,69804,Yes,Contract,Home improvement,Rented,School,5,1,Online,1
+01000002,56,1798166,1526367,0,577,72964,20,6,71,698777,No,Contract,Education,Family,Postgraduate,0,4,Agent,0
+01000003,68,491716,1244017,18,827,22772,20,7,87,1071749,No,Contract,Home improvement,Rented,Graduate,1,9,Agent,1
+01000004,31,591318,1143363,8,757,70027,14,4,45,61775,No,Contract,Personal,Family,School,1,0,Agent,1
+01000005,51,500491,3133599,33,697,56500,3,0,70,156983,Yes,Salaried,Personal,Rented,Graduate,3,7,Branch,1
+01000006,57,1316402,985660,60,815,45119,16,0,48,245559,Yes,Contract,Vehicle,Rented,Graduate,1,2,Branch,0
+01000007,23,2617402,2548979,3,664,36927,17,1,83,898299,Yes,Contract,Personal,Rented,School,4,4,Online,0
+01000008,57,2576693,1086386,62,605,22311,9,6,16,242899,No,Salaried,Home improvement,Owned,School,1,10,Online,0
+01000009,34,2006821,1826987,75,675,42256,3,3,15,1136782,Yes,Contract,Vehicle,Family,Postgraduate,2,0,Agent,1
+01000010,40,527769,1217542,69,533,62710,10,7,6,617321,Yes,Contract,Personal,Rented,School,2,2,Agent,0
+01000011,65,2701288,1537363,28,736,62618,9,7,14,1166758,No,Self-employed,Education,Owned,Postgraduate,3,8,Branch,1
+01000012,25,2041617,2584410,48,818,45429,24,4,85,950483,Yes,Contract,Personal,Family,Postgraduate,2,9,Branch,1
+01000013,49,2016491,1659644,21,554,28480,14,6,14,815254,Yes,Contract,Vehicle,Owned,Graduate,1,7,Online,1
+01000014,63,1065919,2620039,18,602,72608,6,4,49,118473,Yes,Self-employed,Home improvement,Rented,Graduate,4,10,Branch,1
+01000015,69,2383965,216560,56,846,62754,7,1,45,345433,No,Salaried,Vehicle,Family,Graduate,3,0,Online,0
+01000016,64,337546,1010173,28,585,38136,16,4,20,226358,Yes,Self-employed,Personal,Owned,Postgraduate,5,1,Agent,0
+01000017,61,2861422,1328958,21,693,7288,22,6,33,927413,Yes,Contract,Personal,Owned,Postgraduate,1,5,Agent,1
+01000018,29,2206659,519276,71,772,8315,25,7,14,20988,No,Self-employed,Vehicle,Rented,Postgraduate,5,9,Online,1
+01000019,47,2070208,2420546,6,845,3809,2,4,73,980728,Yes,Self-employed,Personal,Family,School,1,6,Branch,0
+01000020,26,2802892,3336293,84,711,54726,21,1,71,202377,No,Contract,Personal,Rented,Postgraduate,2,0,Agent,1
+01000021,58,2709422,2671064,30,804,55789,3,7,68,1025500,No,Self-employed,Home improvement,Rented,Graduate,4,6,Online,1
+01000022,64,2929918,3429258,14,692,74383,1,1,41,283304,No,Salaried,Vehicle,Family,School,5,1,Agent,0
+01000023,37,1403800,3139312,41,528,68529,7,2,25,548407,Yes,Salaried,Education,Rented,Postgraduate,0,1,Online,1
+01000024,36,2768455,2908244,25,627,64977,21,7,84,962498,Yes,Self-employed,Personal,Family,School,4,9,Agent,1
+01000025,34,2201091,1901630,74,685,2565,3,0,14,1043556,Yes,Salaried,Vehicle,Rented,School,4,7,Agent,1
+01000026,51,1848379,3335746,18,623,59249,7,6,35,1058797,No,Salaried,Personal,Family,Postgraduate,2,5,Branch,0
+01000027,62,1863251,772287,78,484,28658,17,2,49,211291,Yes,Self-employed,Education,Rented,Graduate,5,0,Agent,1
+01000028,41,2426955,783249,80,844,26986,24,0,46,1181578,Yes,Contract,Vehicle,Owned,Graduate,5,1,Agent,1
+01000029,32,2555417,1817063,67,660,51833,9,4,71,245256,No,Salaried,Vehicle,Owned,Graduate,3,2,Branch,1
+01000030,58,2216601,1068566,81,740,9940,5,2,21,1054128,No,Self-employed,Home improvement,Family,Graduate,0,4,Branch,0
+01000031,54,2447379,3237664,36,605,15962,8,4,55,383799,Yes,Contract,Home improvement,Rented,Postgraduate,5,3,Online,0
+01000032,25,267532,1202385,64,528,61932,17,4,91,87074,Yes,Contract,Vehicle,Rented,Graduate,0,0,Branch,0
+01000033,60,864197,2970072,49,517,66752,18,4,44,552440,No,Salaried,Home improvement,Owned,Postgraduate,5,3,Agent,0
+01000034,49,2114185,2707252,40,497,47822,25,1,78,103864,Yes,Self-employed,Personal,Family,Postgraduate,5,10,Online,0
+01000035,66,506893,959222,37,838,50649,24,1,18,349196,Yes,Salaried,Vehicle,Family,Postgraduate,2,5,Agent,1
+01000036,45,2501786,2162547,45,567,35359,22,6,80,34009,No,Salaried,Education,Rented,School,3,3,Branch,1
+01000037,62,2836565,2838165,23,756,31290,7,2,78,136457,No,Contract,Personal,Rented,Postgraduate,1,0,Online,0
+01000038,34,409802,1924056,82,698,64646,14,6,94,771754,Yes,Self-employed,Vehicle,Family,Graduate,1,6,Branch,1
+01000039,27,1908882,2985645,69,831,69017,22,6,22,1097101,No,Salaried,Education,Family,School,0,4,Online,1
+01000040,46,1481202,1574016,58,721,64067,3,4,50,346618,No,Contract,Education,Rented,Graduate,0,5,Online,1
+01000041,60,1048606,360769,57,657,70534,1,1,76,981237,Yes,Contract,Education,Owned,School,1,0,Agent,0
+01000042,65,767644,1629103,12,657,66385,18,1,22,398340,No,Salaried,Personal,Owned,Postgraduate,4,3,Branch,0
+01000043,55,1233403,725213,38,634,70802,10,3,85,677455,Yes,Salaried,Home improvement,Owned,School,0,3,Branch,0
+01000044,55,2485836,1708610,39,766,8442,7,7,70,1127826,No,Self-employed,Personal,Rented,Graduate,0,0,Agent,1
+01000045,41,2761882,957347,26,711,9974,16,5,65,402120,No,Salaried,Education,Owned,School,3,10,Agent,1
+01000046,50,2693363,1612989,52,755,46960,16,2,16,1138553,Yes,Contract,Home improvement,Rented,School,5,1,Online,0
+01000047,30,2476482,483344,47,493,27894,19,0,88,510557,Yes,Contract,Personal,Rented,School,1,9,Online,0
+01000048,63,1079368,1369759,80,551,22450,24,2,51,816221,Yes,Self-employed,Personal,Owned,School,2,2,Agent,1
+01000049,60,1084910,2288488,84,711,31557,3,1,83,1013567,No,Salaried,Vehicle,Owned,Postgraduate,4,1,Agent,0
+01000050,59,2258518,2694915,61,545,14580,3,4,84,13664,Yes,Self-employed,Personal,Owned,School,2,4,Branch,1
+01000051,61,1744159,2952301,46,486,58558,11,1,33,855223,No,Contract,Home improvement,Owned,Graduate,5,7,Online,1
+01000052,21,2405658,2074742,29,491,33064,4,4,81,1192022,No,Self-employed,Education,Family,Graduate,1,5,Agent,1
+01000053,63,938777,1435015,61,839,6981,21,4,22,709663,No,Salaried,Personal,Owned,Graduate,3,4,Agent,0
+01000054,39,1303388,2449631,32,790,57091,24,0,58,513777,No,Salaried,Education,Owned,Graduate,0,5,Online,1
+01000055,55,2941677,3009876,45,524,42516,7,0,49,1184974,No,Salaried,Personal,Owned,Postgraduate,5,6,Branch,0
+01000056,57,2945238,232518,50,577,27601,10,7,43,801776,Yes,Self-employed,Education,Rented,Postgraduate,1,5,Online,1
+01000057,56,273142,3211365,68,811,17217,7,1,29,426607,No,Contract,Personal,Owned,Postgraduate,2,9,Branch,0
+01000058,67,2165023,3305654,63,812,5769,2,6,37,383300,Yes,Self-employed,Vehicle,Family,School,0,5,Online,0
+01000059,47,2136281,2939197,52,535,49534,24,6,83,1079866,No,Contract,Home improvement,Owned,Postgraduate,0,5,Agent,1
+01000060,47,707131,2923878,63,800,4026,12,6,51,411813,Yes,Salaried,Personal,Family,Graduate,5,5,Online,1
+01000061,60,2025793,467455,48,680,10174,24,5,88,438526,Yes,Self-employed,Personal,Rented,Graduate,0,5,Online,1
+01000062,33,2961279,2756397,69,521,42604,4,1,36,587718,No,Contract,Personal,Rented,Graduate,4,4,Online,0
+01000063,57,2316645,3063334,44,544,22765,16,4,78,235747,No,Self-employed,Home improvement,Owned,Graduate,5,8,Agent,1
+01000064,37,2222704,369106,67,690,60591,1,7,31,1101130,No,Salaried,Education,Owned,Graduate,2,0,Branch,1
+01000065,57,1088030,286040,63,498,39359,4,7,81,1081746,Yes,Salaried,Personal,Owned,School,3,10,Branch,0
+01000066,30,1954779,914524,21,761,16726,21,0,14,388911,Yes,Self-employed,Home improvement,Rented,School,3,2,Branch,0
+01000067,55,772749,2874151,41,626,18969,16,0,19,669043,No,Self-employed,Home improvement,Rented,Postgraduate,4,8,Online,0
+01000068,38,1692455,829910,50,485,69010,15,0,33,1132809,No,Contract,Vehicle,Family,Graduate,0,1,Branch,1
+01000069,62,722118,1443134,26,531,33682,1,5,56,1139139,Yes,Self-employed,Home improvement,Family,School,3,4,Agent,0
+01000070,23,2480658,1772268,26,728,165,13,7,83,690826,Yes,Self-employed,Personal,Family,Postgraduate,2,5,Branch,1
+01000071,63,2560929,3310828,6,842,37708,24,5,72,1100510,No,Self-employed,Home improvement,Family,Graduate,5,5,Branch,1
+01000072,38,959540,3455621,42,557,30146,19,3,14,791057,Yes,Contract,Vehicle,Family,School,0,9,Online,1
+01000073,48,696439,574228,71,615,57205,14,3,7,72133,No,Salaried,Home improvement,Family,Graduate,0,3,Online,1
+01000074,40,600150,1340437,9,588,74653,7,5,45,491577,Yes,Salaried,Education,Rented,Postgraduate,1,2,Online,0
+01000075,21,671532,3164473,65,815,53838,20,3,73,725006,No,Self-employed,Education,Owned,Postgraduate,0,1,Online,1
+01000076,22,1190601,1903664,19,745,40600,11,2,76,1036098,No,Contract,Education,Family,Postgraduate,1,9,Branch,0
+01000077,30,2997787,492314,69,626,47976,4,3,63,1181737,Yes,Contract,Personal,Owned,Postgraduate,2,1,Online,0
+01000078,50,1622787,2386294,6,593,58255,9,2,50,286801,No,Contract,Education,Owned,School,5,2,Online,0
+01000079,49,1148044,274769,21,628,67467,13,5,11,1028744,Yes,Contract,Vehicle,Family,School,5,5,Branch,1
+01000080,50,311060,2920324,71,747,74720,23,5,4,1148670,No,Contract,Vehicle,Rented,Graduate,2,10,Branch,0
+01000081,45,283800,287155,45,556,44349,2,2,53,832640,No,Salaried,Education,Owned,Graduate,4,3,Agent,0
+01000082,26,572016,1324432,1,680,67512,5,1,31,398707,No,Salaried,Education,Rented,Postgraduate,0,1,Branch,1
+01000083,54,2972809,1001513,70,620,10481,18,4,47,135125,No,Self-employed,Vehicle,Family,Postgraduate,4,10,Branch,1
+01000084,60,2388945,2664426,69,823,54697,17,3,40,244118,No,Salaried,Personal,Family,School,3,10,Online,0
+01000085,68,2435587,944186,2,818,6362,23,0,47,797462,Yes,Self-employed,Personal,Owned,School,5,7,Branch,0
+01000086,52,1564172,113128,68,488,65292,16,7,63,179706,Yes,Self-employed,Education,Rented,Postgraduate,1,10,Agent,1
+01000087,49,952046,3211405,71,633,54404,15,5,80,873626,No,Salaried,Personal,Rented,Postgraduate,4,10,Agent,0
+01000088,51,2682172,1528826,23,722,31855,20,2,7,642492,No,Salaried,Home improvement,Rented,Postgraduate,4,8,Branch,0
+01000089,37,1245382,1707857,14,660,45590,2,7,38,858344,No,Contract,Personal,Owned,Postgraduate,5,7,Online,0
+01000090,49,585969,1366183,42,738,67289,22,2,8,1113656,Yes,Self-employed,Personal,Owned,Postgraduate,4,10,Online,0
+01000091,45,2569382,2705232,52,778,42619,11,0,62,1034501,Yes,Contract,Vehicle,Rented,School,5,8,Branch,1
+01000092,45,1918614,887675,22,695,50634,3,2,38,485290,No,Salaried,Personal,Family,Postgraduate,3,10,Branch,0
+01000093,49,1561486,2847830,19,640,3369,25,2,52,305968,No,Salaried,Education,Rented,School,0,7,Online,0
+01000094,41,2139705,1730102,62,629,53864,8,5,17,1001428,Yes,Self-employed,Personal,Family,Graduate,5,7,Agent,1
+01000095,69,1977198,604776,54,639,54971,12,2,62,874449,No,Contract,Vehicle,Rented,Postgraduate,5,2,Online,1
+01000096,23,1931891,953219,68,825,33662,12,5,62,571192,Yes,Self-employed,Home improvement,Family,Postgraduate,3,8,Agent,1
+01000097,34,897495,1856100,29,792,59111,6,4,11,332564,No,Contract,Home improvement,Family,School,3,9,Online,0
+01000098,38,2027470,1097800,80,542,13126,16,2,24,1137021,No,Self-employed,Home improvement,Rented,Graduate,2,0,Branch,1
+01000099,43,1635383,2138089,11,785,64955,17,3,29,445527,Yes,Self-employed,Home improvement,Family,Postgraduate,2,2,Agent,0
+01000100,36,1220892,1667442,5,677,5103,16,7,70,904273,No,Salaried,Education,Family,School,4,3,Online,0
+01000101,37,2274477,2677569,71,686,28424,3,5,48,696327,Yes,Contract,Education,Family,Postgraduate,4,2,Branch,1
+01000102,51,2104736,2615722,16,660,14475,9,5,65,29477,No,Salaried,Vehicle,Family,School,1,7,Branch,1
+01000103,54,1039409,1823296,18,559,66944,1,1,68,684002,No,Salaried,Home improvement,Owned,Graduate,0,10,Online,0
+01000104,29,1781303,1819886,7,516,53672,18,1,77,728263,Yes,Salaried,Home improvement,Rented,School,2,6,Online,1
+01000105,23,697617,439627,48,766,60951,2,7,27,738810,No,Self-employed,Home improvement,Rented,Postgraduate,2,9,Online,1
+01000106,34,1132572,1262248,34,721,38369,23,2,46,610138,Yes,Self-employed,Personal,Owned,School,0,3,Online,1
+01000107,29,1841139,3284537,47,818,25606,0,7,59,494989,No,Contract,Vehicle,Rented,School,0,7,Branch,0
+01000108,41,2328460,2406041,18,666,57441,22,6,57,666522,No,Self-employed,Education,Owned,School,4,9,Agent,1
+01000109,53,1827299,1269751,12,636,9130,11,6,81,1188226,No,Salaried,Personal,Owned,School,2,8,Branch,1
+01000110,58,1805538,2741296,7,787,13088,20,5,8,617156,No,Self-employed,Home improvement,Owned,Graduate,4,7,Branch,1
+01000111,31,341633,588633,78,499,50277,24,0,9,20913,No,Contract,Personal,Rented,Graduate,2,5,Agent,1
+01000112,33,1622826,804766,83,558,74423,8,7,9,1117376,No,Salaried,Education,Rented,Postgraduate,5,7,Agent,1
+01000113,68,985717,3260299,74,754,53807,18,6,48,198613,Yes,Salaried,Home improvement,Owned,Postgraduate,1,2,Branch,1
+01000114,26,1386719,1197570,60,673,5864,25,2,60,137625,No,Self-employed,Education,Rented,Graduate,2,6,Branch,1
+01000115,24,317103,615475,4,609,32565,20,3,58,992118,Yes,Contract,Home improvement,Owned,School,2,1,Online,1
+01000116,32,2737248,120726,37,782,57794,25,0,23,540045,No,Self-employed,Home improvement,Family,Postgraduate,3,4,Agent,0
+01000117,26,1937527,3004211,77,611,53951,9,4,12,854945,No,Contract,Personal,Owned,School,2,9,Agent,0
+01000118,21,1699005,2869514,21,542,15636,21,6,67,532213,No,Contract,Home improvement,Rented,School,1,3,Branch,1
+01000119,47,1801032,2984320,84,828,11970,1,1,29,486059,No,Contract,Personal,Owned,Graduate,3,3,Agent,1
+01000120,29,1586140,2572206,73,591,21489,4,1,69,991943,No,Salaried,Vehicle,Rented,Postgraduate,2,9,Online,0
+01000121,62,1853490,1246715,19,802,54313,2,2,41,869750,Yes,Contract,Education,Owned,Postgraduate,5,1,Online,0
+01000122,36,794826,1742092,26,569,67683,22,4,75,565628,No,Contract,Home improvement,Rented,Graduate,3,1,Online,0
+01000123,35,955294,1075710,41,776,41727,22,7,65,133048,Yes,Contract,Education,Family,Graduate,3,1,Online,1
+01000124,60,2520016,2063906,5,841,70710,19,5,58,605518,No,Self-employed,Vehicle,Rented,Graduate,2,9,Agent,0
+01000125,46,494662,2977627,27,481,51131,1,2,91,303582,No,Salaried,Education,Family,School,0,5,Branch,1
+01000126,46,1853199,786782,62,650,9106,9,7,64,881610,Yes,Self-employed,Personal,Owned,Graduate,3,1,Branch,1
+01000127,27,998872,1834519,13,790,23499,15,5,39,766038,No,Self-employed,Home improvement,Rented,Graduate,5,5,Online,1
+01000128,36,1229472,555777,64,676,72024,14,1,4,455947,No,Salaried,Education,Family,Graduate,5,4,Branch,0
+01000129,39,2972473,1502286,5,644,11044,19,6,38,944403,Yes,Salaried,Vehicle,Family,Postgraduate,4,0,Branch,1
+01000130,56,730937,2295205,48,526,70637,16,2,74,285724,Yes,Contract,Education,Family,Graduate,0,1,Branch,0
+01000131,57,1653016,765222,31,629,50611,14,2,40,160726,No,Contract,Vehicle,Owned,Postgraduate,2,6,Branch,1
+01000132,32,748066,279765,40,490,4940,25,5,4,734387,Yes,Salaried,Education,Rented,Postgraduate,0,4,Branch,1
+01000133,50,308537,1197012,32,757,49137,12,6,66,91120,No,Self-employed,Personal,Owned,Graduate,2,10,Branch,1
+01000134,25,1502396,3027514,18,730,29028,23,3,45,447328,Yes,Contract,Personal,Rented,Graduate,2,8,Online,0
+01000135,37,1306159,2622711,31,621,4732,7,7,88,655509,Yes,Contract,Vehicle,Owned,Graduate,3,6,Online,1
+01000136,22,2332807,2544179,56,807,30984,21,0,10,454927,No,Self-employed,Vehicle,Rented,School,3,7,Branch,1
+01000137,27,664813,1479847,14,694,23946,16,1,23,402227,Yes,Self-employed,Vehicle,Family,Graduate,4,10,Branch,1
+01000138,21,571966,1800976,84,496,29778,11,5,29,668189,No,Self-employed,Education,Family,Postgraduate,5,7,Branch,0
+01000139,25,1566583,3112097,17,654,27804,9,2,15,962979,Yes,Contract,Personal,Rented,School,4,4,Branch,0
+01000140,42,1213692,2856111,63,749,23104,17,4,59,1060160,No,Contract,Vehicle,Rented,School,3,10,Branch,1
+01000141,25,345212,1066946,17,836,22580,10,0,48,1161936,No,Self-employed,Home improvement,Family,School,3,9,Online,0
+01000142,63,444126,2833233,19,661,42761,23,2,41,17875,No,Self-employed,Personal,Family,Graduate,1,6,Online,1
+01000143,23,2197502,2134637,53,574,11490,21,1,9,115495,Yes,Self-employed,Home improvement,Owned,Postgraduate,3,9,Branch,1
+01000144,22,2635537,1574519,44,840,53515,11,6,53,780931,Yes,Contract,Education,Owned,Graduate,2,6,Branch,0
+01000145,36,658666,3253834,55,673,24969,0,1,82,1014542,Yes,Contract,Vehicle,Rented,School,3,2,Branch,1
+01000146,23,1634219,2355287,56,701,13510,11,1,11,919419,No,Contract,Home improvement,Owned,School,5,6,Online,0
+01000147,30,910124,2857843,41,485,70284,17,1,42,269008,No,Salaried,Vehicle,Rented,Graduate,5,9,Online,0
+01000148,54,252474,1578449,83,632,25810,1,7,65,757152,No,Self-employed,Education,Rented,School,4,1,Online,0
+01000149,60,586847,1237823,50,742,72839,0,2,30,1118749,Yes,Salaried,Home improvement,Rented,Postgraduate,0,4,Branch,0
+01000150,60,2240627,393407,70,840,50123,19,1,10,1099850,Yes,Contract,Vehicle,Owned,School,5,10,Branch,0
+01000151,31,2172496,1939185,22,500,54583,11,2,11,551409,Yes,Self-employed,Education,Family,School,2,8,Agent,1
+01000152,34,581454,1306102,55,842,27314,22,4,62,936460,Yes,Self-employed,Vehicle,Rented,Postgraduate,3,3,Branch,1
+01000153,51,1801101,210971,47,629,50683,4,6,14,837327,Yes,Contract,Vehicle,Family,Postgraduate,0,5,Online,0
+01000154,35,1827925,3328790,34,623,18789,7,5,12,996810,Yes,Salaried,Vehicle,Owned,Graduate,2,5,Agent,0
+01000155,29,2661233,3415493,30,742,32074,24,0,77,778496,Yes,Contract,Home improvement,Rented,Postgraduate,2,0,Agent,0
+01000156,40,1656514,641000,7,629,7398,13,4,49,541439,No,Salaried,Vehicle,Owned,Postgraduate,4,5,Agent,0
+01000157,52,1401861,2220447,8,527,59199,21,4,8,773704,No,Salaried,Personal,Rented,School,3,0,Branch,1
+01000158,29,2264259,1875342,14,596,69764,25,2,58,481400,No,Salaried,Education,Owned,Postgraduate,4,6,Agent,1
+01000159,46,1785870,1928011,53,780,21972,2,6,68,984106,Yes,Salaried,Home improvement,Owned,Graduate,5,9,Branch,0
+01000160,42,894941,2262382,38,789,28982,22,7,39,859664,No,Self-employed,Vehicle,Rented,Graduate,5,7,Branch,1
+01000161,53,283149,819259,21,671,57161,24,1,29,274162,No,Contract,Home improvement,Family,Postgraduate,5,9,Online,0
+01000162,30,1102458,1608318,82,658,38168,25,3,59,955379,No,Salaried,Vehicle,Rented,Postgraduate,1,9,Branch,1
+01000163,32,2546398,3420181,21,490,21374,17,6,18,754482,Yes,Self-employed,Home improvement,Family,School,3,5,Branch,1
+01000164,31,1784626,3269589,22,785,5945,12,0,38,1016596,Yes,Contract,Vehicle,Rented,Postgraduate,1,4,Branch,0
+01000165,42,1600204,2724412,54,486,4864,24,0,59,211857,Yes,Salaried,Education,Owned,School,0,5,Online,1
+01000166,41,1414331,2839868,41,523,44377,22,3,6,1082708,Yes,Self-employed,Education,Family,Postgraduate,0,8,Online,0
+01000167,32,2677390,1403943,6,606,6373,0,5,95,95249,Yes,Salaried,Education,Owned,Graduate,3,4,Agent,0
+01000168,61,2955234,579239,24,824,48498,22,7,61,438544,No,Contract,Education,Owned,School,0,0,Branch,0
+01000169,61,2182441,2493558,69,812,70275,1,0,8,234985,No,Self-employed,Education,Owned,School,4,8,Online,0
+01000170,62,688400,2556797,17,774,49337,23,1,42,889971,Yes,Salaried,Home improvement,Rented,Postgraduate,2,0,Online,0
+01000171,46,716924,737141,12,656,40881,17,5,51,487479,Yes,Salaried,Home improvement,Family,Graduate,4,5,Branch,1
+01000172,59,284502,3119645,28,669,42178,17,6,50,888229,Yes,Contract,Education,Family,School,5,1,Online,1
+01000173,39,1706197,747308,14,608,35970,22,3,87,148312,Yes,Contract,Home improvement,Rented,Postgraduate,4,0,Branch,1
+01000174,39,380783,2692237,6,571,55963,4,2,55,805018,Yes,Salaried,Vehicle,Family,Postgraduate,0,3,Branch,0
+01000175,28,2723809,553477,67,790,24496,25,3,35,171236,Yes,Self-employed,Home improvement,Rented,School,1,4,Online,1
+01000176,21,1365342,1190697,30,728,17307,18,0,13,712931,Yes,Self-employed,Vehicle,Family,Graduate,5,0,Agent,1
+01000177,44,2871940,1814186,47,630,3819,23,2,45,208595,No,Self-employed,Education,Owned,Graduate,2,3,Branch,0
+01000178,54,2074451,3388376,43,493,42416,9,6,94,1142661,Yes,Salaried,Vehicle,Owned,School,2,8,Branch,0
+01000179,68,679613,2138027,17,626,32007,12,5,42,913050,Yes,Salaried,Education,Family,School,2,0,Agent,0
+01000180,62,379832,1977746,18,527,41058,25,4,25,1062861,Yes,Contract,Personal,Owned,Postgraduate,1,2,Online,0
+01000181,28,2242881,1297170,45,849,27473,25,5,55,1154964,Yes,Contract,Home improvement,Family,Postgraduate,5,9,Branch,1
+01000182,64,673675,2454865,22,564,44236,8,5,70,315389,Yes,Contract,Home improvement,Family,Postgraduate,4,3,Branch,1
+01000183,45,1084330,2245228,79,769,36066,25,3,26,351488,Yes,Contract,Home improvement,Rented,School,4,4,Branch,0
+01000184,63,2961061,1875936,70,623,11337,4,2,30,742448,Yes,Contract,Education,Family,Graduate,0,8,Agent,1
+01000185,27,1262223,1015224,20,676,43707,5,7,45,914084,No,Contract,Vehicle,Owned,School,5,8,Online,1
+01000186,45,2990219,893185,2,689,42486,24,5,38,179858,Yes,Contract,Home improvement,Family,Postgraduate,4,5,Online,0
+01000187,30,251954,551660,14,649,57898,24,5,8,259797,Yes,Self-employed,Personal,Family,Postgraduate,5,6,Online,1
+01000188,42,1142864,3397858,63,715,50468,16,3,91,919778,No,Self-employed,Personal,Rented,Graduate,2,9,Agent,0
+01000189,48,2648847,988322,84,810,9752,9,3,6,705892,Yes,Self-employed,Education,Family,Postgraduate,1,4,Agent,1
+01000190,57,1268110,1112277,29,589,53872,22,6,8,511092,Yes,Self-employed,Vehicle,Owned,Graduate,5,2,Agent,1
+01000191,23,1621220,2121591,21,521,970,14,4,43,128579,Yes,Contract,Home improvement,Owned,Postgraduate,0,8,Agent,0
+01000192,41,1385592,3236769,35,749,64536,22,2,10,761086,No,Contract,Vehicle,Rented,School,3,4,Online,1
+01000193,35,2047916,1446797,9,774,52918,16,1,48,568833,Yes,Self-employed,Personal,Owned,School,3,8,Online,0
+01000194,22,1320841,673371,49,536,62766,20,6,94,674625,Yes,Self-employed,Personal,Family,School,1,5,Agent,1
+01000195,67,2664853,2708608,4,531,5498,2,3,15,655062,No,Contract,Home improvement,Family,Postgraduate,1,4,Online,0
+01000196,40,806285,706801,35,667,13293,18,7,20,785895,Yes,Contract,Personal,Family,School,3,0,Branch,1
+01000197,46,1419331,708188,77,647,17615,11,4,72,127021,Yes,Contract,Personal,Owned,School,3,4,Agent,1
+01000198,34,1897280,1583551,9,559,956,7,3,13,316412,No,Salaried,Personal,Rented,Graduate,4,7,Agent,1
+01000199,41,1947419,671600,12,567,31550,11,0,49,784040,Yes,Salaried,Personal,Family,Graduate,5,2,Agent,0
+01000200,28,1314635,2069261,83,727,66982,16,7,78,509855,Yes,Self-employed,Home improvement,Owned,School,0,2,Branch,0
+01000201,22,261246,2880977,13,622,73454,9,7,86,61114,No,Self-employed,Vehicle,Owned,School,3,5,Online,1
+01000202,37,874952,2268445,78,674,5298,16,0,89,297184,Yes,Salaried,Home improvement,Rented,Postgraduate,2,8,Branch,1
+01000203,64,2943487,2864472,62,611,4711,9,6,34,33813,No,Contract,Vehicle,Family,School,0,9,Agent,0
+01000204,43,878628,1598576,76,531,44195,8,0,8,486703,No,Salaried,Education,Owned,School,3,1,Agent,0
+01000205,27,640602,3030424,66,788,21228,25,7,38,785325,Yes,Contract,Home improvement,Family,School,1,6,Branch,1
+01000206,31,1647216,2189714,74,514,62760,11,5,17,185973,No,Salaried,Personal,Family,Postgraduate,4,3,Branch,1
+01000207,54,287929,1076134,23,710,12622,13,0,57,546752,No,Contract,Personal,Rented,Graduate,3,2,Online,1
+01000208,25,1382403,2177446,40,612,17921,6,1,19,712708,No,Contract,Vehicle,Family,School,2,9,Online,0
+01000209,56,511927,794067,18,765,33305,10,2,86,749880,No,Self-employed,Education,Owned,Postgraduate,4,0,Online,1
+01000210,58,2986946,2810560,14,514,28579,12,1,24,407541,Yes,Contract,Personal,Owned,Postgraduate,2,3,Agent,0
+01000211,48,2200275,983555,34,766,48002,20,0,65,170936,Yes,Self-employed,Vehicle,Rented,Postgraduate,0,7,Branch,1
+01000212,54,2330210,2781694,25,826,14391,18,3,58,434333,Yes,Self-employed,Personal,Family,School,2,9,Online,0
+01000213,51,2884303,1560083,74,780,18336,15,4,90,321292,No,Self-employed,Vehicle,Family,Postgraduate,4,8,Agent,1
+01000214,45,1075714,3377771,11,796,53888,5,3,80,506868,No,Salaried,Vehicle,Rented,Graduate,1,4,Online,1
+01000215,33,2843623,1792904,20,736,47387,13,4,20,104053,Yes,Salaried,Home improvement,Family,School,3,0,Agent,0
+01000216,51,1425897,1450364,78,635,28817,2,1,19,1060070,No,Self-employed,Education,Family,School,2,5,Agent,0
+01000217,63,2687561,408550,47,584,13812,9,1,40,835110,Yes,Contract,Education,Rented,Postgraduate,4,5,Branch,0
+01000218,41,1654735,532997,29,570,73125,19,2,49,807841,Yes,Salaried,Vehicle,Family,Postgraduate,4,6,Online,0
+01000219,44,2163813,405134,84,782,23763,20,1,20,616867,Yes,Self-employed,Personal,Owned,School,3,1,Branch,1
+01000220,40,2931689,2675697,3,606,20423,1,7,53,841409,No,Self-employed,Personal,Family,Postgraduate,4,2,Online,0
+01000221,35,825408,934686,13,734,39665,1,5,50,922599,No,Contract,Education,Rented,Graduate,2,8,Agent,0
+01000222,50,1076554,424635,23,608,48278,1,4,46,532072,Yes,Contract,Education,Rented,Postgraduate,5,2,Branch,1
+01000223,67,1811879,2901697,44,584,25757,2,5,84,633597,No,Self-employed,Home improvement,Rented,School,2,7,Online,0
+01000224,21,1736039,988067,45,623,15056,23,4,33,905361,No,Contract,Home improvement,Owned,Graduate,1,0,Branch,1
+01000225,66,756135,2956582,49,516,7033,19,3,16,907419,No,Contract,Education,Owned,School,4,10,Branch,0
+01000226,26,1833308,2807162,26,734,45665,11,2,27,473898,No,Salaried,Home improvement,Owned,Graduate,5,10,Branch,1
+01000227,51,2898205,441084,36,586,45639,3,5,49,1199237,Yes,Contract,Education,Family,Postgraduate,1,0,Online,0
+01000228,21,1543899,762934,45,651,30308,16,3,32,1198591,No,Contract,Vehicle,Owned,Graduate,5,8,Agent,0
+01000229,65,2541984,2944185,71,576,53685,2,2,8,526514,No,Salaried,Vehicle,Owned,Postgraduate,5,3,Branch,1
+01000230,51,1718326,1537438,43,644,16485,6,0,86,760140,Yes,Self-employed,Personal,Family,Graduate,2,1,Agent,0
+01000231,24,475826,2972885,9,816,64782,6,3,82,688433,Yes,Contract,Education,Rented,School,3,7,Online,1
+01000232,43,2272046,586637,27,721,48335,23,1,80,809577,No,Salaried,Vehicle,Owned,Postgraduate,2,1,Online,0
+01000233,26,1580028,3376882,37,528,28003,10,6,89,266076,Yes,Contract,Education,Family,School,4,3,Agent,1
+01000234,41,2534253,813159,67,574,69917,23,3,92,276201,No,Contract,Home improvement,Family,School,3,8,Branch,1
+01000235,25,414011,1373820,13,590,7326,15,0,9,923382,Yes,Self-employed,Education,Rented,Graduate,0,7,Agent,1
+01000236,34,250507,3485931,19,644,61865,0,3,45,215423,No,Salaried,Personal,Owned,School,0,10,Online,0
+01000237,29,2759536,3316408,62,726,67360,2,1,93,28732,Yes,Salaried,Home improvement,Rented,School,0,8,Branch,1
+01000238,32,796395,125010,81,711,28351,4,2,58,1046013,Yes,Contract,Education,Owned,Postgraduate,3,1,Branch,1
+01000239,62,475331,2351016,47,808,20630,0,4,89,681236,Yes,Salaried,Education,Rented,Graduate,5,1,Agent,0
+01000240,37,2148674,3446679,75,725,32250,1,7,75,438281,Yes,Self-employed,Education,Owned,Graduate,5,10,Agent,0
+01000241,24,1600678,463847,52,543,50928,23,3,23,921334,Yes,Contract,Home improvement,Family,Postgraduate,5,0,Online,1
+01000242,42,1221072,2425403,72,649,33215,21,3,75,971440,No,Contract,Vehicle,Family,Graduate,5,2,Branch,1
+01000243,33,1147730,1899201,79,500,36259,14,3,70,188087,Yes,Salaried,Vehicle,Family,Postgraduate,0,10,Agent,0
+01000244,55,2795146,3159258,80,628,33004,15,3,25,672895,No,Self-employed,Education,Rented,Graduate,0,9,Online,0
+01000245,31,707335,126290,1,560,38954,25,0,40,1162795,No,Contract,Home improvement,Owned,School,2,10,Online,0
+01000246,31,1950199,1371871,58,676,68784,21,2,27,658910,Yes,Salaried,Vehicle,Owned,School,3,8,Agent,0
+01000247,30,2730991,3034149,71,733,34536,15,6,11,746212,Yes,Salaried,Personal,Owned,School,1,5,Online,1
+01000248,53,1101193,308474,16,838,73840,19,7,94,551431,Yes,Salaried,Education,Family,Graduate,5,0,Online,0
+01000249,46,2274992,925822,61,827,10835,7,2,31,479825,No,Contract,Education,Owned,School,3,8,Online,0
+01000250,53,2443167,1514761,39,493,21013,11,3,90,983364,Yes,Contract,Personal,Family,Graduate,2,6,Branch,0
+01000251,48,2606637,2477030,47,640,64224,6,0,26,560628,Yes,Salaried,Vehicle,Owned,School,2,1,Agent,0
+01000252,36,469545,3432740,36,623,23608,10,3,4,271274,No,Salaried,Home improvement,Family,Graduate,1,8,Online,0
+01000253,34,2557253,1039045,56,718,40048,13,7,29,198064,No,Self-employed,Education,Rented,School,4,4,Branch,1
+01000254,31,2388718,284895,42,810,40708,5,2,63,1081702,No,Salaried,Vehicle,Owned,Postgraduate,2,5,Agent,0
+01000255,60,1515886,2637806,9,634,53206,9,4,81,1087876,Yes,Contract,Home improvement,Owned,Graduate,3,6,Agent,0
+01000256,67,2795428,636898,62,680,70355,23,4,80,544994,No,Self-employed,Education,Family,Graduate,5,9,Online,1
+01000257,35,2342161,528434,74,566,54436,20,1,59,559028,No,Salaried,Vehicle,Rented,Graduate,0,9,Branch,0
+01000258,31,1932568,292476,66,800,36410,24,4,37,996268,No,Self-employed,Personal,Family,Graduate,5,0,Online,1
+01000259,43,1711870,2716151,66,598,4609,4,1,33,81489,Yes,Contract,Education,Rented,Graduate,1,9,Agent,0
+01000260,63,2630269,2924921,83,750,36086,5,3,42,604854,No,Self-employed,Vehicle,Family,Graduate,4,0,Online,0
+01000261,42,577023,1613655,71,834,48246,22,6,24,1015670,Yes,Salaried,Vehicle,Family,Graduate,5,7,Agent,0
+01000262,54,296173,2526692,83,712,73541,25,5,78,1146100,Yes,Salaried,Home improvement,Family,Graduate,5,2,Agent,1
+01000263,63,2473971,3279165,26,510,36615,18,6,85,7912,Yes,Contract,Education,Owned,Graduate,5,8,Online,0
+01000264,26,302562,916134,51,632,58110,4,0,56,397903,Yes,Self-employed,Personal,Rented,Postgraduate,3,4,Online,1
+01000265,42,2807689,1615427,30,787,40793,23,6,49,716088,No,Self-employed,Personal,Family,Postgraduate,4,2,Online,1
+01000266,32,1973621,2271802,21,815,41351,21,3,9,132360,No,Contract,Home improvement,Rented,School,2,2,Branch,1
+01000267,31,2561423,344176,52,648,27631,18,2,52,115059,Yes,Contract,Vehicle,Rented,School,4,9,Branch,0
+01000268,53,2135020,2464695,68,827,66938,11,4,48,1087680,No,Self-employed,Vehicle,Owned,Postgraduate,2,10,Branch,1
+01000269,58,2568933,2959104,43,727,27804,12,0,33,1081464,No,Salaried,Education,Rented,School,0,4,Branch,0
+01000270,52,1245424,1326023,57,533,49224,18,2,25,306782,No,Self-employed,Home improvement,Rented,Postgraduate,1,0,Online,0
+01000271,36,1866728,2558301,34,575,26957,17,2,80,685121,No,Salaried,Vehicle,Family,Postgraduate,3,0,Online,0
+01000272,36,812623,1579032,17,591,71176,14,1,70,200133,Yes,Salaried,Personal,Family,Graduate,1,6,Online,0
+01000273,38,2719429,1445990,34,519,7950,24,4,84,719724,Yes,Salaried,Personal,Owned,Postgraduate,3,0,Online,1
+01000274,52,1430003,770906,19,798,10577,17,3,14,7757,Yes,Salaried,Education,Owned,Graduate,5,0,Branch,0
+01000275,41,2737777,510570,40,816,16021,12,0,72,167041,Yes,Salaried,Vehicle,Rented,Graduate,0,2,Online,0
+01000276,40,1651519,1711666,72,748,71959,13,6,26,629406,No,Salaried,Personal,Rented,Graduate,3,3,Branch,1
+01000277,32,2328357,2652145,11,569,17330,11,1,74,949547,Yes,Contract,Vehicle,Family,School,2,8,Branch,0
+01000278,67,265755,1179345,29,576,21037,11,3,73,191796,No,Contract,Home improvement,Rented,Postgraduate,0,10,Agent,0
+01000279,33,2828742,2530007,60,497,27203,13,3,83,151590,Yes,Contract,Home improvement,Owned,School,5,5,Online,0
+01000280,51,1412669,2387154,58,508,67222,2,5,60,306281,Yes,Contract,Vehicle,Rented,Postgraduate,0,0,Branch,0
+01000281,50,1201281,3128503,26,811,29806,25,7,61,589140,No,Salaried,Education,Rented,Postgraduate,0,8,Branch,1
+01000282,61,1390876,2616863,61,849,6418,8,0,26,1112941,Yes,Contract,Vehicle,Rented,Postgraduate,0,10,Online,1
+01000283,68,2085544,2456642,33,643,45114,1,7,9,8740,No,Self-employed,Home improvement,Family,Postgraduate,1,6,Online,0
+01000284,35,656891,863051,74,643,41053,22,5,81,325449,Yes,Self-employed,Education,Family,School,2,7,Online,1
+01000285,27,2762157,2155173,68,604,41062,23,3,92,821023,No,Self-employed,Personal,Owned,Graduate,5,3,Online,1
+01000286,69,1370246,1573226,6,578,41865,22,4,42,1136887,No,Salaried,Vehicle,Owned,School,5,5,Branch,1
+01000287,33,334430,130234,38,501,59294,7,1,40,224598,No,Self-employed,Education,Owned,School,1,4,Online,0
+01000288,47,1862020,1338316,66,774,65824,5,7,53,583321,Yes,Contract,Vehicle,Rented,Graduate,2,6,Online,1
+01000289,26,937396,2561577,37,652,64896,14,4,62,1122787,No,Self-employed,Home improvement,Owned,Postgraduate,1,8,Online,1
+01000290,24,2191561,146928,3,516,5756,22,6,9,207454,Yes,Salaried,Education,Owned,Postgraduate,1,2,Agent,1
+01000291,63,1894845,1676938,34,822,16473,24,2,40,192980,No,Salaried,Personal,Family,Graduate,1,4,Branch,0
+01000292,32,1885335,1401620,75,624,10030,2,2,27,871903,No,Self-employed,Home improvement,Rented,School,1,6,Online,0
+01000293,46,2021060,2716307,56,504,2216,19,7,87,605504,Yes,Self-employed,Vehicle,Family,School,1,8,Branch,1
+01000294,40,2646113,640048,83,845,4612,4,2,94,1111857,No,Self-employed,Education,Family,Postgraduate,3,7,Branch,1
+01000295,69,382853,1312317,69,662,28270,2,5,26,446154,No,Contract,Education,Rented,Graduate,5,4,Agent,0
+01000296,59,718652,2504448,51,676,36899,14,2,61,336173,Yes,Salaried,Personal,Family,School,3,6,Branch,0
+01000297,44,1806900,1224495,29,840,25749,7,5,86,899141,No,Self-employed,Education,Rented,Postgraduate,5,9,Agent,0
+01000298,28,617674,1202411,79,626,65727,19,6,48,627913,No,Salaried,Vehicle,Rented,Graduate,1,7,Online,1
+01000299,68,600443,2495537,74,777,41731,20,2,52,539518,Yes,Self-employed,Personal,Rented,Postgraduate,1,8,Branch,1
+01000300,42,2477054,2799113,27,567,40927,13,2,23,159179,Yes,Contract,Home improvement,Owned,Graduate,2,9,Agent,1
+01000301,59,2752872,3113726,39,815,30371,6,0,92,55497,Yes,Contract,Personal,Owned,School,2,3,Agent,1
+01000302,33,1376043,2100039,71,658,57144,2,0,35,785608,Yes,Self-employed,Vehicle,Rented,School,2,4,Online,1
+01000303,43,905257,3415961,53,691,8577,3,0,38,532178,No,Salaried,Personal,Family,School,5,9,Branch,0
+01000304,45,941492,1618593,19,585,26630,1,1,32,726334,Yes,Self-employed,Home improvement,Rented,Postgraduate,4,6,Branch,0
+01000305,54,2162675,2177451,18,665,3666,21,0,44,149096,Yes,Salaried,Education,Rented,School,1,9,Branch,0
+01000306,56,668413,234506,26,640,57166,23,6,56,419019,No,Self-employed,Personal,Rented,Graduate,2,6,Branch,1
+01000307,27,2024941,1797971,25,549,3233,1,1,62,1118221,Yes,Salaried,Education,Rented,School,1,6,Agent,0
+01000308,36,733548,3498322,82,604,68028,4,1,7,1138449,Yes,Contract,Vehicle,Rented,School,0,3,Branch,1
+01000309,50,1255930,307433,55,629,65212,9,7,50,850866,Yes,Contract,Vehicle,Rented,Graduate,1,3,Agent,1
+01000310,57,1993825,1068033,77,481,7547,6,4,14,105816,No,Contract,Education,Family,Graduate,5,2,Online,0
+01000311,27,559343,1903050,77,606,62973,0,5,19,206823,Yes,Contract,Education,Family,School,4,9,Branch,1
+01000312,57,2532446,2972729,45,502,15101,7,1,9,38199,No,Self-employed,Vehicle,Owned,Graduate,0,1,Online,1
+01000313,61,2780744,1222656,23,569,59185,13,2,27,244284,No,Salaried,Personal,Owned,School,5,7,Online,0
+01000314,22,2428178,3460871,83,736,50774,1,5,10,1175290,Yes,Self-employed,Home improvement,Rented,Graduate,3,8,Online,0
+01000315,51,331872,3179226,19,551,35724,1,3,82,431434,No,Salaried,Education,Owned,Postgraduate,1,4,Branch,0
+01000316,48,1809790,817609,78,738,21055,1,2,66,321443,No,Salaried,Personal,Owned,Graduate,1,4,Agent,1
+01000317,56,727777,2441087,64,584,33187,7,3,62,230830,Yes,Salaried,Personal,Owned,School,4,4,Branch,0
+01000318,60,1685582,2704187,17,594,60901,12,7,11,1196990,Yes,Self-employed,Vehicle,Rented,School,3,7,Branch,1
+01000319,57,1558456,857101,16,755,37333,10,3,31,20020,Yes,Contract,Education,Family,Graduate,2,3,Agent,1
+01000320,24,1383334,840043,40,604,56160,17,2,86,736218,No,Salaried,Personal,Family,Graduate,4,8,Online,0
+01000321,43,519626,118829,3,529,41876,7,0,75,549056,Yes,Contract,Home improvement,Family,Postgraduate,1,6,Agent,0
+01000322,63,1907813,2919519,24,553,64637,10,0,87,202371,Yes,Contract,Vehicle,Family,Postgraduate,2,5,Agent,0
+01000323,58,894148,596810,5,822,57866,22,2,18,622322,Yes,Contract,Personal,Owned,School,0,3,Online,1
+01000324,33,2353112,486053,9,826,62230,19,1,21,655106,No,Self-employed,Education,Family,School,2,3,Online,1
+01000325,53,402332,498966,4,835,68196,0,6,94,272872,No,Salaried,Education,Rented,Postgraduate,1,1,Agent,0
+01000326,45,2839629,1147302,62,677,34101,11,7,63,681310,No,Self-employed,Personal,Family,Graduate,4,8,Agent,0
+01000327,50,2423160,1651300,18,546,44495,0,2,31,281271,No,Self-employed,Home improvement,Family,Postgraduate,3,6,Online,0
+01000328,55,969812,1523477,23,605,54939,4,0,5,695658,No,Salaried,Personal,Rented,School,5,8,Agent,0
+01000329,59,2333656,2204907,44,804,6119,4,5,26,1062281,Yes,Self-employed,Personal,Owned,Postgraduate,0,7,Agent,0
+01000330,25,498406,1118691,46,738,57170,25,6,92,1305,Yes,Salaried,Personal,Owned,Postgraduate,3,0,Online,1
+01000331,26,1292768,2724498,27,557,54301,10,7,32,757885,Yes,Salaried,Home improvement,Owned,Postgraduate,1,10,Branch,1
+01000332,38,1118332,1654742,9,486,37584,6,3,44,70916,Yes,Self-employed,Vehicle,Rented,Graduate,3,10,Online,1
+01000333,30,808906,2474011,21,801,61695,1,6,46,761662,Yes,Contract,Personal,Family,Graduate,0,6,Online,1
+01000334,33,2496457,875587,20,530,15820,2,4,14,156427,No,Self-employed,Vehicle,Family,School,2,5,Branch,0
+01000335,36,1742000,807983,21,502,19013,18,6,20,1197980,No,Salaried,Home improvement,Owned,Postgraduate,0,7,Agent,0
+01000336,46,2972110,3278598,76,728,39966,13,2,6,1066338,Yes,Contract,Personal,Family,School,1,5,Branch,1
+01000337,52,2647224,1831808,72,793,70553,10,4,84,180833,Yes,Salaried,Home improvement,Owned,Postgraduate,5,8,Agent,0
+01000338,37,1881938,3056561,9,741,41128,11,7,89,993349,No,Self-employed,Home improvement,Family,Postgraduate,1,7,Agent,0
+01000339,58,2567146,1580319,26,666,59024,3,4,61,1184499,Yes,Self-employed,Personal,Owned,Graduate,4,6,Branch,1
+01000340,58,1611394,918637,79,557,71960,1,7,4,840543,Yes,Self-employed,Home improvement,Rented,Graduate,2,1,Online,0
+01000341,69,2554379,3255287,38,841,14621,23,5,10,111409,Yes,Self-employed,Vehicle,Owned,School,0,5,Online,1
+01000342,56,1672947,159084,76,667,21303,0,1,81,603278,No,Self-employed,Personal,Rented,School,4,3,Branch,1
+01000343,48,410595,1464312,24,648,51499,23,1,43,1023468,Yes,Contract,Home improvement,Owned,Postgraduate,5,0,Online,0
+01000344,46,1762929,169193,72,650,1423,10,0,19,380733,Yes,Self-employed,Home improvement,Rented,Postgraduate,3,5,Agent,0
+01000345,37,2901913,1643478,60,665,52291,25,0,85,817363,No,Self-employed,Home improvement,Rented,Postgraduate,5,5,Branch,0
+01000346,69,2518164,2623657,77,564,45567,24,3,49,1138773,Yes,Salaried,Personal,Owned,Graduate,2,6,Agent,0
+01000347,34,1371338,2719005,32,559,35042,9,0,5,703673,No,Contract,Home improvement,Rented,Postgraduate,5,3,Agent,0
+01000348,23,1285319,1333344,1,669,40312,9,0,69,870570,Yes,Self-employed,Home improvement,Rented,School,2,8,Branch,1
+01000349,22,921263,478765,66,480,63048,22,4,57,839737,Yes,Self-employed,Personal,Rented,School,0,2,Online,1
+01000350,40,971014,3304657,9,847,50687,12,5,51,377788,Yes,Contract,Education,Owned,School,2,4,Online,1
+01000351,46,2570065,2899734,27,594,3755,0,7,79,45724,No,Contract,Home improvement,Family,Postgraduate,0,4,Online,0
+01000352,53,1810466,368404,9,699,61096,11,1,13,558907,No,Contract,Home improvement,Owned,Graduate,3,6,Branch,0
+01000353,35,786818,2267148,40,733,51603,25,5,76,613597,Yes,Self-employed,Personal,Rented,Graduate,4,1,Branch,1
+01000354,45,1843733,1697756,33,569,30586,5,0,11,1135185,Yes,Self-employed,Home improvement,Owned,Graduate,2,10,Online,0
+01000355,31,2929813,2763438,62,591,28015,16,5,24,423828,No,Contract,Vehicle,Rented,Postgraduate,1,6,Branch,1
+01000356,36,1440486,170523,42,799,68758,11,4,95,966377,Yes,Self-employed,Vehicle,Family,Graduate,1,3,Agent,1
+01000357,45,2888273,2063389,2,632,73137,2,0,21,274663,No,Salaried,Home improvement,Family,Graduate,2,0,Online,0
+01000358,28,1742701,3221417,1,487,44410,25,0,16,769743,Yes,Contract,Personal,Owned,Postgraduate,3,3,Agent,0
+01000359,42,2017167,1998652,8,742,72435,15,4,13,1058918,No,Salaried,Personal,Family,School,0,1,Agent,0
+01000360,32,1530632,2995729,21,624,11867,25,4,6,618182,Yes,Contract,Vehicle,Rented,Graduate,4,1,Online,1
+01000361,52,1739781,2343476,24,505,78,13,3,34,832941,Yes,Salaried,Personal,Rented,School,1,3,Agent,1
+01000362,59,1325652,2371503,67,499,70702,0,0,5,826880,No,Contract,Vehicle,Rented,School,5,0,Agent,0
+01000363,36,613587,384696,62,781,51442,20,5,70,277366,Yes,Salaried,Home improvement,Rented,School,4,10,Online,1
+01000364,29,822133,994314,70,494,2152,6,2,52,374390,No,Self-employed,Home improvement,Family,School,0,5,Online,0
+01000365,27,1065631,382146,56,497,4863,18,4,65,1020482,No,Contract,Vehicle,Owned,School,4,4,Online,1
+01000366,38,1932726,779721,3,740,68687,10,0,74,770589,No,Salaried,Vehicle,Owned,Postgraduate,2,6,Agent,1
+01000367,29,428582,3241417,43,677,30878,25,7,50,630571,No,Salaried,Personal,Family,Postgraduate,0,3,Agent,1
+01000368,47,1193465,2110854,21,545,41113,2,6,18,374231,Yes,Contract,Home improvement,Rented,School,3,8,Agent,1
+01000369,39,2418344,1395306,29,566,45036,25,3,83,495655,No,Contract,Home improvement,Owned,Postgraduate,3,3,Agent,0
+01000370,21,995077,1759641,50,623,44173,2,3,44,1047376,Yes,Contract,Education,Family,Postgraduate,3,2,Branch,1
+01000371,25,1779532,2758320,9,487,73417,24,2,56,128647,No,Self-employed,Home improvement,Owned,Postgraduate,2,7,Branch,1
+01000372,39,2825195,1711422,38,580,41425,17,7,89,913396,Yes,Self-employed,Education,Owned,Graduate,4,6,Branch,1
+01000373,22,2174455,2175454,36,819,17695,15,2,49,239565,No,Contract,Personal,Family,Postgraduate,0,6,Branch,0
+01000374,46,1086100,842924,33,507,14864,9,5,15,964781,No,Self-employed,Education,Family,Postgraduate,3,5,Agent,0
+01000375,64,1462652,1568063,63,806,17687,0,4,5,617344,No,Self-employed,Personal,Owned,School,4,0,Branch,1
+01000376,30,2581000,1206580,2,787,8539,3,0,66,1001662,No,Contract,Vehicle,Owned,Graduate,1,8,Branch,0
+01000377,30,1146530,105374,35,765,8627,13,3,6,165774,Yes,Contract,Vehicle,Rented,Graduate,5,4,Online,1
+01000378,46,2299929,1020192,16,740,65552,11,1,45,819213,No,Contract,Personal,Family,Graduate,5,4,Branch,0
+01000379,41,928705,599638,32,828,51679,22,7,6,1026135,No,Salaried,Home improvement,Family,Postgraduate,5,6,Agent,0
+01000380,31,2043496,1507489,78,838,18868,8,7,30,256948,Yes,Self-employed,Education,Rented,School,1,4,Branch,1
+01000381,41,562451,1199414,60,577,58573,14,3,66,574038,No,Self-employed,Home improvement,Owned,Postgraduate,4,8,Online,0
+01000382,39,1652514,3309064,55,805,15971,14,1,89,1096271,No,Contract,Personal,Owned,Postgraduate,1,10,Online,1
+01000383,53,2633102,678798,18,518,41125,11,0,63,733968,Yes,Salaried,Personal,Owned,Postgraduate,4,7,Branch,0
+01000384,61,698918,3158850,61,536,37913,11,4,31,53996,No,Salaried,Education,Family,School,1,4,Online,1
+01000385,40,370138,1550955,20,751,13025,3,6,93,312231,No,Contract,Vehicle,Rented,Graduate,2,0,Branch,1
+01000386,33,1575697,2394582,46,594,28553,11,4,68,44645,Yes,Salaried,Vehicle,Owned,Graduate,3,4,Online,0
+01000387,58,265737,988473,45,651,67969,3,7,65,1076357,Yes,Salaried,Education,Rented,Graduate,3,10,Agent,0
+01000388,46,2020704,2098980,40,665,51410,14,7,10,397987,Yes,Contract,Vehicle,Family,Postgraduate,4,10,Branch,1
+01000389,28,1759893,1804635,84,791,66624,9,3,62,831533,Yes,Self-employed,Home improvement,Rented,School,1,4,Online,0
+01000390,37,680909,2475375,29,608,33358,2,7,39,447464,No,Self-employed,Vehicle,Owned,Graduate,2,1,Branch,1
+01000391,51,1527480,2066558,41,630,69230,1,6,33,713875,No,Salaried,Home improvement,Rented,Postgraduate,1,0,Online,0
+01000392,45,1928656,1595093,39,696,32146,7,2,60,171202,Yes,Salaried,Education,Rented,Graduate,2,7,Agent,1
+01000393,42,2451291,1949140,4,841,45320,4,7,89,387806,Yes,Salaried,Personal,Rented,Graduate,5,8,Branch,1
+01000394,57,2903927,1749046,68,822,47267,5,1,84,1080572,No,Salaried,Education,Owned,Postgraduate,3,3,Branch,0
+01000395,46,2895070,2276689,82,628,71789,14,2,73,47858,Yes,Contract,Personal,Family,Postgraduate,4,4,Online,0
+01000396,38,2538105,781154,68,544,63000,10,5,44,867919,No,Contract,Education,Family,Graduate,3,4,Branch,0
+01000397,63,2858251,2501468,11,846,7568,10,7,58,416955,No,Self-employed,Education,Rented,Postgraduate,5,3,Online,1
+01000398,40,307034,2490196,54,535,11023,17,3,46,1171867,No,Contract,Home improvement,Family,Postgraduate,5,9,Branch,1
+01000399,49,1348719,3383720,30,678,46341,1,7,83,89725,Yes,Contract,Personal,Rented,Graduate,2,2,Online,1
+01000400,33,1803783,791506,22,606,8181,5,4,4,357243,No,Self-employed,Home improvement,Family,Graduate,4,3,Online,0
+01000401,50,1708869,1789462,58,558,31697,4,5,16,692225,No,Self-employed,Home improvement,Rented,Postgraduate,3,6,Agent,0
+01000402,60,2187452,3088625,7,790,50879,17,6,47,352763,No,Self-employed,Vehicle,Family,Graduate,1,5,Agent,0
+01000403,23,2396129,538806,26,502,32499,22,5,27,674128,Yes,Contract,Personal,Owned,School,1,5,Online,1
+01000404,23,2322344,206247,50,612,32021,14,7,78,635467,Yes,Contract,Education,Family,Graduate,2,5,Agent,1
+01000405,22,2986944,1586706,68,640,67293,11,3,27,250213,Yes,Salaried,Vehicle,Owned,Postgraduate,2,7,Online,1
+01000406,67,969420,684642,82,651,5156,14,2,50,429793,Yes,Self-employed,Vehicle,Owned,Postgraduate,1,0,Online,0
+01000407,28,1236661,1025935,36,631,18573,18,2,86,279683,No,Self-employed,Education,Family,Graduate,4,0,Online,1
+01000408,28,2078528,1007971,21,562,44995,17,3,45,159085,Yes,Self-employed,Education,Owned,Postgraduate,5,5,Branch,0
+01000409,51,1599233,407753,54,538,31527,5,0,81,536390,No,Contract,Vehicle,Owned,School,1,2,Online,0
+01000410,28,1722796,1623100,10,528,11095,25,3,79,331758,No,Self-employed,Home improvement,Owned,School,4,8,Branch,1
+01000411,22,2316945,2814499,30,558,14504,13,1,39,123989,Yes,Self-employed,Home improvement,Owned,School,5,10,Online,1
+01000412,69,1552860,2183265,79,544,66146,14,4,83,263877,No,Contract,Vehicle,Rented,School,0,5,Agent,0
+01000413,28,2901191,1065102,20,775,35898,7,3,93,854019,No,Contract,Home improvement,Rented,Postgraduate,0,2,Online,1
+01000414,26,1179187,2941925,10,815,15103,25,3,28,1069305,Yes,Contract,Home improvement,Owned,School,0,0,Agent,1
+01000415,44,641657,2837756,42,640,30818,12,2,86,360764,No,Contract,Vehicle,Rented,Postgraduate,0,4,Online,0
+01000416,46,552816,2961113,69,572,10413,21,1,66,153611,No,Self-employed,Personal,Rented,Postgraduate,3,1,Online,0
+01000417,27,353928,1101855,46,748,52754,14,4,29,499027,Yes,Self-employed,Home improvement,Rented,School,3,10,Agent,1
+01000418,40,1120196,2995877,81,535,27095,5,6,73,8327,Yes,Salaried,Education,Owned,Graduate,1,4,Branch,1
+01000419,48,1765010,2966677,74,845,60731,2,1,87,489718,Yes,Self-employed,Home improvement,Rented,School,2,9,Branch,1
+01000420,48,2943057,1874025,36,723,29127,22,7,32,741784,No,Salaried,Home improvement,Rented,School,4,7,Agent,0
+01000421,32,543447,342701,1,847,66765,19,2,27,546411,Yes,Self-employed,Personal,Owned,School,2,3,Agent,0
+01000422,24,787529,1323583,8,651,16114,12,0,12,1009725,No,Salaried,Personal,Rented,Graduate,0,1,Online,1
+01000423,31,254352,1939932,21,733,48009,7,6,49,1158221,Yes,Contract,Home improvement,Owned,Postgraduate,4,1,Online,0
+01000424,29,947039,1095739,38,640,51950,6,1,80,74205,No,Salaried,Vehicle,Owned,Postgraduate,2,2,Agent,0
+01000425,57,658039,793646,56,535,47805,12,3,52,20507,No,Salaried,Education,Owned,Postgraduate,5,10,Online,0
+01000426,58,2754868,3468214,65,517,56826,25,3,88,609302,No,Contract,Home improvement,Owned,School,2,5,Agent,1
+01000427,34,437468,1298801,5,850,11898,20,0,26,1036811,Yes,Salaried,Vehicle,Family,Postgraduate,2,5,Agent,0
+01000428,52,2910162,1696405,15,776,19451,23,7,21,511532,No,Salaried,Vehicle,Rented,Postgraduate,4,3,Branch,1
+01000429,53,676648,518214,24,554,71000,21,3,23,228836,Yes,Contract,Home improvement,Rented,Postgraduate,3,6,Online,0
+01000430,65,2655844,3423225,78,501,15111,22,0,18,352022,Yes,Salaried,Home improvement,Family,Graduate,0,2,Agent,1
+01000431,47,1847985,1037343,40,494,23990,20,5,21,498982,No,Self-employed,Education,Owned,Graduate,2,10,Agent,0
+01000432,36,352722,3373155,26,483,13034,16,7,66,176122,No,Salaried,Education,Family,Postgraduate,1,7,Agent,1
+01000433,27,501076,2807205,17,594,1885,24,1,51,1166123,No,Salaried,Personal,Family,School,0,9,Branch,1
+01000434,58,2026173,1993831,25,623,25619,18,7,86,803460,Yes,Salaried,Home improvement,Rented,Graduate,5,0,Branch,0
+01000435,28,505850,789594,81,555,41093,25,5,61,1165127,No,Salaried,Education,Rented,Postgraduate,3,10,Branch,1
+01000436,49,379286,1609047,24,670,48641,3,5,21,66813,No,Salaried,Vehicle,Family,Postgraduate,0,6,Agent,0
+01000437,21,2597214,1888949,60,645,50426,4,6,21,472796,Yes,Salaried,Home improvement,Family,School,1,5,Online,1
+01000438,31,627812,3164969,38,746,50549,7,7,54,483460,No,Salaried,Personal,Family,Graduate,2,7,Online,1
+01000439,48,1424937,2115090,81,528,41589,15,6,86,266267,No,Self-employed,Personal,Family,Postgraduate,5,2,Branch,1
+01000440,60,597726,1852617,43,695,67995,16,1,71,151352,Yes,Self-employed,Vehicle,Owned,Graduate,0,6,Branch,1
+01000441,41,2130550,1850429,31,809,47906,9,4,61,554299,Yes,Salaried,Home improvement,Rented,Graduate,4,8,Online,0
+01000442,57,292076,1606109,43,846,22073,20,5,45,619276,No,Self-employed,Personal,Rented,School,3,7,Agent,0
+01000443,34,741052,2617878,6,726,3368,16,6,14,653604,No,Contract,Vehicle,Family,Graduate,0,4,Agent,0
+01000444,55,2812010,3048126,11,648,55109,20,7,73,357992,Yes,Self-employed,Home improvement,Family,School,0,6,Branch,1
+01000445,22,2131898,340891,79,538,68270,9,7,5,397108,Yes,Self-employed,Personal,Family,Postgraduate,2,5,Agent,0
+01000446,58,443682,2662932,68,553,13286,7,1,56,544503,Yes,Contract,Personal,Owned,Postgraduate,4,3,Online,1
+01000447,51,1828083,2910757,61,504,21608,10,1,86,1167412,No,Self-employed,Personal,Owned,Postgraduate,0,5,Branch,0
+01000448,55,2365295,2903177,30,831,24522,7,1,67,692481,Yes,Self-employed,Vehicle,Family,Postgraduate,4,8,Online,1
+01000449,62,1281608,1756695,59,612,25518,16,4,67,235828,Yes,Contract,Vehicle,Rented,Graduate,3,5,Online,1
+01000450,50,2802279,1968610,31,564,34212,25,2,65,81733,No,Contract,Home improvement,Family,Graduate,0,0,Branch,0
+01000451,37,745677,1865408,31,546,3889,12,1,28,185921,Yes,Self-employed,Home improvement,Rented,Graduate,4,9,Online,0
+01000452,59,2699011,2741510,34,546,45555,24,7,75,416569,Yes,Salaried,Personal,Rented,Postgraduate,1,8,Online,0
+01000453,51,2419977,837928,84,647,30126,14,7,64,200621,Yes,Self-employed,Home improvement,Family,Postgraduate,5,3,Online,1
+01000454,48,961116,2286801,63,502,24180,21,3,64,1104195,Yes,Self-employed,Education,Owned,Graduate,5,7,Agent,1
+01000455,32,1314092,3371093,34,603,4112,17,2,65,763501,No,Salaried,Home improvement,Owned,Postgraduate,5,4,Branch,0
+01000456,52,1127083,1589776,53,673,7629,17,6,92,766322,No,Contract,Education,Rented,Postgraduate,2,3,Branch,1
+01000457,60,2789415,1777858,42,811,55284,12,7,78,721489,No,Self-employed,Personal,Owned,School,1,3,Agent,1
+01000458,26,297302,2434943,80,814,51889,24,6,12,691870,No,Self-employed,Education,Rented,Postgraduate,3,4,Branch,1
+01000459,57,995968,3151697,35,692,18968,5,0,79,915470,Yes,Contract,Personal,Owned,Graduate,5,8,Agent,1
+01000460,33,2089567,1846047,50,736,51815,7,3,40,793886,Yes,Contract,Education,Owned,Postgraduate,5,3,Branch,0
+01000461,25,281961,2698450,46,798,7099,19,4,57,1148749,No,Self-employed,Education,Owned,School,4,9,Online,1
+01000462,58,1549526,1599030,11,563,63466,24,0,67,733389,Yes,Contract,Vehicle,Rented,Postgraduate,0,7,Online,0
+01000463,28,1843029,2679187,45,732,14681,19,1,93,239668,Yes,Salaried,Vehicle,Family,Postgraduate,4,1,Agent,0
+01000464,68,1693540,440539,34,515,65530,6,3,89,1063787,Yes,Contract,Home improvement,Rented,Graduate,2,8,Online,0
+01000465,23,1338529,2593426,43,649,44139,9,1,82,1191061,No,Self-employed,Personal,Rented,Graduate,5,0,Branch,0
+01000466,47,628825,1777650,31,656,38070,22,1,68,1035095,No,Contract,Home improvement,Rented,Postgraduate,4,3,Branch,1
+01000467,60,2027161,2388813,42,728,50453,20,3,23,246296,No,Contract,Education,Rented,Postgraduate,1,0,Online,0
+01000468,40,2475802,1731019,24,500,36232,9,7,76,82039,No,Salaried,Personal,Rented,School,0,9,Branch,1
+01000469,39,2319997,682961,11,653,19154,18,7,39,41800,Yes,Self-employed,Home improvement,Rented,Graduate,2,10,Branch,0
+01000470,28,1706353,1284185,68,564,41647,10,7,25,222073,No,Contract,Home improvement,Rented,Postgraduate,2,2,Online,1
+01000471,56,1937981,560213,70,578,54105,9,3,14,227646,No,Self-employed,Vehicle,Owned,School,5,0,Branch,0
+01000472,24,2951125,2111260,10,524,29303,21,2,67,505571,Yes,Salaried,Home improvement,Family,Postgraduate,5,0,Online,1
+01000473,33,1894332,1762142,40,650,6083,23,4,17,894919,Yes,Contract,Personal,Family,School,0,0,Agent,0
+01000474,55,2701424,3363384,41,832,32158,4,0,55,155855,Yes,Contract,Personal,Rented,School,2,0,Agent,0
+01000475,30,875670,3156614,4,838,26688,20,5,74,423200,No,Self-employed,Home improvement,Family,School,4,8,Branch,1
+01000476,50,580306,2989688,59,666,74473,19,3,15,376119,Yes,Self-employed,Vehicle,Owned,School,4,3,Branch,1
+01000477,25,1068283,3109458,0,534,57193,11,6,39,473981,No,Salaried,Home improvement,Family,Graduate,3,9,Online,1
+01000478,28,529648,2819732,17,795,29083,5,0,76,628820,No,Contract,Education,Rented,Postgraduate,1,10,Agent,0
+01000479,54,591342,1129621,61,821,65148,15,3,76,599165,Yes,Contract,Education,Owned,School,2,3,Online,1
+01000480,46,2826010,1316180,31,785,60227,22,4,33,1081986,No,Salaried,Education,Family,Postgraduate,2,3,Branch,1
+01000481,56,2818932,1019210,26,697,61416,23,6,66,589827,No,Self-employed,Home improvement,Rented,School,4,5,Online,1
+01000482,67,2929926,2844622,42,573,38184,6,4,58,673830,No,Self-employed,Vehicle,Owned,School,1,10,Online,0
+01000483,40,1666395,2386311,44,511,69481,0,5,20,851824,No,Salaried,Vehicle,Owned,Postgraduate,4,9,Branch,1
+01000484,53,1121769,1145284,69,574,22189,22,1,48,1022729,Yes,Salaried,Personal,Family,Postgraduate,2,10,Branch,1
+01000485,30,2325424,1679719,46,538,22170,17,6,95,942696,No,Salaried,Vehicle,Owned,School,4,6,Online,1
+01000486,59,1414797,620396,15,501,58043,10,4,58,506860,Yes,Self-employed,Personal,Owned,Postgraduate,0,9,Branch,1
+01000487,22,2102393,1158494,84,722,48094,23,0,7,135143,No,Salaried,Home improvement,Rented,School,3,0,Online,1
+01000488,23,649674,1371040,5,727,9015,4,2,78,593220,No,Contract,Vehicle,Owned,Postgraduate,5,8,Agent,0
+01000489,59,1729380,1518902,66,793,24519,23,7,57,1055518,Yes,Self-employed,Vehicle,Family,Postgraduate,4,1,Branch,1
+01000490,44,1418663,1454058,17,515,59659,12,6,74,490140,No,Self-employed,Vehicle,Rented,Graduate,5,2,Branch,1
+01000491,60,2561410,720980,11,500,70530,12,4,95,960631,No,Salaried,Education,Family,Graduate,5,8,Branch,0
+01000492,69,872164,1719299,59,733,23988,3,7,48,115737,No,Salaried,Vehicle,Family,Postgraduate,0,10,Branch,1
+01000493,56,1168755,2765100,62,708,2153,21,3,73,841263,Yes,Salaried,Home improvement,Family,Graduate,4,0,Branch,1
+01000494,40,1633865,1934473,20,505,11882,20,3,48,478427,No,Salaried,Home improvement,Rented,Graduate,1,5,Online,0
+01000495,23,1459482,244604,21,666,54873,17,0,42,132963,No,Self-employed,Education,Owned,Graduate,4,2,Branch,0
+01000496,45,897682,2542687,52,615,10205,3,4,57,924417,No,Self-employed,Vehicle,Rented,Postgraduate,1,8,Branch,1
+01000497,59,1148677,3055466,18,760,27442,1,1,12,529779,No,Salaried,Education,Family,Graduate,3,2,Agent,0
+01000498,22,2364825,2850828,1,682,2122,19,6,51,514134,Yes,Salaried,Vehicle,Owned,Postgraduate,2,6,Agent,1
+01000499,53,1795945,1533569,30,640,69412,19,2,27,804613,Yes,Salaried,Vehicle,Rented,School,4,1,Branch,1
+01000500,36,2042170,997011,83,484,26119,11,6,84,1118453,Yes,Salaried,Vehicle,Owned,Postgraduate,5,7,Online,1
+01000501,66,1784338,1157897,26,801,65772,13,6,48,632671,Yes,Salaried,Education,Rented,Graduate,5,9,Agent,1
+01000502,51,800113,896567,57,789,23258,2,2,69,394405,No,Salaried,Home improvement,Owned,School,4,6,Agent,0
+01000503,62,2608750,581072,57,526,63568,14,3,13,578588,No,Self-employed,Personal,Family,School,0,2,Online,0
+01000504,38,1021457,3153674,69,576,44388,19,5,82,492508,No,Salaried,Personal,Owned,School,2,10,Online,1
+01000505,55,2889998,1713960,78,819,22852,20,2,88,595291,Yes,Self-employed,Personal,Rented,Graduate,2,5,Agent,1
+01000506,21,416265,265580,28,834,26102,10,6,58,478912,No,Self-employed,Education,Family,Graduate,4,2,Online,1
+01000507,49,1305358,2679520,26,604,61392,0,3,78,6579,No,Self-employed,Education,Rented,Postgraduate,0,1,Branch,1
+01000508,52,2124870,825356,6,535,48462,17,0,84,1007570,No,Self-employed,Vehicle,Owned,Graduate,0,0,Agent,0
+01000509,54,1337789,215250,40,666,17287,25,1,55,992797,No,Contract,Personal,Owned,Postgraduate,1,7,Online,1
+01000510,35,2962721,780984,52,536,42417,15,0,65,1169365,Yes,Self-employed,Vehicle,Owned,Postgraduate,3,0,Branch,0
+01000511,68,786088,2836816,78,824,38746,13,0,43,975882,No,Salaried,Home improvement,Family,Postgraduate,2,3,Agent,0
+01000512,45,2813607,3143622,64,826,3783,23,3,57,1152292,No,Self-employed,Education,Owned,Postgraduate,5,7,Online,1
+01000513,67,1389646,1936079,60,835,67438,9,5,50,320829,Yes,Self-employed,Vehicle,Owned,Graduate,0,2,Branch,1
+01000514,23,2044154,2459663,26,778,47696,8,7,14,634225,No,Self-employed,Vehicle,Owned,School,3,3,Online,0
+01000515,53,1090001,1020651,56,511,25036,13,2,34,112419,No,Contract,Education,Owned,School,5,5,Branch,0
+01000516,56,1401082,1628730,71,818,32952,12,2,71,287144,Yes,Self-employed,Education,Rented,Graduate,1,4,Branch,0
+01000517,50,1122314,335185,79,519,5695,19,2,55,85401,Yes,Salaried,Home improvement,Rented,Postgraduate,2,8,Branch,1
+01000518,27,1215747,1789235,72,598,12530,9,7,71,143108,No,Salaried,Vehicle,Family,School,5,8,Branch,0
+01000519,28,2165354,2646296,11,611,69453,16,5,40,821579,No,Contract,Personal,Owned,Postgraduate,1,5,Branch,0
+01000520,54,676006,2722135,8,760,74949,9,4,48,1091702,No,Self-employed,Home improvement,Rented,Postgraduate,5,6,Branch,0
+01000521,50,2081301,2541349,72,834,37635,0,6,19,640503,No,Salaried,Home improvement,Owned,School,4,6,Agent,0
+01000522,39,1838194,758619,35,708,51211,10,4,89,224974,No,Salaried,Personal,Rented,Graduate,2,2,Branch,0
+01000523,44,908161,564726,53,815,73165,22,6,76,477001,No,Self-employed,Vehicle,Rented,Graduate,4,3,Branch,1
+01000524,33,1442858,426927,62,514,38702,25,0,53,275327,No,Contract,Education,Rented,Postgraduate,1,6,Online,0
+01000525,30,410618,142021,69,711,4937,0,6,63,100479,No,Contract,Vehicle,Owned,School,4,7,Agent,1
+01000526,37,1217015,1915643,7,605,61591,9,1,60,935832,No,Contract,Home improvement,Family,School,5,7,Branch,0
+01000527,51,1342212,3317303,42,600,69427,19,1,33,1195913,No,Self-employed,Home improvement,Rented,Postgraduate,1,7,Online,0
+01000528,29,1300994,2887446,54,512,5240,11,5,82,660155,Yes,Self-employed,Vehicle,Owned,Postgraduate,1,1,Branch,0
+01000529,60,1083063,2629560,3,841,4950,1,1,16,1163564,No,Contract,Education,Family,Postgraduate,4,0,Online,0
+01000530,62,374649,786284,70,724,29770,22,3,82,874045,No,Self-employed,Home improvement,Owned,Graduate,3,3,Online,0
+01000531,36,1744914,2396845,56,695,61203,0,3,57,578102,No,Salaried,Education,Rented,School,3,5,Online,0
+01000532,29,2100847,819741,25,488,57369,2,0,52,279070,Yes,Salaried,Education,Family,Postgraduate,4,7,Agent,0
+01000533,45,2543027,2710625,71,692,30891,2,5,6,283362,No,Salaried,Personal,Rented,Postgraduate,2,9,Branch,0
+01000534,65,618067,3093799,60,546,43648,12,5,91,234740,No,Contract,Education,Family,School,4,0,Online,1
+01000535,27,2718836,2350859,84,788,15539,6,1,19,363387,No,Salaried,Education,Family,Graduate,0,1,Agent,1
+01000536,23,1113645,2447170,79,550,22344,3,5,50,12602,No,Self-employed,Personal,Owned,School,5,9,Online,1
+01000537,69,2201827,2499369,61,594,54279,11,1,8,247031,No,Contract,Home improvement,Owned,Postgraduate,2,0,Online,0
+01000538,43,2899409,1177061,7,542,43419,12,5,92,970725,No,Contract,Vehicle,Family,Graduate,1,9,Agent,0
+01000539,59,1237685,330536,15,565,21747,25,5,58,3298,Yes,Contract,Vehicle,Owned,Graduate,4,5,Branch,1
+01000540,21,2588607,1660008,0,725,22805,25,0,74,45299,No,Salaried,Education,Family,Postgraduate,2,0,Agent,1
+01000541,26,497931,1716992,47,716,26558,17,4,30,1153561,Yes,Salaried,Home improvement,Family,Postgraduate,3,9,Online,0
+01000542,33,1300925,2498961,13,794,9271,0,1,5,30553,No,Contract,Education,Family,Graduate,0,7,Agent,1
+01000543,54,1394944,2511282,31,782,19971,7,1,64,787344,Yes,Contract,Personal,Rented,School,4,0,Online,1
+01000544,27,1567117,3082034,29,503,24278,23,5,47,572493,No,Self-employed,Home improvement,Rented,Graduate,4,7,Branch,1
+01000545,27,1299044,3061679,41,769,53334,14,4,81,52432,Yes,Salaried,Vehicle,Family,Graduate,2,3,Agent,1
+01000546,61,1880964,1425270,1,668,21536,5,0,7,23313,No,Self-employed,Home improvement,Rented,Graduate,4,5,Agent,0
+01000547,24,853102,976499,30,492,34611,15,3,25,1051311,No,Self-employed,Home improvement,Family,Graduate,5,7,Online,0
+01000548,64,1282371,2393944,61,755,45248,12,7,31,822262,Yes,Contract,Home improvement,Rented,School,3,10,Agent,1
+01000549,63,2847813,2550124,57,502,44631,7,5,41,449719,No,Contract,Education,Rented,Graduate,2,1,Online,1
+01000550,61,364002,1395366,29,614,62842,12,5,69,364553,No,Contract,Vehicle,Rented,School,3,2,Agent,1
+01000551,36,2259585,429168,53,575,53864,12,1,92,575613,No,Self-employed,Vehicle,Family,Postgraduate,3,6,Branch,0
+01000552,69,2719849,3452032,79,626,69823,11,4,82,1184694,Yes,Contract,Vehicle,Family,Graduate,1,5,Online,0
+01000553,67,296089,393254,65,533,48130,21,4,82,962287,No,Contract,Home improvement,Rented,School,1,5,Online,0
+01000554,28,2248189,709183,35,705,20055,16,7,14,1081593,Yes,Contract,Home improvement,Owned,Postgraduate,2,2,Online,1
+01000555,39,1832809,823339,49,810,23814,4,7,88,754631,Yes,Salaried,Vehicle,Family,Graduate,5,10,Branch,1
+01000556,57,1089445,241273,32,623,37322,16,5,13,1151782,No,Salaried,Education,Rented,Postgraduate,2,6,Online,1
+01000557,35,1424581,823889,30,694,39309,18,6,71,6735,Yes,Salaried,Home improvement,Owned,Graduate,3,0,Agent,1
+01000558,28,1097084,3010523,55,637,58942,24,2,69,1113703,No,Salaried,Education,Rented,Graduate,1,10,Online,1
+01000559,38,1101826,3404680,27,611,59796,9,6,50,1023570,No,Salaried,Home improvement,Owned,School,4,7,Branch,0
+01000560,48,2980303,2253638,30,492,8712,4,1,28,1005876,Yes,Contract,Education,Rented,Graduate,1,1,Agent,1
+01000561,21,2866410,232953,23,489,32045,4,7,46,152709,Yes,Salaried,Personal,Family,Postgraduate,1,0,Branch,1
+01000562,61,263967,1095666,63,558,7459,0,0,49,578640,No,Self-employed,Education,Rented,Graduate,1,0,Online,0
+01000563,44,667552,561713,73,658,65822,2,7,4,954414,No,Contract,Vehicle,Rented,Postgraduate,1,6,Branch,1
+01000564,60,1922713,1032486,11,658,22689,18,6,35,103077,No,Contract,Vehicle,Family,Graduate,4,5,Branch,1
+01000565,60,893377,635567,79,667,9326,17,1,9,950594,Yes,Salaried,Education,Family,School,4,9,Branch,0
+01000566,58,2413911,605029,73,695,22309,24,3,24,188798,No,Salaried,Home improvement,Owned,Graduate,3,9,Online,0
+01000567,34,2613269,2292182,56,722,33804,6,4,58,1016391,Yes,Contract,Education,Owned,Graduate,1,3,Branch,0
+01000568,56,816447,1844405,23,745,12836,1,1,58,903641,No,Salaried,Education,Owned,Postgraduate,3,1,Online,0
+01000569,52,598641,2921541,40,778,54933,2,7,11,197323,Yes,Self-employed,Personal,Owned,Graduate,2,0,Branch,1
+01000570,22,2776441,740272,48,724,69800,8,5,56,837623,Yes,Salaried,Education,Family,Graduate,2,5,Branch,0
+01000571,26,2972437,1751441,15,831,45692,13,3,61,638916,No,Salaried,Home improvement,Family,Graduate,4,6,Online,0
+01000572,29,1206218,2754842,71,818,28962,24,0,86,869864,No,Salaried,Home improvement,Family,Graduate,5,9,Online,1
+01000573,33,1881072,2663143,58,530,9693,18,5,13,3975,Yes,Self-employed,Personal,Owned,Graduate,4,0,Agent,1
+01000574,54,2325415,2225722,76,720,61892,4,2,62,517117,Yes,Contract,Home improvement,Family,Graduate,0,8,Agent,0
+01000575,44,954600,2158440,3,726,52941,4,0,39,422015,No,Salaried,Vehicle,Owned,Postgraduate,3,9,Agent,0
+01000576,42,1183065,528660,44,692,54998,3,5,8,757226,Yes,Contract,Vehicle,Owned,Postgraduate,3,10,Online,0
+01000577,51,2830978,355278,64,524,47313,23,0,36,222882,Yes,Contract,Home improvement,Family,Postgraduate,1,10,Branch,0
+01000578,58,1943963,2699009,34,576,14487,3,6,23,643872,Yes,Self-employed,Vehicle,Rented,School,4,7,Branch,0
+01000579,34,1274280,1304369,63,805,3268,21,3,29,386908,Yes,Contract,Personal,Family,School,1,0,Agent,0
+01000580,56,2364402,1293552,80,692,66215,3,3,35,841714,Yes,Self-employed,Home improvement,Family,Graduate,2,6,Agent,1
+01000581,40,2021398,1773734,39,784,40167,8,0,78,907461,No,Self-employed,Vehicle,Rented,Postgraduate,3,6,Online,0
+01000582,60,498820,2123852,72,844,5127,19,7,60,362397,Yes,Self-employed,Education,Owned,School,0,6,Agent,1
+01000583,34,1385910,833111,21,707,16390,11,7,40,137512,No,Salaried,Education,Owned,Graduate,1,9,Agent,0
+01000584,55,2905879,275581,3,686,53804,5,7,17,887989,No,Self-employed,Vehicle,Rented,School,2,0,Branch,1
+01000585,61,591861,1782499,5,575,10696,18,3,85,451053,No,Self-employed,Education,Owned,School,0,1,Online,1
+01000586,62,1194928,2475554,74,534,40503,21,0,9,77064,Yes,Salaried,Education,Rented,Postgraduate,1,6,Agent,0
+01000587,36,2431953,2924373,47,771,41148,18,5,61,129886,No,Contract,Home improvement,Rented,Postgraduate,5,1,Agent,1
+01000588,57,1391977,1456108,18,715,66587,18,3,54,722488,No,Self-employed,Home improvement,Owned,Graduate,0,4,Agent,0
+01000589,55,2720224,3023284,64,736,47609,11,2,33,131164,Yes,Contract,Vehicle,Family,Postgraduate,4,7,Online,1
+01000590,49,2506405,3146461,15,738,61949,18,1,40,752367,Yes,Salaried,Home improvement,Rented,Graduate,2,4,Agent,1
+01000591,62,810050,1274467,1,621,57070,9,0,47,1019970,No,Contract,Home improvement,Owned,Postgraduate,3,4,Online,0
+01000592,51,1861575,588136,2,820,40374,20,6,34,191426,Yes,Contract,Education,Owned,School,0,6,Agent,1
+01000593,28,468411,2986450,58,697,59679,5,5,61,376018,No,Contract,Home improvement,Family,School,1,4,Branch,1
+01000594,66,764503,1733246,10,718,57795,15,0,21,626164,No,Salaried,Home improvement,Rented,Postgraduate,5,5,Online,0
+01000595,56,2779312,1572239,35,645,10030,19,6,48,638152,No,Contract,Personal,Rented,Graduate,5,7,Branch,1
+01000596,41,857214,1236348,18,588,18878,23,7,57,1053351,No,Contract,Home improvement,Rented,Postgraduate,2,6,Agent,1
+01000597,21,1226683,2289513,8,775,5245,13,4,20,554411,No,Salaried,Vehicle,Family,Graduate,1,4,Agent,0
+01000598,56,2602876,256525,50,774,12282,25,7,10,347715,Yes,Self-employed,Education,Owned,Postgraduate,5,1,Agent,1
+01000599,69,317550,897579,37,742,73707,18,7,58,499139,No,Salaried,Education,Rented,Graduate,3,2,Branch,0
+01000600,69,2151885,387537,49,838,70474,13,4,44,890810,Yes,Self-employed,Home improvement,Family,Graduate,4,4,Branch,0
+01000601,41,1930319,1779759,9,761,46192,22,7,28,150048,No,Contract,Education,Owned,School,4,3,Online,1
+01000602,28,1784564,1853392,33,541,70851,19,2,44,661937,No,Contract,Home improvement,Rented,School,5,6,Branch,1
+01000603,38,2185012,555869,38,481,23049,19,0,94,9985,No,Salaried,Personal,Family,Postgraduate,3,10,Online,0
+01000604,67,284450,1976838,73,658,66497,21,0,89,144051,Yes,Salaried,Education,Rented,Graduate,0,3,Agent,1
+01000605,23,2541470,1695984,50,801,60900,25,6,56,663939,No,Contract,Education,Rented,School,3,6,Branch,1
+01000606,41,1203633,891435,13,612,36898,3,6,62,444698,No,Self-employed,Personal,Rented,Postgraduate,0,10,Online,0
+01000607,36,338401,1378980,46,484,67925,23,6,10,962195,Yes,Contract,Personal,Family,Graduate,5,2,Online,1
+01000608,28,2519539,1491822,37,745,19100,5,2,72,227763,Yes,Contract,Vehicle,Family,Graduate,3,6,Branch,1
+01000609,65,2314846,2733823,58,703,54085,5,0,73,627797,No,Contract,Home improvement,Owned,Graduate,5,9,Agent,0
+01000610,64,776303,2628839,46,505,24520,22,3,66,1075095,Yes,Contract,Home improvement,Owned,Graduate,0,2,Agent,0
+01000611,28,2662442,1554101,45,812,71772,18,6,86,1189316,No,Salaried,Vehicle,Family,Postgraduate,0,9,Online,1
+01000612,57,904325,1714635,42,826,40058,12,0,32,151631,Yes,Contract,Education,Family,Postgraduate,4,4,Agent,0
+01000613,47,544780,158586,78,741,24583,11,2,16,82367,Yes,Self-employed,Education,Family,School,3,6,Agent,0
+01000614,53,2677720,2451896,60,719,28860,4,7,79,673471,No,Self-employed,Home improvement,Owned,School,0,3,Agent,0
+01000615,53,764896,2541378,41,739,51084,14,2,85,785167,Yes,Self-employed,Home improvement,Owned,Postgraduate,4,2,Agent,1
+01000616,33,2085725,2992162,54,761,34151,0,3,13,91112,No,Contract,Education,Rented,School,4,6,Branch,0
+01000617,58,524652,2772770,83,838,49439,9,4,64,128844,No,Contract,Education,Family,School,4,8,Online,0
+01000618,38,2252852,2072341,21,776,46524,22,6,76,700139,No,Self-employed,Education,Family,Graduate,5,3,Online,1
+01000619,37,305401,3465575,43,798,21684,18,4,62,827915,No,Salaried,Vehicle,Owned,Graduate,5,2,Online,1
+01000620,54,536998,111056,29,552,11994,2,1,36,793387,No,Self-employed,Home improvement,Rented,Graduate,3,0,Online,0
+01000621,27,2929855,514148,82,679,50543,5,0,87,906025,Yes,Salaried,Education,Owned,School,2,0,Online,1
+01000622,28,2744569,1851592,9,508,23922,8,4,6,1048766,No,Contract,Personal,Owned,School,1,9,Branch,0
+01000623,41,681709,2743906,26,831,44669,10,7,89,554869,Yes,Contract,Education,Rented,Graduate,2,7,Agent,1
+01000624,40,1509135,219824,63,835,47647,13,2,74,421769,Yes,Contract,Home improvement,Owned,School,4,8,Branch,1
+01000625,38,2237595,1532771,77,569,16854,9,6,23,566634,No,Salaried,Personal,Owned,Postgraduate,0,6,Online,1
+01000626,61,2314293,2366654,14,844,3385,24,3,74,487057,Yes,Salaried,Education,Family,School,4,0,Online,1
+01000627,57,2686978,2792278,79,484,61048,14,6,87,1168417,No,Contract,Home improvement,Owned,Graduate,0,7,Online,1
+01000628,22,369043,3149896,61,751,74973,15,2,5,574799,No,Contract,Education,Family,Graduate,0,4,Branch,1
+01000629,34,2888755,797543,66,649,35205,12,7,20,1194711,Yes,Contract,Personal,Rented,Postgraduate,2,10,Branch,0
+01000630,35,2630393,2869036,8,585,21998,5,7,46,768816,No,Self-employed,Education,Owned,School,4,9,Agent,1
+01000631,52,1831700,1670067,63,842,9313,14,2,93,868947,Yes,Contract,Vehicle,Owned,School,0,9,Online,1
+01000632,51,2496922,1281782,19,655,803,3,0,76,680206,No,Contract,Vehicle,Owned,Graduate,0,1,Branch,1
+01000633,50,1354231,1543878,49,800,39569,4,2,46,1164623,No,Contract,Personal,Owned,Postgraduate,3,4,Branch,0
+01000634,46,1796743,2436599,26,752,6423,16,7,67,335161,Yes,Contract,Personal,Rented,Postgraduate,4,9,Branch,1
+01000635,22,2786144,752443,57,623,58755,18,7,54,364050,No,Salaried,Vehicle,Owned,Postgraduate,4,0,Online,1
+01000636,51,534772,233454,40,662,59195,21,0,36,1196688,No,Contract,Home improvement,Rented,School,4,10,Agent,0
+01000637,65,2134231,1374699,55,674,68267,7,1,49,413402,No,Salaried,Personal,Family,School,2,8,Online,0
+01000638,43,570403,986219,46,741,54761,3,2,33,612324,Yes,Self-employed,Home improvement,Rented,Graduate,0,8,Branch,0
+01000639,42,846500,334489,33,703,7892,4,2,80,949062,Yes,Self-employed,Personal,Rented,School,0,1,Agent,1
+01000640,44,2174396,3285128,32,554,70221,21,1,19,96983,Yes,Self-employed,Personal,Rented,School,3,8,Branch,0
+01000641,34,2487300,3042387,33,796,13313,10,0,61,639773,Yes,Salaried,Vehicle,Rented,Graduate,1,0,Online,0
+01000642,40,672309,1322011,61,587,42907,3,0,79,311414,Yes,Salaried,Vehicle,Owned,School,2,9,Online,0
+01000643,61,1260384,2970231,45,601,34279,14,3,58,741985,No,Self-employed,Personal,Rented,School,5,5,Branch,1
+01000644,57,2995733,722717,80,600,51198,10,7,67,972492,No,Self-employed,Education,Family,Graduate,3,6,Online,1
+01000645,49,815909,1875790,81,516,55258,9,7,71,404436,Yes,Salaried,Home improvement,Owned,Graduate,2,9,Agent,1
+01000646,52,713599,766074,4,640,34400,5,6,77,198089,No,Self-employed,Personal,Rented,School,4,0,Agent,1
+01000647,48,2893939,1444882,22,676,48106,23,1,48,459440,No,Self-employed,Education,Rented,School,0,5,Agent,0
+01000648,66,1161553,3159220,64,799,36094,6,0,74,578298,Yes,Contract,Home improvement,Rented,School,1,2,Agent,0
+01000649,56,673562,1894549,5,577,42149,2,2,46,926212,Yes,Self-employed,Personal,Rented,Graduate,0,10,Agent,0
+01000650,68,2190049,543297,46,545,72342,16,4,15,858837,Yes,Self-employed,Education,Owned,Postgraduate,3,7,Branch,0
+01000651,28,2837299,1994504,0,629,52297,21,4,8,30773,No,Contract,Vehicle,Rented,Graduate,0,10,Branch,1
+01000652,26,2399805,2904545,22,657,20832,24,6,27,1134773,No,Contract,Education,Owned,Graduate,4,4,Branch,1
+01000653,50,781403,1548095,14,483,59143,6,6,41,437229,No,Contract,Personal,Rented,Postgraduate,1,5,Agent,0
+01000654,65,623914,1523196,44,814,60094,19,5,43,774460,Yes,Self-employed,Home improvement,Family,School,1,8,Agent,0
+01000655,23,2824034,682413,15,533,1010,17,7,44,1119997,No,Contract,Education,Family,School,4,10,Branch,1
+01000656,42,431520,1450945,36,774,31917,10,6,46,330751,Yes,Self-employed,Vehicle,Family,Graduate,1,8,Agent,1
+01000657,54,538098,2504789,17,562,30095,8,1,70,1122036,No,Contract,Vehicle,Rented,School,3,6,Online,0
+01000658,65,2696797,3115685,15,575,37682,3,6,91,1188696,No,Salaried,Home improvement,Family,School,3,5,Agent,0
+01000659,68,485642,440880,40,630,13325,4,3,83,124362,No,Contract,Home improvement,Rented,Postgraduate,5,9,Agent,0
+01000660,28,1434830,2176158,24,804,63064,4,5,9,419277,No,Salaried,Vehicle,Owned,Postgraduate,3,9,Online,0
+01000661,43,1567870,2404648,18,607,17295,21,6,34,1006462,Yes,Self-employed,Home improvement,Owned,Graduate,0,3,Branch,0
+01000662,69,1797369,1494972,30,528,17736,16,5,82,965360,Yes,Contract,Vehicle,Rented,Postgraduate,5,0,Online,1
+01000663,51,1911241,1559117,38,798,63835,11,5,50,30490,No,Self-employed,Education,Rented,Postgraduate,4,8,Branch,1
+01000664,69,739810,2900207,61,517,54599,15,6,57,1071654,Yes,Salaried,Personal,Owned,Postgraduate,4,1,Agent,1
+01000665,27,1677681,2378633,38,729,19798,16,4,32,410523,No,Self-employed,Home improvement,Rented,Graduate,4,6,Online,1
+01000666,49,2068068,1293816,71,635,62350,16,5,74,418035,Yes,Contract,Home improvement,Family,School,2,10,Branch,0
+01000667,61,345112,598753,58,769,14340,14,2,5,431196,No,Salaried,Vehicle,Owned,Graduate,0,7,Agent,0
+01000668,47,1033619,2296600,49,681,65644,21,1,82,999934,Yes,Self-employed,Education,Owned,School,4,6,Agent,0
+01000669,50,2043201,1415212,29,845,50186,10,7,69,507137,No,Salaried,Education,Family,Postgraduate,1,8,Agent,0
+01000670,66,1551684,2232215,76,613,20316,3,5,93,967583,Yes,Self-employed,Vehicle,Family,Graduate,4,2,Agent,0
+01000671,67,1298484,898560,21,701,24333,6,2,4,1044981,No,Self-employed,Vehicle,Owned,School,3,5,Online,1
+01000672,40,2654146,1647861,1,599,42508,3,4,25,1078065,No,Contract,Personal,Owned,Postgraduate,1,1,Online,1
+01000673,57,2955513,1356150,9,513,8675,24,5,70,1179322,Yes,Salaried,Home improvement,Rented,School,4,0,Branch,1
+01000674,27,365998,3132149,68,593,65427,25,2,23,151719,No,Contract,Home improvement,Rented,Postgraduate,1,5,Branch,1
+01000675,52,1846473,651937,81,759,29505,25,0,40,1091367,Yes,Self-employed,Vehicle,Rented,Postgraduate,0,4,Agent,1
+01000676,29,1414411,1187203,37,583,35798,12,0,34,1173694,No,Contract,Vehicle,Family,Graduate,4,4,Branch,0
+01000677,38,2578531,3469507,50,756,60913,24,6,21,927954,No,Contract,Home improvement,Owned,Postgraduate,5,1,Online,1
+01000678,25,2540414,1887409,5,648,8652,13,5,83,429435,Yes,Contract,Vehicle,Owned,School,3,4,Online,0
+01000679,64,2277594,1546669,43,844,15067,7,7,48,460077,Yes,Contract,Education,Rented,Graduate,3,1,Branch,1
+01000680,61,2250426,1042865,78,656,44137,8,2,86,1172301,No,Contract,Personal,Family,School,5,0,Agent,0
+01000681,25,366761,316207,17,548,41574,10,3,10,152122,No,Contract,Personal,Owned,School,3,3,Agent,0
+01000682,32,1470278,1537820,24,668,37643,13,5,61,1188866,No,Salaried,Education,Rented,Postgraduate,0,5,Online,0
+01000683,33,2739701,780050,18,775,57767,5,7,85,192065,No,Salaried,Personal,Family,School,3,9,Branch,1
+01000684,26,2666396,2498233,28,761,6923,13,0,42,1045910,Yes,Self-employed,Personal,Owned,School,1,2,Agent,1
+01000685,43,1918969,2358911,59,521,8946,21,3,22,42902,No,Self-employed,Education,Family,School,5,7,Agent,0
+01000686,44,1932655,281480,67,745,25491,3,4,84,202254,Yes,Self-employed,Home improvement,Family,Graduate,3,6,Online,0
+01000687,61,1462138,720740,61,564,68692,20,3,32,462265,No,Self-employed,Home improvement,Owned,Postgraduate,5,6,Agent,0
+01000688,35,749323,1669859,74,743,1758,10,7,61,495995,No,Self-employed,Personal,Rented,School,0,5,Online,1
+01000689,69,1240929,3140920,34,503,20636,10,6,35,916575,Yes,Self-employed,Home improvement,Owned,Graduate,5,2,Agent,1
+01000690,48,700800,3246807,46,817,8394,5,3,70,1192088,Yes,Contract,Education,Owned,Graduate,2,7,Agent,0
+01000691,61,1060677,358931,72,665,56380,5,4,66,77301,Yes,Self-employed,Vehicle,Rented,Graduate,2,5,Online,0
+01000692,44,602576,2589100,36,780,29312,9,4,30,145479,Yes,Contract,Vehicle,Rented,Postgraduate,3,2,Branch,1
+01000693,40,2093254,2866558,75,821,60514,1,7,23,343349,No,Contract,Home improvement,Rented,Graduate,0,10,Online,1
+01000694,37,887371,1277136,45,663,2719,3,6,86,401323,Yes,Self-employed,Education,Rented,Postgraduate,3,9,Branch,0
+01000695,63,2544558,1136795,55,519,49148,2,1,73,454556,No,Salaried,Personal,Owned,Graduate,3,5,Branch,0
+01000696,31,2703719,1558258,25,569,30782,17,2,64,343191,Yes,Salaried,Vehicle,Rented,Graduate,4,5,Agent,1
+01000697,42,2655970,2959156,37,564,65799,0,3,41,916788,No,Contract,Home improvement,Owned,School,4,4,Online,0
+01000698,33,764919,3445202,54,701,20703,25,4,29,408153,No,Contract,Education,Family,Postgraduate,0,6,Branch,1
+01000699,57,454792,1887818,45,824,65237,15,1,30,578817,Yes,Contract,Personal,Owned,Graduate,5,1,Branch,1
+01000700,30,2945007,2550515,11,706,51651,11,5,73,210520,Yes,Contract,Home improvement,Rented,Graduate,2,1,Agent,1
+01000701,46,1154456,201125,84,506,73669,23,1,45,459483,Yes,Self-employed,Vehicle,Owned,Graduate,5,9,Online,0
+01000702,26,277188,2195295,33,485,57374,12,1,84,300904,Yes,Salaried,Home improvement,Owned,School,2,0,Branch,1
+01000703,61,1385692,682130,11,837,62456,11,1,61,1087913,Yes,Salaried,Personal,Family,School,2,5,Online,0
+01000704,58,688509,2987858,40,635,62272,19,1,90,452978,No,Contract,Vehicle,Family,School,0,10,Branch,1
+01000705,26,2126897,1802805,23,625,51534,9,4,14,832074,No,Contract,Education,Owned,Postgraduate,5,10,Online,1
+01000706,64,1585874,2274370,24,823,71326,9,4,78,1035020,Yes,Contract,Vehicle,Rented,Graduate,5,6,Online,1
+01000707,51,2390383,2208746,5,754,3244,16,6,48,728547,Yes,Self-employed,Home improvement,Owned,School,2,3,Online,1
+01000708,28,2993250,3316109,16,818,65910,25,2,8,140647,Yes,Contract,Personal,Owned,School,5,10,Agent,1
+01000709,50,1306705,2493445,65,757,40495,19,4,81,1008123,Yes,Contract,Vehicle,Family,School,3,1,Branch,1
+01000710,51,2542319,761533,41,750,32714,8,1,74,556610,Yes,Contract,Home improvement,Rented,Graduate,0,0,Branch,0
+01000711,32,2892288,2550212,42,713,46266,6,1,43,511715,No,Contract,Education,Rented,Graduate,4,8,Branch,1
+01000712,23,1973230,1627391,31,589,46532,18,3,75,666040,Yes,Salaried,Vehicle,Rented,Postgraduate,2,7,Online,1
+01000713,39,296155,399516,73,556,25508,9,7,93,236786,No,Self-employed,Education,Owned,Graduate,1,6,Agent,1
+01000714,63,1496864,1701015,61,758,15141,19,2,5,768900,Yes,Contract,Vehicle,Rented,Postgraduate,3,0,Branch,0
+01000715,23,2340049,2585774,50,630,16027,11,2,9,177761,Yes,Self-employed,Vehicle,Rented,School,0,1,Agent,1
+01000716,53,626604,1247218,37,765,20600,9,7,25,689159,No,Contract,Vehicle,Owned,School,5,0,Agent,0
+01000717,24,1392425,610917,20,770,24306,9,1,7,187970,Yes,Contract,Education,Rented,Postgraduate,0,1,Agent,0
+01000718,46,2222466,2317569,49,603,10095,2,2,4,821205,Yes,Self-employed,Education,Rented,Postgraduate,4,4,Branch,0
+01000719,40,2661447,346358,9,671,16097,25,2,89,877164,No,Contract,Vehicle,Family,Graduate,5,4,Online,1
+01000720,45,1563441,209689,67,840,36004,20,6,17,1105145,Yes,Self-employed,Home improvement,Rented,Postgraduate,3,5,Agent,1
+01000721,52,1675406,778796,27,664,61715,23,1,80,503437,Yes,Self-employed,Education,Family,Graduate,1,10,Branch,1
+01000722,38,1406571,2283613,73,600,34597,16,6,15,1186140,Yes,Salaried,Personal,Rented,Postgraduate,4,6,Agent,0
+01000723,21,2498081,3484417,41,657,5710,19,7,60,581557,No,Self-employed,Education,Family,Graduate,2,9,Online,1
+01000724,56,2266158,1428405,23,840,27992,13,7,12,332937,No,Self-employed,Education,Owned,School,3,6,Online,0
+01000725,63,2762149,141488,67,620,72888,3,0,81,228885,Yes,Salaried,Education,Owned,Graduate,4,2,Branch,0
+01000726,37,2704176,2442651,20,630,21282,19,1,41,451732,No,Self-employed,Vehicle,Family,School,1,4,Branch,0
+01000727,69,2060536,3403303,81,630,36828,23,0,94,461478,No,Contract,Education,Rented,School,1,7,Branch,0
+01000728,64,1700191,2614752,45,766,67950,1,0,65,1091846,No,Contract,Home improvement,Owned,School,4,10,Agent,0
+01000729,60,1434108,2857746,13,490,71140,19,2,56,769855,No,Self-employed,Personal,Family,Postgraduate,2,8,Branch,0
+01000730,55,1782510,3190918,10,739,55766,11,1,90,1178710,Yes,Contract,Personal,Rented,Postgraduate,1,9,Agent,1
+01000731,63,861648,3159075,36,491,34656,16,1,5,700221,Yes,Salaried,Home improvement,Owned,School,4,4,Online,0
+01000732,23,1084234,2212246,8,571,4204,10,0,73,227371,No,Self-employed,Education,Rented,Graduate,0,3,Online,1
+01000733,34,1218000,2942586,19,710,50090,1,3,45,727651,Yes,Contract,Personal,Owned,Graduate,3,10,Branch,0
+01000734,57,546571,2969531,21,556,3215,0,2,34,848430,No,Salaried,Vehicle,Family,School,3,2,Agent,1
+01000735,37,839334,2155337,6,833,22199,22,3,60,25009,Yes,Self-employed,Vehicle,Rented,School,5,4,Branch,1
+01000736,55,1674449,2736490,27,509,17687,25,1,4,587328,Yes,Salaried,Personal,Rented,Postgraduate,1,0,Agent,0
+01000737,65,1550796,450186,17,565,28369,9,4,27,763584,Yes,Self-employed,Home improvement,Family,School,0,3,Branch,0
+01000738,37,1216483,326786,75,612,29091,4,4,40,956586,No,Contract,Home improvement,Owned,Graduate,3,0,Online,0
+01000739,28,1144379,2368441,73,701,70118,24,2,10,250074,No,Self-employed,Personal,Owned,Graduate,4,10,Online,1
+01000740,66,2314230,1305327,1,844,47436,11,4,5,302846,Yes,Self-employed,Home improvement,Owned,Graduate,0,10,Branch,1
+01000741,56,1981588,2875185,5,639,17117,12,5,68,683851,Yes,Self-employed,Home improvement,Rented,Graduate,2,4,Agent,1
+01000742,30,2589232,2924436,0,723,39978,13,0,90,523384,No,Contract,Vehicle,Family,Graduate,3,1,Branch,0
+01000743,62,1049571,1053601,75,540,27730,21,7,68,523507,No,Self-employed,Vehicle,Rented,Postgraduate,5,0,Agent,0
+01000744,48,1854270,420900,12,534,61637,11,3,80,834602,Yes,Contract,Education,Rented,Graduate,1,2,Online,1
+01000745,63,1308309,665575,32,615,55862,22,6,85,343654,No,Self-employed,Personal,Rented,Postgraduate,0,3,Agent,1
+01000746,44,1761288,2725749,59,721,10565,19,7,83,662582,No,Salaried,Personal,Owned,Postgraduate,4,0,Online,1
+01000747,51,482464,1045018,36,638,39709,24,0,53,556686,No,Salaried,Education,Rented,Graduate,3,10,Agent,0
+01000748,62,270113,1642383,9,841,64197,14,3,77,194899,Yes,Contract,Vehicle,Owned,School,1,7,Branch,0
+01000749,64,2415061,697013,28,752,58586,11,4,12,1079418,Yes,Self-employed,Education,Owned,Graduate,4,10,Online,0
+01000750,25,1370043,1238407,45,525,24019,8,4,26,93263,Yes,Self-employed,Personal,Family,Graduate,1,1,Branch,0
+01000751,66,1044287,2495188,18,786,38588,21,1,8,451982,Yes,Contract,Education,Family,Graduate,0,1,Online,1
+01000752,40,1015131,524346,9,554,73080,8,7,92,757305,Yes,Self-employed,Personal,Owned,Postgraduate,1,2,Agent,0
+01000753,42,1028295,1941066,15,646,35653,8,6,50,188914,Yes,Salaried,Vehicle,Owned,Graduate,4,6,Branch,1
+01000754,54,749101,432943,24,628,10478,4,1,8,1076403,No,Salaried,Education,Family,Postgraduate,5,4,Agent,0
+01000755,59,1816153,495387,77,771,4026,15,1,43,36609,No,Contract,Personal,Owned,School,1,7,Agent,0
+01000756,36,1059661,2034025,29,564,40108,18,2,50,1134340,No,Self-employed,Vehicle,Rented,School,4,6,Online,1
+01000757,30,2044275,2764304,38,658,11387,14,5,22,898603,Yes,Contract,Personal,Family,School,4,8,Agent,0
+01000758,23,1785281,408645,13,815,68758,0,5,4,407729,No,Salaried,Education,Family,Graduate,1,5,Online,0
+01000759,35,1973839,3350022,48,806,28890,0,5,5,672849,Yes,Contract,Education,Rented,Graduate,5,9,Branch,0
+01000760,47,1521026,181673,81,803,65013,16,0,34,1191848,No,Salaried,Home improvement,Family,School,5,4,Branch,0
+01000761,34,289326,1941477,58,554,62295,8,5,10,116216,No,Contract,Personal,Owned,School,3,2,Agent,0
+01000762,55,2093283,402598,6,633,38902,4,3,42,354414,No,Salaried,Personal,Rented,Graduate,3,3,Agent,0
+01000763,36,2064147,1388270,8,506,5500,20,0,61,927914,Yes,Contract,Personal,Owned,Graduate,2,8,Online,1
+01000764,28,728144,735412,48,511,71665,10,5,12,1028835,Yes,Salaried,Vehicle,Rented,School,2,1,Branch,1
+01000765,22,1982947,2607879,51,704,71177,6,2,10,269427,Yes,Self-employed,Personal,Family,School,4,6,Branch,0
+01000766,32,1352510,2805586,19,731,41344,21,5,11,879825,No,Self-employed,Education,Rented,Graduate,4,8,Agent,1
+01000767,62,1304104,950740,10,765,40660,20,0,10,484949,Yes,Self-employed,Education,Family,Postgraduate,5,7,Agent,1
+01000768,45,1429812,2867312,24,576,64334,6,7,64,371904,Yes,Self-employed,Personal,Family,Graduate,3,9,Agent,1
+01000769,33,2980336,3051722,78,725,19213,5,2,28,1090527,Yes,Contract,Vehicle,Family,School,2,4,Online,1
+01000770,68,1006554,3315140,38,732,59034,23,7,80,725074,No,Self-employed,Personal,Rented,School,3,6,Branch,1
+01000771,25,2148894,2386572,49,781,35688,6,3,87,605122,No,Self-employed,Home improvement,Family,Postgraduate,4,0,Agent,1
+01000772,28,1892117,2955205,64,710,51953,0,5,89,959106,No,Self-employed,Vehicle,Family,Postgraduate,1,1,Branch,1
+01000773,29,642593,1191790,58,834,18342,2,5,32,400322,Yes,Self-employed,Education,Rented,Postgraduate,2,3,Branch,1
+01000774,38,2619071,2859252,74,809,48272,8,6,30,607503,No,Contract,Education,Owned,Postgraduate,0,8,Online,1
+01000775,38,2941220,2798323,60,548,3760,3,4,84,517777,No,Contract,Vehicle,Family,Graduate,5,8,Online,1
+01000776,36,2836534,3180125,61,816,67409,2,4,84,491699,No,Salaried,Education,Rented,Graduate,3,9,Agent,1
+01000777,36,2598103,2544181,39,765,34971,0,1,73,790169,Yes,Salaried,Personal,Rented,Postgraduate,0,8,Online,1
+01000778,35,2519624,799506,13,808,68829,2,1,31,1056739,Yes,Contract,Education,Family,Graduate,4,8,Agent,0
+01000779,40,1499674,3188374,64,534,21769,25,4,27,444381,Yes,Self-employed,Vehicle,Rented,School,2,1,Branch,1
+01000780,63,2099959,2088331,36,685,70970,18,1,46,300729,No,Contract,Vehicle,Rented,Graduate,3,2,Agent,0
+01000781,63,1174371,1915297,82,744,8405,12,0,32,1177138,No,Self-employed,Personal,Rented,Postgraduate,1,2,Online,0
+01000782,61,704309,2142081,48,730,44314,17,1,86,107246,No,Salaried,Vehicle,Owned,Graduate,5,0,Agent,0
+01000783,57,1843193,2997346,69,692,24909,18,2,9,346532,Yes,Contract,Home improvement,Family,Postgraduate,1,3,Online,0
+01000784,54,926609,1716878,1,838,31472,18,7,23,379378,Yes,Self-employed,Personal,Owned,Graduate,1,2,Branch,1
+01000785,62,990977,1543140,69,500,48458,6,1,64,701184,Yes,Salaried,Vehicle,Owned,Graduate,3,5,Agent,0
+01000786,50,2460669,1952541,1,551,50989,2,6,48,623919,No,Contract,Home improvement,Rented,Graduate,4,1,Agent,0
+01000787,30,2292835,1076857,22,822,63752,8,0,45,580328,No,Salaried,Home improvement,Owned,Postgraduate,3,6,Online,0
+01000788,52,458234,1236915,57,760,28683,4,4,16,475065,No,Contract,Personal,Owned,School,5,8,Online,0
+01000789,29,1985957,753795,68,528,60237,18,5,53,274979,No,Salaried,Education,Rented,Postgraduate,5,9,Branch,1
+01000790,21,2562529,1594959,24,566,28350,9,5,40,843646,Yes,Salaried,Vehicle,Rented,Graduate,5,4,Online,0
+01000791,48,1476117,1176210,11,709,20557,9,2,67,90820,No,Salaried,Personal,Owned,Postgraduate,2,4,Agent,1
+01000792,40,1146323,793334,66,723,20092,21,1,26,299129,No,Salaried,Education,Family,School,1,8,Online,1
+01000793,58,2484146,1630930,7,794,23785,1,0,5,25012,No,Contract,Home improvement,Owned,School,0,0,Agent,0
+01000794,47,2084220,1702368,31,692,28446,18,6,66,1020028,No,Self-employed,Home improvement,Owned,Postgraduate,4,5,Agent,0
+01000795,52,2665912,117951,23,746,22632,19,0,18,737518,No,Salaried,Vehicle,Rented,Graduate,4,3,Branch,0
+01000796,35,2201894,3111080,33,737,39336,6,1,53,181989,Yes,Salaried,Education,Rented,School,5,9,Agent,1
+01000797,33,2992828,1541300,52,621,67249,22,1,12,833621,No,Contract,Home improvement,Owned,Graduate,0,1,Agent,0
+01000798,53,2745365,170531,52,662,53380,4,1,74,865437,Yes,Self-employed,Vehicle,Rented,Graduate,4,10,Online,0
+01000799,35,724946,3165042,52,644,59553,21,0,54,655687,Yes,Contract,Education,Owned,School,1,1,Branch,1
+01000800,44,1267747,3085507,58,614,74577,16,4,27,814989,No,Contract,Personal,Family,Graduate,3,0,Branch,1
+01000801,46,2167680,2311958,1,561,36564,1,0,85,6001,Yes,Self-employed,Home improvement,Family,Graduate,2,8,Online,0
+01000802,64,818972,685837,8,506,47980,17,1,10,601974,No,Contract,Personal,Owned,School,4,0,Branch,0
+01000803,63,1069648,1429326,24,618,55530,6,7,62,539258,No,Salaried,Home improvement,Owned,School,5,1,Branch,0
+01000804,42,752164,1194686,4,520,39191,7,3,72,710875,Yes,Self-employed,Personal,Family,Postgraduate,0,1,Branch,0
+01000805,42,2453216,1512161,5,671,73261,15,0,85,456708,Yes,Contract,Vehicle,Rented,Graduate,5,5,Branch,1
+01000806,62,2255276,1207250,10,630,47155,4,2,42,769590,No,Salaried,Home improvement,Owned,School,4,10,Online,0
+01000807,21,1024961,2975155,52,638,37918,21,1,46,948578,No,Self-employed,Personal,Rented,School,3,5,Online,1
+01000808,35,779666,2901250,18,638,71083,7,7,8,947266,Yes,Self-employed,Education,Rented,Postgraduate,3,3,Agent,1
+01000809,42,566816,1742838,2,700,27942,11,4,33,449155,Yes,Self-employed,Vehicle,Family,Postgraduate,3,1,Agent,1
+01000810,35,1572707,2491187,13,569,47311,21,4,48,876280,No,Contract,Education,Family,Postgraduate,3,10,Agent,1
+01000811,58,2535651,2866221,5,786,66181,21,0,20,869062,Yes,Self-employed,Home improvement,Rented,Graduate,3,8,Online,0
+01000812,22,2012804,2913114,56,810,28944,3,7,58,837905,No,Salaried,Home improvement,Rented,Graduate,1,10,Agent,1
+01000813,36,2276207,2924638,79,812,4315,12,2,14,87386,Yes,Contract,Home improvement,Rented,Postgraduate,2,8,Online,0
+01000814,39,2368024,140023,84,758,7345,2,4,82,796344,Yes,Contract,Personal,Owned,Postgraduate,5,0,Agent,1
+01000815,30,2287969,1176843,2,808,71889,14,1,78,180376,Yes,Contract,Personal,Owned,School,2,0,Agent,1
+01000816,29,829808,3132905,65,663,46491,14,7,41,1154994,Yes,Self-employed,Home improvement,Owned,School,3,9,Agent,1
+01000817,25,998987,1858027,36,747,16155,23,7,67,202306,Yes,Contract,Education,Rented,Graduate,5,5,Online,1
+01000818,68,353818,2750864,73,513,35625,3,7,56,867208,No,Self-employed,Home improvement,Owned,Graduate,5,4,Agent,0
+01000819,65,953344,1164560,9,818,46800,13,6,60,1024770,Yes,Salaried,Home improvement,Rented,Graduate,2,10,Branch,0
+01000820,69,2036932,323350,24,572,47794,18,1,82,855907,No,Self-employed,Education,Rented,Postgraduate,0,3,Online,0
+01000821,46,2340588,1668448,17,830,47743,12,0,52,226763,No,Contract,Home improvement,Family,Postgraduate,2,10,Online,0
+01000822,59,519682,2849239,14,651,25161,3,0,19,235102,Yes,Self-employed,Vehicle,Family,Graduate,1,5,Online,1
+01000823,44,404701,3216262,41,774,53402,6,1,79,480445,No,Salaried,Home improvement,Owned,Postgraduate,5,8,Online,1
+01000824,42,670769,1707786,47,790,12905,22,3,27,475730,No,Salaried,Personal,Family,School,0,0,Branch,1
+01000825,39,814458,2336972,53,484,33118,20,4,93,784594,No,Self-employed,Personal,Family,School,4,6,Branch,1
+01000826,33,1111971,1619326,64,795,52041,16,0,26,686957,Yes,Self-employed,Personal,Owned,Postgraduate,5,1,Agent,1
+01000827,29,2545656,1312210,58,670,47077,19,1,5,494427,Yes,Salaried,Education,Owned,Postgraduate,2,9,Online,1
+01000828,55,1509853,1209576,3,842,31722,16,2,91,138477,No,Contract,Vehicle,Family,Graduate,0,4,Agent,1
+01000829,53,2909765,874535,71,760,27530,4,3,89,303207,Yes,Salaried,Vehicle,Owned,Graduate,0,4,Online,0
+01000830,66,1248246,2076750,11,822,65477,3,4,12,1127838,Yes,Salaried,Vehicle,Rented,School,0,7,Branch,0
+01000831,60,2135907,3163873,72,793,14028,4,0,5,171378,Yes,Self-employed,Personal,Owned,School,5,5,Online,0
+01000832,44,1831385,849380,37,811,46356,15,3,45,424056,Yes,Self-employed,Education,Owned,School,1,4,Branch,1
+01000833,66,2752440,3352452,7,681,35028,8,4,37,525406,No,Salaried,Vehicle,Rented,School,2,6,Agent,0
+01000834,50,382268,3078197,30,755,73026,6,1,46,974900,Yes,Contract,Vehicle,Rented,Graduate,1,5,Agent,1
+01000835,52,418198,1497354,74,828,26502,23,7,74,736803,Yes,Self-employed,Home improvement,Family,Graduate,1,2,Branch,1
+01000836,50,1299581,2435364,6,760,62692,22,1,28,316613,No,Salaried,Personal,Rented,School,4,5,Agent,0
+01000837,46,2532315,3474258,44,482,12968,3,1,13,247250,No,Contract,Vehicle,Rented,Graduate,1,9,Online,0
+01000838,24,2382178,1622577,18,651,67100,18,7,87,1042871,Yes,Salaried,Education,Rented,Postgraduate,0,5,Online,1
+01000839,23,2816122,2584455,69,521,15080,16,4,47,382840,Yes,Salaried,Education,Family,Graduate,1,0,Branch,0
+01000840,52,2082521,1610662,57,548,17059,8,4,5,777279,Yes,Salaried,Home improvement,Owned,Graduate,0,0,Branch,0
+01000841,35,1763656,2982331,24,772,1818,4,0,30,901022,Yes,Salaried,Home improvement,Family,Postgraduate,1,8,Agent,0
+01000842,35,2784495,368387,70,629,20378,5,6,48,304680,Yes,Contract,Education,Rented,School,3,7,Branch,0
+01000843,62,1492566,337170,74,788,7590,11,3,90,372881,Yes,Salaried,Home improvement,Family,School,3,8,Online,1
+01000844,47,1545110,1779783,28,646,68555,24,6,77,255753,No,Contract,Vehicle,Family,Graduate,4,3,Branch,0
+01000845,43,2135559,1666676,8,761,16766,12,6,81,54276,No,Contract,Personal,Owned,Graduate,0,4,Agent,1
+01000846,43,782121,834111,5,705,17064,13,0,28,1162402,No,Contract,Education,Owned,Postgraduate,3,0,Branch,0
+01000847,21,1835587,3121527,17,645,9118,20,1,50,65281,No,Self-employed,Home improvement,Rented,Postgraduate,2,2,Agent,1
+01000848,33,2551485,3204970,77,675,15843,8,7,17,368521,No,Contract,Personal,Family,School,3,3,Branch,1
+01000849,40,2890313,3045055,51,495,10611,3,2,51,432645,No,Contract,Education,Family,Graduate,1,5,Online,0
+01000850,21,729904,1905387,57,541,27908,24,1,12,1049129,No,Self-employed,Personal,Family,Graduate,0,6,Online,1
+01000851,60,941297,1327598,12,537,52307,24,7,50,809247,Yes,Salaried,Education,Family,Graduate,2,10,Branch,0
+01000852,32,2502719,3290147,66,680,6746,14,0,69,338900,Yes,Self-employed,Personal,Rented,School,1,10,Branch,1
+01000853,38,2576758,2009978,22,497,61348,25,0,57,429206,Yes,Contract,Vehicle,Owned,Graduate,2,1,Branch,1
+01000854,48,1648566,2709457,60,616,1977,17,7,42,819000,Yes,Salaried,Education,Owned,School,5,7,Branch,1
+01000855,39,2481806,2025664,51,556,49081,16,6,84,364071,No,Self-employed,Vehicle,Rented,School,5,7,Branch,0
+01000856,56,2044948,1038103,56,674,27491,11,7,27,864979,Yes,Salaried,Personal,Owned,School,2,5,Online,0
+01000857,36,1080671,2982578,70,758,60788,1,6,15,459508,Yes,Salaried,Education,Family,Postgraduate,1,4,Branch,0
+01000858,42,2147189,1938219,57,845,70841,14,1,4,1111195,Yes,Salaried,Home improvement,Owned,School,2,4,Online,1
+01000859,53,2856755,1070791,71,745,67182,4,5,80,201439,Yes,Salaried,Vehicle,Owned,Postgraduate,5,6,Online,0
+01000860,47,2428412,365461,3,685,31884,8,7,72,588328,Yes,Salaried,Personal,Owned,Postgraduate,0,9,Online,0
+01000861,23,1589212,1614852,74,535,7090,17,3,15,969754,Yes,Contract,Home improvement,Family,Postgraduate,0,10,Online,1
+01000862,65,557495,2033424,39,829,23702,11,0,6,1169576,No,Contract,Personal,Family,Postgraduate,5,1,Branch,1
+01000863,54,2423712,257563,62,803,74150,16,5,17,346463,Yes,Self-employed,Education,Rented,Postgraduate,4,3,Agent,1
+01000864,66,2486717,1307281,43,684,57053,22,7,10,819494,No,Salaried,Vehicle,Owned,Graduate,1,1,Branch,1
+01000865,69,1320095,1995813,72,542,35112,21,4,69,704121,Yes,Contract,Education,Family,Graduate,4,9,Online,1
+01000866,24,1684803,788863,37,706,49475,2,1,63,1153060,No,Contract,Personal,Owned,Graduate,2,4,Online,1
+01000867,22,2681729,547562,71,772,46747,25,0,15,434323,No,Self-employed,Vehicle,Owned,Graduate,0,3,Agent,0
+01000868,46,2399739,3070553,18,704,25325,25,0,84,812107,Yes,Contract,Personal,Family,Postgraduate,3,8,Online,1
+01000869,53,2998241,304659,21,817,48596,1,6,58,757810,Yes,Salaried,Home improvement,Family,Graduate,0,1,Agent,1
+01000870,56,1238222,2034249,60,666,25052,18,6,34,345363,Yes,Self-employed,Personal,Rented,Graduate,1,4,Agent,0
+01000871,43,382538,519072,79,513,58131,21,4,95,491149,No,Self-employed,Personal,Rented,Graduate,0,6,Agent,1
+01000872,40,1792556,2112816,21,802,58424,10,3,28,1080636,Yes,Salaried,Education,Family,Graduate,5,9,Branch,0
+01000873,29,270330,943675,12,815,7928,18,4,56,572508,No,Salaried,Home improvement,Family,School,3,8,Agent,0
+01000874,39,1054980,2083056,33,515,11977,17,4,74,233535,No,Salaried,Education,Rented,Graduate,2,7,Online,1
+01000875,68,1315892,839155,47,587,50998,7,1,57,517094,No,Salaried,Vehicle,Rented,Graduate,2,6,Online,0
+01000876,38,2684363,1123365,72,786,31099,18,4,41,499882,Yes,Salaried,Vehicle,Owned,Postgraduate,4,7,Agent,0
+01000877,58,1017882,2430529,24,763,12874,17,7,52,216318,No,Contract,Home improvement,Owned,Graduate,3,6,Branch,1
+01000878,23,2688856,1463557,36,715,52921,11,4,75,344781,Yes,Self-employed,Personal,Owned,Postgraduate,2,3,Agent,0
+01000879,35,1235749,273417,16,813,463,17,1,67,1185802,No,Contract,Vehicle,Rented,School,2,3,Agent,1
+01000880,26,2669890,3075339,52,746,62569,11,5,90,808424,Yes,Contract,Vehicle,Owned,School,3,3,Agent,1
+01000881,47,669649,996552,12,700,70315,21,2,35,185263,No,Salaried,Education,Family,Graduate,4,10,Online,1
+01000882,29,2071051,2511598,54,728,13714,24,3,34,590486,No,Self-employed,Personal,Family,School,5,6,Online,1
+01000883,51,504719,2777770,36,809,25011,9,1,49,1093414,Yes,Contract,Vehicle,Rented,Graduate,4,7,Online,1
+01000884,40,2049387,321156,21,763,32016,3,2,30,969489,Yes,Self-employed,Home improvement,Rented,Graduate,4,2,Online,0
+01000885,42,301580,2211312,23,617,17981,2,0,88,584577,Yes,Self-employed,Vehicle,Family,School,0,1,Branch,0
+01000886,51,735781,2997723,72,658,27899,25,0,77,407014,Yes,Salaried,Personal,Owned,Graduate,1,1,Agent,0
+01000887,42,2673424,1469178,11,508,33057,21,6,27,155718,No,Salaried,Home improvement,Rented,Graduate,2,1,Online,1
+01000888,64,873969,1628671,35,677,61181,0,6,45,582570,No,Self-employed,Home improvement,Rented,Postgraduate,3,9,Branch,0
+01000889,30,2968888,1293604,64,525,16428,23,6,85,559984,Yes,Self-employed,Education,Rented,School,2,8,Online,1
+01000890,45,2378826,3443388,82,573,64214,15,2,12,1046683,Yes,Salaried,Home improvement,Owned,Postgraduate,0,1,Online,1
+01000891,50,700456,3486229,83,568,49038,6,5,56,21671,Yes,Contract,Education,Family,Postgraduate,2,0,Branch,1
+01000892,52,2317685,3093997,7,771,33247,18,4,43,788582,Yes,Self-employed,Home improvement,Family,Postgraduate,2,1,Branch,0
+01000893,24,2184685,2741611,57,787,18056,18,3,58,621964,Yes,Self-employed,Personal,Owned,Postgraduate,1,5,Branch,1
+01000894,33,749510,2246908,15,532,39718,5,6,50,462832,No,Self-employed,Personal,Owned,Graduate,4,5,Branch,1
+01000895,58,1078626,1354607,30,693,33913,20,3,51,186437,No,Salaried,Home improvement,Rented,Graduate,4,2,Agent,1
+01000896,48,1865238,523213,43,758,69791,20,1,59,65712,No,Self-employed,Home improvement,Rented,Graduate,2,1,Branch,0
+01000897,67,2722084,1945211,7,491,20481,6,0,21,1451,Yes,Self-employed,Personal,Rented,Graduate,2,2,Agent,0
+01000898,51,638115,1567241,24,702,69928,16,5,30,779408,No,Salaried,Home improvement,Family,Graduate,2,2,Agent,0
+01000899,49,2274459,3133681,41,682,52348,17,7,23,828010,Yes,Contract,Education,Family,Postgraduate,2,6,Online,1
+01000900,21,2493075,1992836,26,794,43837,4,6,87,565228,Yes,Self-employed,Personal,Rented,Graduate,5,9,Online,0
+01000901,69,1064864,1333920,24,725,64061,6,6,22,314033,Yes,Contract,Personal,Family,Postgraduate,3,3,Branch,0
+01000902,29,762057,592355,44,678,12014,7,3,37,376912,No,Self-employed,Education,Owned,Graduate,5,0,Agent,0
+01000903,48,766955,1348041,56,785,30917,8,0,14,1043866,Yes,Contract,Personal,Owned,Postgraduate,5,7,Branch,1
+01000904,58,2729134,1883018,53,695,24084,16,5,27,529990,No,Salaried,Home improvement,Rented,Postgraduate,4,8,Branch,1
+01000905,26,1528031,101241,76,519,70025,19,5,47,437228,No,Contract,Personal,Rented,Postgraduate,0,3,Online,0
+01000906,23,1865545,1905519,62,706,1637,13,0,76,858179,Yes,Contract,Vehicle,Family,School,1,8,Agent,0
+01000907,46,2382505,3157720,28,644,68861,0,6,70,620712,Yes,Salaried,Home improvement,Family,Graduate,4,10,Agent,0
+01000908,22,1110142,345743,40,714,61343,22,5,11,911961,Yes,Salaried,Education,Family,Postgraduate,0,8,Online,0
+01000909,54,1163739,2317073,76,650,6286,23,0,64,230915,No,Self-employed,Personal,Rented,Graduate,3,6,Agent,0
+01000910,28,2637512,1270993,1,791,29891,12,4,11,164413,Yes,Contract,Vehicle,Rented,Postgraduate,4,5,Agent,1
+01000911,66,1840608,2367280,16,526,72221,5,2,90,1012042,No,Self-employed,Home improvement,Rented,Postgraduate,3,5,Agent,0
+01000912,28,2179382,923290,51,704,35698,10,2,64,674021,Yes,Contract,Education,Rented,School,3,4,Branch,1
+01000913,23,1713664,2229760,15,595,70804,5,5,80,121287,Yes,Contract,Home improvement,Rented,School,0,5,Agent,1
+01000914,56,561088,990914,65,558,69933,22,4,11,568173,Yes,Contract,Personal,Owned,Graduate,4,8,Online,0
+01000915,42,993454,445023,28,720,21977,8,4,77,1009651,Yes,Salaried,Home improvement,Family,School,5,3,Online,1
+01000916,67,1093510,1249054,15,789,46142,7,7,82,460986,Yes,Self-employed,Vehicle,Owned,Postgraduate,2,8,Branch,0
+01000917,34,1538510,1840655,43,729,31686,23,7,77,929800,Yes,Contract,Personal,Rented,Postgraduate,4,10,Branch,1
+01000918,33,2540552,410673,44,831,30104,14,0,27,50017,No,Salaried,Personal,Family,School,3,9,Branch,0
+01000919,59,2997226,3460303,58,663,31480,1,3,43,395665,Yes,Self-employed,Personal,Owned,Postgraduate,5,6,Online,0
+01000920,37,323512,953205,23,746,74545,16,4,70,855955,No,Self-employed,Personal,Rented,School,4,2,Branch,1
+01000921,58,608461,2954826,46,526,32714,18,6,53,58930,Yes,Contract,Personal,Rented,School,3,10,Branch,1
+01000922,31,511508,2882353,69,728,17261,8,7,11,1180928,Yes,Salaried,Vehicle,Rented,Graduate,0,4,Branch,1
+01000923,23,2082213,767284,6,802,16253,12,4,71,171261,No,Contract,Vehicle,Owned,Postgraduate,1,6,Online,0
+01000924,30,610908,1514045,28,687,37597,8,5,88,751421,No,Self-employed,Home improvement,Rented,Graduate,0,9,Branch,1
+01000925,37,1026144,312003,83,697,61486,16,1,33,1087586,No,Salaried,Personal,Family,Postgraduate,2,5,Online,1
+01000926,61,2440501,1399826,74,832,23793,19,3,69,219791,Yes,Self-employed,Education,Family,Postgraduate,1,5,Branch,0
+01000927,27,1512480,225582,33,681,39383,11,1,52,801709,No,Self-employed,Education,Owned,Postgraduate,5,10,Branch,0
+01000928,57,1371327,2830037,46,597,2607,25,0,90,174345,No,Contract,Vehicle,Family,Graduate,1,2,Online,1
+01000929,39,2459736,2464427,26,606,43932,20,5,90,284730,Yes,Self-employed,Education,Owned,Postgraduate,4,7,Online,1
+01000930,35,2626298,1307079,23,587,54685,11,7,78,934258,No,Salaried,Home improvement,Family,Graduate,1,3,Agent,1
+01000931,37,1667280,2375542,60,491,34642,13,6,64,49906,No,Salaried,Vehicle,Family,Graduate,5,10,Branch,1
+01000932,45,1318448,1434061,26,676,31023,2,4,26,736231,No,Contract,Home improvement,Rented,Graduate,2,4,Online,0
+01000933,22,2172455,3141141,56,495,33742,19,3,50,187332,No,Self-employed,Home improvement,Rented,School,4,1,Agent,1
+01000934,40,1308683,2878272,60,510,12701,15,6,69,304301,Yes,Contract,Home improvement,Family,School,3,5,Agent,0
+01000935,26,340638,1619985,80,587,25401,10,3,37,462901,Yes,Self-employed,Personal,Owned,Postgraduate,4,2,Agent,1
+01000936,63,542205,1069270,78,664,11602,4,5,85,185502,Yes,Salaried,Home improvement,Family,School,3,5,Agent,0
+01000937,21,1299295,2476336,29,769,51300,24,3,31,806910,Yes,Self-employed,Education,Rented,School,4,8,Branch,1
+01000938,26,2565001,2535630,42,607,47790,16,2,59,963385,Yes,Salaried,Education,Owned,Postgraduate,5,7,Agent,0
+01000939,35,2291836,1760736,36,525,42024,21,7,11,235309,No,Contract,Vehicle,Rented,School,2,7,Branch,1
+01000940,44,1676218,2853893,21,730,58855,25,6,53,1113539,Yes,Self-employed,Personal,Rented,Graduate,5,9,Branch,1
+01000941,65,2570081,3002603,1,794,10555,13,5,39,676791,No,Salaried,Education,Rented,Graduate,3,9,Agent,1
+01000942,39,1130406,943687,78,691,38709,18,2,24,132761,Yes,Contract,Vehicle,Rented,School,2,3,Online,0
+01000943,21,2787972,3324428,62,667,51311,24,0,43,774390,Yes,Self-employed,Home improvement,Rented,Graduate,0,7,Agent,0
+01000944,45,2626659,2234061,64,702,30247,7,6,21,1016684,Yes,Self-employed,Vehicle,Rented,Postgraduate,3,3,Agent,1
+01000945,57,596357,193020,11,640,50032,12,0,41,604688,No,Salaried,Vehicle,Rented,School,3,6,Branch,0
+01000946,26,1540626,2219159,42,545,10695,3,6,10,11403,No,Self-employed,Personal,Owned,School,0,4,Agent,0
+01000947,31,1690092,1324157,3,779,20644,25,7,93,982800,No,Contract,Education,Rented,School,2,10,Agent,1
+01000948,40,2807973,1849425,83,786,30881,8,7,70,769261,Yes,Salaried,Education,Family,Graduate,5,6,Branch,0
+01000949,22,885042,149584,1,536,71781,15,4,24,503101,No,Salaried,Home improvement,Rented,Graduate,5,0,Online,0
+01000950,62,2100729,1237292,32,783,39190,19,4,54,421816,Yes,Contract,Education,Family,School,0,0,Online,1
+01000951,25,1640291,700900,19,507,17560,21,7,54,703715,No,Self-employed,Education,Family,Graduate,5,7,Online,1
+01000952,38,2251378,756720,24,526,22427,5,0,76,1147425,Yes,Contract,Home improvement,Rented,Postgraduate,1,10,Online,0
+01000953,33,2540998,2882198,50,551,32799,11,1,80,67675,Yes,Contract,Home improvement,Family,Postgraduate,1,4,Branch,0
+01000954,32,1986824,2926881,79,807,35819,22,5,90,775416,Yes,Self-employed,Vehicle,Family,Graduate,2,0,Branch,0
+01000955,23,1733065,1328876,47,579,69425,18,3,29,786413,Yes,Salaried,Personal,Rented,School,1,8,Agent,1
+01000956,34,1177898,560099,61,608,67222,8,0,7,50212,No,Salaried,Vehicle,Family,School,2,4,Branch,0
+01000957,52,1478062,260770,25,666,22197,12,4,89,347285,Yes,Self-employed,Education,Family,Graduate,2,5,Online,1
+01000958,43,2559549,479951,81,698,2495,12,7,19,397414,No,Contract,Education,Family,Postgraduate,3,3,Branch,1
+01000959,53,1503097,1802680,36,654,34722,13,7,24,655619,Yes,Self-employed,Personal,Rented,Graduate,2,1,Agent,0
+01000960,47,668671,3285068,60,503,49685,2,5,91,1013934,Yes,Contract,Vehicle,Owned,Graduate,2,10,Branch,1
+01000961,35,2576253,579663,39,825,53245,20,4,4,606225,No,Salaried,Education,Family,Postgraduate,2,9,Branch,1
+01000962,66,2235765,731064,40,702,52135,14,2,33,57015,No,Self-employed,Vehicle,Owned,Postgraduate,2,5,Online,1
+01000963,68,1153592,1520721,21,574,25860,19,6,68,1134610,Yes,Contract,Education,Family,Postgraduate,2,5,Branch,0
+01000964,47,2677864,181237,79,700,23094,13,4,81,462828,Yes,Salaried,Home improvement,Family,Postgraduate,5,7,Agent,1
+01000965,61,2058268,2826310,61,504,33918,19,7,17,534991,No,Self-employed,Vehicle,Rented,School,3,8,Branch,0
+01000966,23,2595583,968774,35,812,69940,23,5,4,946273,Yes,Contract,Personal,Family,Graduate,2,2,Online,1
+01000967,66,327253,2017886,5,720,9386,5,6,23,460566,Yes,Salaried,Education,Rented,School,4,2,Agent,0
+01000968,44,471980,2887249,35,651,13572,3,0,37,1070789,No,Salaried,Vehicle,Rented,Postgraduate,1,5,Branch,0
+01000969,63,2721893,513384,28,632,68714,4,2,14,315664,Yes,Contract,Personal,Family,Graduate,3,6,Online,0
+01000970,37,2072435,2642806,56,622,60896,20,6,83,379002,Yes,Salaried,Home improvement,Family,Postgraduate,3,5,Online,1
+01000971,42,1621300,754894,17,574,56589,18,7,83,974648,Yes,Contract,Vehicle,Rented,Graduate,0,8,Branch,1
+01000972,67,825761,2139911,37,551,32225,21,0,37,1069818,No,Self-employed,Personal,Family,School,1,6,Branch,0
+01000973,55,2752177,2296430,70,553,11082,1,6,5,512963,No,Self-employed,Vehicle,Owned,Graduate,0,5,Online,0
+01000974,50,1079341,650978,27,533,59447,17,3,57,143453,Yes,Salaried,Personal,Family,Graduate,3,3,Online,0
+01000975,42,2973708,1660152,65,846,57585,19,4,15,230404,No,Self-employed,Vehicle,Family,Graduate,5,7,Branch,1
+01000976,31,725936,1754978,52,570,8348,7,6,29,1075986,No,Salaried,Home improvement,Rented,School,4,1,Branch,0
+01000977,23,262925,3318743,58,692,44810,2,7,31,656298,Yes,Salaried,Vehicle,Rented,Graduate,2,3,Branch,1
+01000978,32,2260645,2752088,54,688,30390,13,2,28,279967,Yes,Salaried,Vehicle,Rented,Graduate,2,0,Online,0
+01000979,28,877387,2674839,68,731,29122,2,6,8,19777,Yes,Self-employed,Education,Rented,Graduate,4,5,Online,1
+01000980,34,733438,1165638,80,752,6017,1,4,75,135521,No,Salaried,Home improvement,Rented,Graduate,3,1,Branch,0
+01000981,56,2383760,1837677,10,765,7518,1,7,40,17622,Yes,Contract,Education,Owned,Graduate,0,7,Agent,1
+01000982,50,987295,1613537,70,837,8526,13,5,63,990218,Yes,Self-employed,Home improvement,Family,School,3,8,Agent,1
+01000983,68,1288952,1600724,33,672,43110,1,0,34,1099427,No,Self-employed,Personal,Rented,Postgraduate,0,1,Agent,0
+01000984,57,2632805,2175250,31,607,66132,13,7,74,159131,Yes,Salaried,Vehicle,Rented,School,2,1,Branch,1
+01000985,67,1585254,209088,78,513,16610,4,4,79,199042,Yes,Contract,Home improvement,Owned,Graduate,4,6,Online,0
+01000986,59,1624939,2602156,20,647,20584,3,6,33,279338,No,Salaried,Education,Owned,School,2,10,Online,0
+01000987,22,2743823,2070244,74,688,25191,5,1,91,465590,No,Salaried,Education,Family,Postgraduate,0,0,Online,0
+01000988,22,1485151,871778,73,528,11763,10,0,44,493349,Yes,Salaried,Education,Family,Graduate,0,7,Agent,0
+01000989,47,2375694,285720,76,619,67298,6,2,33,934926,Yes,Self-employed,Vehicle,Owned,Graduate,4,10,Agent,0
+01000990,48,512421,587478,33,639,27053,9,5,32,856859,Yes,Contract,Vehicle,Rented,Graduate,5,9,Online,0
+01000991,45,1526586,3026331,10,751,57340,10,0,27,521438,Yes,Salaried,Personal,Family,Graduate,2,6,Agent,0
+01000992,39,2793166,2420462,73,760,49136,23,3,12,257005,Yes,Salaried,Home improvement,Family,Postgraduate,3,8,Agent,1
+01000993,35,1944669,2932596,73,557,12746,12,4,31,187485,Yes,Contract,Home improvement,Family,Postgraduate,3,3,Agent,1
+01000994,32,1606172,1916057,23,605,53138,3,1,60,1123798,Yes,Salaried,Home improvement,Owned,Postgraduate,5,9,Agent,0
+01000995,54,997136,3456869,16,792,32485,0,2,23,579420,Yes,Self-employed,Education,Rented,Graduate,2,0,Agent,0
+01000996,27,2072721,2009046,11,772,13713,10,6,15,117063,No,Salaried,Home improvement,Family,Postgraduate,5,10,Online,0
+01000997,28,2756241,401743,27,836,15004,8,2,13,1169570,No,Self-employed,Education,Family,School,4,8,Online,0
+01000998,41,2160192,1364617,23,525,24435,15,1,64,262792,Yes,Salaried,Education,Rented,School,4,2,Agent,0
+01000999,66,2339360,2407348,24,654,46838,14,4,54,1855,No,Contract,Vehicle,Family,Graduate,1,7,Online,1
+01001000,69,380524,3142306,40,584,50597,0,3,30,589028,Yes,Self-employed,Vehicle,Owned,Graduate,4,10,Online,0

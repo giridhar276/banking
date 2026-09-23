@@ -1,0 +1,1001 @@
+mortgage_application_id,applicant_age,gross_income_inr,property_value_inr,down_payment_inr,requested_mortgage_inr,credit_score,debt_to_income_pct,employment_years,recent_delinquencies,property_type,employment_category,coapplicant,property_city_tier,existing_mortgage,documentation_complete,savings_inr,loan_term_years,property_usage,preapproved
+05000001,62,851858,4233468,1482976,23,622,61,24,10,Plot,Self-employed,Yes,Tier 3,No,No,1086557,22,Investment,0
+05000002,62,1425630,10648589,4122506,45,823,65,1,8,Plot,Business,No,Tier 1,Yes,No,675673,14,Investment,1
+05000003,66,389061,5858207,1919367,52,745,13,10,9,Independent house,Salaried,Yes,Tier 3,No,No,111539,16,Self occupied,1
+05000004,39,1505027,11905394,1360280,61,511,85,25,2,Independent house,Salaried,Yes,Tier 2,Yes,Yes,63026,17,Self occupied,0
+05000005,53,1098814,17400824,140916,38,482,39,5,9,Plot,Self-employed,Yes,Tier 2,Yes,Yes,1257619,25,Investment,1
+05000006,33,1143783,1824391,5569404,61,742,61,18,9,Apartment,Self-employed,Yes,Tier 3,Yes,No,692296,19,Investment,1
+05000007,46,1461912,13684777,611023,26,803,49,17,0,Apartment,Business,No,Tier 2,Yes,Yes,1787227,20,Investment,0
+05000008,49,699655,17393838,3366966,44,623,7,10,6,Independent house,Business,No,Tier 1,No,No,43886,1,Self occupied,0
+05000009,68,2707222,11738205,803057,39,488,18,11,5,Apartment,Business,No,Tier 1,No,No,386760,1,Self occupied,0
+05000010,55,2392390,4761907,1626226,33,591,78,13,3,Apartment,Salaried,Yes,Tier 1,Yes,No,605041,4,Self occupied,1
+05000011,67,877039,16194724,3670720,34,680,87,4,9,Apartment,Business,No,Tier 3,Yes,No,958181,1,Self occupied,1
+05000012,25,1189877,4274670,4027611,41,692,52,18,4,Independent house,Self-employed,Yes,Tier 1,No,No,1606535,12,Investment,1
+05000013,30,656353,4217646,3931419,31,638,72,24,9,Apartment,Salaried,No,Tier 2,Yes,Yes,1552059,20,Investment,1
+05000014,24,1924963,16845423,483812,67,502,84,13,3,Apartment,Self-employed,Yes,Tier 2,No,No,760027,2,Self occupied,1
+05000015,48,2591652,3659960,2849997,65,833,67,15,6,Plot,Business,Yes,Tier 3,No,Yes,922977,14,Investment,1
+05000016,28,2314819,8067405,3543477,44,832,14,3,9,Plot,Salaried,No,Tier 3,Yes,No,1519529,6,Self occupied,0
+05000017,58,730285,16716357,3481601,48,632,50,0,10,Independent house,Business,Yes,Tier 2,No,No,1135887,23,Investment,1
+05000018,35,1949029,1746797,4372343,57,574,29,9,9,Independent house,Business,No,Tier 3,Yes,Yes,615254,2,Self occupied,0
+05000019,60,997735,11842782,997578,23,719,81,2,10,Plot,Business,No,Tier 3,Yes,Yes,776305,12,Investment,1
+05000020,54,525142,3591111,2259635,63,588,88,25,5,Apartment,Salaried,Yes,Tier 2,No,No,292192,22,Investment,0
+05000021,46,2973721,13672187,4486472,26,693,79,11,10,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,1179682,3,Self occupied,1
+05000022,61,2138179,2580076,4600555,49,483,78,22,1,Independent house,Self-employed,No,Tier 2,No,Yes,958997,16,Investment,0
+05000023,60,1332713,13355895,4804515,34,734,34,1,3,Plot,Self-employed,No,Tier 3,No,No,1778146,13,Self occupied,1
+05000024,56,2673679,3184446,443368,60,712,68,16,5,Plot,Self-employed,Yes,Tier 2,No,No,1195977,18,Investment,1
+05000025,45,841096,4838614,5449444,50,682,63,25,8,Plot,Business,Yes,Tier 2,No,No,1748949,6,Self occupied,1
+05000026,51,2363378,3801546,3463758,23,706,77,6,3,Apartment,Salaried,No,Tier 3,No,Yes,385226,1,Investment,0
+05000027,27,2085824,10859945,4818690,42,492,84,1,10,Plot,Business,No,Tier 1,Yes,No,1662716,22,Investment,0
+05000028,63,718597,4982855,2094169,28,711,84,0,10,Independent house,Salaried,No,Tier 2,Yes,Yes,458519,19,Investment,0
+05000029,61,1153238,9671813,125508,47,722,42,25,0,Independent house,Self-employed,Yes,Tier 1,No,Yes,701900,0,Investment,1
+05000030,62,709202,15973954,4546158,39,649,32,5,7,Apartment,Self-employed,Yes,Tier 1,No,Yes,508142,3,Self occupied,1
+05000031,23,2379239,7041887,1027184,31,646,25,1,1,Apartment,Salaried,Yes,Tier 2,Yes,No,115408,17,Self occupied,0
+05000032,32,2044078,12774864,3092100,46,734,72,4,8,Independent house,Self-employed,Yes,Tier 3,No,Yes,1287555,0,Investment,0
+05000033,55,2762340,12040690,777883,21,483,55,5,2,Plot,Business,No,Tier 2,Yes,Yes,219576,8,Investment,0
+05000034,67,267968,5096797,3409465,66,537,59,23,3,Independent house,Salaried,No,Tier 1,Yes,Yes,758811,0,Investment,1
+05000035,28,2806593,15994192,3242622,61,792,70,6,5,Independent house,Business,Yes,Tier 2,No,No,1070053,0,Self occupied,1
+05000036,42,2687294,6760269,3266196,56,616,94,15,2,Apartment,Salaried,Yes,Tier 3,Yes,Yes,1356528,1,Investment,1
+05000037,27,538824,2849791,4715784,48,752,28,3,6,Plot,Self-employed,No,Tier 1,Yes,Yes,374273,12,Investment,1
+05000038,23,886835,1586737,358398,66,568,73,24,10,Independent house,Salaried,Yes,Tier 3,Yes,Yes,96827,15,Investment,0
+05000039,22,940399,9401966,3512823,63,597,14,15,9,Independent house,Business,Yes,Tier 1,No,Yes,1731207,15,Investment,1
+05000040,47,367329,7072193,5029657,21,758,69,19,2,Apartment,Self-employed,Yes,Tier 1,No,Yes,695071,10,Investment,1
+05000041,36,734770,15411611,3267002,41,606,5,7,8,Apartment,Business,Yes,Tier 3,No,No,308193,15,Investment,1
+05000042,30,2910522,5748462,4053134,64,636,52,10,7,Independent house,Salaried,Yes,Tier 2,Yes,Yes,1279028,2,Self occupied,1
+05000043,27,1051474,1651017,543478,53,674,42,10,1,Independent house,Salaried,Yes,Tier 2,Yes,No,186708,7,Self occupied,1
+05000044,39,1244226,14960439,694622,29,775,77,8,3,Apartment,Self-employed,Yes,Tier 2,Yes,No,460609,9,Investment,1
+05000045,26,2248185,17084373,5545004,59,571,49,8,3,Independent house,Salaried,No,Tier 1,No,Yes,400117,16,Self occupied,1
+05000046,37,2271018,13501097,3003943,35,761,24,9,3,Plot,Self-employed,Yes,Tier 1,Yes,No,874218,25,Investment,0
+05000047,29,855453,17521580,234385,42,694,76,8,5,Plot,Salaried,No,Tier 2,No,Yes,1163906,24,Self occupied,1
+05000048,69,1566143,2963121,1512824,57,621,93,15,10,Independent house,Business,No,Tier 1,No,Yes,1089945,7,Investment,1
+05000049,54,1856887,8581934,5644071,34,492,93,18,7,Independent house,Salaried,Yes,Tier 2,No,Yes,1623825,23,Investment,0
+05000050,30,993399,9203797,4039993,38,561,21,4,1,Independent house,Self-employed,No,Tier 1,No,Yes,1112888,8,Self occupied,0
+05000051,31,771233,12198817,4364896,52,713,45,6,3,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,437160,1,Investment,0
+05000052,28,811564,16058074,4005694,35,721,53,13,7,Independent house,Business,Yes,Tier 2,Yes,No,920547,6,Investment,1
+05000053,27,1852076,16360252,983933,51,830,31,17,4,Plot,Salaried,No,Tier 3,No,Yes,56545,23,Self occupied,1
+05000054,60,880083,9737371,5427167,29,725,82,1,8,Apartment,Business,Yes,Tier 3,No,Yes,1604637,22,Investment,1
+05000055,55,1865746,8473537,5849208,53,747,65,4,3,Plot,Business,Yes,Tier 3,No,No,1486136,16,Investment,1
+05000056,45,2989825,9068997,5249460,27,789,29,14,0,Plot,Salaried,Yes,Tier 1,No,No,578113,13,Investment,1
+05000057,42,2431883,1706287,3140133,58,564,75,6,10,Independent house,Self-employed,No,Tier 2,Yes,Yes,493087,7,Investment,1
+05000058,48,2827880,2286775,5493104,27,694,71,14,0,Plot,Salaried,No,Tier 3,No,Yes,340641,6,Investment,1
+05000059,44,2319343,17979424,3105106,21,808,90,3,6,Independent house,Salaried,Yes,Tier 1,No,No,1524077,23,Self occupied,0
+05000060,26,1169687,2923735,575959,26,812,7,15,5,Plot,Business,Yes,Tier 3,No,Yes,1437730,0,Investment,0
+05000061,32,2779208,17877121,4140691,56,705,34,11,9,Apartment,Self-employed,Yes,Tier 1,Yes,Yes,1140166,6,Investment,0
+05000062,27,665268,3154894,3314509,41,655,61,14,1,Independent house,Business,No,Tier 1,No,No,980852,2,Self occupied,1
+05000063,69,1828301,3909314,479162,41,778,13,20,5,Apartment,Salaried,Yes,Tier 3,No,Yes,627773,15,Self occupied,0
+05000064,40,1377228,14386886,2950331,31,705,32,17,1,Apartment,Business,Yes,Tier 3,No,Yes,113763,18,Self occupied,0
+05000065,29,1964770,7563814,1535710,68,589,95,20,8,Apartment,Salaried,Yes,Tier 1,Yes,Yes,1537554,4,Self occupied,0
+05000066,68,1297107,7614938,1388374,61,683,61,16,3,Plot,Business,No,Tier 3,Yes,Yes,720367,18,Investment,0
+05000067,40,1668061,14520860,2664176,25,586,5,13,10,Independent house,Self-employed,No,Tier 2,Yes,Yes,273247,22,Investment,1
+05000068,42,1108010,13961398,1763246,33,682,57,19,0,Apartment,Salaried,Yes,Tier 1,Yes,No,1352723,25,Investment,0
+05000069,65,2073357,10385587,2428081,34,759,25,2,3,Apartment,Business,Yes,Tier 2,No,Yes,36843,9,Investment,0
+05000070,43,408566,4794556,2140424,37,583,22,12,6,Plot,Business,No,Tier 2,Yes,No,92832,5,Self occupied,0
+05000071,40,959130,17789498,2035874,32,566,51,14,4,Apartment,Salaried,No,Tier 2,No,No,722954,2,Self occupied,0
+05000072,38,1398196,4167594,594823,42,655,22,16,8,Plot,Self-employed,Yes,Tier 3,No,Yes,33415,11,Self occupied,0
+05000073,49,270851,3019711,4400063,50,847,8,17,8,Apartment,Self-employed,No,Tier 3,Yes,No,208955,6,Investment,0
+05000074,61,2869713,7704043,4531495,57,620,43,12,3,Plot,Salaried,Yes,Tier 1,Yes,No,1387127,25,Self occupied,1
+05000075,64,1842199,17807148,4557444,31,556,88,5,4,Apartment,Salaried,No,Tier 3,Yes,Yes,704669,16,Investment,1
+05000076,55,472959,12113144,692878,43,533,22,7,7,Independent house,Self-employed,Yes,Tier 1,Yes,No,346966,12,Investment,0
+05000077,68,1304789,8491453,3228594,38,608,6,14,1,Apartment,Salaried,Yes,Tier 1,Yes,No,1591982,3,Self occupied,0
+05000078,33,1915681,2196274,1963326,46,506,71,5,7,Plot,Business,No,Tier 3,Yes,No,748782,9,Self occupied,1
+05000079,54,411850,17030046,1904749,68,846,8,17,6,Plot,Salaried,Yes,Tier 2,No,No,471091,25,Investment,1
+05000080,64,2030631,14753787,594024,37,734,28,11,6,Plot,Business,No,Tier 3,Yes,No,562550,5,Self occupied,0
+05000081,27,1983376,12469597,5987627,29,619,42,10,2,Plot,Salaried,Yes,Tier 3,Yes,Yes,1012670,22,Investment,0
+05000082,67,267552,5253178,5019003,34,506,73,20,2,Plot,Business,Yes,Tier 1,Yes,No,1746539,5,Investment,0
+05000083,50,391069,10091808,3269181,54,500,64,23,0,Independent house,Business,Yes,Tier 3,Yes,No,1041384,8,Investment,1
+05000084,25,2590809,3087982,5671279,65,688,55,21,4,Plot,Business,Yes,Tier 3,No,No,1713941,20,Investment,1
+05000085,59,1159866,17779295,5293967,49,693,82,0,7,Independent house,Self-employed,No,Tier 3,Yes,Yes,1263207,14,Investment,0
+05000086,61,834589,7091177,3281857,45,506,63,24,5,Plot,Self-employed,Yes,Tier 2,Yes,Yes,610366,22,Investment,0
+05000087,61,1341734,16676568,5020180,68,682,22,13,10,Plot,Self-employed,No,Tier 1,No,Yes,433852,10,Investment,0
+05000088,43,275701,3952202,3631667,51,713,74,7,4,Apartment,Business,Yes,Tier 2,Yes,Yes,729970,0,Investment,0
+05000089,39,2524859,4213869,5719437,23,531,21,7,7,Plot,Self-employed,Yes,Tier 1,Yes,Yes,618435,22,Investment,1
+05000090,67,395642,9012021,4021540,23,763,42,17,1,Independent house,Salaried,Yes,Tier 3,Yes,Yes,1601078,13,Investment,1
+05000091,50,2430697,4117165,4658175,66,687,34,9,4,Plot,Business,No,Tier 1,Yes,No,1391370,7,Investment,0
+05000092,31,1376586,4307054,3579261,45,607,41,3,4,Apartment,Self-employed,No,Tier 2,No,Yes,1372785,15,Self occupied,1
+05000093,39,1394660,5283909,2991310,37,683,41,15,5,Plot,Salaried,No,Tier 2,Yes,No,1161085,25,Self occupied,1
+05000094,42,981888,8885199,1642795,39,825,27,16,1,Independent house,Self-employed,Yes,Tier 3,No,No,507383,1,Self occupied,0
+05000095,53,507834,3973352,5302937,31,709,74,8,6,Apartment,Business,No,Tier 3,No,No,286557,0,Self occupied,1
+05000096,64,1900933,1540865,2457541,55,744,65,20,1,Apartment,Business,Yes,Tier 2,No,No,239777,18,Investment,1
+05000097,44,1687721,15365021,3713760,25,550,94,10,2,Independent house,Business,Yes,Tier 3,No,No,693221,9,Self occupied,1
+05000098,43,2795813,6696122,4182704,27,828,88,25,10,Apartment,Salaried,Yes,Tier 1,Yes,No,969432,24,Self occupied,1
+05000099,37,1560104,15844854,1689821,61,694,35,15,10,Plot,Salaried,Yes,Tier 3,No,Yes,485818,23,Investment,0
+05000100,61,1447735,15309059,800456,27,772,39,25,4,Plot,Business,Yes,Tier 1,Yes,Yes,862733,6,Self occupied,1
+05000101,31,2755678,5186607,1008067,33,663,89,18,8,Plot,Self-employed,No,Tier 1,Yes,No,1205866,19,Self occupied,1
+05000102,47,1779493,3938517,410536,29,480,22,22,4,Plot,Business,No,Tier 2,Yes,Yes,770229,7,Investment,1
+05000103,39,492210,5163321,999012,55,523,84,14,8,Apartment,Salaried,No,Tier 1,No,No,691750,17,Investment,0
+05000104,31,2520215,17803384,1865901,26,694,13,14,0,Apartment,Business,No,Tier 3,No,No,1677191,3,Investment,0
+05000105,65,343263,14493939,4122964,62,586,41,13,8,Plot,Self-employed,No,Tier 3,Yes,Yes,272278,19,Self occupied,0
+05000106,22,1952870,4404358,4026890,27,777,49,8,2,Independent house,Self-employed,Yes,Tier 3,Yes,No,673585,22,Self occupied,1
+05000107,25,2943604,2582268,4616751,51,764,81,3,10,Apartment,Business,Yes,Tier 2,No,Yes,1179113,12,Investment,0
+05000108,69,520416,10878066,3501913,48,618,4,20,9,Plot,Salaried,No,Tier 1,Yes,Yes,1252897,15,Investment,1
+05000109,36,2898967,11555057,1996373,52,691,33,10,8,Plot,Self-employed,Yes,Tier 2,Yes,No,771849,12,Self occupied,0
+05000110,69,2650365,9481158,3418057,22,805,68,4,0,Apartment,Business,Yes,Tier 3,No,Yes,1437248,19,Self occupied,0
+05000111,34,1725900,13964364,743697,57,775,20,0,5,Apartment,Self-employed,No,Tier 1,Yes,Yes,317288,8,Investment,0
+05000112,54,1190913,8232312,2913282,24,607,60,12,1,Apartment,Self-employed,Yes,Tier 2,Yes,No,1179093,9,Investment,0
+05000113,22,1092842,1665055,5557065,59,747,82,9,5,Plot,Business,No,Tier 3,Yes,No,931411,11,Investment,0
+05000114,37,261645,2377966,4695752,29,848,21,17,6,Apartment,Self-employed,Yes,Tier 1,Yes,Yes,999277,2,Investment,0
+05000115,67,373467,17511911,3642201,37,603,27,18,8,Independent house,Salaried,No,Tier 3,Yes,No,1163038,2,Investment,0
+05000116,66,1244732,4564403,5796683,27,707,64,18,10,Plot,Self-employed,Yes,Tier 3,No,No,1676198,8,Investment,1
+05000117,25,459332,16460366,2405242,49,515,62,13,5,Independent house,Salaried,No,Tier 3,Yes,No,1192915,2,Self occupied,1
+05000118,68,852468,4014826,4720604,23,738,56,10,1,Plot,Salaried,No,Tier 1,Yes,Yes,886440,14,Investment,0
+05000119,21,316792,4560430,1637067,64,612,60,18,6,Apartment,Business,No,Tier 1,Yes,Yes,522077,16,Self occupied,1
+05000120,30,2294460,7449143,1882646,66,684,79,20,0,Apartment,Salaried,Yes,Tier 2,Yes,No,1532951,12,Self occupied,0
+05000121,37,2278160,10500401,5664297,65,617,83,20,10,Apartment,Salaried,No,Tier 1,No,Yes,680475,10,Self occupied,0
+05000122,25,1163259,10870721,269652,56,766,56,16,4,Plot,Salaried,No,Tier 2,Yes,No,1005822,17,Investment,0
+05000123,24,566482,5344947,5530545,63,481,65,8,10,Plot,Salaried,Yes,Tier 1,No,No,670648,14,Investment,1
+05000124,46,695425,8268318,5932437,47,725,50,10,3,Apartment,Self-employed,Yes,Tier 1,Yes,Yes,1360509,19,Self occupied,1
+05000125,37,955340,4104200,4408146,30,777,19,14,5,Apartment,Salaried,No,Tier 1,Yes,Yes,1414594,24,Investment,0
+05000126,46,2307564,4799266,2025726,30,586,65,0,2,Apartment,Salaried,Yes,Tier 3,Yes,No,1677479,12,Self occupied,1
+05000127,24,1334142,8902945,2978571,45,635,71,2,2,Apartment,Salaried,No,Tier 2,Yes,Yes,436789,20,Self occupied,0
+05000128,24,1434366,7835791,629675,67,637,45,1,3,Plot,Self-employed,No,Tier 1,No,No,1175297,10,Self occupied,0
+05000129,30,745156,10842977,3648704,66,613,93,13,6,Independent house,Salaried,Yes,Tier 3,No,Yes,1244009,9,Self occupied,1
+05000130,59,1199656,8724017,977464,67,585,29,12,10,Apartment,Business,Yes,Tier 3,No,No,975516,10,Investment,1
+05000131,25,550062,5074204,4615898,52,841,22,11,7,Apartment,Self-employed,Yes,Tier 3,No,Yes,883917,21,Investment,1
+05000132,53,1587476,2309530,3049306,30,808,56,25,10,Independent house,Business,Yes,Tier 2,No,No,298213,24,Self occupied,1
+05000133,62,420354,2437960,2289865,69,630,47,16,1,Plot,Salaried,Yes,Tier 3,Yes,No,1355020,13,Self occupied,0
+05000134,23,436507,8867009,1301202,34,506,21,20,0,Independent house,Business,No,Tier 3,No,Yes,738161,22,Self occupied,0
+05000135,62,2929486,8994134,973876,61,570,54,5,0,Independent house,Business,Yes,Tier 2,Yes,No,1003290,13,Self occupied,0
+05000136,21,801276,4618203,709955,34,791,81,4,5,Apartment,Self-employed,Yes,Tier 3,No,Yes,678359,23,Self occupied,0
+05000137,43,1568318,14495569,5879528,51,490,36,6,5,Plot,Business,Yes,Tier 1,Yes,No,962150,2,Self occupied,0
+05000138,68,2355838,10531001,2860492,57,757,19,24,5,Plot,Self-employed,No,Tier 1,Yes,No,1089059,6,Investment,1
+05000139,67,2797030,17635100,3200082,24,674,8,12,7,Plot,Self-employed,Yes,Tier 1,Yes,Yes,245598,18,Self occupied,0
+05000140,27,2871307,12615579,321496,36,514,91,4,10,Independent house,Salaried,No,Tier 3,No,No,939058,0,Investment,0
+05000141,53,1523404,4023321,1884623,65,800,69,6,5,Apartment,Business,No,Tier 2,Yes,Yes,1085231,21,Self occupied,0
+05000142,58,1039935,4509924,5663739,50,572,87,12,1,Independent house,Self-employed,No,Tier 2,No,Yes,922435,6,Investment,0
+05000143,31,2385165,4916920,3214135,64,788,42,15,0,Independent house,Business,Yes,Tier 2,No,No,435522,13,Self occupied,1
+05000144,59,1712465,2722931,901751,38,621,86,4,7,Independent house,Self-employed,Yes,Tier 3,No,No,288056,16,Self occupied,1
+05000145,25,2171402,5724885,3340456,48,533,80,17,10,Apartment,Self-employed,Yes,Tier 3,Yes,No,292790,15,Self occupied,1
+05000146,41,769799,13936283,3526354,30,605,51,13,4,Plot,Business,Yes,Tier 3,Yes,No,937236,16,Investment,0
+05000147,21,829770,13839607,3230732,61,760,29,9,0,Apartment,Business,Yes,Tier 3,Yes,Yes,965625,25,Investment,1
+05000148,57,625495,16745816,2282682,58,749,16,9,8,Independent house,Self-employed,Yes,Tier 1,Yes,Yes,39571,7,Investment,1
+05000149,43,497843,11548812,4506924,27,709,29,3,5,Apartment,Self-employed,No,Tier 3,No,Yes,952690,23,Self occupied,1
+05000150,38,2205141,5963379,1523176,57,515,52,2,3,Independent house,Salaried,Yes,Tier 3,No,Yes,1795389,1,Investment,1
+05000151,34,2189171,14861044,5333436,41,700,84,11,5,Plot,Salaried,No,Tier 3,No,Yes,677293,5,Self occupied,1
+05000152,25,2649350,16937562,2294060,44,618,16,11,0,Apartment,Business,No,Tier 1,No,Yes,991241,21,Self occupied,1
+05000153,42,2142747,16349220,200756,22,679,74,13,0,Plot,Self-employed,Yes,Tier 3,Yes,Yes,951462,20,Self occupied,0
+05000154,45,2841806,11173456,1292969,63,539,91,10,10,Plot,Salaried,No,Tier 2,No,No,732156,3,Investment,1
+05000155,43,319231,12729545,3829619,22,483,4,2,4,Apartment,Salaried,Yes,Tier 3,No,No,1300471,11,Investment,0
+05000156,44,921990,6914513,1135771,61,736,14,17,1,Plot,Salaried,No,Tier 2,No,No,1567676,10,Investment,0
+05000157,60,1080529,3468014,3840507,34,829,20,12,7,Independent house,Business,Yes,Tier 2,No,No,1640711,23,Investment,0
+05000158,56,2791770,8694972,4810580,31,606,66,5,6,Independent house,Salaried,Yes,Tier 1,No,Yes,727540,25,Investment,0
+05000159,50,706475,12049935,5511736,28,574,92,8,6,Plot,Self-employed,No,Tier 1,No,No,1468560,21,Self occupied,1
+05000160,65,2184707,1736661,3992985,68,747,83,5,4,Apartment,Salaried,Yes,Tier 2,No,Yes,66111,18,Self occupied,1
+05000161,37,1255519,9692910,2004197,41,600,43,7,8,Independent house,Self-employed,Yes,Tier 3,No,No,1568262,15,Investment,1
+05000162,61,490276,5410805,5539148,28,608,28,21,3,Independent house,Business,No,Tier 1,No,Yes,1351209,15,Investment,1
+05000163,59,2649481,15661684,1113510,59,595,55,21,7,Apartment,Salaried,Yes,Tier 1,No,No,1708465,12,Investment,1
+05000164,27,1779874,13048904,5115431,58,681,62,12,6,Plot,Business,No,Tier 1,No,No,203695,23,Self occupied,1
+05000165,33,2891399,15690632,5955238,28,535,34,20,9,Plot,Salaried,No,Tier 2,Yes,No,884251,24,Investment,1
+05000166,65,1387632,12211889,1736183,39,686,40,16,4,Independent house,Self-employed,Yes,Tier 3,No,No,939965,12,Investment,1
+05000167,23,2115789,11208634,2686962,23,660,35,11,10,Plot,Self-employed,No,Tier 3,No,Yes,1429858,7,Investment,1
+05000168,34,1942517,1835634,5958795,56,619,10,25,0,Apartment,Self-employed,No,Tier 2,No,Yes,1311933,22,Investment,0
+05000169,37,968924,9515391,1251925,50,576,21,12,8,Apartment,Business,No,Tier 1,No,No,494532,16,Investment,1
+05000170,34,2495867,15833283,5781962,38,549,49,5,8,Independent house,Business,No,Tier 3,No,No,985809,3,Investment,1
+05000171,24,312106,6042091,4493357,28,578,59,20,8,Apartment,Self-employed,Yes,Tier 1,Yes,No,634971,7,Self occupied,1
+05000172,54,460519,3320447,4565215,36,557,60,4,8,Plot,Salaried,Yes,Tier 2,Yes,Yes,95017,18,Investment,1
+05000173,37,2171707,5356411,4609814,63,582,76,0,5,Independent house,Business,Yes,Tier 3,No,No,1730560,24,Self occupied,0
+05000174,29,1812866,5540034,2532104,54,484,63,6,3,Apartment,Business,Yes,Tier 1,No,Yes,1041260,22,Investment,1
+05000175,21,1485605,7841679,4068869,68,849,5,0,9,Apartment,Business,Yes,Tier 2,Yes,Yes,760705,12,Self occupied,0
+05000176,49,2766071,17146756,2014557,31,797,13,22,1,Independent house,Business,Yes,Tier 3,No,No,1700784,4,Investment,0
+05000177,44,2202885,2226878,3754210,32,795,55,4,9,Independent house,Business,Yes,Tier 2,No,Yes,1654429,21,Investment,0
+05000178,65,1105628,14366895,4976388,61,804,95,6,6,Independent house,Business,Yes,Tier 3,No,No,193388,13,Investment,1
+05000179,32,2527600,7474057,2755890,42,584,72,22,5,Independent house,Self-employed,No,Tier 2,No,No,199160,16,Investment,0
+05000180,21,2639227,2299290,1592704,36,538,84,4,2,Independent house,Business,Yes,Tier 2,Yes,Yes,1510237,17,Self occupied,1
+05000181,58,2219798,10085287,3415330,33,616,69,5,8,Independent house,Salaried,Yes,Tier 2,Yes,No,395296,8,Investment,1
+05000182,35,302419,9958450,5504812,59,481,64,1,4,Independent house,Salaried,Yes,Tier 3,No,Yes,1649799,1,Self occupied,0
+05000183,37,395547,4439598,2387592,65,632,31,2,3,Apartment,Salaried,Yes,Tier 1,Yes,Yes,63729,8,Investment,0
+05000184,40,1644097,11510503,5550700,23,626,77,0,8,Plot,Self-employed,Yes,Tier 3,No,Yes,749211,18,Self occupied,1
+05000185,27,2843937,11651257,5422385,69,719,72,6,1,Apartment,Self-employed,Yes,Tier 1,Yes,No,268182,3,Self occupied,1
+05000186,53,2284790,15914642,4794764,48,632,20,3,9,Plot,Business,Yes,Tier 3,Yes,No,916116,7,Self occupied,0
+05000187,55,519547,10199791,2264930,53,545,23,19,3,Plot,Business,Yes,Tier 2,Yes,Yes,949159,9,Self occupied,1
+05000188,33,2931522,4828872,4761172,30,485,48,22,2,Apartment,Self-employed,Yes,Tier 3,Yes,Yes,277946,13,Self occupied,1
+05000189,29,2145149,4003654,3162953,64,604,72,15,3,Plot,Salaried,Yes,Tier 2,Yes,No,542243,14,Investment,0
+05000190,26,367556,9351731,3355495,41,546,84,1,2,Apartment,Salaried,Yes,Tier 2,Yes,No,304436,19,Self occupied,1
+05000191,69,340186,16872308,3351029,27,677,63,13,4,Apartment,Self-employed,No,Tier 2,No,Yes,1072370,6,Self occupied,0
+05000192,37,1589978,8535657,3379145,52,647,7,8,0,Plot,Business,Yes,Tier 2,No,Yes,1286702,15,Investment,0
+05000193,43,2683668,9455777,1806374,23,570,93,3,1,Apartment,Salaried,No,Tier 2,No,Yes,1077619,19,Self occupied,0
+05000194,44,1803895,4042196,4380892,34,824,52,14,3,Apartment,Salaried,Yes,Tier 2,No,Yes,1563084,6,Self occupied,1
+05000195,27,2861839,14148431,4115002,25,687,75,19,2,Apartment,Salaried,Yes,Tier 1,Yes,No,261395,18,Investment,0
+05000196,32,959609,14631153,1979950,63,535,29,20,9,Independent house,Business,No,Tier 3,Yes,No,1211839,5,Self occupied,0
+05000197,28,1254537,8451279,1732106,26,549,95,5,3,Independent house,Business,No,Tier 1,No,No,1387809,10,Investment,0
+05000198,45,2166622,12473005,4718928,53,689,74,15,4,Apartment,Salaried,No,Tier 3,Yes,Yes,1000727,14,Self occupied,0
+05000199,32,1351739,14851431,3844436,55,835,66,21,1,Apartment,Salaried,No,Tier 3,No,Yes,457544,23,Investment,1
+05000200,32,1986196,12902818,4858253,30,685,64,24,7,Independent house,Business,No,Tier 3,Yes,No,600054,22,Self occupied,1
+05000201,61,435615,4417445,5164771,39,687,43,23,6,Apartment,Salaried,No,Tier 1,Yes,No,1167917,15,Investment,1
+05000202,48,873450,10045662,4206974,23,550,93,1,8,Apartment,Salaried,No,Tier 3,Yes,No,465426,10,Self occupied,1
+05000203,38,659103,13761579,2121265,63,617,14,24,7,Independent house,Salaried,Yes,Tier 3,Yes,Yes,947931,7,Self occupied,1
+05000204,64,2554751,15578746,964304,52,568,24,25,6,Apartment,Self-employed,No,Tier 2,Yes,Yes,1273245,2,Investment,1
+05000205,66,578423,8603681,4465977,49,832,65,24,1,Independent house,Business,No,Tier 1,No,No,588008,19,Investment,0
+05000206,55,978539,9736050,5526291,42,786,11,6,9,Plot,Salaried,No,Tier 3,No,No,1061149,23,Investment,0
+05000207,26,886603,6098156,1806556,47,820,85,15,0,Apartment,Self-employed,Yes,Tier 1,No,No,519724,23,Self occupied,1
+05000208,41,1015265,10266980,1981340,37,776,31,19,8,Plot,Salaried,Yes,Tier 3,Yes,Yes,302371,3,Self occupied,1
+05000209,40,2074189,14160209,4272110,41,790,48,18,6,Independent house,Self-employed,Yes,Tier 2,No,Yes,850532,13,Investment,1
+05000210,38,706834,7543211,4747949,22,701,24,20,3,Plot,Salaried,No,Tier 1,Yes,Yes,321284,15,Self occupied,1
+05000211,63,2593060,17422806,2345384,22,515,71,4,10,Apartment,Salaried,Yes,Tier 3,No,No,792729,1,Investment,1
+05000212,69,2953654,6535887,3068077,29,718,68,4,3,Plot,Business,Yes,Tier 3,No,Yes,1373809,4,Self occupied,0
+05000213,22,1735512,6009005,2168975,45,497,70,12,3,Plot,Business,Yes,Tier 1,Yes,No,540463,11,Self occupied,0
+05000214,21,943044,7941508,1657905,32,542,28,3,7,Independent house,Salaried,Yes,Tier 1,Yes,Yes,1466297,18,Self occupied,0
+05000215,53,1830995,5120153,4323085,65,809,20,10,10,Apartment,Business,No,Tier 3,No,No,531542,19,Investment,0
+05000216,60,1196779,8710259,1475352,33,610,45,19,7,Independent house,Self-employed,Yes,Tier 1,No,Yes,1353861,10,Investment,1
+05000217,62,2622400,15355605,4399004,36,575,30,23,2,Independent house,Self-employed,No,Tier 2,No,No,234607,20,Investment,1
+05000218,67,2305734,14350275,5001843,37,676,69,25,5,Independent house,Salaried,Yes,Tier 2,No,No,146034,12,Investment,1
+05000219,48,2933025,1951404,2731850,26,506,15,25,1,Apartment,Salaried,No,Tier 3,Yes,Yes,1410452,6,Investment,0
+05000220,46,2290321,8071683,3997516,27,706,4,3,3,Apartment,Business,No,Tier 3,Yes,No,703184,0,Investment,0
+05000221,46,950088,5382702,2922182,40,833,60,23,7,Independent house,Salaried,Yes,Tier 2,Yes,Yes,197320,18,Investment,1
+05000222,32,1478524,17299396,5657853,26,539,20,17,2,Apartment,Business,No,Tier 3,Yes,No,1545577,3,Investment,1
+05000223,33,815795,17542356,3864597,23,536,44,7,0,Apartment,Business,Yes,Tier 2,No,No,1440002,18,Investment,0
+05000224,47,470900,11258719,1994413,25,806,69,11,10,Apartment,Self-employed,Yes,Tier 2,No,Yes,1675375,25,Self occupied,1
+05000225,31,869132,4138173,2496032,46,579,23,20,3,Independent house,Self-employed,Yes,Tier 3,No,Yes,843575,14,Investment,1
+05000226,38,881683,9432854,4964555,27,824,42,14,1,Plot,Business,No,Tier 2,Yes,Yes,482416,9,Self occupied,1
+05000227,25,2901203,11727454,5887558,29,570,33,21,7,Plot,Business,Yes,Tier 2,No,No,1640723,16,Self occupied,1
+05000228,21,1088693,3452367,3919980,35,573,7,21,10,Plot,Business,No,Tier 3,Yes,Yes,751956,7,Self occupied,0
+05000229,48,419331,3515923,1253920,52,810,22,20,6,Apartment,Self-employed,No,Tier 3,Yes,Yes,1047584,2,Self occupied,0
+05000230,66,2708342,5637546,2393094,63,633,13,11,10,Apartment,Self-employed,Yes,Tier 1,Yes,Yes,1050261,15,Self occupied,1
+05000231,22,2391149,10135668,1528624,53,844,32,20,2,Plot,Business,Yes,Tier 3,No,No,941103,16,Investment,1
+05000232,30,2532922,12116985,1824127,43,631,41,18,4,Plot,Self-employed,Yes,Tier 3,No,Yes,399597,24,Self occupied,0
+05000233,54,252034,6417244,3628666,40,556,92,1,0,Plot,Business,Yes,Tier 3,Yes,Yes,905722,18,Self occupied,0
+05000234,62,910023,11134178,903310,36,835,84,18,8,Plot,Self-employed,No,Tier 3,Yes,Yes,1339566,16,Investment,0
+05000235,48,606407,13530925,1564713,62,850,60,22,5,Apartment,Self-employed,Yes,Tier 1,No,Yes,82196,25,Self occupied,1
+05000236,55,399632,2450351,5588364,46,846,44,9,0,Plot,Salaried,Yes,Tier 3,Yes,Yes,1516993,18,Investment,0
+05000237,57,1310920,11129742,2804260,42,591,46,23,9,Apartment,Salaried,No,Tier 2,No,No,824360,18,Self occupied,0
+05000238,26,1066496,5201170,3010502,65,551,68,19,2,Plot,Self-employed,Yes,Tier 2,Yes,Yes,1766337,24,Self occupied,1
+05000239,57,334268,7328027,2579339,38,836,66,7,8,Apartment,Salaried,Yes,Tier 1,Yes,No,1075435,1,Investment,0
+05000240,38,1487172,2482764,1989575,54,664,64,21,9,Plot,Salaried,No,Tier 1,No,Yes,155481,13,Self occupied,1
+05000241,58,886988,10485747,1970315,40,828,58,21,1,Independent house,Salaried,No,Tier 2,No,No,1445665,22,Investment,0
+05000242,48,1146406,3662920,3340412,31,592,22,22,8,Independent house,Self-employed,Yes,Tier 2,No,Yes,136189,6,Investment,1
+05000243,39,312841,9246363,3653299,69,787,93,21,8,Independent house,Self-employed,No,Tier 2,No,No,317013,18,Investment,1
+05000244,63,2935190,6881293,2709908,53,696,8,25,10,Apartment,Salaried,No,Tier 2,Yes,Yes,1498523,19,Investment,0
+05000245,27,1385826,3228331,5183140,29,754,48,21,9,Independent house,Salaried,No,Tier 2,Yes,No,1388429,21,Self occupied,0
+05000246,55,1730433,12365853,120974,26,591,23,18,3,Independent house,Salaried,Yes,Tier 3,No,No,1642879,5,Self occupied,0
+05000247,50,1265395,12465625,316514,25,768,85,19,0,Plot,Salaried,No,Tier 3,Yes,No,774814,14,Investment,0
+05000248,52,2906640,5820094,2203985,41,828,93,24,9,Independent house,Salaried,No,Tier 3,Yes,No,1298047,7,Investment,1
+05000249,47,2065997,12619162,762610,23,620,57,0,9,Apartment,Business,Yes,Tier 2,No,Yes,1157408,15,Investment,0
+05000250,59,440285,14897644,3281182,56,523,35,11,2,Independent house,Business,No,Tier 2,Yes,No,106300,13,Self occupied,0
+05000251,50,472595,2652800,3418981,36,582,32,20,6,Plot,Self-employed,No,Tier 1,Yes,Yes,925842,1,Self occupied,1
+05000252,49,2423546,9109679,4180796,62,700,37,19,3,Plot,Salaried,Yes,Tier 2,No,No,661994,12,Self occupied,0
+05000253,30,1396194,10118194,3215820,23,745,40,4,5,Independent house,Business,Yes,Tier 2,Yes,Yes,1254191,1,Self occupied,0
+05000254,68,256641,16366030,3328446,57,610,9,8,10,Plot,Business,Yes,Tier 3,Yes,Yes,1528222,4,Self occupied,1
+05000255,56,2925668,17338347,5229163,22,514,41,16,3,Independent house,Salaried,Yes,Tier 3,Yes,Yes,1013345,3,Self occupied,0
+05000256,66,1280747,10500527,4593417,41,783,31,0,8,Independent house,Self-employed,Yes,Tier 3,No,No,701178,21,Self occupied,0
+05000257,24,1713331,10987175,290096,64,697,9,10,3,Apartment,Self-employed,Yes,Tier 1,No,No,240439,1,Investment,0
+05000258,45,1640966,15302147,2469922,34,792,29,17,0,Apartment,Self-employed,No,Tier 1,No,No,896962,12,Investment,1
+05000259,60,1218276,8070701,1145086,25,700,58,7,0,Apartment,Business,No,Tier 3,Yes,No,972374,14,Investment,0
+05000260,34,1695008,5580921,4973871,40,712,38,24,5,Independent house,Salaried,Yes,Tier 1,Yes,No,1431172,12,Self occupied,0
+05000261,51,1372122,8196459,2196269,39,642,8,8,4,Apartment,Salaried,Yes,Tier 2,Yes,Yes,506419,1,Self occupied,0
+05000262,23,2694966,8476305,3842899,66,506,8,23,8,Apartment,Salaried,No,Tier 1,No,Yes,1503639,13,Investment,0
+05000263,38,547770,10178645,5594911,67,705,82,10,9,Plot,Self-employed,No,Tier 2,Yes,No,429450,21,Investment,1
+05000264,50,2927677,4097337,4418525,57,657,15,22,9,Plot,Self-employed,No,Tier 1,No,Yes,1035369,21,Self occupied,1
+05000265,34,1636749,5451545,3631184,28,791,58,18,6,Apartment,Salaried,Yes,Tier 3,Yes,Yes,1030476,8,Self occupied,0
+05000266,63,2700513,7869219,1644918,51,529,19,24,5,Apartment,Salaried,No,Tier 3,No,No,1698820,1,Self occupied,0
+05000267,58,1738339,12802718,2070880,28,845,49,18,2,Independent house,Business,No,Tier 1,No,Yes,289450,25,Investment,0
+05000268,26,2043323,6723720,1437869,39,806,67,20,7,Apartment,Business,Yes,Tier 3,No,No,665969,11,Self occupied,1
+05000269,43,1575530,7371601,2593787,44,528,32,11,4,Plot,Self-employed,Yes,Tier 2,No,Yes,1428103,13,Self occupied,0
+05000270,36,550451,1550481,4833568,25,561,86,17,4,Plot,Business,Yes,Tier 3,Yes,Yes,1580378,19,Investment,0
+05000271,22,487722,12168225,403492,40,767,17,3,9,Apartment,Salaried,Yes,Tier 1,No,Yes,1553475,22,Investment,0
+05000272,48,714616,3298048,3193798,66,519,38,20,4,Independent house,Self-employed,No,Tier 2,No,Yes,787998,19,Investment,0
+05000273,68,1669902,9878916,3294694,50,757,33,0,6,Independent house,Salaried,No,Tier 2,Yes,Yes,982000,16,Self occupied,1
+05000274,23,1455121,15069642,5861809,42,684,59,19,3,Apartment,Self-employed,Yes,Tier 1,No,No,465577,0,Self occupied,1
+05000275,62,1126887,9796060,5667836,37,830,9,4,5,Plot,Business,Yes,Tier 1,No,No,257712,9,Self occupied,1
+05000276,38,1392768,11035604,4739293,58,760,31,6,10,Apartment,Self-employed,No,Tier 2,Yes,No,608497,16,Self occupied,0
+05000277,23,2425115,4057379,5817376,22,632,64,3,6,Apartment,Salaried,Yes,Tier 3,Yes,No,1068869,2,Investment,0
+05000278,38,2063532,8115940,682267,37,533,49,25,9,Apartment,Salaried,No,Tier 2,No,No,1031082,4,Investment,1
+05000279,34,1807428,11862132,1810682,57,668,93,2,6,Apartment,Salaried,Yes,Tier 1,Yes,No,1755447,11,Investment,1
+05000280,22,2104320,13481075,3475510,46,489,55,7,1,Plot,Self-employed,No,Tier 2,Yes,No,29639,17,Self occupied,0
+05000281,26,1014194,16762753,1966230,21,578,70,13,7,Plot,Self-employed,No,Tier 2,Yes,No,1477541,4,Investment,0
+05000282,57,576448,5258986,1313168,35,576,86,12,1,Apartment,Business,No,Tier 1,No,Yes,1094293,15,Investment,0
+05000283,25,1695868,8456498,4172016,69,818,91,11,9,Plot,Self-employed,Yes,Tier 1,No,Yes,1648521,16,Self occupied,1
+05000284,46,1184152,6712512,669049,56,595,65,23,2,Apartment,Business,Yes,Tier 1,Yes,No,1081437,7,Investment,1
+05000285,33,2260937,12940014,2610824,36,688,56,23,3,Plot,Self-employed,Yes,Tier 2,No,Yes,652203,4,Self occupied,1
+05000286,48,1145581,8340499,4336126,58,762,63,1,6,Plot,Business,Yes,Tier 2,Yes,Yes,1588315,8,Self occupied,1
+05000287,61,1698258,12659692,1306211,67,773,85,23,1,Plot,Business,No,Tier 1,No,Yes,739394,24,Investment,1
+05000288,22,1232041,1686170,716437,50,737,17,18,2,Independent house,Business,No,Tier 1,Yes,Yes,804404,21,Investment,0
+05000289,66,988716,9545279,772735,42,772,89,20,0,Apartment,Self-employed,Yes,Tier 2,No,No,275672,25,Self occupied,0
+05000290,27,2653960,6374423,5584656,63,553,40,20,0,Apartment,Salaried,Yes,Tier 2,Yes,Yes,209571,5,Investment,1
+05000291,38,367221,5214475,5341555,64,577,40,10,7,Plot,Salaried,Yes,Tier 3,Yes,Yes,1272377,18,Investment,0
+05000292,30,2483272,4931758,5736306,21,650,17,1,3,Apartment,Business,Yes,Tier 2,No,Yes,318040,25,Investment,1
+05000293,58,1392196,15862011,2322971,54,729,23,15,6,Independent house,Self-employed,Yes,Tier 1,No,No,1762010,17,Self occupied,0
+05000294,32,1078484,9448585,694591,25,750,7,6,5,Independent house,Self-employed,Yes,Tier 3,No,Yes,1695092,8,Investment,0
+05000295,58,2707056,3672166,4799464,41,751,37,24,1,Plot,Business,Yes,Tier 1,No,No,941393,14,Self occupied,0
+05000296,44,2652765,7853401,3961254,66,769,13,11,10,Plot,Salaried,No,Tier 2,No,Yes,470365,22,Self occupied,0
+05000297,47,702693,16588437,696325,45,628,22,22,10,Apartment,Business,Yes,Tier 1,Yes,No,350899,9,Investment,1
+05000298,34,2922778,13087731,5735784,64,691,70,14,8,Plot,Self-employed,No,Tier 2,No,Yes,1316407,21,Self occupied,1
+05000299,23,2586298,3153750,4961688,58,847,81,22,4,Apartment,Business,Yes,Tier 3,No,No,1317488,12,Investment,1
+05000300,51,1954441,14538909,3654240,55,726,7,13,3,Plot,Salaried,Yes,Tier 2,Yes,Yes,321235,15,Investment,0
+05000301,27,608430,14084317,2561410,56,656,17,18,2,Plot,Business,No,Tier 3,Yes,Yes,1550083,2,Self occupied,1
+05000302,59,2404704,14800767,5097977,41,702,81,16,10,Independent house,Business,No,Tier 1,No,Yes,17811,2,Investment,0
+05000303,33,1438741,2522344,2194209,46,496,94,19,5,Apartment,Salaried,Yes,Tier 3,Yes,Yes,989798,5,Investment,0
+05000304,50,1357057,5954213,756451,23,561,72,5,10,Apartment,Business,Yes,Tier 2,No,Yes,375346,1,Self occupied,1
+05000305,61,1069220,13415832,4328995,63,603,33,24,10,Independent house,Self-employed,Yes,Tier 3,No,No,1274630,9,Self occupied,0
+05000306,48,1919883,10953859,5023898,25,642,9,8,2,Plot,Self-employed,No,Tier 2,Yes,No,1612254,25,Self occupied,0
+05000307,35,2522636,2148975,2730058,31,711,16,17,9,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,941118,3,Investment,0
+05000308,58,2441036,6499269,2542468,41,684,95,10,7,Apartment,Self-employed,Yes,Tier 3,No,Yes,1663532,16,Self occupied,0
+05000309,27,1971144,4519045,5748981,23,669,45,18,1,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,967958,8,Investment,1
+05000310,45,1652031,6328284,4171784,27,492,44,12,4,Apartment,Salaried,Yes,Tier 2,No,Yes,255746,7,Self occupied,0
+05000311,31,1989767,5572473,2367045,65,588,48,23,10,Apartment,Self-employed,No,Tier 1,No,Yes,1063308,22,Investment,1
+05000312,33,1493859,1915846,5764644,25,608,57,13,0,Apartment,Self-employed,No,Tier 3,Yes,No,207395,5,Self occupied,0
+05000313,32,2736639,9839711,129097,28,578,78,14,9,Plot,Self-employed,Yes,Tier 2,No,No,975720,14,Self occupied,1
+05000314,57,2214257,5372473,4190057,42,751,92,4,4,Independent house,Business,No,Tier 2,No,No,1743878,17,Self occupied,1
+05000315,48,1795585,7583442,742879,68,827,27,16,1,Apartment,Salaried,No,Tier 1,Yes,No,802629,8,Self occupied,1
+05000316,59,2799956,4507710,5961350,31,600,8,5,1,Plot,Salaried,Yes,Tier 2,Yes,Yes,48238,21,Investment,1
+05000317,51,282761,8293079,4988720,29,698,53,22,5,Plot,Salaried,No,Tier 1,Yes,Yes,1014257,20,Investment,1
+05000318,62,539911,9300823,240081,57,740,52,21,1,Plot,Business,No,Tier 1,Yes,No,1661767,10,Investment,0
+05000319,48,1296695,10103546,4615932,23,787,58,14,2,Plot,Self-employed,Yes,Tier 2,Yes,No,1778970,20,Self occupied,0
+05000320,69,2985892,7431347,2556397,53,626,91,7,10,Plot,Self-employed,Yes,Tier 1,No,Yes,828397,20,Investment,1
+05000321,41,1046333,15141351,682604,36,636,49,21,1,Plot,Self-employed,Yes,Tier 1,No,No,1084901,8,Investment,0
+05000322,66,2002707,13348280,5172604,67,491,42,2,3,Independent house,Business,No,Tier 2,Yes,Yes,1129058,1,Investment,0
+05000323,48,994239,9106095,3280321,42,558,45,20,9,Independent house,Business,No,Tier 1,Yes,No,753317,20,Self occupied,0
+05000324,34,2420633,7527852,5413942,38,766,51,13,3,Apartment,Business,Yes,Tier 1,No,Yes,1045074,13,Self occupied,0
+05000325,24,2992257,15377549,3290502,44,563,13,1,9,Plot,Business,No,Tier 2,No,No,1368061,15,Self occupied,0
+05000326,37,1880291,2626357,3981457,39,710,58,17,1,Apartment,Business,No,Tier 3,No,No,985962,3,Investment,0
+05000327,24,1097698,17517235,5959461,56,484,47,24,5,Apartment,Salaried,No,Tier 1,No,Yes,1625163,12,Investment,1
+05000328,66,533136,8059596,3701399,42,628,56,5,4,Apartment,Salaried,Yes,Tier 2,Yes,No,107530,24,Investment,1
+05000329,26,2923928,7926989,2699534,50,834,17,9,6,Independent house,Self-employed,No,Tier 1,No,No,1181548,24,Investment,1
+05000330,61,1230209,17802646,1991598,39,556,31,19,0,Plot,Business,No,Tier 1,Yes,Yes,987714,9,Investment,1
+05000331,57,2613809,6428047,497021,25,675,76,0,9,Independent house,Self-employed,Yes,Tier 1,Yes,Yes,438774,7,Investment,1
+05000332,65,2572737,9467557,822166,50,848,61,10,3,Independent house,Self-employed,No,Tier 2,No,Yes,1176149,24,Investment,0
+05000333,66,1596205,3929052,4384489,24,565,62,5,4,Independent house,Business,No,Tier 3,No,No,1458825,11,Investment,1
+05000334,68,2542183,4383830,2476635,64,739,47,0,9,Apartment,Self-employed,No,Tier 2,Yes,Yes,1026495,24,Self occupied,1
+05000335,46,1351027,2052896,596507,26,588,70,0,1,Plot,Business,Yes,Tier 1,No,No,1679576,5,Investment,1
+05000336,58,2938112,8928142,5531205,52,682,67,16,10,Plot,Self-employed,No,Tier 1,Yes,No,539529,19,Investment,0
+05000337,30,360870,5267470,1434639,24,613,7,13,4,Apartment,Self-employed,No,Tier 1,No,Yes,843624,10,Investment,0
+05000338,58,1453569,12503491,3444894,42,689,14,12,2,Independent house,Business,No,Tier 1,No,Yes,1102827,19,Investment,0
+05000339,32,2423267,1841087,5525711,57,670,86,2,5,Apartment,Self-employed,No,Tier 1,Yes,Yes,787273,6,Self occupied,0
+05000340,29,2670986,13321904,4591926,37,824,9,14,9,Plot,Self-employed,Yes,Tier 2,Yes,No,1009979,10,Investment,1
+05000341,60,779618,5217698,3896389,48,849,50,21,9,Apartment,Self-employed,Yes,Tier 3,No,Yes,864005,22,Self occupied,1
+05000342,67,2323351,3295581,2649233,21,622,56,2,9,Apartment,Self-employed,No,Tier 1,No,No,1386031,4,Investment,0
+05000343,55,657107,3078657,347032,54,595,57,13,7,Independent house,Salaried,Yes,Tier 3,No,No,552729,3,Self occupied,0
+05000344,31,395696,16247922,1091332,55,795,53,12,0,Apartment,Salaried,No,Tier 1,Yes,Yes,1118339,15,Investment,0
+05000345,42,699560,12412933,5886183,50,528,48,24,8,Apartment,Business,No,Tier 2,No,Yes,1242963,0,Investment,1
+05000346,59,884483,1810978,5890354,48,481,39,17,2,Independent house,Self-employed,No,Tier 3,No,Yes,175399,20,Investment,1
+05000347,65,2827893,16278894,3194030,32,795,72,12,8,Plot,Self-employed,Yes,Tier 1,Yes,Yes,1741285,12,Self occupied,1
+05000348,53,2753176,17851325,5859934,49,806,50,13,2,Apartment,Business,No,Tier 1,No,Yes,1411859,14,Self occupied,0
+05000349,45,2174384,1588505,1313308,32,823,47,20,9,Independent house,Business,Yes,Tier 3,Yes,No,702703,1,Self occupied,1
+05000350,45,1425706,15822006,4676010,49,764,83,20,9,Plot,Self-employed,Yes,Tier 3,No,No,861531,21,Self occupied,1
+05000351,30,1249291,17216501,1273900,69,557,7,16,7,Plot,Self-employed,No,Tier 2,Yes,No,261024,1,Investment,1
+05000352,65,1730929,5601043,3214397,58,499,27,8,8,Independent house,Business,Yes,Tier 2,No,No,1598900,16,Investment,0
+05000353,67,1438489,3852837,1427305,22,803,56,1,5,Plot,Business,No,Tier 1,No,No,789044,5,Self occupied,1
+05000354,52,1762078,7269230,2510987,37,842,7,9,0,Plot,Self-employed,Yes,Tier 1,No,No,1066627,7,Self occupied,0
+05000355,36,2499308,6356900,1911936,49,645,35,7,3,Plot,Business,No,Tier 1,Yes,Yes,1446561,14,Self occupied,1
+05000356,69,1867031,8721234,3544337,21,608,80,3,3,Plot,Self-employed,Yes,Tier 1,No,Yes,258380,21,Self occupied,0
+05000357,36,888074,16329478,3679870,53,763,70,4,5,Plot,Self-employed,No,Tier 1,Yes,Yes,219266,3,Self occupied,0
+05000358,32,2443609,13931695,2184332,22,604,76,25,0,Plot,Salaried,Yes,Tier 2,Yes,No,592385,12,Self occupied,1
+05000359,32,521388,3983966,2500585,52,529,77,19,2,Independent house,Salaried,Yes,Tier 1,Yes,No,1367221,19,Investment,0
+05000360,27,1614468,2715957,3322877,22,529,71,20,0,Independent house,Salaried,No,Tier 3,No,No,1300773,25,Investment,0
+05000361,25,330540,8987495,5008554,28,533,28,0,4,Independent house,Salaried,Yes,Tier 1,No,Yes,769809,25,Investment,0
+05000362,25,516170,13337857,4636612,51,574,54,18,1,Independent house,Self-employed,Yes,Tier 1,No,Yes,683828,19,Self occupied,0
+05000363,23,806642,17770065,1488563,35,641,8,3,6,Plot,Salaried,No,Tier 2,No,No,527165,21,Self occupied,0
+05000364,62,660902,15224880,3175230,58,731,36,18,7,Apartment,Self-employed,Yes,Tier 1,Yes,No,70110,13,Self occupied,0
+05000365,26,759413,7664497,1512007,60,510,23,7,4,Independent house,Business,Yes,Tier 3,No,No,504280,5,Self occupied,1
+05000366,50,1975043,3435526,418416,54,539,91,11,6,Apartment,Business,No,Tier 1,No,Yes,183653,13,Investment,1
+05000367,33,1214101,17057783,3620175,35,822,8,23,2,Apartment,Salaried,Yes,Tier 2,No,Yes,1358063,17,Self occupied,1
+05000368,67,1120166,17716333,3877230,63,653,87,17,2,Independent house,Self-employed,Yes,Tier 2,No,No,468587,20,Self occupied,1
+05000369,32,1814334,6128613,1768856,54,571,29,1,8,Apartment,Business,No,Tier 1,Yes,Yes,1396272,16,Investment,0
+05000370,32,1128508,2891484,4370587,42,636,43,7,7,Apartment,Salaried,Yes,Tier 3,Yes,Yes,549339,15,Self occupied,0
+05000371,43,983168,16298878,2945211,59,609,6,2,8,Apartment,Business,Yes,Tier 1,Yes,Yes,1443128,25,Self occupied,0
+05000372,48,2329150,17065679,5217098,44,755,65,9,0,Independent house,Salaried,Yes,Tier 3,No,No,625587,9,Investment,1
+05000373,24,1199468,14813957,5801539,26,654,9,8,10,Independent house,Salaried,No,Tier 2,No,No,1685395,2,Investment,1
+05000374,40,2394224,4010485,4855428,29,649,17,15,5,Plot,Self-employed,No,Tier 2,No,No,285236,22,Investment,1
+05000375,23,781402,9544666,3958783,44,594,80,12,2,Independent house,Business,No,Tier 1,No,Yes,1240772,9,Self occupied,1
+05000376,48,1085981,9119246,3142297,38,553,94,6,5,Independent house,Salaried,No,Tier 1,No,No,1243300,14,Self occupied,1
+05000377,22,2906418,10549853,4351634,63,718,80,5,10,Independent house,Self-employed,Yes,Tier 1,Yes,No,1704107,13,Self occupied,1
+05000378,38,381769,1714150,2507156,51,800,46,6,1,Plot,Self-employed,No,Tier 3,Yes,No,1516509,11,Self occupied,0
+05000379,30,2361084,5994002,1300988,56,523,79,9,0,Plot,Salaried,No,Tier 1,Yes,No,428514,10,Investment,1
+05000380,26,1002046,10109897,665560,22,658,11,0,6,Independent house,Self-employed,No,Tier 1,Yes,No,1425596,22,Investment,1
+05000381,46,613845,11849299,2458483,46,672,62,17,0,Independent house,Salaried,Yes,Tier 1,Yes,No,1414573,8,Investment,0
+05000382,22,2692407,5201113,1259440,62,680,20,1,8,Plot,Business,Yes,Tier 1,No,Yes,690937,5,Investment,1
+05000383,34,2010887,4833597,4503729,33,789,27,19,2,Independent house,Self-employed,Yes,Tier 2,No,No,1104239,17,Investment,0
+05000384,28,352259,17861401,3386704,23,506,86,18,2,Plot,Business,Yes,Tier 2,No,No,1226683,10,Investment,0
+05000385,29,1585159,4198546,3622780,25,482,57,3,5,Plot,Self-employed,Yes,Tier 2,Yes,Yes,1305511,3,Investment,0
+05000386,60,677981,14427888,1802247,63,521,30,7,6,Apartment,Salaried,No,Tier 3,Yes,Yes,1082018,15,Investment,1
+05000387,61,2370579,5589153,2458549,49,572,55,4,3,Independent house,Salaried,No,Tier 2,Yes,Yes,583328,24,Investment,1
+05000388,29,2888320,17072307,2296157,25,602,38,18,6,Apartment,Business,No,Tier 3,No,Yes,851293,11,Self occupied,1
+05000389,50,825271,13776895,3940111,45,530,37,16,5,Apartment,Business,Yes,Tier 2,Yes,No,430888,10,Self occupied,0
+05000390,53,797857,15283068,3788227,36,486,32,10,6,Independent house,Self-employed,No,Tier 2,No,Yes,1025775,2,Self occupied,0
+05000391,65,617341,8473791,3865520,67,768,19,14,8,Plot,Self-employed,Yes,Tier 3,No,No,472783,14,Self occupied,0
+05000392,25,2994376,4725460,901952,47,609,43,6,9,Apartment,Business,Yes,Tier 3,No,Yes,1260016,2,Investment,1
+05000393,22,2932242,2487051,4852543,50,629,32,12,0,Apartment,Salaried,Yes,Tier 2,No,No,1565122,8,Self occupied,1
+05000394,62,2777906,12463079,3458638,41,532,89,17,2,Apartment,Business,Yes,Tier 1,Yes,No,571508,10,Investment,1
+05000395,24,2530920,11541672,1733561,65,601,15,10,2,Independent house,Self-employed,No,Tier 3,Yes,No,1451075,2,Self occupied,0
+05000396,34,2767509,3471813,4170161,64,626,54,11,3,Plot,Business,Yes,Tier 2,No,Yes,1783223,12,Investment,0
+05000397,47,1034106,14866195,921835,48,685,52,0,2,Plot,Salaried,No,Tier 2,Yes,Yes,1334015,13,Investment,0
+05000398,25,1893002,2730523,5746083,22,698,60,11,1,Apartment,Self-employed,Yes,Tier 1,Yes,No,1686814,24,Self occupied,1
+05000399,39,1695005,12505047,628763,56,751,69,24,9,Apartment,Business,Yes,Tier 3,No,Yes,331156,14,Self occupied,0
+05000400,48,2629111,16750106,925764,27,575,85,25,10,Independent house,Self-employed,Yes,Tier 1,No,Yes,63937,6,Self occupied,0
+05000401,68,2998991,16914331,2130359,63,628,80,23,4,Apartment,Salaried,Yes,Tier 1,Yes,No,1151325,3,Self occupied,0
+05000402,48,907217,13209371,4732717,39,799,93,24,0,Independent house,Salaried,Yes,Tier 2,Yes,Yes,1004560,8,Self occupied,0
+05000403,54,1448102,10140937,1411727,46,738,71,22,9,Apartment,Business,Yes,Tier 1,Yes,No,1180823,22,Self occupied,1
+05000404,33,2348123,1668232,4423389,31,767,34,25,8,Plot,Salaried,Yes,Tier 2,No,No,1479967,24,Self occupied,0
+05000405,22,1841220,9497646,3150303,44,678,93,0,4,Apartment,Salaried,Yes,Tier 1,No,Yes,1173217,11,Investment,1
+05000406,61,1478756,10976101,3207967,32,765,64,21,3,Plot,Self-employed,Yes,Tier 2,No,No,913300,5,Investment,1
+05000407,53,718408,3812754,5596440,64,805,57,7,5,Independent house,Self-employed,No,Tier 1,Yes,Yes,284485,15,Self occupied,1
+05000408,58,707830,4655427,5210176,37,501,57,12,4,Apartment,Business,Yes,Tier 2,No,No,503678,18,Investment,0
+05000409,56,1641500,1788437,274342,69,606,15,5,9,Apartment,Salaried,Yes,Tier 3,Yes,Yes,121577,11,Investment,0
+05000410,22,1380098,7129336,3873430,58,514,94,11,5,Independent house,Self-employed,No,Tier 2,Yes,No,26976,20,Self occupied,0
+05000411,55,2949607,13610595,4513320,28,601,65,22,1,Independent house,Salaried,No,Tier 1,Yes,No,1102325,10,Investment,0
+05000412,46,2449364,17590303,4436518,49,766,58,1,2,Plot,Business,No,Tier 1,No,No,1439980,12,Investment,0
+05000413,69,829803,17835050,5093090,62,744,60,7,9,Plot,Salaried,Yes,Tier 2,Yes,No,381715,23,Self occupied,0
+05000414,24,2518439,13935878,5776041,46,830,18,11,5,Independent house,Salaried,Yes,Tier 3,Yes,Yes,1291213,16,Self occupied,1
+05000415,66,1379428,3207482,5476785,35,556,53,0,8,Apartment,Self-employed,Yes,Tier 2,No,No,555994,1,Investment,0
+05000416,22,691434,4042764,3939862,25,647,25,19,1,Plot,Self-employed,Yes,Tier 1,No,Yes,356903,8,Self occupied,0
+05000417,50,2821727,7049891,1314753,39,528,82,18,1,Apartment,Salaried,Yes,Tier 3,Yes,No,1180774,16,Self occupied,1
+05000418,30,2998821,11446822,3609398,28,711,10,25,0,Independent house,Self-employed,Yes,Tier 1,Yes,Yes,1496075,0,Investment,1
+05000419,38,2029789,12980774,2288605,28,804,61,11,8,Apartment,Salaried,No,Tier 2,Yes,Yes,824192,19,Self occupied,1
+05000420,29,2752009,8036308,1815791,26,735,23,8,9,Plot,Salaried,Yes,Tier 1,Yes,No,724466,19,Self occupied,0
+05000421,67,1091023,6176972,1640614,54,645,26,12,6,Independent house,Business,No,Tier 2,Yes,Yes,741866,24,Investment,0
+05000422,37,2037551,8068591,2288961,60,492,69,7,7,Independent house,Business,No,Tier 2,No,No,414083,21,Investment,1
+05000423,59,932374,11720249,1266689,48,565,90,15,5,Apartment,Business,No,Tier 2,No,No,771722,25,Self occupied,0
+05000424,52,1496826,8091052,3722708,41,507,71,19,0,Independent house,Salaried,Yes,Tier 2,No,No,63988,14,Investment,1
+05000425,67,2792830,3860268,1206903,40,602,26,20,6,Apartment,Business,No,Tier 3,Yes,No,889203,13,Investment,1
+05000426,37,882983,14248213,3689352,51,653,52,23,1,Plot,Salaried,Yes,Tier 2,Yes,No,142923,17,Investment,0
+05000427,58,1629486,5225379,655227,27,573,22,9,0,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,359450,20,Investment,0
+05000428,25,1622299,12797949,3500044,53,702,23,11,3,Plot,Business,Yes,Tier 1,Yes,No,1049157,17,Self occupied,0
+05000429,60,382003,15440697,5303896,59,750,14,25,2,Apartment,Self-employed,Yes,Tier 2,Yes,No,382917,2,Self occupied,1
+05000430,38,1001102,12184794,3320008,30,636,81,11,5,Apartment,Business,Yes,Tier 1,No,No,602096,18,Investment,0
+05000431,23,2046694,11058921,215008,40,729,55,2,10,Apartment,Salaried,No,Tier 3,No,No,1737517,8,Self occupied,0
+05000432,68,2024776,4968910,3205174,39,745,85,20,10,Plot,Salaried,No,Tier 3,No,Yes,1114408,7,Investment,1
+05000433,69,358926,14562203,5397573,28,774,76,21,4,Plot,Business,Yes,Tier 3,Yes,No,745815,9,Investment,1
+05000434,61,994718,2833065,551455,53,755,49,9,3,Plot,Business,Yes,Tier 3,No,Yes,327443,20,Investment,0
+05000435,25,1082483,12523625,4313421,37,527,43,14,2,Independent house,Self-employed,No,Tier 3,Yes,Yes,643603,20,Investment,0
+05000436,69,2861649,17434953,5728696,37,558,86,23,10,Apartment,Salaried,Yes,Tier 3,Yes,Yes,363614,0,Investment,1
+05000437,64,1477010,7123819,3339476,56,771,23,4,0,Plot,Self-employed,Yes,Tier 2,No,No,836381,5,Self occupied,0
+05000438,52,534332,10266913,2921586,26,517,72,22,4,Apartment,Salaried,No,Tier 3,No,Yes,1095804,16,Self occupied,1
+05000439,52,701383,10723974,4162590,44,829,45,8,3,Apartment,Business,Yes,Tier 3,Yes,No,1586694,19,Self occupied,1
+05000440,66,1322926,16916731,4627632,43,603,65,8,9,Independent house,Salaried,No,Tier 1,Yes,Yes,1284693,21,Self occupied,0
+05000441,30,2838820,17313153,2425469,27,774,15,14,10,Plot,Self-employed,No,Tier 1,No,No,24131,19,Self occupied,0
+05000442,21,2217684,10005889,1849403,43,802,54,0,10,Plot,Self-employed,No,Tier 2,No,No,1377676,20,Self occupied,0
+05000443,35,252829,16196913,5470426,34,816,42,1,10,Plot,Salaried,Yes,Tier 1,Yes,No,976912,11,Investment,1
+05000444,28,734531,2244039,1858917,21,584,28,4,9,Apartment,Business,No,Tier 2,Yes,Yes,1764510,3,Investment,0
+05000445,69,2778484,10446132,4269882,44,782,16,25,1,Independent house,Business,No,Tier 3,No,No,854420,23,Investment,0
+05000446,27,2582167,7108760,3176018,58,622,37,1,7,Plot,Self-employed,No,Tier 1,No,No,1761261,25,Investment,1
+05000447,63,1341160,8668884,547159,40,761,43,5,7,Independent house,Business,Yes,Tier 3,No,Yes,1720979,13,Self occupied,0
+05000448,52,529155,11709773,5743637,28,676,59,2,9,Apartment,Salaried,Yes,Tier 3,Yes,Yes,761504,14,Investment,0
+05000449,40,1232012,1649677,3875173,38,565,40,24,0,Apartment,Business,No,Tier 3,No,Yes,1778438,8,Self occupied,0
+05000450,24,730110,6623653,4325357,51,802,50,23,6,Independent house,Self-employed,Yes,Tier 3,Yes,No,685924,7,Self occupied,0
+05000451,41,1220127,15164801,1338565,38,649,81,6,0,Plot,Business,Yes,Tier 3,Yes,Yes,818800,12,Investment,0
+05000452,37,2087586,9307260,3022988,50,598,64,25,9,Apartment,Salaried,Yes,Tier 2,Yes,No,1322269,1,Self occupied,1
+05000453,68,271594,6267440,4272017,64,752,22,22,2,Independent house,Business,Yes,Tier 1,No,Yes,298885,3,Self occupied,0
+05000454,68,1883450,11013337,2371683,39,711,59,23,4,Apartment,Business,No,Tier 2,No,No,1485401,2,Self occupied,1
+05000455,61,2980729,4928657,2700188,43,767,57,0,1,Apartment,Business,Yes,Tier 2,No,Yes,424436,5,Investment,1
+05000456,41,1531175,13112871,2783124,35,496,67,7,8,Apartment,Business,Yes,Tier 1,No,No,1313378,0,Investment,0
+05000457,68,2740072,6711556,2978115,24,650,93,24,9,Independent house,Salaried,No,Tier 2,Yes,Yes,1738170,10,Investment,1
+05000458,69,2977960,10240633,3231236,28,687,78,5,5,Independent house,Self-employed,No,Tier 3,Yes,No,968537,6,Self occupied,1
+05000459,56,624284,7054259,5824813,48,788,95,5,5,Apartment,Salaried,No,Tier 3,Yes,No,1097365,5,Investment,1
+05000460,37,1061473,10602627,5872906,33,636,25,10,8,Apartment,Salaried,Yes,Tier 3,Yes,No,100504,16,Investment,0
+05000461,65,618179,5186600,391317,30,830,59,5,1,Plot,Salaried,No,Tier 3,Yes,No,1346826,14,Investment,1
+05000462,36,2488700,9768515,4198497,52,560,86,24,5,Apartment,Self-employed,No,Tier 2,Yes,Yes,1453230,18,Self occupied,1
+05000463,64,2035373,4406128,3004186,38,530,80,17,2,Plot,Business,No,Tier 3,Yes,Yes,1075395,21,Investment,1
+05000464,55,785701,6626479,2229208,53,792,88,21,0,Plot,Self-employed,No,Tier 3,Yes,No,1758862,22,Self occupied,0
+05000465,35,1906645,12213777,1515020,25,699,42,24,0,Independent house,Self-employed,No,Tier 1,Yes,Yes,624121,20,Self occupied,0
+05000466,50,1881736,6815869,2255432,29,635,69,25,4,Plot,Business,No,Tier 2,Yes,No,599336,17,Self occupied,1
+05000467,65,2214287,3422517,196869,38,729,43,9,3,Independent house,Business,No,Tier 3,Yes,No,1000941,10,Self occupied,0
+05000468,45,489412,6462640,5993161,66,791,77,10,2,Plot,Salaried,Yes,Tier 2,Yes,Yes,1527122,1,Investment,1
+05000469,31,2519944,15967677,279946,60,659,8,21,6,Plot,Self-employed,Yes,Tier 1,No,No,131222,18,Investment,0
+05000470,55,2129951,17835056,5074569,55,639,34,15,9,Plot,Business,No,Tier 1,No,No,1345165,9,Self occupied,1
+05000471,46,794461,3637767,4299300,67,542,46,19,8,Plot,Business,Yes,Tier 1,Yes,No,779489,12,Self occupied,1
+05000472,24,1542563,17498950,172645,69,483,6,1,3,Plot,Salaried,Yes,Tier 2,Yes,No,869038,5,Investment,0
+05000473,47,1058409,8870788,3641247,69,611,40,19,3,Independent house,Business,Yes,Tier 2,Yes,Yes,1028127,23,Self occupied,1
+05000474,69,1572076,12288854,4314812,23,816,8,8,9,Apartment,Business,No,Tier 2,Yes,Yes,626411,1,Self occupied,0
+05000475,32,2083517,10413644,4174547,26,804,18,0,1,Apartment,Business,No,Tier 2,Yes,Yes,1511838,13,Self occupied,0
+05000476,22,1550159,5027359,5183121,65,511,52,19,8,Apartment,Business,No,Tier 2,No,Yes,1448806,12,Investment,1
+05000477,46,1197405,15865593,374328,40,734,90,16,4,Independent house,Salaried,No,Tier 3,No,No,1140426,11,Investment,0
+05000478,51,476476,3237998,2713839,25,792,39,9,10,Apartment,Self-employed,Yes,Tier 1,Yes,No,1031918,22,Self occupied,0
+05000479,26,627819,10048890,3771423,24,845,93,14,3,Independent house,Self-employed,Yes,Tier 1,Yes,No,1135953,0,Self occupied,1
+05000480,57,803800,3065793,5115868,31,825,48,16,3,Apartment,Salaried,No,Tier 3,No,No,1636399,2,Self occupied,0
+05000481,64,2138078,15747763,5381435,41,563,15,0,2,Apartment,Salaried,Yes,Tier 2,Yes,No,1461495,17,Investment,0
+05000482,66,2722012,3867147,2939288,45,717,81,17,6,Independent house,Self-employed,No,Tier 1,Yes,No,566552,22,Investment,1
+05000483,21,2880125,5071289,394135,35,609,30,12,2,Plot,Salaried,No,Tier 1,No,No,1006379,20,Self occupied,1
+05000484,51,1729595,11437193,5512733,41,693,42,7,6,Independent house,Salaried,Yes,Tier 2,Yes,Yes,236641,22,Self occupied,1
+05000485,67,2491653,16062489,4522623,52,700,17,21,10,Independent house,Business,Yes,Tier 2,No,Yes,1066279,6,Investment,1
+05000486,67,1481744,6394672,4472101,29,766,32,14,3,Independent house,Salaried,No,Tier 2,Yes,Yes,1419424,6,Self occupied,0
+05000487,34,1928679,5419401,4833062,47,588,50,14,3,Apartment,Business,No,Tier 3,No,No,555765,15,Investment,0
+05000488,25,2761325,3256516,998486,26,843,37,11,6,Apartment,Business,No,Tier 3,Yes,No,679372,23,Investment,1
+05000489,36,2926190,11152399,4917472,28,684,36,21,3,Plot,Salaried,Yes,Tier 3,Yes,Yes,1487521,9,Self occupied,1
+05000490,39,557756,12342512,5568024,53,731,18,10,4,Independent house,Business,No,Tier 1,Yes,No,1261589,2,Self occupied,1
+05000491,46,2374817,15292784,2155982,51,486,60,20,8,Independent house,Business,Yes,Tier 3,Yes,No,1149010,3,Investment,1
+05000492,24,999663,17954357,2494761,51,521,37,17,1,Plot,Self-employed,No,Tier 3,Yes,Yes,616985,12,Investment,0
+05000493,51,1564486,5343964,2080668,45,619,90,6,9,Plot,Self-employed,Yes,Tier 2,Yes,No,704002,10,Self occupied,1
+05000494,34,1759747,16565395,1496478,51,744,81,5,2,Plot,Self-employed,Yes,Tier 1,Yes,No,1068204,8,Self occupied,0
+05000495,26,1840888,10380922,713244,60,708,74,8,5,Apartment,Self-employed,No,Tier 2,Yes,Yes,720916,3,Self occupied,1
+05000496,47,1929105,14816228,4976302,64,709,30,3,10,Apartment,Salaried,No,Tier 2,Yes,Yes,524740,12,Investment,1
+05000497,61,1415444,9438094,3859559,36,719,46,7,3,Independent house,Business,Yes,Tier 1,Yes,Yes,401595,0,Investment,1
+05000498,66,1985017,6984179,4019959,27,621,23,11,1,Plot,Business,Yes,Tier 2,No,Yes,1301560,25,Investment,0
+05000499,40,2325609,9300350,1836252,28,798,34,24,7,Plot,Business,Yes,Tier 2,No,No,1021103,14,Investment,1
+05000500,43,1901967,8571860,1642004,66,656,54,14,6,Apartment,Self-employed,No,Tier 2,No,Yes,1344081,0,Self occupied,1
+05000501,57,2157820,12010457,5165337,31,732,22,19,6,Plot,Salaried,No,Tier 3,Yes,No,80080,1,Investment,0
+05000502,60,381926,12593030,1654663,42,685,38,5,3,Plot,Salaried,Yes,Tier 1,No,No,1537980,6,Self occupied,1
+05000503,55,535419,1845223,4521159,62,498,81,11,8,Independent house,Business,No,Tier 3,Yes,Yes,37292,18,Self occupied,1
+05000504,55,1885574,16837726,4288827,23,500,44,8,0,Plot,Self-employed,Yes,Tier 2,No,No,867580,4,Investment,1
+05000505,66,941753,1567070,1873986,29,500,48,1,10,Plot,Business,Yes,Tier 3,Yes,No,765509,0,Self occupied,0
+05000506,27,1469474,7578918,1656710,42,518,54,23,2,Plot,Business,No,Tier 3,Yes,No,501521,20,Investment,1
+05000507,59,308953,5236494,2727483,26,794,85,6,0,Independent house,Self-employed,No,Tier 2,No,Yes,322342,1,Self occupied,0
+05000508,45,1924910,6376992,5252432,44,810,7,23,9,Plot,Business,Yes,Tier 2,Yes,No,1521198,23,Self occupied,1
+05000509,24,2450750,17281791,4817034,61,643,7,0,7,Independent house,Salaried,Yes,Tier 2,No,No,1303739,2,Self occupied,0
+05000510,50,1026333,10669018,2555851,69,820,34,24,1,Apartment,Self-employed,Yes,Tier 2,Yes,No,1370015,18,Self occupied,0
+05000511,39,2281437,6173047,777837,26,554,42,2,6,Apartment,Business,Yes,Tier 3,Yes,No,991423,3,Investment,1
+05000512,27,2029353,3552880,5422534,34,833,36,19,10,Apartment,Salaried,No,Tier 3,Yes,Yes,834767,5,Self occupied,0
+05000513,57,1880480,16271483,2181892,64,666,25,18,5,Apartment,Salaried,Yes,Tier 3,No,No,792639,7,Investment,1
+05000514,45,2961918,13812693,4390157,69,806,63,23,8,Independent house,Self-employed,No,Tier 2,No,No,542320,21,Investment,1
+05000515,38,285871,5800962,5127095,61,806,45,18,1,Plot,Self-employed,No,Tier 3,No,Yes,258700,7,Investment,0
+05000516,67,911808,13931901,5133895,68,493,9,22,9,Plot,Salaried,Yes,Tier 1,Yes,Yes,1443913,21,Investment,0
+05000517,25,2921731,6087857,3313898,59,694,12,16,3,Apartment,Business,No,Tier 3,No,Yes,321143,11,Self occupied,1
+05000518,28,1901412,7232114,1215774,21,809,75,23,1,Apartment,Self-employed,Yes,Tier 2,No,No,1723691,7,Self occupied,1
+05000519,55,2898778,13145466,2194654,60,613,65,0,3,Plot,Business,No,Tier 2,No,Yes,470851,8,Investment,1
+05000520,50,2952672,13173535,4642691,40,744,32,3,7,Plot,Salaried,No,Tier 3,No,No,939232,5,Investment,0
+05000521,43,478798,14520596,2321368,60,595,24,3,10,Apartment,Business,No,Tier 3,No,Yes,1178453,6,Investment,0
+05000522,36,2352556,15436621,4158061,26,612,64,20,1,Apartment,Salaried,No,Tier 2,No,Yes,1066588,1,Self occupied,0
+05000523,44,1646348,3998472,4110469,44,691,28,7,6,Independent house,Salaried,Yes,Tier 1,No,No,1771816,22,Self occupied,0
+05000524,50,735111,9566380,2702735,32,651,73,6,9,Plot,Self-employed,No,Tier 2,Yes,Yes,380878,23,Self occupied,0
+05000525,24,2893117,12925390,4992159,24,765,74,21,4,Independent house,Salaried,No,Tier 1,Yes,No,106001,16,Investment,1
+05000526,45,1751875,13475458,3194721,57,575,83,8,1,Apartment,Salaried,No,Tier 1,No,Yes,959887,2,Self occupied,1
+05000527,40,1694747,5170494,1517473,39,536,75,12,3,Apartment,Business,No,Tier 3,Yes,Yes,162700,20,Self occupied,1
+05000528,58,1069430,2650611,5736216,49,762,34,21,4,Plot,Salaried,Yes,Tier 2,Yes,No,482379,24,Self occupied,1
+05000529,36,2772733,13658602,3449280,66,699,53,9,5,Independent house,Self-employed,No,Tier 3,Yes,No,1111704,1,Self occupied,1
+05000530,66,2840466,16645865,476694,48,562,54,2,3,Plot,Salaried,Yes,Tier 2,No,Yes,1665675,12,Self occupied,0
+05000531,69,1348762,15198062,1495376,37,849,37,0,9,Independent house,Business,No,Tier 1,Yes,Yes,660560,23,Investment,1
+05000532,65,2048895,9274588,4157530,31,812,38,14,0,Independent house,Business,No,Tier 2,Yes,Yes,1465210,15,Self occupied,0
+05000533,28,1557115,12267485,711784,38,600,91,13,2,Apartment,Self-employed,No,Tier 1,Yes,No,1192824,12,Self occupied,1
+05000534,34,1468452,5435239,3522413,64,848,13,10,3,Apartment,Business,No,Tier 3,Yes,Yes,186341,9,Investment,0
+05000535,48,2955095,5189125,1494993,32,614,57,5,8,Independent house,Self-employed,No,Tier 1,No,No,1074640,13,Investment,0
+05000536,34,2760399,5982657,2500426,48,825,83,12,5,Independent house,Self-employed,No,Tier 2,No,No,1694024,2,Investment,1
+05000537,67,1219111,2628126,394530,23,817,42,8,5,Independent house,Business,No,Tier 2,No,No,425102,14,Investment,0
+05000538,56,1520551,1879259,3740733,55,798,36,6,9,Plot,Self-employed,No,Tier 1,No,Yes,1265762,13,Self occupied,1
+05000539,64,513449,8370437,1605503,68,670,31,17,2,Plot,Business,No,Tier 1,Yes,Yes,610048,5,Investment,0
+05000540,64,1181104,16859694,2726373,30,501,45,16,0,Independent house,Self-employed,No,Tier 1,No,No,95801,14,Investment,0
+05000541,43,321394,6799068,2049648,31,818,30,17,2,Plot,Business,No,Tier 2,No,Yes,1741998,2,Self occupied,0
+05000542,49,1319689,7023331,2221793,49,814,27,22,8,Plot,Salaried,No,Tier 3,Yes,Yes,635122,9,Self occupied,1
+05000543,54,464383,6792215,2755956,52,557,57,10,5,Plot,Self-employed,Yes,Tier 3,Yes,Yes,1250690,13,Investment,1
+05000544,25,2068233,4294625,3565182,45,547,8,13,9,Independent house,Business,Yes,Tier 1,No,No,309571,10,Investment,0
+05000545,48,1492467,13712767,328370,62,569,4,8,8,Apartment,Business,Yes,Tier 2,No,Yes,1049294,14,Self occupied,0
+05000546,25,681403,17158576,3387953,51,624,74,4,9,Independent house,Salaried,Yes,Tier 1,No,Yes,1257531,25,Investment,0
+05000547,66,2583431,3599481,3458518,23,773,61,0,2,Plot,Business,No,Tier 1,Yes,Yes,1364240,12,Self occupied,0
+05000548,58,886452,3607810,3575490,38,573,28,22,6,Apartment,Self-employed,No,Tier 2,No,Yes,1015652,21,Investment,1
+05000549,44,2636951,7945606,1518138,46,630,70,1,9,Independent house,Business,Yes,Tier 3,Yes,No,618617,9,Self occupied,0
+05000550,28,1898317,11253386,2099698,53,830,54,8,4,Apartment,Self-employed,No,Tier 1,No,Yes,959958,11,Investment,1
+05000551,31,730757,8642072,4044887,69,623,25,6,5,Apartment,Self-employed,Yes,Tier 1,No,Yes,1722302,3,Investment,0
+05000552,35,1134396,4887144,3605225,39,603,49,14,4,Independent house,Business,No,Tier 2,Yes,Yes,1098891,4,Investment,1
+05000553,57,1880738,5984132,1471377,22,522,43,0,5,Independent house,Business,Yes,Tier 2,No,Yes,984740,17,Investment,0
+05000554,23,986855,6188398,2942602,56,484,94,22,2,Independent house,Salaried,No,Tier 3,Yes,Yes,1425702,2,Self occupied,1
+05000555,28,1566721,11417530,777517,55,605,50,4,9,Plot,Salaried,No,Tier 2,No,No,65014,23,Investment,1
+05000556,43,496796,8710956,3085641,40,649,34,0,1,Independent house,Business,No,Tier 3,No,No,1729763,5,Investment,0
+05000557,59,1622219,7529454,1192360,26,695,12,16,2,Independent house,Self-employed,No,Tier 2,Yes,No,270034,15,Investment,0
+05000558,42,360992,3977260,1484412,56,602,57,13,4,Apartment,Salaried,Yes,Tier 3,No,No,1407875,19,Self occupied,0
+05000559,68,2433638,8535535,4113214,23,730,83,23,8,Apartment,Salaried,No,Tier 2,No,Yes,737445,9,Investment,1
+05000560,47,537441,13388592,582394,40,614,35,15,3,Apartment,Self-employed,No,Tier 3,No,Yes,1251126,7,Investment,1
+05000561,41,1547177,3823168,770094,38,617,36,10,7,Apartment,Business,Yes,Tier 2,No,Yes,762181,10,Self occupied,0
+05000562,42,377379,14611048,5919727,51,690,68,22,3,Apartment,Salaried,Yes,Tier 3,No,No,989611,6,Investment,1
+05000563,59,1677402,16835035,3523234,63,780,6,15,0,Apartment,Self-employed,No,Tier 2,No,Yes,1637162,21,Self occupied,0
+05000564,63,555129,9550518,4207471,29,561,35,21,10,Plot,Business,No,Tier 3,Yes,No,938599,14,Self occupied,0
+05000565,44,2670216,13056060,5109282,31,501,71,12,8,Apartment,Self-employed,Yes,Tier 2,Yes,No,1296480,10,Investment,0
+05000566,30,2968711,13541571,2645629,26,533,80,2,10,Independent house,Business,Yes,Tier 2,No,Yes,137375,22,Investment,0
+05000567,63,1450638,6600011,455210,35,547,17,2,0,Plot,Salaried,No,Tier 3,Yes,No,698447,14,Investment,0
+05000568,52,2065167,4719144,291310,30,614,64,2,1,Plot,Self-employed,Yes,Tier 3,Yes,Yes,1125590,18,Self occupied,0
+05000569,38,1239339,10442030,1274127,46,508,38,5,10,Apartment,Salaried,No,Tier 2,No,Yes,1135403,18,Self occupied,0
+05000570,55,778415,1610450,2619937,21,760,18,20,7,Independent house,Salaried,No,Tier 3,No,No,1326307,20,Self occupied,1
+05000571,57,2319104,17916960,4915488,32,561,17,18,9,Independent house,Business,No,Tier 1,Yes,No,1392735,21,Self occupied,1
+05000572,68,1201661,2084743,1289485,57,591,83,16,0,Plot,Self-employed,Yes,Tier 2,Yes,No,1329655,16,Investment,0
+05000573,42,2313444,16270732,2036993,40,732,88,14,3,Apartment,Business,Yes,Tier 2,No,No,664527,7,Investment,0
+05000574,25,1088907,6619255,3356486,50,497,60,18,6,Apartment,Business,Yes,Tier 1,Yes,Yes,1350366,0,Investment,0
+05000575,50,1861615,14269010,5956893,52,664,68,16,6,Apartment,Salaried,Yes,Tier 1,Yes,Yes,747508,4,Investment,1
+05000576,60,349255,4985591,2829472,64,502,57,19,0,Plot,Salaried,No,Tier 3,Yes,Yes,693592,10,Self occupied,0
+05000577,44,1771106,14926796,4237803,42,694,52,21,8,Independent house,Business,Yes,Tier 1,No,Yes,95740,8,Investment,0
+05000578,21,854146,15565422,4690152,32,550,74,10,9,Independent house,Self-employed,Yes,Tier 1,No,No,1362144,3,Investment,0
+05000579,61,2080628,16828352,456963,66,701,66,13,2,Plot,Self-employed,No,Tier 1,No,No,1475731,11,Self occupied,0
+05000580,36,2773523,17641491,3343792,61,736,16,9,7,Apartment,Salaried,No,Tier 3,No,No,1307630,0,Self occupied,1
+05000581,50,323662,13863085,2434364,30,486,54,5,7,Apartment,Self-employed,Yes,Tier 3,No,Yes,317971,24,Investment,1
+05000582,27,2550807,11741828,3173945,26,644,88,25,7,Apartment,Self-employed,No,Tier 3,Yes,No,1774484,1,Self occupied,1
+05000583,48,1718711,15568407,635669,55,545,36,4,0,Independent house,Self-employed,No,Tier 1,Yes,Yes,186600,19,Investment,0
+05000584,66,874262,2978170,637703,58,727,13,24,6,Plot,Self-employed,Yes,Tier 3,Yes,No,675105,18,Self occupied,0
+05000585,50,1106357,17697276,2722333,60,576,9,15,10,Apartment,Self-employed,Yes,Tier 2,No,Yes,1625261,21,Self occupied,0
+05000586,60,639895,12572387,1848481,64,594,81,4,1,Plot,Salaried,Yes,Tier 3,Yes,No,1565186,3,Self occupied,0
+05000587,65,2170276,12630941,1881789,22,803,48,6,9,Plot,Business,No,Tier 2,No,Yes,1267031,17,Self occupied,1
+05000588,25,1044461,11254076,1148436,43,525,19,8,10,Independent house,Self-employed,No,Tier 2,Yes,No,195689,13,Investment,1
+05000589,58,1546285,7248265,5830243,26,758,59,15,2,Apartment,Salaried,Yes,Tier 2,No,No,1378491,25,Self occupied,0
+05000590,27,1589740,17868484,5563874,64,682,60,1,6,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,245349,2,Investment,1
+05000591,44,372739,15891963,4243473,52,817,84,22,2,Independent house,Salaried,Yes,Tier 3,No,Yes,454347,22,Investment,1
+05000592,52,769633,17916225,4021403,67,699,9,14,10,Independent house,Business,Yes,Tier 2,No,No,629123,20,Investment,0
+05000593,60,1425046,5249378,5502328,23,713,81,21,5,Plot,Business,Yes,Tier 2,Yes,Yes,783356,22,Investment,0
+05000594,62,2458439,12512235,3912195,41,839,63,25,0,Independent house,Self-employed,No,Tier 2,No,Yes,514153,7,Investment,1
+05000595,51,1176305,17870113,3045832,32,555,57,19,4,Plot,Salaried,Yes,Tier 3,No,No,568466,16,Investment,0
+05000596,43,2110882,12308332,5246020,32,578,74,19,9,Plot,Self-employed,Yes,Tier 1,No,Yes,1737917,12,Investment,1
+05000597,66,1209009,2057433,1618946,47,669,23,18,5,Apartment,Self-employed,No,Tier 1,No,Yes,418584,5,Self occupied,1
+05000598,56,1443330,15019954,2649662,44,645,67,9,2,Plot,Business,Yes,Tier 1,No,No,1197021,23,Investment,1
+05000599,23,1354305,17391857,839414,59,667,47,15,1,Independent house,Self-employed,No,Tier 3,Yes,No,722952,20,Investment,1
+05000600,36,2056337,2567155,5437849,29,576,70,24,1,Apartment,Business,Yes,Tier 2,No,Yes,1605944,6,Investment,0
+05000601,57,1590979,9608813,1051559,32,617,16,0,2,Plot,Business,No,Tier 1,Yes,Yes,1349249,10,Investment,1
+05000602,69,1108129,9595035,4469851,66,481,85,18,8,Plot,Self-employed,Yes,Tier 3,Yes,Yes,26036,18,Investment,1
+05000603,54,2665209,3354562,3748124,55,480,41,9,2,Plot,Business,Yes,Tier 3,Yes,Yes,749193,0,Investment,0
+05000604,67,723862,14418603,4888373,63,593,51,8,3,Plot,Salaried,Yes,Tier 1,Yes,Yes,284956,5,Self occupied,0
+05000605,46,600363,9852104,2198921,28,580,66,13,8,Apartment,Self-employed,No,Tier 2,No,Yes,1431660,17,Investment,1
+05000606,50,2836341,15606437,2254117,44,553,94,21,0,Independent house,Business,No,Tier 1,Yes,Yes,475755,0,Self occupied,1
+05000607,34,2503478,13801636,381761,58,699,35,24,7,Apartment,Salaried,Yes,Tier 2,No,Yes,1213215,11,Investment,1
+05000608,44,2222782,13140906,3221086,26,671,16,18,2,Independent house,Self-employed,No,Tier 3,Yes,Yes,1104765,14,Self occupied,1
+05000609,31,2295681,4765418,1613230,38,491,42,16,7,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,24675,24,Self occupied,0
+05000610,54,2728449,17560745,1427870,64,699,84,3,5,Independent house,Business,Yes,Tier 1,No,No,399617,7,Investment,1
+05000611,61,1832447,1770637,5653767,62,783,25,7,2,Plot,Salaried,Yes,Tier 3,Yes,No,933529,15,Self occupied,0
+05000612,57,2604805,14594097,3133657,58,746,75,10,0,Independent house,Business,No,Tier 1,No,Yes,494804,20,Self occupied,1
+05000613,24,1194074,16586335,3238917,42,504,52,25,3,Independent house,Salaried,Yes,Tier 3,Yes,Yes,1433983,13,Self occupied,1
+05000614,56,1304101,4860616,4735828,26,744,60,23,3,Apartment,Business,Yes,Tier 1,Yes,Yes,452574,8,Self occupied,0
+05000615,47,317947,12816808,5898844,55,599,81,11,0,Plot,Salaried,No,Tier 3,No,No,1738355,0,Self occupied,1
+05000616,30,453469,10087059,5707133,38,779,4,14,5,Plot,Salaried,No,Tier 3,Yes,No,1265634,22,Self occupied,0
+05000617,62,2111706,14777369,4517877,22,530,25,13,4,Apartment,Salaried,No,Tier 2,No,No,1145767,2,Self occupied,0
+05000618,30,2443479,7457136,1399717,57,480,48,20,0,Apartment,Self-employed,No,Tier 1,No,No,167230,3,Self occupied,0
+05000619,24,2547396,4897902,5667416,23,695,16,4,7,Independent house,Business,Yes,Tier 1,No,No,1507743,11,Investment,0
+05000620,50,2363104,9783713,1864683,64,770,29,16,8,Plot,Self-employed,Yes,Tier 2,Yes,Yes,1533096,10,Investment,1
+05000621,25,2504439,15285072,992943,68,830,81,7,7,Independent house,Self-employed,No,Tier 1,No,Yes,90420,1,Investment,1
+05000622,26,1210533,9045555,1701505,69,816,52,10,9,Plot,Self-employed,Yes,Tier 3,No,No,60532,16,Self occupied,0
+05000623,21,1150635,8374956,2437848,60,553,34,0,2,Independent house,Self-employed,Yes,Tier 3,Yes,Yes,1145205,13,Investment,1
+05000624,59,1875713,2937929,2421913,43,628,87,8,8,Apartment,Self-employed,Yes,Tier 2,No,Yes,938612,10,Investment,1
+05000625,29,513152,14964935,503304,61,534,66,17,7,Apartment,Business,Yes,Tier 1,Yes,Yes,1153679,16,Investment,0
+05000626,23,1366489,9536803,1129721,60,622,28,19,7,Plot,Self-employed,Yes,Tier 2,No,No,928125,1,Investment,0
+05000627,56,948132,8432965,4353151,48,716,74,13,5,Apartment,Salaried,Yes,Tier 1,No,Yes,1145726,17,Self occupied,1
+05000628,24,2351417,8551192,2611122,53,709,41,18,0,Apartment,Self-employed,Yes,Tier 1,No,No,745738,21,Self occupied,0
+05000629,61,2863993,17748105,4030298,68,634,44,23,4,Independent house,Business,Yes,Tier 1,Yes,No,1715003,11,Self occupied,1
+05000630,37,2510165,2333264,2181249,60,650,79,17,9,Plot,Salaried,No,Tier 1,Yes,No,106949,14,Self occupied,1
+05000631,21,1609877,15178500,4648118,56,600,84,7,4,Apartment,Business,Yes,Tier 1,No,No,681113,21,Self occupied,0
+05000632,53,2692645,5947971,4191756,41,786,84,9,7,Apartment,Self-employed,No,Tier 1,No,No,814940,17,Self occupied,0
+05000633,34,488528,6879843,1701820,37,816,75,12,7,Plot,Salaried,No,Tier 2,Yes,Yes,1036396,24,Investment,0
+05000634,62,1849275,8465867,5915326,44,700,82,7,7,Independent house,Salaried,No,Tier 3,Yes,Yes,261252,15,Self occupied,1
+05000635,45,363280,5518604,2820265,21,650,56,7,6,Apartment,Self-employed,No,Tier 1,Yes,No,202520,25,Investment,0
+05000636,40,2076326,6392939,1890968,23,840,22,13,6,Apartment,Self-employed,No,Tier 3,Yes,No,1320965,22,Investment,1
+05000637,50,1271432,4345059,2595130,29,597,28,22,5,Independent house,Salaried,No,Tier 1,No,Yes,1168138,17,Investment,1
+05000638,41,2953959,16273529,4382444,54,699,40,25,0,Apartment,Business,Yes,Tier 3,No,Yes,1555841,11,Investment,1
+05000639,27,2236194,13972099,2032012,62,598,90,16,10,Independent house,Salaried,Yes,Tier 2,Yes,No,1221191,9,Investment,1
+05000640,39,678480,16983305,4550606,33,699,50,7,7,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,1100653,10,Self occupied,1
+05000641,26,1335120,8659223,649555,57,714,45,11,9,Independent house,Salaried,Yes,Tier 3,No,Yes,1323250,13,Investment,0
+05000642,62,2473906,7137731,3632822,29,631,46,0,9,Independent house,Salaried,Yes,Tier 1,No,No,537917,7,Self occupied,0
+05000643,24,1887777,10960999,106233,68,512,73,19,2,Independent house,Self-employed,Yes,Tier 3,No,No,1511915,20,Investment,0
+05000644,27,2811381,2074847,784520,24,789,61,14,9,Apartment,Self-employed,No,Tier 1,No,No,1135075,25,Investment,1
+05000645,56,2524100,13006697,1361538,30,591,20,6,5,Apartment,Self-employed,No,Tier 3,No,Yes,541220,6,Investment,0
+05000646,68,1441805,2807764,5296775,54,508,29,11,7,Plot,Self-employed,No,Tier 3,Yes,No,754933,20,Self occupied,1
+05000647,64,1112956,13585270,1569030,23,496,32,5,0,Apartment,Self-employed,Yes,Tier 2,No,Yes,392547,8,Self occupied,0
+05000648,30,1693439,17807882,2494246,24,589,40,3,3,Apartment,Salaried,No,Tier 1,No,Yes,1054301,13,Self occupied,1
+05000649,54,2505708,11657715,4365804,49,686,90,14,4,Independent house,Salaried,No,Tier 3,Yes,No,296636,14,Investment,1
+05000650,38,2503766,2605380,423476,31,616,46,0,9,Plot,Salaried,No,Tier 2,No,No,356334,3,Self occupied,0
+05000651,63,1251280,10581427,4913945,43,499,52,7,7,Apartment,Self-employed,No,Tier 1,Yes,Yes,1148102,25,Investment,1
+05000652,51,2187448,3765247,2408814,45,543,24,19,3,Plot,Business,No,Tier 2,No,Yes,890069,9,Self occupied,0
+05000653,21,883442,3375543,3583071,66,481,51,9,10,Apartment,Self-employed,No,Tier 3,Yes,No,142977,25,Investment,0
+05000654,31,1191405,10885459,4363592,43,802,76,7,0,Independent house,Business,No,Tier 3,No,No,426900,7,Investment,1
+05000655,54,1925922,13284390,2029249,54,626,10,16,8,Independent house,Salaried,Yes,Tier 3,Yes,Yes,1636483,21,Investment,1
+05000656,32,2085353,11107874,4062984,31,488,9,23,6,Independent house,Salaried,Yes,Tier 1,No,No,544910,20,Self occupied,0
+05000657,21,1047601,2478322,4633573,67,720,18,4,4,Independent house,Business,No,Tier 1,No,Yes,700422,1,Self occupied,0
+05000658,59,571107,10016726,353307,21,759,47,25,10,Apartment,Business,Yes,Tier 1,No,Yes,76122,21,Self occupied,0
+05000659,21,2863453,16398956,4384333,37,715,87,13,7,Plot,Business,No,Tier 3,Yes,No,342202,12,Self occupied,0
+05000660,31,1140512,10413706,3685872,62,611,34,4,10,Plot,Business,Yes,Tier 3,Yes,Yes,1351357,16,Self occupied,0
+05000661,34,837951,6362028,4961716,24,739,62,3,4,Independent house,Self-employed,No,Tier 2,No,Yes,461326,25,Self occupied,0
+05000662,58,873281,13558542,1962746,59,717,87,4,3,Plot,Self-employed,No,Tier 3,No,No,643972,16,Self occupied,1
+05000663,52,734691,15811246,667267,40,812,58,20,6,Independent house,Self-employed,Yes,Tier 2,No,No,1776657,3,Investment,1
+05000664,36,1773591,16264618,432389,36,491,83,13,1,Plot,Salaried,No,Tier 2,No,Yes,1032136,13,Self occupied,1
+05000665,34,339703,6588582,3222631,47,689,47,2,0,Apartment,Self-employed,No,Tier 2,No,No,1181484,25,Self occupied,0
+05000666,57,1607664,14693244,5008416,26,646,68,9,9,Plot,Business,No,Tier 1,Yes,No,375864,24,Investment,0
+05000667,41,1958652,16760692,3406288,43,581,25,13,7,Independent house,Self-employed,Yes,Tier 2,No,No,708530,9,Self occupied,1
+05000668,39,996733,7625897,699760,52,622,11,21,3,Apartment,Business,Yes,Tier 1,Yes,Yes,330904,24,Investment,0
+05000669,48,2377033,10076174,805866,33,751,18,19,10,Apartment,Business,No,Tier 3,Yes,Yes,34586,18,Self occupied,0
+05000670,41,990363,10208352,824568,62,775,19,13,5,Plot,Business,Yes,Tier 3,Yes,Yes,1703461,25,Investment,1
+05000671,40,1950253,1718885,4388623,31,792,9,1,4,Apartment,Business,Yes,Tier 3,No,No,592414,16,Investment,0
+05000672,27,2642773,7663872,3883169,27,769,57,9,9,Apartment,Salaried,No,Tier 1,Yes,Yes,939754,2,Self occupied,0
+05000673,28,2353924,15236233,964924,41,491,10,23,4,Plot,Self-employed,No,Tier 1,Yes,Yes,1173419,21,Self occupied,0
+05000674,40,2377741,3254919,4458622,62,665,80,11,8,Plot,Salaried,No,Tier 1,Yes,Yes,434612,11,Self occupied,0
+05000675,45,2416751,12447812,2400526,49,691,69,6,4,Plot,Salaried,No,Tier 2,Yes,No,447708,1,Investment,1
+05000676,27,2490422,7642659,3133063,60,499,67,16,8,Independent house,Salaried,Yes,Tier 2,No,Yes,618994,1,Investment,1
+05000677,43,2488261,7540669,2782595,63,746,10,4,5,Independent house,Salaried,No,Tier 2,Yes,No,1591331,25,Investment,0
+05000678,23,437813,10760093,5956016,39,704,18,25,10,Apartment,Business,No,Tier 2,Yes,Yes,49172,3,Investment,0
+05000679,46,1749499,17853227,2783802,35,850,22,4,0,Independent house,Salaried,No,Tier 2,No,No,1123994,2,Investment,1
+05000680,40,1914510,9557204,4084011,35,680,41,13,4,Apartment,Business,Yes,Tier 3,Yes,Yes,869099,6,Investment,0
+05000681,27,404815,8187178,884897,47,712,77,19,8,Independent house,Salaried,Yes,Tier 2,Yes,Yes,1442175,2,Self occupied,1
+05000682,24,881366,15457439,5686129,55,746,84,11,0,Apartment,Business,No,Tier 2,No,Yes,221810,8,Investment,1
+05000683,22,2693768,10668981,2025074,65,838,65,20,2,Apartment,Business,No,Tier 1,Yes,No,1612085,21,Self occupied,1
+05000684,51,2264397,4196370,1149024,28,775,91,17,4,Independent house,Self-employed,No,Tier 2,Yes,Yes,1222739,15,Self occupied,1
+05000685,48,2227058,16913032,1870197,67,623,5,11,2,Apartment,Salaried,No,Tier 1,No,Yes,235236,14,Self occupied,1
+05000686,60,2208150,9044232,5919008,37,719,94,11,2,Plot,Salaried,Yes,Tier 3,No,No,485423,2,Investment,0
+05000687,64,2852266,17798373,1526656,26,622,57,15,4,Independent house,Salaried,Yes,Tier 1,Yes,Yes,1539548,0,Investment,1
+05000688,33,2571954,13047797,2976581,59,691,16,0,8,Plot,Self-employed,No,Tier 3,No,Yes,689783,1,Investment,0
+05000689,25,2720193,7274288,4352825,44,822,36,8,0,Independent house,Self-employed,Yes,Tier 1,No,Yes,560536,22,Investment,0
+05000690,51,896838,8683240,1581873,35,660,77,2,2,Independent house,Self-employed,Yes,Tier 2,No,No,1567363,4,Investment,1
+05000691,54,2347533,3011691,4073906,64,666,70,12,4,Plot,Self-employed,No,Tier 3,No,No,484225,9,Self occupied,1
+05000692,23,2435077,2762153,4505159,65,589,28,13,0,Independent house,Salaried,Yes,Tier 1,Yes,Yes,591469,23,Investment,1
+05000693,53,2061584,11981621,2956005,31,543,67,24,10,Apartment,Salaried,No,Tier 2,No,Yes,644257,2,Self occupied,1
+05000694,51,1381186,10694092,3407844,47,587,76,11,2,Independent house,Salaried,Yes,Tier 2,No,Yes,1664561,3,Self occupied,0
+05000695,48,416301,16289318,2504192,32,628,19,20,2,Plot,Business,Yes,Tier 3,No,Yes,1373315,6,Investment,1
+05000696,43,1041789,9424187,1315258,30,780,13,3,4,Plot,Business,Yes,Tier 2,Yes,Yes,1425236,17,Self occupied,0
+05000697,29,951051,6480803,5898343,39,715,15,11,8,Independent house,Self-employed,No,Tier 1,No,No,1022008,24,Investment,0
+05000698,50,2354381,4742059,2198761,49,566,48,20,0,Independent house,Business,No,Tier 1,No,No,1034886,17,Investment,1
+05000699,33,1206167,2531161,1194840,40,788,89,4,7,Apartment,Salaried,Yes,Tier 1,No,No,1530993,0,Investment,1
+05000700,58,2700348,1930138,5573384,69,800,10,4,3,Independent house,Business,Yes,Tier 3,No,No,1503783,24,Investment,1
+05000701,29,2643087,8542018,2538177,59,672,89,7,5,Plot,Business,Yes,Tier 2,No,Yes,1569340,15,Investment,0
+05000702,67,954564,9261451,5252796,28,735,4,2,4,Apartment,Salaried,No,Tier 1,Yes,Yes,898221,15,Self occupied,0
+05000703,27,2387534,13860529,4712416,54,515,27,10,0,Independent house,Salaried,No,Tier 3,No,Yes,1689455,3,Investment,0
+05000704,60,2654244,10721640,2149204,49,727,20,2,5,Apartment,Business,Yes,Tier 2,Yes,No,490911,13,Investment,0
+05000705,46,1157039,6340698,1827561,69,821,25,22,3,Apartment,Self-employed,Yes,Tier 2,No,Yes,907192,20,Investment,0
+05000706,37,1206417,4216411,5867974,59,771,88,25,5,Apartment,Self-employed,Yes,Tier 1,No,Yes,877419,15,Investment,1
+05000707,54,623731,10630414,1864228,50,594,84,13,9,Independent house,Salaried,No,Tier 3,Yes,No,1695609,9,Self occupied,0
+05000708,68,2701046,8474904,3309596,40,739,16,9,2,Plot,Business,No,Tier 2,No,Yes,1414319,22,Investment,0
+05000709,66,2330345,14702352,4364611,44,625,66,18,2,Plot,Salaried,No,Tier 3,Yes,No,1593714,22,Investment,1
+05000710,54,1583182,17148864,1057655,39,633,27,20,9,Apartment,Business,No,Tier 1,Yes,No,683078,16,Self occupied,0
+05000711,34,576982,2934832,453086,26,564,95,7,6,Plot,Business,No,Tier 2,Yes,No,1002285,5,Investment,1
+05000712,48,1223666,2621881,4831848,49,557,85,25,1,Independent house,Self-employed,Yes,Tier 3,No,Yes,1394220,10,Investment,1
+05000713,45,2121359,5809468,2047106,40,828,44,8,4,Plot,Self-employed,Yes,Tier 3,Yes,No,1127666,4,Self occupied,0
+05000714,38,367455,12333058,2549527,31,528,27,19,0,Independent house,Self-employed,No,Tier 2,No,No,1528510,1,Investment,0
+05000715,36,470760,12522354,1509378,64,754,44,11,6,Independent house,Business,Yes,Tier 3,No,No,296178,0,Self occupied,0
+05000716,51,2655333,10850289,1172372,64,557,14,8,2,Independent house,Self-employed,No,Tier 2,No,Yes,540331,15,Investment,0
+05000717,39,1962961,10914131,5057489,46,618,19,14,0,Apartment,Business,Yes,Tier 3,Yes,No,1125375,19,Investment,0
+05000718,46,853508,7823113,5999826,24,491,42,3,9,Independent house,Business,Yes,Tier 3,Yes,No,237188,20,Self occupied,0
+05000719,28,790090,4696213,5472006,55,533,15,16,4,Apartment,Self-employed,No,Tier 3,Yes,No,1022741,22,Self occupied,0
+05000720,43,1638920,2154483,1375703,37,588,92,3,0,Apartment,Salaried,No,Tier 1,Yes,No,932918,5,Investment,1
+05000721,68,2191073,7397005,5246467,48,485,70,17,4,Plot,Business,Yes,Tier 2,Yes,No,440933,24,Investment,1
+05000722,64,999633,1833992,3800598,50,687,67,17,10,Apartment,Self-employed,No,Tier 1,Yes,No,488673,1,Self occupied,1
+05000723,55,2974044,13046168,3199925,29,824,59,0,9,Plot,Salaried,Yes,Tier 1,Yes,Yes,1583429,22,Investment,1
+05000724,63,2363374,16136381,5383113,29,794,40,4,7,Apartment,Business,No,Tier 2,No,Yes,457715,12,Self occupied,0
+05000725,41,1096520,11506045,3831179,39,757,11,24,3,Plot,Self-employed,No,Tier 1,Yes,Yes,23893,20,Investment,1
+05000726,66,2987455,15112124,330482,54,613,21,0,1,Plot,Salaried,No,Tier 1,No,No,1436453,20,Investment,1
+05000727,52,440182,7156456,558136,29,539,65,4,0,Independent house,Business,No,Tier 3,Yes,No,744184,10,Investment,0
+05000728,38,994836,17279053,2193488,38,775,51,10,7,Plot,Salaried,No,Tier 1,Yes,No,788660,16,Self occupied,0
+05000729,41,2737365,13128230,3326483,23,637,71,19,3,Apartment,Business,Yes,Tier 3,Yes,No,692822,16,Investment,1
+05000730,26,1698293,3321599,5814770,28,823,48,6,2,Independent house,Business,No,Tier 1,No,No,1688339,15,Investment,0
+05000731,28,2851129,16450991,491037,58,728,67,17,0,Apartment,Salaried,Yes,Tier 2,Yes,No,303879,13,Self occupied,0
+05000732,28,2684404,17268843,259983,40,656,84,12,8,Apartment,Salaried,Yes,Tier 2,No,Yes,991437,11,Investment,1
+05000733,64,2428748,9170359,2299135,41,850,20,14,1,Independent house,Self-employed,No,Tier 1,Yes,No,1284027,10,Self occupied,0
+05000734,61,2747996,5761081,206761,44,734,57,13,5,Apartment,Business,No,Tier 1,No,Yes,1553675,11,Self occupied,0
+05000735,43,2762079,11686297,218683,27,660,91,23,2,Plot,Salaried,Yes,Tier 3,Yes,Yes,490515,8,Self occupied,0
+05000736,51,777444,4003618,1125793,36,669,56,24,7,Independent house,Business,No,Tier 2,No,Yes,334276,18,Self occupied,1
+05000737,59,491571,2701556,3479341,24,807,72,11,4,Plot,Business,Yes,Tier 1,No,No,1743785,3,Investment,1
+05000738,39,1023837,13137514,108417,58,705,68,3,5,Independent house,Self-employed,No,Tier 3,No,Yes,58842,9,Self occupied,1
+05000739,38,442354,14570409,5274938,69,830,87,4,8,Plot,Business,Yes,Tier 3,Yes,Yes,680886,7,Self occupied,1
+05000740,64,2037944,6552433,4000170,34,668,22,2,2,Plot,Salaried,Yes,Tier 3,Yes,No,558656,24,Investment,0
+05000741,52,894049,4887897,4398257,55,780,31,15,3,Independent house,Business,No,Tier 1,Yes,No,646392,10,Self occupied,1
+05000742,37,1136525,6607451,595377,43,748,81,8,9,Independent house,Salaried,No,Tier 1,No,Yes,680736,9,Self occupied,0
+05000743,22,1417004,2532335,4489642,26,650,14,19,6,Plot,Self-employed,Yes,Tier 3,No,Yes,469563,6,Investment,0
+05000744,64,930230,6938083,1527462,64,510,28,0,9,Apartment,Self-employed,No,Tier 1,Yes,Yes,1363054,3,Self occupied,1
+05000745,68,2430491,4025971,2347612,52,725,38,21,2,Apartment,Self-employed,No,Tier 2,Yes,Yes,1469898,7,Self occupied,1
+05000746,40,1681279,9627970,2491812,63,798,27,24,5,Independent house,Business,No,Tier 2,Yes,No,818623,6,Investment,0
+05000747,44,2453646,12955845,1082246,58,563,10,18,5,Independent house,Business,Yes,Tier 1,No,Yes,519380,10,Self occupied,1
+05000748,56,2624510,12981223,968293,48,642,50,3,5,Independent house,Business,Yes,Tier 2,Yes,Yes,140523,4,Investment,1
+05000749,65,2509268,2425746,1984571,34,717,42,5,7,Independent house,Business,No,Tier 1,Yes,No,164063,17,Self occupied,1
+05000750,40,1213601,8734360,3776431,51,649,74,20,6,Apartment,Self-employed,No,Tier 2,No,Yes,714849,24,Self occupied,0
+05000751,64,2079348,6923844,965695,66,717,64,15,0,Apartment,Self-employed,No,Tier 3,No,Yes,1706154,23,Self occupied,1
+05000752,25,2468547,11546818,657531,22,631,29,23,6,Apartment,Salaried,No,Tier 1,No,No,1733658,0,Self occupied,0
+05000753,54,2551125,8033885,4084631,35,501,27,17,4,Plot,Salaried,Yes,Tier 2,Yes,Yes,1071425,22,Investment,1
+05000754,25,1640290,4348656,2582499,42,480,36,18,3,Apartment,Business,No,Tier 1,Yes,No,1103072,18,Self occupied,0
+05000755,41,2175660,11852657,3766809,46,769,57,12,1,Apartment,Salaried,Yes,Tier 1,No,Yes,544830,15,Investment,1
+05000756,33,1653193,12843923,2089943,68,751,29,9,1,Apartment,Salaried,Yes,Tier 2,Yes,Yes,279492,22,Investment,1
+05000757,67,1178242,13902221,4225526,21,737,71,12,8,Plot,Salaried,Yes,Tier 2,No,No,1466756,20,Investment,0
+05000758,22,2316869,12758332,2462030,42,637,57,18,3,Independent house,Salaried,No,Tier 2,Yes,Yes,397540,5,Self occupied,1
+05000759,51,683044,9770700,2498195,68,516,22,9,7,Plot,Salaried,No,Tier 2,No,Yes,785016,12,Investment,0
+05000760,37,833058,3074935,4854776,42,672,5,25,5,Independent house,Salaried,Yes,Tier 3,Yes,No,16982,9,Self occupied,0
+05000761,33,357133,2413964,2455435,68,684,78,20,8,Plot,Self-employed,Yes,Tier 1,Yes,No,1096491,8,Investment,0
+05000762,67,1072716,5879522,5362142,35,751,88,12,2,Plot,Business,No,Tier 1,Yes,Yes,700740,3,Self occupied,0
+05000763,55,1420333,4361018,3668713,60,675,21,19,10,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,1743053,6,Investment,0
+05000764,52,410713,8876019,5072691,27,718,47,24,7,Plot,Business,Yes,Tier 3,Yes,Yes,806824,14,Self occupied,1
+05000765,29,2516976,5347040,1120573,50,699,23,20,1,Independent house,Self-employed,No,Tier 3,Yes,No,1004128,14,Self occupied,0
+05000766,69,1579527,15335046,2254027,23,510,84,1,0,Independent house,Salaried,Yes,Tier 2,Yes,Yes,1298852,20,Self occupied,1
+05000767,57,643575,16762770,4394860,52,629,40,12,3,Apartment,Business,Yes,Tier 2,No,Yes,1088305,21,Investment,0
+05000768,67,1183501,11255394,2116160,65,610,16,20,3,Independent house,Salaried,No,Tier 2,No,No,853721,19,Investment,1
+05000769,59,582965,2800060,1796754,54,812,91,25,1,Plot,Salaried,Yes,Tier 3,No,No,1192784,9,Self occupied,1
+05000770,27,982400,8079429,1321348,69,761,65,10,6,Independent house,Business,Yes,Tier 2,Yes,No,1676823,14,Investment,1
+05000771,31,1926236,15262966,3208983,40,545,76,12,4,Apartment,Salaried,No,Tier 1,Yes,Yes,145110,21,Self occupied,0
+05000772,25,1280766,15665579,1812806,34,664,41,11,9,Independent house,Salaried,Yes,Tier 1,Yes,No,1249725,25,Self occupied,0
+05000773,63,2569589,15159784,3641357,62,661,75,9,6,Apartment,Self-employed,No,Tier 1,Yes,No,1320780,12,Self occupied,1
+05000774,50,2696037,3518932,1689159,60,607,84,9,9,Plot,Business,Yes,Tier 2,Yes,Yes,1786764,8,Self occupied,0
+05000775,26,976710,1616550,2246405,61,678,6,3,9,Independent house,Business,No,Tier 3,Yes,No,1178834,15,Investment,0
+05000776,47,573412,15465780,4125895,45,810,72,7,10,Independent house,Business,No,Tier 1,No,No,977150,8,Investment,0
+05000777,56,1477400,17110252,1601706,67,620,92,17,3,Independent house,Business,No,Tier 2,Yes,No,1260513,24,Self occupied,1
+05000778,57,1734755,12631730,2329004,50,743,78,16,10,Apartment,Self-employed,Yes,Tier 2,Yes,No,1526430,18,Self occupied,1
+05000779,62,2145798,16754952,1066692,48,499,23,16,1,Plot,Salaried,No,Tier 1,No,No,682628,18,Self occupied,0
+05000780,32,2141349,3656840,5439153,58,799,72,25,2,Independent house,Business,Yes,Tier 2,No,No,1675965,15,Investment,1
+05000781,39,1348898,4986141,3138536,61,754,93,17,7,Independent house,Salaried,Yes,Tier 3,No,No,1371019,3,Investment,0
+05000782,67,2328299,15647487,785288,24,845,21,4,2,Independent house,Salaried,Yes,Tier 3,Yes,Yes,787981,3,Self occupied,0
+05000783,64,1649031,13498131,4799048,46,657,56,10,2,Independent house,Business,No,Tier 1,No,No,437158,7,Self occupied,1
+05000784,52,1352013,2129902,5385508,60,609,13,13,1,Apartment,Business,No,Tier 3,Yes,Yes,1481066,6,Self occupied,0
+05000785,65,2784875,2111241,2269408,61,509,6,5,4,Apartment,Salaried,Yes,Tier 1,No,Yes,203000,14,Self occupied,1
+05000786,59,2844111,8171748,312100,60,807,41,5,8,Apartment,Business,No,Tier 1,Yes,No,1535634,23,Investment,1
+05000787,58,1451586,11638337,1158809,31,779,59,22,5,Plot,Business,No,Tier 2,Yes,Yes,991791,21,Self occupied,0
+05000788,32,1112910,6782581,529131,35,715,81,10,7,Independent house,Salaried,Yes,Tier 1,Yes,No,420839,15,Self occupied,1
+05000789,35,2692584,8538199,660224,37,826,59,16,1,Plot,Salaried,Yes,Tier 3,No,Yes,1250994,14,Investment,1
+05000790,30,1585414,7873933,1552041,29,639,27,22,2,Apartment,Salaried,No,Tier 1,Yes,Yes,1687497,8,Self occupied,0
+05000791,34,386183,3132176,1716275,61,609,7,8,5,Independent house,Salaried,No,Tier 3,Yes,Yes,635078,7,Investment,0
+05000792,53,1257230,2141197,2448186,30,775,87,24,10,Apartment,Business,No,Tier 3,Yes,No,50824,25,Investment,0
+05000793,54,2229539,7091543,4276733,50,628,23,24,8,Apartment,Business,Yes,Tier 1,Yes,No,1746998,25,Investment,1
+05000794,68,941050,10345158,873021,42,569,26,1,4,Independent house,Self-employed,No,Tier 2,Yes,Yes,1649824,18,Self occupied,1
+05000795,56,583533,10488265,5089916,35,666,40,20,6,Apartment,Self-employed,Yes,Tier 1,Yes,No,35242,10,Self occupied,0
+05000796,30,2145817,14157780,1492748,62,795,20,9,10,Plot,Self-employed,Yes,Tier 2,No,No,903141,23,Self occupied,1
+05000797,55,520932,15191515,1558300,44,794,81,4,2,Plot,Self-employed,No,Tier 1,No,No,1471661,25,Investment,1
+05000798,59,370206,3209321,4189630,68,734,78,21,0,Plot,Salaried,Yes,Tier 1,Yes,Yes,1173945,0,Self occupied,1
+05000799,31,1178104,4894902,441341,35,518,78,2,7,Plot,Business,Yes,Tier 1,No,No,1626828,14,Self occupied,0
+05000800,68,1595068,12608564,5751603,30,601,21,1,6,Independent house,Business,Yes,Tier 2,No,No,767829,16,Investment,0
+05000801,26,1509659,5567300,371714,46,808,39,23,2,Apartment,Business,Yes,Tier 2,No,No,606543,11,Investment,1
+05000802,23,2920598,5606468,1809666,29,482,60,1,2,Plot,Salaried,Yes,Tier 2,No,Yes,1103882,25,Self occupied,0
+05000803,24,2888510,3976810,3322867,68,734,74,17,10,Independent house,Salaried,No,Tier 2,Yes,No,209684,8,Investment,1
+05000804,41,1224966,4035997,5241920,38,731,73,18,1,Apartment,Self-employed,No,Tier 3,Yes,No,1263338,19,Investment,0
+05000805,67,2195094,16874272,5807689,47,763,6,3,3,Apartment,Salaried,No,Tier 3,Yes,Yes,1519267,2,Investment,1
+05000806,23,1904358,8820936,4565907,23,735,51,13,4,Plot,Salaried,Yes,Tier 3,No,No,1466018,0,Self occupied,0
+05000807,66,423907,11348737,3346276,57,485,34,20,0,Plot,Self-employed,Yes,Tier 1,No,No,642063,18,Investment,0
+05000808,31,1022614,2770674,4311543,30,621,32,5,4,Plot,Self-employed,Yes,Tier 2,Yes,Yes,521464,13,Self occupied,1
+05000809,69,1225324,11063771,4960943,35,563,32,6,6,Plot,Salaried,Yes,Tier 2,No,No,731315,15,Investment,1
+05000810,66,1071745,6058304,2184554,52,737,86,4,1,Apartment,Salaried,Yes,Tier 3,No,Yes,1535153,25,Investment,0
+05000811,52,1476475,15751959,5171202,66,693,52,13,1,Apartment,Self-employed,Yes,Tier 3,No,No,261514,16,Self occupied,1
+05000812,42,1244619,10713555,3967744,39,766,57,15,10,Plot,Salaried,No,Tier 3,Yes,Yes,583684,24,Self occupied,0
+05000813,41,429955,3610198,3189572,36,708,90,12,6,Independent house,Salaried,Yes,Tier 3,Yes,No,240454,0,Investment,1
+05000814,54,2700172,4641756,1133251,44,659,11,10,1,Plot,Business,Yes,Tier 1,Yes,Yes,665662,21,Self occupied,0
+05000815,51,1434367,7429417,3664571,68,753,69,18,2,Independent house,Salaried,Yes,Tier 2,No,No,306641,4,Self occupied,1
+05000816,66,2660091,6178671,4283509,56,513,41,15,3,Independent house,Salaried,No,Tier 3,Yes,No,907383,15,Investment,0
+05000817,42,821055,17727648,3599294,52,502,66,18,6,Independent house,Salaried,Yes,Tier 1,No,No,348334,14,Investment,0
+05000818,64,2790960,5694008,126851,33,641,52,19,5,Independent house,Business,Yes,Tier 2,Yes,Yes,688875,10,Self occupied,1
+05000819,56,2082774,7165348,2021472,64,688,39,23,2,Independent house,Business,No,Tier 2,Yes,No,1006020,16,Investment,1
+05000820,35,2042123,4246813,4138737,63,534,17,2,7,Apartment,Self-employed,Yes,Tier 3,No,Yes,571393,1,Self occupied,1
+05000821,35,1961088,11429230,1418399,48,831,93,5,1,Plot,Business,Yes,Tier 1,No,Yes,558235,12,Investment,1
+05000822,47,675827,5864898,1833113,31,661,11,20,7,Apartment,Business,No,Tier 3,Yes,No,1326213,23,Self occupied,1
+05000823,25,1458533,4931767,4876552,51,566,82,20,1,Apartment,Salaried,No,Tier 3,Yes,No,1120127,2,Self occupied,0
+05000824,30,719406,12934815,2686231,52,496,12,3,8,Plot,Business,No,Tier 3,No,Yes,756443,22,Self occupied,1
+05000825,28,2155346,7228355,4309408,47,841,52,24,2,Independent house,Business,Yes,Tier 1,Yes,No,829075,13,Self occupied,0
+05000826,35,2429423,11792705,1990158,60,524,32,18,6,Apartment,Self-employed,Yes,Tier 2,Yes,No,481758,1,Investment,0
+05000827,68,329641,16118208,811941,48,526,88,14,4,Plot,Salaried,No,Tier 3,Yes,No,570158,18,Self occupied,0
+05000828,44,635348,16247768,1162865,32,598,75,9,10,Apartment,Salaried,No,Tier 2,No,Yes,1482337,15,Self occupied,1
+05000829,56,1759125,14341454,2758489,38,722,70,22,5,Apartment,Salaried,No,Tier 3,Yes,Yes,771096,24,Self occupied,1
+05000830,36,2993487,17086390,5053264,50,782,28,7,8,Plot,Salaried,No,Tier 1,No,Yes,199237,14,Self occupied,0
+05000831,31,2272025,10256405,4563504,64,816,83,7,6,Independent house,Self-employed,Yes,Tier 2,No,No,1267829,14,Self occupied,1
+05000832,35,2008509,10323598,3621759,52,551,63,17,3,Apartment,Self-employed,No,Tier 1,No,Yes,402368,3,Investment,1
+05000833,62,2106728,10372823,2587697,53,691,6,17,1,Plot,Business,Yes,Tier 2,No,Yes,905730,24,Self occupied,1
+05000834,45,540031,15095242,2604284,29,710,60,14,2,Apartment,Self-employed,No,Tier 1,Yes,Yes,745394,13,Investment,1
+05000835,30,2282556,12380417,2587550,22,794,14,25,2,Independent house,Salaried,No,Tier 2,Yes,Yes,419991,9,Self occupied,0
+05000836,31,476072,10127277,2444617,61,546,27,21,2,Apartment,Salaried,Yes,Tier 1,No,No,1020329,6,Self occupied,1
+05000837,27,2956432,10853643,1092425,23,520,72,7,8,Plot,Business,No,Tier 1,No,No,868248,2,Self occupied,1
+05000838,58,2326251,13939957,1979366,39,850,66,3,4,Plot,Salaried,Yes,Tier 1,Yes,No,1443408,3,Self occupied,0
+05000839,21,2313492,11882742,595877,28,669,26,13,2,Apartment,Business,No,Tier 2,Yes,Yes,423688,18,Self occupied,0
+05000840,29,1705216,2826150,2892069,49,780,71,18,0,Independent house,Business,Yes,Tier 1,No,Yes,23114,1,Self occupied,0
+05000841,30,660381,13806928,2819959,29,517,30,7,2,Independent house,Salaried,Yes,Tier 1,No,Yes,1508172,23,Self occupied,1
+05000842,33,1914944,13075522,3583197,29,722,12,11,6,Independent house,Business,Yes,Tier 2,No,Yes,456305,14,Self occupied,0
+05000843,58,2017234,9189059,4346055,29,509,6,14,8,Apartment,Business,Yes,Tier 1,Yes,Yes,1084237,19,Investment,0
+05000844,35,611866,1864895,4064512,35,721,91,0,0,Apartment,Salaried,No,Tier 3,No,No,1508770,2,Investment,1
+05000845,23,2043331,14157309,1096205,61,723,91,11,6,Plot,Business,No,Tier 1,No,Yes,671929,4,Self occupied,0
+05000846,42,2431001,14187233,663666,30,728,88,7,6,Plot,Business,Yes,Tier 1,Yes,No,948027,7,Self occupied,1
+05000847,37,2261498,7625407,5740755,69,655,87,18,4,Plot,Business,Yes,Tier 1,Yes,No,1712487,7,Self occupied,1
+05000848,69,960664,5418100,4999188,55,715,44,21,7,Apartment,Salaried,Yes,Tier 1,No,No,866451,5,Self occupied,1
+05000849,21,2384779,8508934,845408,27,770,93,5,0,Independent house,Self-employed,Yes,Tier 1,No,Yes,1640568,6,Self occupied,1
+05000850,40,2126125,9565224,3461947,68,565,89,17,4,Plot,Salaried,No,Tier 2,Yes,Yes,336372,4,Self occupied,1
+05000851,40,2614429,1593608,4121935,33,539,14,20,6,Independent house,Self-employed,No,Tier 1,Yes,No,1211866,15,Self occupied,0
+05000852,46,1337980,6289792,2051206,54,749,75,0,6,Apartment,Salaried,No,Tier 3,No,Yes,1760055,19,Self occupied,0
+05000853,32,1954854,6666470,4804363,55,557,69,3,2,Apartment,Self-employed,No,Tier 2,Yes,Yes,560861,12,Investment,0
+05000854,67,2101257,14661935,5372954,51,566,77,1,7,Plot,Business,Yes,Tier 1,Yes,No,701935,20,Self occupied,1
+05000855,41,2705316,14585861,3114563,48,783,11,24,10,Plot,Self-employed,No,Tier 3,Yes,Yes,101407,1,Investment,1
+05000856,38,544879,14474728,4697709,37,490,52,8,3,Independent house,Self-employed,No,Tier 1,Yes,Yes,463347,8,Investment,1
+05000857,46,631016,5849133,2322219,51,717,24,23,9,Apartment,Self-employed,No,Tier 2,No,Yes,124664,15,Investment,0
+05000858,25,2272521,16073784,4158599,58,730,72,14,2,Independent house,Business,No,Tier 2,No,No,1516470,11,Self occupied,1
+05000859,65,2555743,10744262,2310865,63,815,64,11,0,Independent house,Salaried,No,Tier 2,No,Yes,1508077,1,Self occupied,0
+05000860,37,2458891,11641345,3967897,44,599,27,22,5,Plot,Self-employed,No,Tier 3,Yes,No,62707,12,Investment,1
+05000861,49,1369325,13299042,1508620,53,640,10,7,9,Apartment,Business,No,Tier 3,Yes,Yes,1025998,18,Self occupied,1
+05000862,51,2273459,11919245,226854,37,631,44,20,0,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,819124,24,Self occupied,1
+05000863,55,2696746,9523571,3537121,29,562,27,14,0,Apartment,Salaried,Yes,Tier 1,Yes,Yes,506560,1,Self occupied,0
+05000864,64,2814402,15106397,5609376,42,626,67,13,4,Apartment,Self-employed,Yes,Tier 3,Yes,No,1266792,25,Self occupied,1
+05000865,29,2658608,17466274,1189244,63,734,57,23,10,Plot,Salaried,Yes,Tier 2,Yes,Yes,508879,4,Investment,1
+05000866,31,503456,8375986,1992486,36,730,4,6,8,Apartment,Self-employed,No,Tier 2,Yes,Yes,356191,12,Investment,0
+05000867,36,2429551,8677791,972893,25,835,69,7,9,Plot,Business,No,Tier 2,No,Yes,1077854,17,Investment,1
+05000868,41,2437219,2101812,5625974,29,596,19,18,2,Apartment,Self-employed,Yes,Tier 2,No,Yes,1375028,7,Investment,0
+05000869,50,467322,17846633,3710866,29,610,95,14,10,Independent house,Salaried,Yes,Tier 2,No,Yes,813940,11,Self occupied,1
+05000870,32,1210314,7569637,2798220,33,615,51,20,7,Independent house,Self-employed,Yes,Tier 3,No,No,1272803,8,Investment,1
+05000871,61,669745,5668908,4925802,69,793,78,10,4,Plot,Salaried,No,Tier 2,Yes,Yes,388879,19,Self occupied,1
+05000872,24,2852884,13760710,1290690,52,620,24,17,2,Plot,Business,No,Tier 1,No,Yes,76964,14,Self occupied,1
+05000873,25,1778406,6531600,3516572,50,697,44,21,8,Plot,Salaried,Yes,Tier 3,Yes,Yes,886446,3,Self occupied,0
+05000874,48,1657731,10977877,1007052,56,751,73,6,10,Independent house,Self-employed,No,Tier 3,Yes,Yes,773211,23,Investment,1
+05000875,51,1059502,4379415,770871,55,551,37,17,10,Independent house,Self-employed,No,Tier 3,No,Yes,179444,1,Self occupied,1
+05000876,28,1078687,12750415,4120214,33,588,95,15,10,Plot,Business,Yes,Tier 2,Yes,No,1627325,9,Self occupied,1
+05000877,31,481570,7148656,3862523,46,597,14,12,5,Apartment,Business,No,Tier 1,No,Yes,1258528,1,Investment,1
+05000878,57,1730898,3745184,3284786,37,820,5,14,0,Plot,Business,No,Tier 1,Yes,Yes,1664715,4,Investment,0
+05000879,33,2795773,8071945,4549413,39,642,90,2,9,Plot,Salaried,No,Tier 3,Yes,No,514357,15,Investment,1
+05000880,38,1659085,14989012,991094,35,748,80,1,10,Apartment,Salaried,Yes,Tier 1,No,Yes,268189,21,Self occupied,1
+05000881,30,1568941,17748358,3587864,45,806,69,24,8,Independent house,Business,No,Tier 1,No,No,1077291,19,Self occupied,1
+05000882,54,2120024,12176453,5617593,25,678,77,7,9,Apartment,Business,Yes,Tier 2,No,Yes,180462,23,Self occupied,1
+05000883,44,2556938,14328410,3882673,64,518,23,5,4,Plot,Self-employed,Yes,Tier 3,Yes,Yes,1428020,9,Self occupied,1
+05000884,24,2626552,5881699,3023654,24,765,59,19,10,Independent house,Salaried,Yes,Tier 3,Yes,Yes,439863,3,Investment,0
+05000885,51,2604950,17943349,5917576,58,580,49,4,1,Plot,Self-employed,No,Tier 3,Yes,Yes,424246,13,Investment,0
+05000886,21,2850363,7632415,4384670,30,647,22,15,8,Independent house,Salaried,Yes,Tier 2,No,Yes,752464,0,Self occupied,0
+05000887,63,390298,4498132,4950640,69,486,33,18,3,Independent house,Business,No,Tier 1,No,No,1661040,13,Investment,0
+05000888,45,2956065,8003662,2115799,42,592,10,22,5,Apartment,Self-employed,No,Tier 2,Yes,No,1644861,15,Self occupied,0
+05000889,64,2576657,8023691,4541522,50,747,35,12,10,Apartment,Salaried,Yes,Tier 3,No,Yes,1065683,11,Self occupied,1
+05000890,66,1959222,9880603,624366,49,731,34,21,10,Apartment,Salaried,No,Tier 1,Yes,No,1271269,6,Investment,0
+05000891,34,1332632,14215949,4734150,22,760,12,7,6,Apartment,Salaried,No,Tier 2,No,Yes,457540,14,Investment,0
+05000892,53,2975490,2658881,2403543,37,498,94,22,6,Independent house,Salaried,Yes,Tier 3,Yes,Yes,411691,4,Investment,1
+05000893,54,519998,6391675,1339392,56,808,95,21,5,Independent house,Salaried,No,Tier 1,No,Yes,379036,9,Investment,1
+05000894,39,1839419,8700039,3369347,39,727,50,7,6,Independent house,Salaried,No,Tier 2,No,Yes,989276,9,Investment,1
+05000895,46,2865265,5398162,4028572,63,515,76,0,5,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,747504,24,Investment,0
+05000896,55,2038969,8929972,505480,50,840,22,1,0,Plot,Self-employed,Yes,Tier 1,No,Yes,572255,21,Self occupied,0
+05000897,35,988657,7518805,685145,43,540,84,19,6,Independent house,Self-employed,No,Tier 3,No,No,1279569,15,Investment,0
+05000898,25,1162367,11911451,1070356,65,499,20,7,1,Independent house,Self-employed,Yes,Tier 1,No,No,1322043,1,Self occupied,0
+05000899,59,2821447,12370886,2901353,61,781,13,13,7,Independent house,Salaried,Yes,Tier 3,Yes,Yes,270466,18,Investment,1
+05000900,30,1370065,12960135,3547449,32,835,24,11,2,Independent house,Self-employed,No,Tier 1,No,No,606355,14,Investment,1
+05000901,66,1197621,3781974,1558256,66,720,49,1,0,Independent house,Self-employed,Yes,Tier 1,No,No,1218257,4,Investment,1
+05000902,66,1309984,17195277,1886440,50,741,83,10,1,Independent house,Business,Yes,Tier 2,Yes,Yes,411504,14,Self occupied,0
+05000903,39,2020138,6345144,396569,23,644,92,6,9,Apartment,Salaried,No,Tier 1,Yes,Yes,817267,19,Investment,0
+05000904,35,1002579,7006847,2082250,27,774,91,9,1,Independent house,Salaried,Yes,Tier 3,Yes,No,1162328,20,Self occupied,0
+05000905,46,673228,5101158,2280310,32,798,47,24,5,Apartment,Salaried,Yes,Tier 1,No,Yes,988829,5,Self occupied,0
+05000906,25,2890213,9716420,2330428,37,614,30,22,7,Apartment,Self-employed,No,Tier 3,Yes,No,992263,24,Self occupied,1
+05000907,55,674579,7562729,5502371,40,762,26,25,2,Independent house,Business,No,Tier 3,Yes,No,1484011,16,Investment,1
+05000908,23,2583385,17921918,1257592,52,621,29,9,2,Independent house,Business,Yes,Tier 2,Yes,Yes,612879,4,Investment,0
+05000909,57,1644237,15058994,3462576,59,758,31,17,0,Plot,Salaried,No,Tier 1,Yes,No,1128981,20,Self occupied,1
+05000910,40,1540963,11555631,2362745,45,593,8,14,3,Apartment,Salaried,No,Tier 1,No,No,1717184,10,Self occupied,1
+05000911,43,2646875,13275832,5779321,63,680,40,0,1,Plot,Salaried,Yes,Tier 1,Yes,No,1316173,6,Self occupied,1
+05000912,36,2211751,3168083,3445836,59,787,78,20,6,Plot,Business,Yes,Tier 2,No,No,288612,10,Self occupied,1
+05000913,44,2178524,5852221,5898140,48,655,77,4,3,Plot,Salaried,No,Tier 1,Yes,No,1150571,5,Investment,0
+05000914,30,1520301,5271842,2647582,35,678,75,8,9,Apartment,Self-employed,No,Tier 3,Yes,Yes,1310308,11,Self occupied,1
+05000915,42,1786756,2001320,5822183,22,691,90,24,3,Apartment,Salaried,Yes,Tier 2,No,Yes,92513,4,Investment,1
+05000916,38,415994,15005021,4648660,62,797,76,21,6,Independent house,Business,Yes,Tier 2,Yes,No,504585,12,Investment,1
+05000917,42,2165804,7752118,4659568,62,609,93,4,0,Plot,Salaried,No,Tier 3,No,Yes,1446300,9,Investment,0
+05000918,55,355216,12008782,5923186,32,553,55,17,8,Independent house,Self-employed,Yes,Tier 1,Yes,No,1365481,3,Investment,1
+05000919,40,662162,4410658,1512975,21,526,32,15,0,Independent house,Self-employed,No,Tier 3,No,Yes,382650,2,Investment,0
+05000920,22,2453603,12803799,377112,34,669,23,10,8,Plot,Business,Yes,Tier 1,No,Yes,459493,10,Self occupied,1
+05000921,37,818806,4648924,541973,46,695,13,0,5,Independent house,Business,No,Tier 1,No,Yes,1206739,10,Investment,0
+05000922,33,1009879,4834382,5062264,62,654,9,2,4,Independent house,Self-employed,Yes,Tier 1,Yes,No,260582,13,Self occupied,0
+05000923,26,1124307,13023714,2599755,59,676,59,19,0,Apartment,Self-employed,Yes,Tier 2,Yes,No,946051,6,Self occupied,0
+05000924,69,738574,4331023,4695745,24,494,34,4,1,Apartment,Business,No,Tier 3,No,No,521304,9,Self occupied,1
+05000925,21,755560,14383674,2249465,26,778,88,6,0,Independent house,Salaried,No,Tier 1,No,Yes,949429,21,Self occupied,1
+05000926,44,1801900,2434777,1691363,65,627,84,5,2,Plot,Self-employed,No,Tier 3,Yes,Yes,1419418,1,Investment,1
+05000927,25,2387427,16733274,242458,34,702,48,12,6,Independent house,Self-employed,No,Tier 1,Yes,Yes,1127073,3,Investment,0
+05000928,35,1106207,2520925,411260,64,660,6,15,5,Independent house,Self-employed,Yes,Tier 3,No,Yes,1684198,20,Self occupied,0
+05000929,59,1915516,17979928,1627806,41,627,33,11,8,Independent house,Salaried,Yes,Tier 1,Yes,No,454684,6,Investment,1
+05000930,62,2725609,8587828,3196632,42,844,28,24,3,Independent house,Salaried,No,Tier 1,No,Yes,1365037,2,Investment,0
+05000931,46,417290,9341687,2061679,40,775,43,13,3,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,470461,19,Investment,1
+05000932,40,2210412,7225148,4885555,30,786,55,4,5,Independent house,Self-employed,Yes,Tier 2,No,No,670994,13,Self occupied,1
+05000933,57,854584,15845764,374314,24,683,87,12,7,Plot,Self-employed,No,Tier 3,No,No,1702782,0,Investment,1
+05000934,39,1798925,17193333,4899056,69,728,43,14,8,Apartment,Self-employed,No,Tier 2,No,No,1158179,24,Self occupied,1
+05000935,43,950955,17926391,1361467,63,831,62,11,10,Plot,Salaried,No,Tier 1,No,Yes,98194,13,Investment,1
+05000936,44,1156023,1675721,880756,27,512,91,13,1,Plot,Business,Yes,Tier 2,No,Yes,931616,18,Self occupied,1
+05000937,53,2028351,5140106,5726716,26,584,18,9,6,Independent house,Business,Yes,Tier 3,No,No,678126,17,Self occupied,0
+05000938,55,2521541,7713937,3729381,62,719,26,9,8,Apartment,Business,Yes,Tier 1,No,Yes,1330519,13,Investment,1
+05000939,35,2819072,16238258,1115651,63,526,73,20,9,Apartment,Self-employed,Yes,Tier 2,No,Yes,23027,14,Investment,1
+05000940,58,2053149,14688834,5886320,41,601,61,8,4,Apartment,Salaried,No,Tier 3,No,No,582994,20,Self occupied,0
+05000941,44,557441,15165230,1133430,64,799,42,18,7,Apartment,Self-employed,Yes,Tier 1,No,Yes,485663,19,Investment,0
+05000942,26,1038823,3292910,5900855,61,668,74,25,6,Apartment,Business,Yes,Tier 3,Yes,No,795147,0,Self occupied,1
+05000943,67,2740410,3533644,4096059,66,735,69,3,6,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,975401,2,Self occupied,1
+05000944,63,894359,9617963,5987892,27,840,74,17,8,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,933065,14,Investment,0
+05000945,31,2771835,4743219,716551,26,721,8,4,8,Independent house,Business,Yes,Tier 2,Yes,Yes,1230154,17,Investment,1
+05000946,27,1279557,2500412,2570777,53,554,74,18,8,Independent house,Salaried,No,Tier 2,Yes,No,1690186,11,Investment,0
+05000947,44,459133,5655006,1236409,22,550,62,23,8,Apartment,Salaried,No,Tier 3,Yes,No,1608542,20,Self occupied,1
+05000948,67,2985654,4609062,2571542,43,535,12,15,5,Plot,Self-employed,Yes,Tier 3,Yes,No,436926,22,Self occupied,0
+05000949,54,1071125,9037450,5745207,36,661,52,6,5,Independent house,Business,Yes,Tier 1,Yes,Yes,275913,17,Self occupied,1
+05000950,47,1646802,11208259,4212980,46,823,16,7,5,Plot,Business,No,Tier 3,Yes,No,1740685,11,Investment,0
+05000951,48,2270931,11952772,1636977,43,716,60,25,3,Independent house,Self-employed,Yes,Tier 1,Yes,No,1766402,5,Self occupied,0
+05000952,24,1328630,13817083,4588040,35,642,29,1,10,Independent house,Salaried,Yes,Tier 2,Yes,Yes,1076920,11,Self occupied,1
+05000953,29,1421263,13459473,3526553,52,540,26,7,7,Independent house,Self-employed,No,Tier 2,No,Yes,903296,5,Self occupied,0
+05000954,69,1072523,11732320,2043254,47,498,22,18,4,Apartment,Salaried,Yes,Tier 1,No,No,694861,10,Self occupied,1
+05000955,24,1805149,5453600,4367462,52,693,68,23,0,Independent house,Salaried,No,Tier 3,No,No,58707,4,Investment,1
+05000956,60,1170888,9586033,275548,64,495,18,24,7,Apartment,Salaried,Yes,Tier 2,No,No,1042798,21,Investment,1
+05000957,42,1891090,7150485,5779805,36,565,79,0,10,Apartment,Business,No,Tier 1,No,Yes,992134,14,Investment,1
+05000958,51,1189411,17993095,3706239,69,563,55,4,0,Apartment,Self-employed,Yes,Tier 1,No,Yes,970971,3,Investment,1
+05000959,56,2061066,10391217,4665894,26,731,22,25,5,Plot,Self-employed,Yes,Tier 3,No,Yes,1440396,15,Investment,0
+05000960,68,2498910,13437259,4277111,32,783,89,4,3,Plot,Salaried,Yes,Tier 2,No,No,1288379,4,Investment,1
+05000961,67,943009,8122760,1190951,57,709,16,8,8,Apartment,Business,No,Tier 2,Yes,No,1542356,8,Self occupied,0
+05000962,39,624734,6098253,3522112,44,639,55,23,10,Plot,Self-employed,No,Tier 1,No,Yes,1283963,12,Investment,0
+05000963,49,839847,5761034,1313008,46,646,86,24,4,Plot,Salaried,Yes,Tier 1,No,Yes,513354,25,Investment,1
+05000964,42,2459346,9273279,1695063,59,492,52,20,3,Apartment,Salaried,No,Tier 1,Yes,No,546219,10,Investment,0
+05000965,30,2788178,9387202,2606184,42,596,43,18,8,Apartment,Salaried,Yes,Tier 3,No,Yes,1277233,15,Investment,1
+05000966,37,316090,1971369,157832,46,623,45,8,0,Independent house,Self-employed,Yes,Tier 1,No,Yes,1479416,20,Investment,1
+05000967,30,2458358,4099729,3115251,66,810,91,0,8,Independent house,Salaried,No,Tier 3,No,No,1409980,25,Self occupied,1
+05000968,32,1787908,6838863,4283286,67,552,93,21,1,Apartment,Business,No,Tier 2,Yes,No,1346363,10,Self occupied,1
+05000969,36,2832493,9378693,4369200,61,698,46,14,4,Independent house,Self-employed,Yes,Tier 1,Yes,Yes,938350,3,Self occupied,0
+05000970,39,660670,3667311,4412555,50,738,91,7,1,Apartment,Salaried,No,Tier 3,No,No,1478588,24,Self occupied,0
+05000971,38,706378,17851570,322735,41,830,91,11,8,Apartment,Business,No,Tier 1,Yes,Yes,954120,4,Self occupied,0
+05000972,24,2535417,7092473,3829196,63,825,67,10,10,Apartment,Business,No,Tier 1,No,No,101076,25,Self occupied,0
+05000973,41,1669513,3295013,2646120,46,791,61,3,2,Apartment,Business,Yes,Tier 1,Yes,No,838478,6,Self occupied,1
+05000974,69,1486485,14558519,249316,43,767,83,6,9,Plot,Salaried,Yes,Tier 2,Yes,Yes,1222472,20,Self occupied,1
+05000975,37,1297591,5379453,5708867,53,567,67,11,1,Apartment,Salaried,Yes,Tier 3,No,No,1014667,21,Self occupied,0
+05000976,43,1027110,10401108,4599888,48,737,80,14,6,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,893201,9,Investment,1
+05000977,64,1107998,10947228,217941,63,560,20,4,6,Apartment,Business,No,Tier 1,No,Yes,415085,16,Investment,0
+05000978,50,447488,3789370,1223220,64,701,9,13,7,Independent house,Self-employed,Yes,Tier 2,Yes,Yes,921909,13,Investment,0
+05000979,67,377440,9339496,4026746,57,489,78,16,9,Independent house,Salaried,Yes,Tier 3,No,Yes,1438756,17,Self occupied,1
+05000980,34,1892391,13482049,2806306,37,491,14,11,6,Independent house,Business,Yes,Tier 2,No,Yes,1675909,12,Investment,0
+05000981,64,1780144,2197822,1626946,34,576,20,2,10,Independent house,Self-employed,Yes,Tier 1,Yes,No,324843,4,Investment,0
+05000982,50,256014,14824421,5713380,53,757,60,22,5,Plot,Business,Yes,Tier 1,Yes,Yes,117720,2,Self occupied,0
+05000983,62,2910249,6894297,2656996,43,615,9,16,5,Plot,Business,No,Tier 1,No,No,1310882,0,Self occupied,1
+05000984,33,1104091,1505021,4072931,30,482,22,6,1,Plot,Salaried,No,Tier 2,No,Yes,407343,3,Investment,0
+05000985,57,1407043,5800997,2900938,51,589,62,10,7,Apartment,Self-employed,Yes,Tier 2,No,No,1112255,23,Investment,0
+05000986,48,730025,2623969,2801277,30,614,90,3,10,Independent house,Business,No,Tier 1,Yes,No,86474,15,Investment,0
+05000987,26,1911255,11715987,3908313,29,619,57,25,2,Independent house,Salaried,Yes,Tier 3,No,Yes,1175700,25,Investment,1
+05000988,33,1465344,4018505,3927279,34,569,21,19,2,Plot,Salaried,No,Tier 1,Yes,No,1389455,9,Investment,1
+05000989,29,1397031,10728380,5797448,34,735,30,0,6,Independent house,Business,No,Tier 1,Yes,Yes,1615969,21,Self occupied,1
+05000990,56,631864,2637569,1321405,61,547,24,3,3,Independent house,Business,Yes,Tier 3,No,Yes,1569317,4,Self occupied,0
+05000991,53,1276608,6281101,2652712,56,836,27,17,10,Apartment,Self-employed,Yes,Tier 2,Yes,Yes,145091,11,Self occupied,0
+05000992,65,2191301,4671374,495546,53,482,75,14,8,Apartment,Self-employed,Yes,Tier 2,No,No,1393093,24,Self occupied,1
+05000993,23,1782549,10039398,5009206,25,662,63,5,5,Plot,Self-employed,No,Tier 2,Yes,No,138078,1,Self occupied,1
+05000994,22,2684381,8485274,1457717,58,604,28,14,4,Plot,Self-employed,Yes,Tier 3,No,Yes,1113294,15,Investment,0
+05000995,47,2737288,14359538,5550945,29,685,17,22,4,Apartment,Salaried,No,Tier 3,No,Yes,1773894,21,Self occupied,1
+05000996,42,472242,11573641,4991400,45,722,76,17,8,Apartment,Salaried,No,Tier 2,Yes,No,511850,18,Investment,1
+05000997,50,2906329,9829688,1554553,51,596,86,11,9,Apartment,Self-employed,Yes,Tier 3,Yes,No,162139,17,Investment,1
+05000998,48,2121389,6515533,4774256,61,763,45,13,9,Apartment,Self-employed,No,Tier 2,No,No,745843,9,Investment,0
+05000999,40,1919972,12477509,3594699,25,484,12,3,5,Independent house,Self-employed,Yes,Tier 1,No,No,1473395,8,Investment,0
+05001000,54,591617,4511720,3037516,43,746,92,14,8,Independent house,Business,Yes,Tier 1,No,No,1149674,19,Investment,1

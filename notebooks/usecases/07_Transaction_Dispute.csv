@@ -1,0 +1,1001 @@
+dispute_id,customer_age,disputed_amount_inr,days_to_report,merchant_refund_attempts,transaction_age_days,device_seen_before,otp_verified,merchant_risk_score,prior_disputes_12m,transaction_type,merchant_category,card_network,authentication_method,evidence_submitted,merchant_response,customer_tenure_months,transaction_country,account_segment,dispute_upheld
+07000001,27,2438,20,1,54,No,Yes,52,1,ATM,Electronics,RuPay,None,No,Agreed,69,India,Standard,0
+07000002,66,47781,111,2,63,Yes,No,48,3,Card purchase,Electronics,RuPay,None,No,Agreed,28,India,Standard,0
+07000003,62,134487,142,1,21,Yes,Yes,33,5,Card purchase,Electronics,RuPay,Biometric,Yes,Rejected,49,India,Premium,1
+07000004,35,148124,120,3,65,Yes,No,40,3,Card purchase,Dining,RuPay,OTP,Yes,Agreed,45,International,Standard,1
+07000005,26,168792,110,1,65,Yes,Yes,77,3,Card purchase,Travel,RuPay,None,No,Rejected,26,International,Premium,0
+07000006,39,165969,30,4,43,Yes,No,20,3,Card purchase,Fuel,RuPay,None,Yes,Rejected,6,India,Standard,0
+07000007,42,151242,22,4,51,Yes,Yes,64,1,ATM,Fuel,Mastercard,None,No,Agreed,14,India,Standard,1
+07000008,39,51066,46,2,35,Yes,No,10,3,Card purchase,Travel,RuPay,Biometric,Yes,Agreed,13,India,Standard,1
+07000009,59,37219,168,3,33,No,No,39,2,Transfer,Electronics,Mastercard,OTP,Yes,Agreed,42,India,Standard,0
+07000010,24,140127,164,2,58,No,Yes,36,2,ATM,Dining,Visa,None,Yes,Pending,57,International,Standard,0
+07000011,36,98263,174,5,44,No,No,37,4,ATM,Travel,RuPay,None,No,Pending,81,India,Premium,1
+07000012,54,71920,73,3,52,Yes,No,30,2,ATM,Travel,Visa,OTP,No,Rejected,64,India,Premium,1
+07000013,60,100143,161,0,49,No,Yes,38,2,Card purchase,Electronics,Visa,None,Yes,Agreed,75,International,Standard,1
+07000014,63,160378,9,5,40,No,Yes,23,1,ATM,Fuel,Visa,Biometric,No,Rejected,6,International,Premium,0
+07000015,31,90609,14,2,61,No,Yes,55,0,ATM,Travel,Mastercard,PIN,No,Rejected,41,India,Standard,1
+07000016,61,169538,171,4,46,Yes,Yes,18,5,Card purchase,Dining,RuPay,None,No,Rejected,72,International,Standard,0
+07000017,39,103398,23,5,22,Yes,No,67,3,Transfer,Electronics,Visa,PIN,Yes,Rejected,72,India,Premium,0
+07000018,43,81804,34,3,33,No,No,16,2,ATM,Grocery,Visa,PIN,No,Agreed,47,International,Premium,0
+07000019,22,146585,102,3,62,Yes,Yes,36,2,ATM,Grocery,Mastercard,None,Yes,Pending,44,India,Premium,1
+07000020,65,173414,138,4,34,Yes,No,81,2,ATM,Dining,Mastercard,Biometric,No,Rejected,31,India,Standard,0
+07000021,28,82048,130,5,37,No,No,35,1,Card purchase,Fuel,Visa,Biometric,No,Pending,57,International,Standard,0
+07000022,28,16471,157,4,53,Yes,No,36,5,Card purchase,Electronics,RuPay,PIN,Yes,Pending,39,India,Standard,1
+07000023,67,21188,3,2,52,No,Yes,26,5,ATM,Grocery,Mastercard,OTP,Yes,Pending,9,India,Premium,1
+07000024,39,113588,120,4,62,No,Yes,85,2,Transfer,Grocery,RuPay,None,Yes,Agreed,40,International,Standard,1
+07000025,33,81594,85,3,22,No,Yes,39,3,Card purchase,Travel,RuPay,None,Yes,Rejected,4,International,Premium,1
+07000026,43,81161,75,5,63,No,No,86,0,Card purchase,Dining,Mastercard,PIN,Yes,Agreed,26,International,Standard,1
+07000027,63,56478,88,4,33,Yes,Yes,73,5,Card purchase,Grocery,RuPay,PIN,Yes,Agreed,65,International,Standard,1
+07000028,29,136237,175,5,49,Yes,Yes,63,1,ATM,Travel,Visa,OTP,No,Rejected,23,International,Premium,0
+07000029,69,100734,144,3,58,No,No,15,2,Card purchase,Fuel,Visa,None,Yes,Agreed,64,India,Standard,1
+07000030,46,105246,76,0,65,No,Yes,38,5,ATM,Grocery,RuPay,PIN,No,Agreed,57,International,Premium,1
+07000031,69,19647,108,0,55,Yes,Yes,93,1,Transfer,Electronics,Mastercard,None,No,Pending,42,International,Premium,0
+07000032,26,134900,71,0,68,No,Yes,23,0,ATM,Grocery,RuPay,Biometric,Yes,Pending,28,India,Standard,0
+07000033,31,124480,49,4,41,Yes,Yes,25,4,Transfer,Fuel,Visa,OTP,No,Agreed,56,India,Premium,0
+07000034,22,67040,106,1,60,No,Yes,7,0,Transfer,Travel,Mastercard,Biometric,Yes,Pending,71,India,Premium,0
+07000035,35,32062,46,2,23,No,No,25,0,Card purchase,Dining,Visa,OTP,No,Agreed,22,International,Standard,0
+07000036,68,99109,156,4,26,Yes,No,46,2,Transfer,Grocery,Mastercard,OTP,No,Rejected,57,India,Premium,0
+07000037,24,142700,82,2,31,No,No,55,2,Card purchase,Grocery,Visa,OTP,Yes,Pending,24,International,Premium,0
+07000038,34,35994,119,3,21,No,No,64,3,ATM,Travel,RuPay,Biometric,Yes,Pending,33,India,Premium,1
+07000039,48,124872,43,0,67,Yes,Yes,67,1,ATM,Travel,Mastercard,PIN,No,Rejected,27,India,Standard,0
+07000040,22,164011,71,2,65,Yes,Yes,38,2,Transfer,Electronics,Visa,PIN,No,Agreed,34,International,Standard,0
+07000041,52,114944,28,4,32,No,Yes,90,2,Transfer,Dining,Visa,None,Yes,Agreed,60,International,Standard,1
+07000042,46,158974,69,5,33,No,No,15,2,ATM,Grocery,Mastercard,PIN,Yes,Agreed,32,International,Standard,0
+07000043,65,39832,92,5,67,No,No,7,2,Transfer,Travel,Mastercard,PIN,Yes,Rejected,60,International,Premium,0
+07000044,41,2604,64,2,54,Yes,Yes,21,2,ATM,Dining,RuPay,None,No,Agreed,50,India,Standard,0
+07000045,34,160939,8,1,30,No,No,64,1,Card purchase,Travel,Mastercard,Biometric,Yes,Pending,64,India,Premium,1
+07000046,69,171804,58,3,32,No,Yes,21,2,Card purchase,Grocery,RuPay,PIN,No,Rejected,52,India,Standard,0
+07000047,26,100781,7,3,54,No,No,56,1,ATM,Grocery,RuPay,OTP,No,Pending,70,India,Premium,0
+07000048,44,152402,33,1,56,No,No,28,1,ATM,Electronics,Mastercard,Biometric,No,Pending,17,India,Premium,0
+07000049,58,43057,108,1,67,Yes,No,16,2,Card purchase,Travel,RuPay,None,No,Agreed,13,India,Premium,0
+07000050,61,42992,25,5,40,No,No,21,1,Card purchase,Electronics,Mastercard,None,Yes,Agreed,19,International,Standard,1
+07000051,40,41358,139,4,35,Yes,Yes,60,1,Transfer,Fuel,RuPay,OTP,Yes,Rejected,57,International,Standard,1
+07000052,44,20213,134,3,46,Yes,Yes,77,0,ATM,Travel,Visa,PIN,Yes,Agreed,71,India,Standard,1
+07000053,21,86765,58,2,59,Yes,Yes,92,5,Card purchase,Dining,Mastercard,PIN,No,Agreed,25,India,Premium,0
+07000054,61,42295,39,2,29,Yes,No,36,5,Card purchase,Electronics,RuPay,Biometric,No,Rejected,26,International,Premium,0
+07000055,47,66065,44,5,56,Yes,Yes,45,2,Transfer,Dining,Visa,Biometric,No,Agreed,42,International,Standard,1
+07000056,44,140807,176,0,66,Yes,Yes,54,3,ATM,Electronics,Mastercard,OTP,No,Rejected,26,India,Premium,0
+07000057,29,163431,114,4,38,Yes,No,38,5,Card purchase,Grocery,RuPay,PIN,Yes,Rejected,12,India,Premium,0
+07000058,46,163686,107,0,35,No,Yes,26,4,Transfer,Dining,Visa,OTP,Yes,Rejected,17,International,Standard,1
+07000059,55,27385,25,1,67,No,Yes,68,4,ATM,Travel,RuPay,Biometric,No,Agreed,62,International,Standard,0
+07000060,62,51123,178,3,36,Yes,Yes,85,2,ATM,Grocery,Mastercard,OTP,No,Pending,69,India,Premium,1
+07000061,60,60686,41,2,61,Yes,No,85,0,ATM,Travel,Visa,OTP,Yes,Pending,55,International,Standard,1
+07000062,50,71876,161,2,69,No,Yes,5,5,Card purchase,Dining,Mastercard,Biometric,Yes,Agreed,37,India,Premium,1
+07000063,34,66010,153,2,23,Yes,Yes,92,5,ATM,Grocery,Mastercard,Biometric,No,Agreed,24,International,Standard,0
+07000064,57,27326,173,2,68,Yes,Yes,40,5,ATM,Dining,Visa,Biometric,Yes,Agreed,51,India,Premium,0
+07000065,66,108503,180,3,47,No,Yes,75,3,Transfer,Fuel,RuPay,None,No,Agreed,45,India,Premium,1
+07000066,34,137417,119,3,35,No,Yes,83,0,Transfer,Dining,RuPay,OTP,No,Pending,84,International,Standard,1
+07000067,50,79636,106,2,27,Yes,Yes,57,2,Card purchase,Dining,RuPay,PIN,No,Pending,22,International,Premium,0
+07000068,50,50872,75,4,30,Yes,Yes,76,0,Card purchase,Fuel,Visa,Biometric,Yes,Rejected,60,India,Premium,1
+07000069,21,19219,115,1,43,Yes,Yes,24,4,Card purchase,Dining,Visa,Biometric,No,Agreed,28,International,Standard,0
+07000070,51,60496,170,3,31,No,Yes,54,0,ATM,Dining,RuPay,OTP,No,Rejected,16,International,Premium,1
+07000071,61,121911,118,4,41,No,No,81,0,Card purchase,Dining,Mastercard,None,Yes,Agreed,20,International,Premium,1
+07000072,45,151858,10,1,46,Yes,Yes,47,3,Card purchase,Electronics,Mastercard,Biometric,Yes,Pending,72,International,Premium,1
+07000073,35,9387,34,5,32,No,Yes,84,3,ATM,Fuel,RuPay,OTP,Yes,Agreed,23,International,Standard,1
+07000074,40,97481,46,5,29,Yes,Yes,31,4,Transfer,Travel,Visa,PIN,No,Pending,32,India,Standard,0
+07000075,67,17546,77,5,35,Yes,No,20,2,Transfer,Dining,Visa,PIN,Yes,Pending,59,International,Premium,0
+07000076,57,30427,2,3,46,Yes,No,51,4,Transfer,Grocery,RuPay,OTP,No,Agreed,83,International,Standard,0
+07000077,52,1537,119,4,21,No,Yes,39,1,ATM,Dining,Mastercard,None,Yes,Rejected,64,India,Standard,1
+07000078,53,30533,130,5,67,No,No,46,2,Card purchase,Dining,Visa,Biometric,No,Pending,51,International,Premium,0
+07000079,65,165027,132,3,34,Yes,Yes,93,1,ATM,Dining,Mastercard,OTP,No,Rejected,76,India,Standard,0
+07000080,24,137066,3,3,66,No,Yes,61,1,ATM,Travel,Mastercard,Biometric,No,Rejected,38,International,Premium,1
+07000081,63,52520,29,4,39,No,Yes,90,1,Card purchase,Electronics,Mastercard,OTP,Yes,Pending,11,India,Premium,1
+07000082,59,79252,114,3,53,No,Yes,29,2,Transfer,Electronics,Mastercard,PIN,No,Agreed,43,International,Premium,0
+07000083,41,34627,110,3,29,Yes,No,12,4,ATM,Fuel,RuPay,None,No,Agreed,52,International,Premium,0
+07000084,47,20635,110,2,53,Yes,No,93,3,ATM,Travel,RuPay,PIN,No,Pending,35,International,Standard,0
+07000085,25,177401,133,1,59,Yes,No,25,2,Card purchase,Fuel,Visa,OTP,No,Rejected,11,India,Premium,0
+07000086,21,169461,84,2,25,No,No,55,0,ATM,Travel,Visa,None,No,Agreed,53,International,Standard,0
+07000087,25,170177,112,1,37,No,Yes,63,2,Card purchase,Electronics,RuPay,Biometric,No,Rejected,38,International,Standard,1
+07000088,21,58945,90,5,52,Yes,Yes,81,5,Transfer,Travel,RuPay,None,Yes,Agreed,1,International,Premium,1
+07000089,57,16654,75,2,28,No,Yes,51,3,Card purchase,Fuel,RuPay,OTP,No,Pending,11,International,Standard,1
+07000090,47,34834,146,0,32,No,No,93,2,Card purchase,Electronics,RuPay,OTP,No,Rejected,70,India,Premium,0
+07000091,63,33017,62,3,64,No,Yes,40,0,ATM,Fuel,Visa,Biometric,No,Pending,81,International,Premium,1
+07000092,64,21252,98,0,39,Yes,No,78,4,ATM,Fuel,Mastercard,None,Yes,Rejected,18,International,Premium,1
+07000093,50,129065,50,5,54,No,No,20,2,Transfer,Electronics,Visa,Biometric,No,Pending,61,International,Premium,0
+07000094,64,61558,39,3,51,No,No,68,5,Transfer,Travel,Visa,Biometric,No,Agreed,46,India,Standard,1
+07000095,30,73104,108,3,22,Yes,Yes,76,0,Transfer,Electronics,RuPay,None,No,Rejected,84,International,Premium,0
+07000096,34,171812,105,4,53,Yes,No,91,3,ATM,Electronics,RuPay,None,Yes,Pending,37,India,Premium,1
+07000097,63,107172,109,1,37,Yes,No,41,2,Transfer,Fuel,Mastercard,PIN,Yes,Agreed,81,India,Premium,0
+07000098,36,52927,92,4,25,Yes,Yes,84,2,ATM,Fuel,RuPay,PIN,No,Rejected,33,International,Premium,1
+07000099,32,177915,68,0,27,Yes,No,55,2,Card purchase,Grocery,RuPay,Biometric,No,Rejected,23,International,Standard,0
+07000100,58,118873,143,5,24,No,No,49,4,Transfer,Dining,Mastercard,None,Yes,Agreed,35,International,Standard,1
+07000101,37,21677,69,5,54,Yes,Yes,82,5,Transfer,Fuel,Visa,None,Yes,Pending,69,International,Standard,1
+07000102,56,2191,74,4,54,Yes,No,63,1,ATM,Fuel,Mastercard,Biometric,No,Pending,53,International,Premium,0
+07000103,36,44138,1,2,64,No,Yes,20,5,ATM,Fuel,RuPay,PIN,No,Rejected,51,International,Premium,1
+07000104,64,90294,180,5,60,No,Yes,45,4,Transfer,Travel,Mastercard,PIN,No,Pending,82,India,Premium,1
+07000105,59,118123,111,3,50,No,Yes,34,3,Transfer,Electronics,Visa,OTP,No,Rejected,42,International,Standard,0
+07000106,40,91363,144,5,60,No,No,49,3,ATM,Grocery,RuPay,None,Yes,Agreed,60,India,Standard,1
+07000107,42,40593,167,2,27,No,No,19,2,Card purchase,Dining,RuPay,PIN,Yes,Pending,8,International,Standard,0
+07000108,42,46051,81,1,44,Yes,Yes,31,0,Card purchase,Travel,RuPay,PIN,Yes,Rejected,15,India,Standard,0
+07000109,52,80923,21,4,21,No,No,7,3,ATM,Travel,Mastercard,OTP,No,Agreed,36,India,Standard,0
+07000110,58,1363,1,0,69,Yes,No,19,4,ATM,Electronics,Mastercard,Biometric,Yes,Rejected,76,International,Standard,0
+07000111,29,95789,72,4,27,No,Yes,58,2,Transfer,Travel,RuPay,OTP,No,Agreed,43,India,Standard,0
+07000112,56,148210,161,3,56,No,No,93,4,Transfer,Electronics,Visa,None,No,Agreed,82,International,Premium,0
+07000113,64,163795,43,3,61,Yes,No,82,4,ATM,Dining,RuPay,None,Yes,Rejected,54,International,Premium,1
+07000114,42,7164,103,0,61,No,No,57,3,ATM,Grocery,Mastercard,PIN,No,Agreed,61,India,Standard,1
+07000115,51,24135,167,2,54,Yes,No,74,0,ATM,Grocery,Mastercard,None,Yes,Agreed,3,International,Standard,0
+07000116,45,124534,0,0,44,Yes,Yes,95,1,ATM,Fuel,RuPay,None,Yes,Agreed,52,India,Premium,1
+07000117,25,21818,1,2,63,No,Yes,28,0,Card purchase,Dining,RuPay,Biometric,Yes,Rejected,60,India,Premium,0
+07000118,40,140322,177,4,27,No,Yes,73,2,ATM,Travel,Mastercard,OTP,Yes,Agreed,26,International,Standard,0
+07000119,51,173354,174,0,23,Yes,Yes,12,4,ATM,Dining,RuPay,None,No,Rejected,20,India,Standard,0
+07000120,38,19218,150,5,31,No,No,18,5,Card purchase,Travel,RuPay,OTP,Yes,Pending,34,India,Premium,1
+07000121,33,83052,160,2,55,Yes,Yes,44,5,Card purchase,Grocery,RuPay,OTP,Yes,Rejected,82,International,Premium,1
+07000122,21,103705,69,3,65,No,Yes,88,5,Card purchase,Fuel,RuPay,OTP,No,Rejected,80,India,Premium,1
+07000123,30,64749,6,2,37,Yes,No,93,4,Transfer,Fuel,Mastercard,Biometric,No,Rejected,8,International,Premium,0
+07000124,63,132146,138,0,55,No,Yes,60,0,ATM,Grocery,Visa,PIN,No,Rejected,27,India,Premium,1
+07000125,51,135073,135,0,56,Yes,Yes,20,0,Transfer,Fuel,Visa,Biometric,Yes,Pending,77,International,Standard,0
+07000126,34,50903,46,0,44,No,Yes,28,4,ATM,Fuel,RuPay,OTP,No,Pending,75,India,Standard,1
+07000127,61,13762,92,4,25,Yes,No,85,1,Card purchase,Dining,RuPay,Biometric,Yes,Agreed,27,International,Premium,1
+07000128,29,137567,91,1,42,No,No,80,0,Card purchase,Dining,RuPay,None,Yes,Rejected,76,India,Premium,1
+07000129,49,141982,158,0,58,Yes,Yes,25,3,ATM,Fuel,Visa,OTP,No,Agreed,16,International,Standard,0
+07000130,39,138191,102,1,34,Yes,Yes,75,4,Transfer,Travel,Mastercard,OTP,No,Rejected,4,International,Premium,1
+07000131,56,107951,64,2,22,No,No,64,4,ATM,Electronics,Mastercard,PIN,No,Agreed,1,International,Standard,0
+07000132,59,29549,8,3,46,No,No,80,5,Card purchase,Travel,Mastercard,None,No,Rejected,61,India,Premium,0
+07000133,60,64349,179,1,37,No,Yes,34,2,Card purchase,Electronics,Visa,OTP,No,Pending,25,India,Premium,0
+07000134,25,117646,35,0,23,Yes,Yes,40,3,Card purchase,Travel,Visa,OTP,No,Pending,25,India,Standard,0
+07000135,43,80829,31,3,27,Yes,No,68,0,Transfer,Fuel,RuPay,OTP,No,Pending,80,India,Premium,0
+07000136,43,113111,23,5,37,Yes,Yes,73,1,Card purchase,Fuel,Visa,Biometric,Yes,Rejected,13,International,Standard,0
+07000137,60,158509,133,4,63,Yes,Yes,61,4,ATM,Travel,Visa,PIN,No,Rejected,24,India,Standard,1
+07000138,38,22600,132,0,61,Yes,No,61,3,ATM,Grocery,Mastercard,None,No,Rejected,62,International,Premium,0
+07000139,27,51539,86,0,31,No,Yes,30,3,ATM,Travel,Mastercard,Biometric,No,Rejected,17,India,Premium,0
+07000140,30,143981,113,0,45,Yes,Yes,18,2,Card purchase,Grocery,Visa,OTP,No,Rejected,62,India,Standard,0
+07000141,51,59161,138,2,35,Yes,Yes,21,5,ATM,Electronics,Mastercard,PIN,Yes,Agreed,10,India,Premium,1
+07000142,39,115031,120,3,63,Yes,No,20,2,ATM,Grocery,Visa,OTP,Yes,Rejected,66,India,Premium,0
+07000143,67,179419,165,0,39,Yes,Yes,30,2,Transfer,Grocery,RuPay,None,Yes,Agreed,38,India,Premium,1
+07000144,38,62714,54,5,55,No,No,53,1,ATM,Fuel,Mastercard,Biometric,Yes,Rejected,14,International,Standard,1
+07000145,23,66716,79,5,60,Yes,No,22,5,ATM,Travel,Mastercard,PIN,No,Rejected,82,International,Standard,0
+07000146,63,121994,59,3,43,Yes,No,46,2,ATM,Electronics,RuPay,PIN,Yes,Agreed,33,International,Premium,1
+07000147,34,54894,92,5,53,No,Yes,11,1,Transfer,Electronics,Visa,Biometric,No,Rejected,39,India,Standard,0
+07000148,56,132681,76,4,37,Yes,No,23,5,Transfer,Grocery,RuPay,Biometric,No,Agreed,55,International,Standard,1
+07000149,45,151327,98,0,33,No,No,65,5,ATM,Fuel,Mastercard,PIN,Yes,Agreed,19,International,Premium,0
+07000150,66,59630,151,1,32,No,Yes,19,4,Card purchase,Dining,Mastercard,Biometric,Yes,Agreed,74,India,Premium,0
+07000151,44,158405,122,1,59,No,Yes,28,2,ATM,Electronics,Mastercard,None,Yes,Agreed,11,International,Premium,1
+07000152,43,19803,11,1,67,No,No,95,5,Card purchase,Travel,Mastercard,Biometric,No,Agreed,22,India,Premium,0
+07000153,50,128216,36,5,42,Yes,No,17,4,Card purchase,Grocery,Visa,None,Yes,Agreed,54,International,Premium,0
+07000154,48,80429,12,3,25,Yes,No,93,0,Transfer,Travel,RuPay,Biometric,Yes,Agreed,24,India,Standard,1
+07000155,58,130948,123,1,48,Yes,No,47,2,Transfer,Fuel,RuPay,None,Yes,Agreed,54,India,Premium,0
+07000156,50,55943,49,2,69,Yes,Yes,11,2,ATM,Dining,RuPay,Biometric,Yes,Rejected,30,International,Standard,0
+07000157,27,112091,109,1,25,No,No,76,5,ATM,Grocery,Mastercard,OTP,No,Agreed,10,International,Standard,1
+07000158,67,179018,82,3,27,Yes,Yes,15,4,Transfer,Fuel,Visa,PIN,Yes,Pending,80,India,Premium,1
+07000159,46,40380,33,1,63,Yes,Yes,26,4,ATM,Grocery,Visa,None,Yes,Rejected,69,India,Standard,1
+07000160,38,80387,7,0,58,Yes,Yes,71,1,ATM,Travel,RuPay,None,Yes,Pending,80,International,Standard,1
+07000161,28,73145,130,5,42,Yes,No,5,0,Card purchase,Fuel,Visa,Biometric,No,Pending,84,International,Standard,0
+07000162,63,149025,96,3,41,Yes,Yes,15,2,Card purchase,Fuel,RuPay,OTP,Yes,Agreed,44,International,Standard,0
+07000163,34,74298,117,1,39,No,Yes,51,0,Card purchase,Electronics,Mastercard,PIN,No,Rejected,51,International,Premium,1
+07000164,55,47569,46,2,46,Yes,No,89,5,ATM,Travel,RuPay,Biometric,Yes,Pending,42,India,Standard,1
+07000165,45,12112,154,0,26,No,Yes,59,4,ATM,Dining,Mastercard,Biometric,No,Rejected,67,India,Standard,0
+07000166,30,79531,98,2,36,No,No,63,1,Transfer,Dining,Visa,PIN,No,Rejected,44,International,Standard,1
+07000167,66,175388,160,2,57,No,Yes,68,1,Transfer,Travel,Mastercard,PIN,No,Agreed,52,International,Premium,0
+07000168,23,9524,178,0,42,No,Yes,21,1,ATM,Dining,Visa,None,No,Agreed,58,International,Standard,0
+07000169,53,16169,158,4,36,No,No,37,2,Card purchase,Electronics,Visa,OTP,No,Pending,36,India,Standard,0
+07000170,65,150134,62,4,33,No,No,5,2,Transfer,Electronics,Mastercard,PIN,No,Rejected,68,India,Premium,0
+07000171,45,132803,44,5,67,Yes,Yes,87,1,Card purchase,Dining,RuPay,PIN,No,Pending,46,India,Premium,1
+07000172,46,161174,45,2,61,Yes,Yes,57,0,Card purchase,Travel,RuPay,None,No,Rejected,20,India,Standard,1
+07000173,63,65010,178,2,67,Yes,Yes,59,5,Card purchase,Travel,RuPay,Biometric,Yes,Rejected,50,India,Premium,1
+07000174,21,3087,92,3,52,No,Yes,48,2,Transfer,Dining,Visa,OTP,No,Rejected,40,International,Standard,1
+07000175,27,38085,97,1,60,Yes,Yes,53,3,ATM,Travel,Mastercard,PIN,Yes,Agreed,28,International,Premium,1
+07000176,41,47487,168,4,59,Yes,No,53,5,Card purchase,Dining,Visa,None,Yes,Agreed,49,India,Premium,1
+07000177,27,141639,172,5,54,No,Yes,32,4,ATM,Fuel,Mastercard,OTP,Yes,Agreed,53,International,Premium,1
+07000178,60,157699,100,1,66,Yes,No,54,3,Card purchase,Dining,Mastercard,Biometric,No,Agreed,11,International,Standard,0
+07000179,24,162290,112,1,22,No,Yes,95,2,ATM,Electronics,RuPay,None,Yes,Rejected,40,India,Standard,1
+07000180,56,154078,45,2,48,Yes,Yes,49,0,Card purchase,Dining,Mastercard,PIN,Yes,Pending,22,International,Standard,0
+07000181,33,119484,152,4,34,Yes,Yes,82,0,ATM,Fuel,RuPay,None,No,Rejected,44,India,Standard,0
+07000182,25,69021,58,1,42,No,Yes,17,5,Card purchase,Travel,Mastercard,OTP,No,Pending,11,International,Standard,0
+07000183,26,58347,90,2,34,Yes,No,42,3,Transfer,Fuel,Mastercard,PIN,Yes,Pending,1,International,Standard,0
+07000184,37,166994,162,4,62,No,Yes,25,3,ATM,Dining,RuPay,PIN,Yes,Rejected,83,India,Standard,0
+07000185,64,29293,74,5,42,No,Yes,36,2,Transfer,Travel,RuPay,PIN,Yes,Agreed,42,International,Premium,0
+07000186,22,172212,28,2,64,Yes,No,34,1,Transfer,Dining,RuPay,Biometric,Yes,Rejected,24,International,Premium,0
+07000187,47,61967,177,4,67,Yes,Yes,45,4,ATM,Grocery,RuPay,OTP,No,Agreed,39,India,Premium,0
+07000188,40,89819,58,0,39,No,No,42,4,ATM,Dining,RuPay,None,Yes,Rejected,25,International,Premium,1
+07000189,65,40742,34,0,50,Yes,Yes,78,3,Transfer,Fuel,Visa,None,No,Agreed,66,India,Standard,0
+07000190,36,90046,3,1,27,Yes,No,7,1,Card purchase,Travel,RuPay,None,Yes,Agreed,64,International,Premium,1
+07000191,59,19264,23,2,61,No,Yes,28,0,Transfer,Dining,Visa,Biometric,Yes,Pending,25,International,Premium,0
+07000192,40,24739,137,2,23,No,No,64,5,Card purchase,Travel,Visa,Biometric,Yes,Agreed,64,India,Standard,1
+07000193,54,8520,50,0,36,Yes,Yes,9,4,Transfer,Grocery,Mastercard,Biometric,Yes,Pending,34,International,Standard,1
+07000194,22,69965,116,1,39,Yes,Yes,84,0,Transfer,Travel,Mastercard,PIN,Yes,Rejected,22,India,Premium,1
+07000195,39,51370,98,0,21,No,No,68,2,Card purchase,Grocery,RuPay,PIN,Yes,Pending,16,International,Premium,0
+07000196,61,147076,64,0,31,No,Yes,22,0,Transfer,Grocery,Mastercard,None,No,Pending,27,India,Premium,1
+07000197,32,157663,177,4,68,No,No,45,4,Transfer,Fuel,Mastercard,None,Yes,Agreed,54,International,Standard,1
+07000198,31,6547,82,3,24,No,No,73,4,Card purchase,Grocery,RuPay,None,Yes,Pending,37,International,Standard,1
+07000199,61,95348,120,2,48,No,No,11,2,Transfer,Dining,RuPay,None,Yes,Rejected,64,International,Premium,0
+07000200,30,59574,85,5,50,No,Yes,16,4,Card purchase,Grocery,Visa,Biometric,No,Agreed,21,International,Premium,0
+07000201,47,170141,153,5,65,No,Yes,85,1,Transfer,Grocery,Visa,OTP,Yes,Pending,46,International,Standard,1
+07000202,60,98065,76,3,59,No,Yes,24,5,Card purchase,Grocery,RuPay,None,Yes,Pending,77,International,Standard,1
+07000203,48,110774,155,0,41,Yes,Yes,31,2,Card purchase,Dining,Visa,OTP,No,Agreed,5,International,Standard,1
+07000204,32,14135,105,1,51,No,No,90,2,ATM,Grocery,Visa,PIN,Yes,Rejected,84,India,Standard,1
+07000205,35,47078,49,1,37,No,No,58,3,ATM,Grocery,Mastercard,None,Yes,Rejected,1,International,Standard,1
+07000206,30,100324,69,4,37,No,No,93,1,Card purchase,Electronics,RuPay,Biometric,Yes,Agreed,67,India,Premium,1
+07000207,34,12306,139,0,29,No,Yes,12,1,Transfer,Electronics,RuPay,Biometric,No,Pending,81,International,Standard,0
+07000208,38,113810,15,4,30,No,No,87,3,Transfer,Fuel,Mastercard,PIN,Yes,Pending,33,India,Standard,1
+07000209,41,118650,165,3,55,No,No,18,1,ATM,Travel,RuPay,PIN,Yes,Rejected,3,International,Premium,1
+07000210,28,57665,146,2,45,Yes,No,9,5,ATM,Travel,RuPay,PIN,Yes,Rejected,72,International,Premium,1
+07000211,22,142393,163,0,28,No,No,22,2,Transfer,Electronics,Mastercard,Biometric,Yes,Rejected,59,India,Premium,0
+07000212,25,111735,17,1,63,Yes,No,33,5,Transfer,Fuel,Mastercard,None,No,Agreed,24,International,Premium,0
+07000213,46,106028,133,3,22,No,Yes,5,3,ATM,Travel,Visa,None,Yes,Rejected,76,International,Premium,1
+07000214,40,162202,166,2,31,Yes,Yes,44,2,Transfer,Travel,Mastercard,None,Yes,Agreed,53,International,Premium,0
+07000215,69,114002,32,5,66,No,Yes,77,1,Card purchase,Travel,RuPay,OTP,Yes,Rejected,31,India,Standard,1
+07000216,48,160759,6,1,49,Yes,No,85,1,Transfer,Travel,RuPay,None,No,Agreed,84,International,Standard,0
+07000217,39,58264,119,1,50,Yes,Yes,82,5,Card purchase,Electronics,RuPay,OTP,Yes,Agreed,18,International,Standard,1
+07000218,52,113601,4,1,54,Yes,Yes,29,2,ATM,Fuel,RuPay,PIN,Yes,Pending,55,International,Standard,1
+07000219,65,105852,92,5,51,Yes,Yes,74,2,ATM,Grocery,Visa,PIN,No,Pending,50,India,Premium,0
+07000220,33,98081,30,4,64,No,No,57,5,Card purchase,Fuel,Visa,PIN,No,Pending,15,International,Standard,1
+07000221,32,37907,4,3,60,Yes,No,77,0,Card purchase,Fuel,Visa,PIN,No,Agreed,44,India,Premium,1
+07000222,32,170205,125,4,43,Yes,Yes,21,2,Card purchase,Travel,RuPay,None,No,Rejected,31,India,Premium,0
+07000223,28,178252,103,5,21,No,Yes,64,2,ATM,Electronics,Visa,Biometric,No,Agreed,73,International,Premium,0
+07000224,68,149998,17,2,66,Yes,Yes,21,4,ATM,Fuel,Visa,None,No,Pending,56,India,Premium,0
+07000225,64,130313,56,3,62,No,Yes,59,0,ATM,Grocery,RuPay,Biometric,No,Rejected,30,International,Standard,1
+07000226,56,151303,18,0,37,Yes,Yes,31,3,Card purchase,Travel,RuPay,None,No,Pending,8,India,Premium,1
+07000227,54,53797,129,3,51,No,Yes,13,0,Transfer,Dining,Visa,None,No,Rejected,34,International,Premium,0
+07000228,59,64641,148,4,28,No,Yes,89,2,Transfer,Dining,Visa,PIN,No,Pending,19,India,Premium,0
+07000229,66,8146,113,5,61,No,Yes,26,3,Card purchase,Fuel,Visa,OTP,Yes,Pending,63,International,Standard,1
+07000230,62,176990,112,3,26,Yes,Yes,30,4,Transfer,Travel,RuPay,None,No,Agreed,79,International,Standard,0
+07000231,48,157910,166,4,52,Yes,No,61,2,Transfer,Fuel,RuPay,PIN,Yes,Rejected,12,India,Standard,1
+07000232,41,132964,8,1,47,No,Yes,65,1,Transfer,Grocery,Visa,PIN,Yes,Agreed,19,International,Premium,1
+07000233,55,166493,166,2,25,Yes,No,60,2,ATM,Travel,Visa,PIN,Yes,Rejected,4,International,Premium,1
+07000234,24,103340,78,0,65,No,No,59,4,Transfer,Travel,Visa,Biometric,No,Pending,5,India,Standard,0
+07000235,35,37894,53,4,54,Yes,No,8,3,ATM,Travel,RuPay,Biometric,No,Rejected,3,International,Premium,1
+07000236,31,74731,117,3,21,Yes,No,17,0,Transfer,Electronics,Visa,None,Yes,Agreed,2,India,Premium,0
+07000237,21,2233,111,1,44,Yes,Yes,11,5,Transfer,Travel,RuPay,None,Yes,Pending,21,International,Premium,0
+07000238,67,55624,70,0,60,Yes,Yes,24,2,Card purchase,Travel,Visa,Biometric,No,Pending,0,International,Standard,0
+07000239,27,136830,60,0,55,No,Yes,85,4,ATM,Grocery,RuPay,Biometric,Yes,Agreed,12,International,Premium,1
+07000240,46,120951,44,0,39,No,No,47,0,Transfer,Travel,Mastercard,Biometric,No,Agreed,52,International,Premium,0
+07000241,53,80538,168,1,47,No,Yes,63,0,Card purchase,Grocery,Visa,Biometric,No,Pending,26,India,Standard,1
+07000242,43,33224,56,3,60,No,Yes,89,3,ATM,Electronics,RuPay,Biometric,No,Pending,37,International,Premium,0
+07000243,47,1970,110,1,23,Yes,No,34,5,Card purchase,Dining,RuPay,None,No,Pending,28,India,Premium,1
+07000244,30,111569,146,1,33,Yes,No,24,2,Card purchase,Dining,Visa,Biometric,Yes,Pending,6,International,Premium,1
+07000245,59,134286,66,5,49,Yes,Yes,83,4,ATM,Fuel,Mastercard,PIN,Yes,Agreed,4,International,Premium,0
+07000246,31,36768,110,3,29,No,Yes,11,0,ATM,Grocery,Visa,None,Yes,Pending,71,International,Premium,1
+07000247,41,153679,95,2,54,No,No,20,1,Card purchase,Travel,Visa,None,No,Rejected,61,India,Standard,0
+07000248,50,59226,59,1,58,Yes,No,70,2,ATM,Dining,RuPay,PIN,No,Pending,69,India,Standard,0
+07000249,31,115575,112,0,31,No,No,82,0,Card purchase,Fuel,Mastercard,Biometric,No,Pending,56,International,Standard,0
+07000250,31,114073,166,3,58,No,Yes,44,5,ATM,Grocery,RuPay,OTP,Yes,Pending,34,International,Premium,1
+07000251,31,49050,136,0,67,Yes,No,56,5,ATM,Grocery,Mastercard,PIN,Yes,Pending,76,International,Standard,1
+07000252,61,107505,58,3,28,Yes,Yes,87,2,ATM,Electronics,Visa,None,No,Agreed,1,International,Premium,0
+07000253,23,158289,143,2,27,Yes,No,48,0,Card purchase,Electronics,Visa,PIN,Yes,Pending,70,India,Standard,0
+07000254,37,132937,116,0,35,Yes,No,77,2,Card purchase,Fuel,Mastercard,None,Yes,Rejected,48,India,Premium,1
+07000255,37,42255,47,1,45,No,No,26,1,Card purchase,Dining,RuPay,OTP,Yes,Pending,69,International,Premium,1
+07000256,23,90088,42,3,49,No,No,90,1,Card purchase,Electronics,Mastercard,Biometric,Yes,Pending,18,India,Premium,1
+07000257,65,130423,50,3,54,Yes,No,49,3,ATM,Dining,Visa,Biometric,Yes,Agreed,63,International,Premium,0
+07000258,28,171187,135,1,26,No,No,67,3,ATM,Electronics,RuPay,None,Yes,Agreed,70,International,Standard,0
+07000259,31,49248,109,3,22,Yes,No,35,2,ATM,Fuel,RuPay,OTP,Yes,Rejected,3,India,Premium,1
+07000260,23,41758,132,3,60,Yes,No,44,2,ATM,Electronics,RuPay,None,Yes,Pending,0,India,Standard,1
+07000261,37,161791,111,3,46,No,Yes,34,1,Card purchase,Grocery,Mastercard,None,No,Pending,70,International,Premium,0
+07000262,69,179179,136,0,43,No,Yes,29,4,Card purchase,Fuel,Mastercard,Biometric,No,Agreed,38,India,Premium,0
+07000263,43,107594,48,4,33,Yes,Yes,38,5,Card purchase,Fuel,Mastercard,PIN,Yes,Rejected,13,International,Standard,1
+07000264,21,109320,75,3,43,Yes,Yes,59,1,ATM,Dining,Visa,OTP,Yes,Pending,32,International,Standard,1
+07000265,50,82436,85,1,69,No,No,78,0,Transfer,Travel,Visa,Biometric,No,Rejected,36,International,Standard,0
+07000266,44,162888,156,4,64,Yes,No,9,1,ATM,Travel,RuPay,Biometric,No,Agreed,79,India,Premium,0
+07000267,44,173366,88,3,39,Yes,Yes,30,2,ATM,Fuel,RuPay,PIN,Yes,Pending,70,India,Standard,0
+07000268,63,175436,134,1,38,No,Yes,51,0,ATM,Electronics,RuPay,OTP,No,Agreed,20,International,Premium,0
+07000269,35,72983,174,4,58,Yes,No,52,5,Card purchase,Fuel,Visa,None,Yes,Pending,29,India,Premium,0
+07000270,66,168436,93,2,53,Yes,No,16,0,Card purchase,Travel,RuPay,None,No,Agreed,58,International,Premium,0
+07000271,69,112101,143,0,24,No,Yes,37,3,ATM,Grocery,Visa,Biometric,No,Agreed,59,India,Premium,1
+07000272,26,129160,1,0,39,Yes,No,19,4,Transfer,Grocery,Mastercard,None,No,Rejected,38,International,Premium,0
+07000273,65,56937,37,3,56,Yes,Yes,60,5,Card purchase,Electronics,Mastercard,OTP,Yes,Agreed,8,India,Standard,1
+07000274,66,155045,53,3,25,Yes,Yes,70,2,Transfer,Dining,Visa,None,Yes,Rejected,42,India,Standard,1
+07000275,32,24620,66,3,27,No,Yes,26,3,Card purchase,Electronics,Mastercard,Biometric,No,Agreed,55,International,Premium,1
+07000276,69,43794,145,0,50,No,No,10,1,Transfer,Electronics,RuPay,None,Yes,Pending,56,India,Premium,1
+07000277,68,177852,71,3,62,Yes,Yes,6,4,Transfer,Grocery,Mastercard,Biometric,No,Agreed,76,International,Premium,1
+07000278,67,155458,143,2,39,Yes,No,21,3,Transfer,Travel,Visa,OTP,Yes,Agreed,48,International,Standard,0
+07000279,34,73415,100,1,34,Yes,Yes,55,2,Card purchase,Travel,RuPay,None,Yes,Agreed,81,India,Standard,1
+07000280,24,22766,21,3,45,Yes,Yes,41,1,Card purchase,Grocery,Mastercard,OTP,Yes,Pending,59,India,Premium,1
+07000281,50,96365,103,0,32,Yes,Yes,66,0,Card purchase,Fuel,RuPay,Biometric,No,Pending,63,India,Standard,1
+07000282,56,62885,108,3,41,No,Yes,64,4,ATM,Fuel,Visa,OTP,Yes,Rejected,21,International,Standard,1
+07000283,66,152099,50,1,46,No,No,27,2,ATM,Grocery,Visa,Biometric,Yes,Pending,24,India,Premium,0
+07000284,25,134169,141,4,30,No,No,91,0,Card purchase,Grocery,Visa,PIN,No,Rejected,69,International,Standard,1
+07000285,46,30290,92,2,61,No,No,66,4,ATM,Electronics,RuPay,OTP,No,Pending,49,India,Premium,1
+07000286,44,98489,1,3,34,Yes,No,79,5,ATM,Travel,Mastercard,PIN,No,Agreed,65,International,Premium,0
+07000287,65,161427,149,3,29,No,No,12,1,ATM,Fuel,RuPay,None,No,Agreed,60,International,Standard,0
+07000288,43,89881,108,3,32,No,No,82,0,ATM,Electronics,RuPay,OTP,Yes,Agreed,32,International,Premium,0
+07000289,41,90188,176,3,22,Yes,No,25,4,Card purchase,Fuel,RuPay,None,Yes,Rejected,31,International,Standard,0
+07000290,40,31117,39,4,62,No,Yes,35,0,Card purchase,Grocery,Visa,Biometric,No,Rejected,31,International,Standard,1
+07000291,53,137314,41,4,41,No,Yes,68,1,Card purchase,Grocery,RuPay,OTP,Yes,Pending,59,International,Standard,1
+07000292,65,120019,109,5,56,Yes,Yes,80,0,Card purchase,Grocery,Visa,None,No,Pending,5,International,Standard,1
+07000293,37,130362,0,1,67,Yes,No,65,3,Card purchase,Fuel,RuPay,OTP,No,Rejected,67,India,Standard,1
+07000294,23,21710,88,5,47,Yes,Yes,79,4,ATM,Grocery,Mastercard,Biometric,No,Pending,65,India,Standard,1
+07000295,44,85207,109,5,45,Yes,No,89,1,Card purchase,Grocery,RuPay,Biometric,No,Agreed,33,India,Standard,1
+07000296,56,91370,118,0,58,No,Yes,64,3,Card purchase,Travel,Mastercard,OTP,Yes,Pending,3,International,Standard,1
+07000297,55,73001,10,3,66,Yes,Yes,66,4,Transfer,Travel,RuPay,OTP,No,Pending,80,India,Premium,1
+07000298,54,122955,46,4,51,No,Yes,64,4,ATM,Fuel,RuPay,Biometric,Yes,Pending,33,India,Standard,1
+07000299,50,99690,67,5,37,No,No,28,4,ATM,Grocery,Mastercard,Biometric,No,Pending,57,International,Standard,0
+07000300,24,15142,38,2,48,Yes,Yes,10,2,Card purchase,Travel,RuPay,None,Yes,Rejected,27,International,Standard,1
+07000301,27,103943,145,1,61,Yes,Yes,13,1,Card purchase,Dining,Mastercard,PIN,Yes,Agreed,70,International,Standard,1
+07000302,34,157991,30,2,43,Yes,Yes,79,2,Card purchase,Fuel,RuPay,Biometric,No,Agreed,14,International,Premium,0
+07000303,38,144562,54,5,48,Yes,No,25,2,Transfer,Fuel,Mastercard,None,Yes,Pending,82,India,Premium,0
+07000304,52,143622,157,5,30,Yes,Yes,18,5,Card purchase,Grocery,RuPay,PIN,No,Pending,70,International,Premium,0
+07000305,68,155874,104,5,46,No,No,32,5,Transfer,Fuel,Mastercard,PIN,Yes,Agreed,19,India,Standard,1
+07000306,45,169698,12,0,29,No,No,47,0,Transfer,Grocery,Visa,PIN,Yes,Rejected,51,International,Premium,0
+07000307,45,156050,179,3,62,No,Yes,84,1,ATM,Electronics,RuPay,PIN,Yes,Pending,83,International,Standard,0
+07000308,30,58560,155,5,63,Yes,No,54,2,Transfer,Fuel,RuPay,Biometric,Yes,Agreed,7,International,Premium,0
+07000309,64,138006,52,4,68,No,No,80,1,Transfer,Dining,Visa,Biometric,Yes,Agreed,1,International,Premium,1
+07000310,47,42706,17,3,24,No,Yes,34,5,Card purchase,Grocery,Mastercard,PIN,No,Rejected,43,International,Premium,0
+07000311,54,7680,130,3,26,Yes,No,94,0,Transfer,Travel,Visa,None,Yes,Pending,46,International,Standard,1
+07000312,32,137842,20,5,22,No,No,53,2,ATM,Electronics,RuPay,OTP,Yes,Agreed,21,India,Standard,1
+07000313,65,88828,8,0,40,Yes,No,40,4,ATM,Electronics,RuPay,OTP,No,Agreed,72,India,Premium,0
+07000314,49,76634,110,2,64,Yes,Yes,91,2,Card purchase,Dining,RuPay,OTP,Yes,Rejected,35,International,Premium,1
+07000315,25,168420,93,5,38,No,No,41,1,Card purchase,Grocery,Visa,OTP,Yes,Agreed,68,India,Standard,1
+07000316,26,136830,124,2,65,No,Yes,80,4,ATM,Fuel,Visa,Biometric,Yes,Agreed,27,International,Premium,1
+07000317,23,105388,131,5,42,Yes,Yes,45,5,Transfer,Electronics,RuPay,OTP,Yes,Pending,66,India,Standard,1
+07000318,64,108398,112,0,54,No,Yes,67,1,Transfer,Electronics,Mastercard,None,No,Pending,41,International,Premium,0
+07000319,21,9839,135,2,68,Yes,Yes,49,0,Transfer,Electronics,Visa,PIN,No,Rejected,5,India,Premium,0
+07000320,36,54954,56,3,55,No,Yes,89,4,Card purchase,Grocery,RuPay,Biometric,No,Rejected,38,India,Premium,1
+07000321,54,78142,27,0,69,No,Yes,76,1,ATM,Fuel,RuPay,None,No,Pending,50,International,Premium,0
+07000322,25,130617,106,5,39,No,No,74,0,Card purchase,Electronics,Mastercard,Biometric,Yes,Pending,23,International,Premium,1
+07000323,52,143891,168,3,65,No,Yes,88,2,Transfer,Travel,Mastercard,OTP,No,Pending,47,India,Standard,0
+07000324,53,35612,154,0,59,No,No,38,1,Card purchase,Grocery,RuPay,None,No,Pending,60,International,Standard,0
+07000325,42,45816,35,3,28,No,No,46,5,ATM,Fuel,RuPay,OTP,Yes,Agreed,50,International,Standard,0
+07000326,47,19465,4,2,53,Yes,Yes,13,0,Transfer,Travel,RuPay,Biometric,No,Rejected,25,International,Standard,0
+07000327,48,102492,151,2,64,Yes,Yes,49,2,Card purchase,Electronics,Visa,OTP,Yes,Rejected,2,International,Premium,0
+07000328,53,84768,131,2,53,No,Yes,45,2,ATM,Electronics,Mastercard,OTP,Yes,Rejected,84,International,Standard,0
+07000329,46,67586,64,2,26,No,Yes,90,1,ATM,Fuel,Mastercard,OTP,Yes,Pending,9,International,Standard,1
+07000330,27,153444,119,3,28,Yes,No,15,3,ATM,Fuel,Mastercard,PIN,Yes,Pending,26,India,Standard,0
+07000331,53,22207,34,4,26,Yes,Yes,25,1,Transfer,Travel,Mastercard,Biometric,No,Pending,10,India,Premium,0
+07000332,32,159114,26,5,61,No,Yes,82,3,ATM,Grocery,RuPay,Biometric,No,Pending,73,India,Premium,1
+07000333,29,152392,108,0,41,Yes,Yes,34,1,ATM,Grocery,Visa,OTP,No,Pending,59,India,Premium,1
+07000334,47,159250,120,2,22,No,No,26,1,Card purchase,Grocery,Visa,Biometric,No,Pending,67,India,Standard,0
+07000335,22,62564,50,4,38,No,Yes,65,5,Card purchase,Travel,Visa,None,No,Agreed,35,International,Premium,1
+07000336,59,134507,15,3,23,Yes,Yes,36,0,ATM,Dining,Visa,OTP,Yes,Agreed,69,India,Premium,0
+07000337,58,150459,136,1,43,No,Yes,71,4,ATM,Electronics,Mastercard,None,No,Agreed,71,India,Standard,0
+07000338,52,174244,152,0,55,Yes,Yes,52,0,ATM,Dining,Visa,Biometric,Yes,Pending,49,International,Standard,1
+07000339,44,171568,48,5,38,No,Yes,20,4,Card purchase,Dining,RuPay,Biometric,Yes,Rejected,82,India,Standard,0
+07000340,50,27463,134,2,42,No,Yes,49,4,ATM,Travel,Visa,OTP,No,Pending,0,International,Standard,1
+07000341,23,155225,120,1,49,No,No,92,2,Transfer,Grocery,Visa,None,No,Rejected,77,International,Standard,0
+07000342,32,80449,176,4,24,No,No,74,1,Transfer,Electronics,Visa,Biometric,No,Pending,24,India,Standard,0
+07000343,64,89425,119,2,31,Yes,Yes,17,4,Transfer,Dining,Mastercard,OTP,No,Rejected,50,India,Premium,0
+07000344,28,171107,139,2,64,Yes,No,39,4,Card purchase,Grocery,Visa,OTP,Yes,Rejected,65,International,Premium,1
+07000345,23,56499,83,1,40,No,Yes,82,3,ATM,Grocery,RuPay,PIN,Yes,Pending,49,India,Standard,1
+07000346,59,105809,143,5,34,No,Yes,52,1,Transfer,Dining,Visa,None,No,Pending,63,India,Standard,1
+07000347,51,9208,12,3,38,Yes,Yes,81,4,Transfer,Grocery,RuPay,PIN,No,Rejected,18,International,Standard,0
+07000348,47,68940,122,4,29,No,No,90,5,Card purchase,Travel,Mastercard,OTP,No,Pending,32,International,Standard,0
+07000349,68,178812,37,4,30,No,Yes,7,2,Transfer,Grocery,Visa,None,No,Rejected,57,International,Standard,0
+07000350,32,141814,91,3,31,Yes,No,67,1,Card purchase,Fuel,RuPay,Biometric,No,Rejected,66,India,Standard,0
+07000351,55,155099,118,3,21,No,No,57,3,Card purchase,Grocery,Mastercard,Biometric,Yes,Agreed,58,International,Standard,1
+07000352,57,28730,125,2,56,Yes,Yes,5,1,Card purchase,Fuel,RuPay,OTP,Yes,Pending,21,International,Standard,0
+07000353,21,168944,25,4,59,No,No,19,2,Transfer,Electronics,Visa,None,No,Agreed,57,India,Standard,0
+07000354,34,24921,133,1,53,No,Yes,85,0,ATM,Grocery,RuPay,None,No,Pending,25,India,Standard,1
+07000355,32,39308,169,3,21,No,Yes,78,5,Card purchase,Fuel,RuPay,PIN,Yes,Pending,66,International,Standard,1
+07000356,45,17085,10,2,50,No,No,71,0,Card purchase,Grocery,Mastercard,PIN,Yes,Pending,54,International,Premium,1
+07000357,23,152424,153,3,23,No,No,95,4,Card purchase,Electronics,Mastercard,None,Yes,Pending,66,International,Standard,1
+07000358,26,15088,103,5,22,No,Yes,84,4,Transfer,Grocery,RuPay,None,No,Pending,43,India,Standard,1
+07000359,22,28414,41,3,37,No,Yes,91,2,ATM,Electronics,RuPay,None,No,Rejected,56,India,Standard,1
+07000360,62,13158,51,1,28,Yes,No,56,0,ATM,Grocery,Mastercard,Biometric,No,Pending,20,International,Standard,0
+07000361,66,134101,148,3,67,Yes,No,34,5,Card purchase,Dining,Visa,OTP,No,Pending,4,India,Premium,0
+07000362,35,96306,36,1,29,Yes,Yes,41,2,Transfer,Grocery,RuPay,OTP,No,Pending,46,India,Standard,1
+07000363,34,67590,123,4,51,Yes,No,87,3,ATM,Dining,Visa,Biometric,Yes,Agreed,78,India,Standard,1
+07000364,51,133575,2,5,29,No,No,68,3,ATM,Travel,Visa,None,No,Agreed,81,International,Standard,1
+07000365,56,48831,165,0,24,Yes,No,62,0,ATM,Fuel,RuPay,None,No,Agreed,68,International,Premium,0
+07000366,43,159417,139,0,27,No,No,44,1,ATM,Grocery,Mastercard,PIN,Yes,Agreed,32,International,Standard,1
+07000367,21,6463,75,0,23,No,Yes,46,3,Card purchase,Fuel,Mastercard,OTP,Yes,Rejected,42,International,Premium,1
+07000368,26,31926,113,1,29,Yes,Yes,78,3,Transfer,Dining,Mastercard,PIN,No,Rejected,30,India,Premium,0
+07000369,53,104051,168,2,43,No,No,25,1,ATM,Fuel,RuPay,OTP,No,Agreed,32,International,Standard,0
+07000370,65,59784,8,1,35,Yes,Yes,52,3,Card purchase,Electronics,Mastercard,OTP,Yes,Rejected,29,India,Premium,1
+07000371,42,138078,113,0,56,No,Yes,68,1,ATM,Fuel,RuPay,PIN,No,Agreed,61,India,Standard,0
+07000372,57,97129,151,4,24,Yes,No,81,3,Transfer,Travel,RuPay,PIN,Yes,Agreed,16,India,Standard,0
+07000373,49,178641,11,1,61,No,Yes,39,1,ATM,Travel,Mastercard,OTP,No,Agreed,20,International,Standard,0
+07000374,35,35872,152,0,35,No,No,90,0,Transfer,Electronics,Mastercard,Biometric,Yes,Rejected,12,International,Premium,1
+07000375,37,76027,31,4,38,No,Yes,56,2,Card purchase,Dining,Mastercard,None,Yes,Rejected,72,International,Standard,1
+07000376,56,21540,178,2,63,No,No,39,4,Card purchase,Electronics,Mastercard,PIN,Yes,Agreed,72,International,Premium,0
+07000377,28,85920,24,1,62,Yes,Yes,26,4,Card purchase,Fuel,Mastercard,Biometric,Yes,Rejected,58,International,Standard,0
+07000378,21,101157,43,1,51,No,Yes,61,0,Transfer,Fuel,RuPay,PIN,Yes,Pending,83,International,Premium,1
+07000379,66,102036,13,2,57,No,No,56,0,ATM,Dining,RuPay,Biometric,No,Pending,43,International,Premium,1
+07000380,50,134525,165,2,69,No,No,62,5,Card purchase,Fuel,Visa,PIN,No,Agreed,75,India,Premium,0
+07000381,31,15473,65,1,45,Yes,Yes,52,1,Transfer,Dining,Visa,OTP,Yes,Rejected,21,International,Standard,1
+07000382,51,160095,20,2,44,No,Yes,15,0,Transfer,Dining,Visa,PIN,Yes,Agreed,48,India,Standard,0
+07000383,51,149332,122,5,66,No,Yes,21,0,Transfer,Dining,Mastercard,OTP,No,Agreed,48,India,Premium,1
+07000384,27,24974,146,2,60,No,No,65,2,Card purchase,Dining,RuPay,OTP,Yes,Agreed,2,India,Standard,0
+07000385,33,151401,96,4,35,Yes,Yes,36,5,Transfer,Dining,Visa,None,No,Pending,83,International,Premium,0
+07000386,46,159657,134,3,60,Yes,Yes,24,3,ATM,Grocery,Mastercard,Biometric,Yes,Pending,53,International,Premium,1
+07000387,67,143101,82,3,30,Yes,No,79,1,Card purchase,Fuel,Visa,PIN,Yes,Rejected,22,India,Premium,1
+07000388,33,46364,115,0,48,Yes,No,92,2,Card purchase,Travel,Mastercard,PIN,No,Agreed,34,International,Standard,0
+07000389,44,114436,52,3,57,No,No,86,1,Card purchase,Grocery,Mastercard,None,Yes,Pending,32,India,Premium,1
+07000390,53,169943,36,0,62,Yes,No,92,0,ATM,Travel,Mastercard,OTP,Yes,Rejected,23,India,Premium,1
+07000391,51,138334,63,5,23,Yes,Yes,64,5,ATM,Grocery,Mastercard,PIN,Yes,Pending,66,International,Standard,1
+07000392,22,110143,86,4,24,No,No,31,0,ATM,Travel,Visa,None,Yes,Rejected,81,India,Premium,0
+07000393,32,1227,57,1,66,No,Yes,10,4,Transfer,Electronics,Mastercard,Biometric,Yes,Agreed,65,India,Standard,0
+07000394,68,37480,19,1,61,No,Yes,23,2,Card purchase,Travel,Visa,Biometric,No,Agreed,26,International,Standard,0
+07000395,23,46749,32,4,40,Yes,Yes,81,5,Transfer,Grocery,RuPay,Biometric,No,Pending,38,India,Standard,0
+07000396,23,106314,69,2,40,Yes,No,19,0,Transfer,Travel,Mastercard,Biometric,Yes,Pending,59,International,Standard,0
+07000397,57,93830,109,5,64,No,No,65,5,ATM,Dining,Mastercard,Biometric,No,Pending,75,India,Standard,1
+07000398,23,123796,132,4,47,No,Yes,81,3,ATM,Electronics,Visa,PIN,No,Pending,67,India,Premium,1
+07000399,46,67172,91,4,62,No,Yes,25,2,Card purchase,Dining,RuPay,PIN,No,Pending,66,International,Premium,0
+07000400,55,158833,28,2,25,Yes,Yes,66,2,ATM,Dining,Mastercard,OTP,Yes,Rejected,27,India,Premium,1
+07000401,47,112427,130,2,30,No,No,77,0,Card purchase,Fuel,Visa,Biometric,Yes,Agreed,38,International,Standard,0
+07000402,57,38112,153,2,34,No,Yes,41,1,ATM,Grocery,Visa,Biometric,No,Pending,42,India,Standard,0
+07000403,31,20583,81,3,42,Yes,Yes,53,0,Card purchase,Grocery,Visa,OTP,Yes,Rejected,79,India,Premium,1
+07000404,55,33174,130,3,48,No,No,53,3,Transfer,Dining,Mastercard,OTP,Yes,Rejected,21,India,Standard,1
+07000405,68,142413,169,4,40,No,Yes,46,1,Card purchase,Electronics,Visa,None,No,Agreed,54,International,Standard,0
+07000406,31,80720,124,1,60,No,Yes,81,3,Transfer,Electronics,Visa,Biometric,Yes,Pending,67,India,Premium,1
+07000407,32,170559,21,2,22,No,Yes,10,2,Card purchase,Travel,RuPay,Biometric,No,Pending,72,International,Premium,1
+07000408,34,59943,5,0,42,No,Yes,87,5,ATM,Electronics,Mastercard,None,No,Pending,42,India,Standard,1
+07000409,21,27313,34,3,31,No,Yes,55,2,Transfer,Electronics,Mastercard,PIN,No,Agreed,13,India,Standard,1
+07000410,43,5059,63,0,54,Yes,Yes,68,0,Card purchase,Fuel,Mastercard,None,No,Pending,45,International,Premium,0
+07000411,49,76099,14,4,21,Yes,No,67,2,Card purchase,Travel,Mastercard,OTP,Yes,Agreed,13,India,Premium,1
+07000412,64,10134,108,5,49,No,No,20,3,Transfer,Travel,Mastercard,PIN,Yes,Rejected,14,International,Premium,0
+07000413,27,31426,179,4,26,Yes,No,63,3,Transfer,Travel,Mastercard,None,Yes,Agreed,3,India,Premium,1
+07000414,34,16637,0,1,32,Yes,No,57,1,Transfer,Fuel,Mastercard,Biometric,Yes,Rejected,48,International,Premium,1
+07000415,30,140340,33,4,66,No,No,57,1,Transfer,Electronics,RuPay,Biometric,Yes,Rejected,12,India,Standard,1
+07000416,52,26492,173,0,68,Yes,No,91,1,Card purchase,Grocery,Mastercard,Biometric,No,Rejected,3,International,Premium,0
+07000417,62,113621,111,2,39,Yes,Yes,69,1,Card purchase,Electronics,Mastercard,PIN,Yes,Pending,57,India,Standard,1
+07000418,58,83336,170,2,38,Yes,Yes,64,1,Transfer,Electronics,Visa,None,Yes,Pending,52,India,Standard,0
+07000419,28,68205,121,3,54,No,Yes,77,3,ATM,Fuel,Mastercard,PIN,No,Rejected,17,International,Standard,1
+07000420,69,38779,24,1,46,Yes,No,41,5,Card purchase,Electronics,RuPay,Biometric,No,Rejected,1,India,Premium,0
+07000421,55,171933,3,0,67,No,Yes,85,0,Transfer,Grocery,RuPay,None,No,Agreed,58,India,Standard,0
+07000422,53,45874,93,2,43,No,No,79,1,Card purchase,Grocery,Visa,PIN,No,Pending,28,India,Standard,0
+07000423,23,163723,36,3,58,Yes,No,56,4,Transfer,Electronics,Visa,Biometric,Yes,Rejected,71,India,Premium,1
+07000424,50,145971,63,3,44,Yes,No,7,5,ATM,Dining,Visa,None,No,Pending,79,India,Standard,0
+07000425,40,30039,39,0,69,Yes,Yes,51,1,ATM,Electronics,Mastercard,PIN,No,Pending,68,International,Premium,0
+07000426,23,124286,107,0,51,Yes,Yes,9,4,ATM,Fuel,Mastercard,None,No,Rejected,21,India,Standard,0
+07000427,30,16929,4,3,41,Yes,Yes,45,2,Card purchase,Fuel,Visa,OTP,No,Rejected,77,India,Premium,0
+07000428,65,103668,0,0,42,Yes,Yes,92,4,Transfer,Fuel,Mastercard,PIN,Yes,Pending,40,International,Premium,1
+07000429,47,164619,171,0,27,Yes,No,5,5,ATM,Grocery,RuPay,OTP,Yes,Agreed,64,India,Standard,0
+07000430,42,83357,172,1,41,No,Yes,25,5,Transfer,Electronics,Visa,None,No,Rejected,34,International,Premium,0
+07000431,51,43632,44,3,62,No,No,57,2,Transfer,Dining,RuPay,PIN,Yes,Pending,32,International,Standard,0
+07000432,22,163344,150,0,44,Yes,Yes,45,2,Card purchase,Grocery,RuPay,Biometric,Yes,Agreed,68,International,Standard,1
+07000433,59,48074,4,2,24,No,No,71,0,Card purchase,Dining,Visa,Biometric,Yes,Rejected,69,India,Premium,1
+07000434,52,21153,49,4,69,Yes,Yes,46,1,Card purchase,Grocery,Mastercard,PIN,No,Pending,55,International,Premium,0
+07000435,58,131315,119,3,22,No,No,75,0,Card purchase,Grocery,Mastercard,OTP,No,Pending,22,International,Standard,0
+07000436,33,62382,130,3,37,Yes,No,78,5,ATM,Grocery,Visa,None,Yes,Rejected,22,International,Premium,1
+07000437,42,152648,102,4,40,No,No,30,2,Transfer,Travel,Mastercard,OTP,No,Rejected,5,International,Standard,0
+07000438,25,142832,8,3,57,Yes,No,91,0,ATM,Travel,Visa,PIN,No,Agreed,24,International,Standard,0
+07000439,37,88567,173,4,54,No,No,47,3,ATM,Electronics,RuPay,None,No,Agreed,62,India,Standard,0
+07000440,69,51870,35,2,27,Yes,Yes,76,2,Card purchase,Grocery,RuPay,PIN,Yes,Agreed,77,International,Standard,1
+07000441,57,11805,177,0,48,No,Yes,93,2,Transfer,Travel,Visa,None,No,Rejected,38,International,Standard,1
+07000442,23,11233,161,5,68,No,No,44,1,Card purchase,Grocery,RuPay,Biometric,Yes,Pending,30,International,Premium,1
+07000443,40,169536,64,2,63,No,Yes,83,3,ATM,Dining,RuPay,Biometric,Yes,Agreed,24,India,Standard,0
+07000444,68,14176,107,0,60,No,Yes,75,1,ATM,Fuel,RuPay,PIN,No,Rejected,33,India,Premium,1
+07000445,31,27240,70,0,52,Yes,Yes,83,3,ATM,Grocery,RuPay,None,No,Pending,31,India,Premium,1
+07000446,66,163197,163,1,64,Yes,Yes,18,2,ATM,Grocery,Mastercard,None,No,Agreed,63,India,Premium,1
+07000447,62,102688,53,4,58,No,No,88,3,Card purchase,Grocery,RuPay,Biometric,Yes,Pending,48,India,Standard,1
+07000448,43,166166,126,2,31,Yes,No,32,3,ATM,Fuel,Mastercard,Biometric,Yes,Agreed,46,India,Premium,1
+07000449,29,139474,66,3,63,No,Yes,10,0,ATM,Dining,Visa,PIN,Yes,Rejected,5,India,Premium,0
+07000450,33,61589,179,1,63,No,No,93,1,ATM,Fuel,RuPay,PIN,Yes,Rejected,65,India,Premium,1
+07000451,42,77707,26,4,46,No,Yes,64,5,Transfer,Dining,Mastercard,Biometric,Yes,Pending,3,International,Premium,1
+07000452,23,49938,43,4,67,No,No,38,3,ATM,Fuel,Visa,None,Yes,Agreed,76,India,Standard,1
+07000453,54,124349,17,1,32,Yes,Yes,24,0,ATM,Travel,Visa,PIN,No,Pending,71,International,Premium,0
+07000454,57,120734,120,1,41,Yes,No,30,3,Card purchase,Fuel,Mastercard,PIN,No,Pending,57,International,Standard,1
+07000455,31,164629,25,2,46,Yes,No,64,3,Transfer,Fuel,Mastercard,PIN,Yes,Agreed,29,India,Standard,1
+07000456,28,123948,51,5,50,No,Yes,7,5,Card purchase,Travel,Visa,OTP,Yes,Pending,8,India,Premium,1
+07000457,35,53998,128,5,37,No,Yes,92,4,ATM,Fuel,RuPay,Biometric,No,Rejected,52,India,Premium,1
+07000458,24,89670,143,0,65,Yes,Yes,32,3,ATM,Fuel,Mastercard,None,No,Agreed,46,International,Premium,0
+07000459,63,10602,19,2,34,Yes,No,25,0,Card purchase,Travel,Visa,None,No,Rejected,5,India,Standard,0
+07000460,41,28767,7,3,25,Yes,Yes,94,5,ATM,Grocery,Mastercard,PIN,No,Agreed,54,India,Standard,1
+07000461,28,135285,107,4,34,Yes,No,24,3,Transfer,Fuel,RuPay,None,No,Pending,53,International,Standard,0
+07000462,33,15642,104,1,56,Yes,No,37,1,ATM,Dining,Visa,OTP,Yes,Rejected,52,India,Standard,0
+07000463,65,137771,160,5,37,No,Yes,37,2,Card purchase,Travel,RuPay,OTP,Yes,Pending,47,India,Standard,1
+07000464,63,116994,179,4,23,No,Yes,84,4,Card purchase,Grocery,Visa,PIN,Yes,Rejected,72,International,Premium,0
+07000465,63,105386,34,0,43,Yes,No,63,4,Transfer,Travel,Mastercard,OTP,Yes,Rejected,32,International,Premium,1
+07000466,40,48069,135,4,47,Yes,No,62,2,Card purchase,Electronics,Visa,PIN,No,Pending,63,India,Standard,1
+07000467,67,150154,43,0,66,Yes,No,20,1,Card purchase,Dining,RuPay,OTP,Yes,Pending,63,India,Standard,0
+07000468,41,74779,165,3,45,No,No,11,1,Card purchase,Grocery,Mastercard,Biometric,No,Rejected,69,International,Standard,0
+07000469,52,153854,43,3,55,No,Yes,12,3,Transfer,Travel,Mastercard,OTP,Yes,Pending,39,India,Standard,1
+07000470,30,48934,32,1,60,No,Yes,25,2,ATM,Grocery,Mastercard,None,Yes,Pending,21,International,Premium,1
+07000471,60,88970,120,0,39,No,No,55,0,Card purchase,Electronics,RuPay,None,Yes,Rejected,60,International,Standard,0
+07000472,47,124684,58,3,27,Yes,No,67,2,Card purchase,Grocery,Visa,OTP,No,Agreed,13,International,Premium,0
+07000473,23,76636,0,4,24,Yes,No,47,2,Card purchase,Electronics,Visa,Biometric,No,Pending,20,International,Standard,0
+07000474,50,46636,145,2,26,No,Yes,58,1,ATM,Grocery,Visa,OTP,No,Pending,63,International,Standard,0
+07000475,37,109826,74,0,45,No,No,84,5,Transfer,Electronics,Visa,Biometric,Yes,Agreed,17,International,Premium,1
+07000476,42,89810,50,4,60,No,No,30,1,Transfer,Grocery,Mastercard,PIN,Yes,Agreed,7,India,Premium,1
+07000477,60,57199,133,0,23,Yes,Yes,27,5,ATM,Travel,RuPay,None,Yes,Pending,35,India,Standard,1
+07000478,52,81820,174,0,33,No,Yes,57,1,Transfer,Travel,Visa,OTP,Yes,Pending,18,India,Standard,1
+07000479,41,94245,159,3,22,Yes,Yes,88,0,Transfer,Dining,Mastercard,Biometric,No,Rejected,54,India,Premium,0
+07000480,68,99564,80,4,43,Yes,Yes,51,5,ATM,Grocery,RuPay,PIN,No,Rejected,9,International,Premium,0
+07000481,38,26883,111,4,45,Yes,No,18,2,ATM,Dining,Mastercard,None,Yes,Rejected,65,India,Standard,1
+07000482,50,11196,40,3,29,Yes,Yes,81,0,Transfer,Fuel,Mastercard,Biometric,No,Agreed,56,India,Standard,0
+07000483,33,56030,98,2,27,Yes,No,26,2,Transfer,Grocery,Mastercard,OTP,Yes,Agreed,63,International,Standard,0
+07000484,37,73101,170,2,56,No,No,56,5,Card purchase,Electronics,Mastercard,OTP,Yes,Agreed,73,International,Standard,0
+07000485,64,94196,178,0,34,No,Yes,83,1,Card purchase,Dining,RuPay,PIN,No,Agreed,1,International,Standard,0
+07000486,24,76119,172,2,35,Yes,No,24,1,Card purchase,Fuel,Mastercard,OTP,Yes,Rejected,63,International,Premium,0
+07000487,35,147493,173,3,68,Yes,No,8,0,ATM,Dining,Visa,OTP,No,Rejected,65,India,Standard,0
+07000488,48,125697,174,2,41,No,Yes,38,2,Card purchase,Grocery,Visa,PIN,Yes,Pending,1,India,Standard,1
+07000489,64,57067,113,3,67,Yes,No,95,1,ATM,Fuel,RuPay,PIN,Yes,Pending,44,International,Standard,1
+07000490,26,105390,156,1,53,Yes,No,18,5,ATM,Electronics,RuPay,None,Yes,Pending,64,International,Standard,0
+07000491,36,103951,142,0,23,Yes,No,10,5,ATM,Fuel,Mastercard,Biometric,Yes,Rejected,56,India,Premium,0
+07000492,42,49888,41,5,35,Yes,Yes,51,4,Transfer,Fuel,Visa,OTP,No,Rejected,64,India,Premium,1
+07000493,50,17672,123,3,62,No,No,30,1,Transfer,Dining,Visa,OTP,No,Rejected,27,India,Premium,0
+07000494,48,45006,16,2,41,No,No,91,2,Card purchase,Dining,Mastercard,PIN,Yes,Agreed,40,India,Standard,0
+07000495,64,148028,161,0,55,No,Yes,12,3,Transfer,Electronics,RuPay,None,Yes,Pending,49,International,Standard,0
+07000496,69,148489,46,0,57,No,No,6,2,Transfer,Electronics,RuPay,OTP,Yes,Rejected,27,India,Premium,0
+07000497,53,163871,116,1,30,No,Yes,67,5,Transfer,Fuel,Visa,None,Yes,Rejected,73,India,Standard,1
+07000498,38,40994,68,1,54,No,No,43,0,Card purchase,Electronics,Visa,None,Yes,Pending,77,India,Standard,1
+07000499,40,73024,172,2,40,Yes,No,26,3,ATM,Fuel,RuPay,PIN,No,Rejected,15,India,Standard,1
+07000500,40,31876,31,4,55,No,No,72,5,ATM,Fuel,Visa,None,No,Rejected,69,International,Standard,0
+07000501,38,21700,116,0,45,Yes,No,81,5,Transfer,Dining,RuPay,PIN,No,Pending,26,International,Standard,0
+07000502,34,47261,17,0,31,Yes,No,70,2,Card purchase,Travel,Visa,Biometric,No,Rejected,39,India,Premium,1
+07000503,64,64228,116,5,31,Yes,Yes,55,0,ATM,Travel,Mastercard,OTP,No,Agreed,14,India,Standard,1
+07000504,30,41462,36,4,63,Yes,No,32,0,Card purchase,Travel,RuPay,None,No,Rejected,25,India,Standard,0
+07000505,26,14879,0,1,47,Yes,Yes,81,2,Card purchase,Electronics,Visa,None,Yes,Pending,18,International,Standard,1
+07000506,57,134778,156,0,59,Yes,Yes,16,0,Transfer,Travel,Mastercard,OTP,No,Agreed,5,India,Standard,0
+07000507,43,52908,155,3,35,No,No,77,4,ATM,Electronics,Mastercard,Biometric,Yes,Agreed,49,India,Premium,1
+07000508,39,159184,67,4,55,Yes,No,80,5,ATM,Dining,Visa,Biometric,Yes,Rejected,70,India,Premium,1
+07000509,43,10661,155,1,61,No,No,81,3,Card purchase,Travel,Mastercard,None,Yes,Rejected,16,International,Premium,0
+07000510,28,161614,27,3,57,No,No,27,0,Transfer,Dining,Visa,None,No,Rejected,72,International,Premium,0
+07000511,33,79481,94,5,32,Yes,Yes,27,1,Transfer,Grocery,RuPay,PIN,Yes,Pending,59,India,Premium,1
+07000512,33,143179,155,5,32,No,Yes,9,2,Card purchase,Grocery,RuPay,OTP,Yes,Pending,75,India,Premium,1
+07000513,47,150200,88,1,32,Yes,No,18,2,Card purchase,Fuel,Visa,OTP,Yes,Agreed,39,India,Premium,0
+07000514,48,82759,41,5,55,No,Yes,69,3,ATM,Fuel,RuPay,OTP,No,Rejected,64,India,Standard,0
+07000515,27,125981,8,4,22,Yes,Yes,84,0,ATM,Dining,Mastercard,None,Yes,Rejected,49,India,Standard,1
+07000516,25,151441,118,5,27,Yes,No,9,1,ATM,Electronics,RuPay,PIN,Yes,Pending,53,International,Standard,1
+07000517,36,105984,13,0,26,Yes,Yes,42,2,Card purchase,Electronics,RuPay,None,Yes,Agreed,72,India,Standard,1
+07000518,27,138442,12,2,25,Yes,No,75,5,Transfer,Electronics,Visa,None,Yes,Rejected,84,India,Standard,1
+07000519,33,170864,132,3,24,No,Yes,87,1,ATM,Dining,Mastercard,OTP,Yes,Pending,74,India,Premium,1
+07000520,26,26914,144,3,43,No,Yes,32,0,Transfer,Travel,Visa,PIN,No,Pending,81,International,Standard,0
+07000521,54,20741,159,2,55,Yes,Yes,55,4,ATM,Travel,Mastercard,OTP,No,Pending,15,International,Premium,0
+07000522,45,179916,13,4,28,Yes,No,86,0,Transfer,Electronics,Visa,OTP,Yes,Rejected,23,India,Standard,1
+07000523,49,71202,151,4,21,No,No,60,1,ATM,Fuel,Mastercard,None,Yes,Pending,78,India,Premium,0
+07000524,56,179422,164,2,26,No,No,54,5,Card purchase,Fuel,Visa,None,No,Rejected,76,International,Standard,1
+07000525,33,83106,96,0,27,Yes,No,48,3,ATM,Travel,Mastercard,OTP,Yes,Agreed,62,India,Premium,0
+07000526,29,10694,130,3,26,Yes,No,83,0,Transfer,Dining,Mastercard,PIN,No,Rejected,82,India,Standard,0
+07000527,55,44628,64,5,26,No,No,20,0,Transfer,Fuel,RuPay,None,Yes,Pending,2,India,Premium,1
+07000528,34,81883,5,0,48,No,Yes,35,1,Card purchase,Grocery,Visa,Biometric,Yes,Agreed,8,India,Standard,1
+07000529,26,78701,94,2,22,No,Yes,61,0,Card purchase,Fuel,Mastercard,OTP,Yes,Pending,6,India,Standard,1
+07000530,42,1236,180,1,62,No,No,14,1,ATM,Fuel,Mastercard,None,No,Agreed,2,India,Premium,0
+07000531,66,40891,180,0,32,Yes,No,46,4,Card purchase,Grocery,Mastercard,OTP,Yes,Pending,55,India,Standard,0
+07000532,23,150173,172,3,56,No,No,46,3,ATM,Grocery,Visa,OTP,No,Rejected,41,India,Standard,0
+07000533,51,116753,78,1,34,Yes,No,37,3,ATM,Grocery,Visa,Biometric,Yes,Agreed,43,International,Premium,1
+07000534,64,77374,143,4,30,No,Yes,69,4,Transfer,Electronics,Mastercard,None,Yes,Rejected,45,India,Standard,1
+07000535,29,179042,114,3,68,No,No,27,5,Card purchase,Travel,RuPay,None,No,Rejected,51,India,Standard,0
+07000536,47,105408,55,1,47,No,No,87,5,Card purchase,Dining,RuPay,OTP,No,Agreed,69,International,Premium,1
+07000537,54,7601,80,3,65,No,Yes,90,1,ATM,Dining,RuPay,None,No,Rejected,42,India,Standard,0
+07000538,48,123426,42,5,32,No,No,11,5,Transfer,Fuel,RuPay,PIN,No,Rejected,62,India,Standard,1
+07000539,65,140190,111,1,52,No,Yes,61,3,ATM,Grocery,RuPay,None,No,Pending,71,India,Premium,1
+07000540,68,15162,75,2,55,No,No,57,5,Card purchase,Grocery,Visa,Biometric,Yes,Pending,5,India,Standard,1
+07000541,69,29790,38,1,33,No,No,23,5,ATM,Grocery,Visa,PIN,No,Pending,56,International,Premium,0
+07000542,23,58908,174,5,68,No,No,79,3,ATM,Travel,Visa,Biometric,Yes,Agreed,0,India,Standard,0
+07000543,25,12921,168,1,23,Yes,No,34,2,ATM,Electronics,RuPay,None,Yes,Agreed,55,India,Premium,0
+07000544,31,159973,177,1,26,Yes,Yes,64,1,Transfer,Dining,Visa,OTP,Yes,Rejected,15,India,Premium,0
+07000545,42,153457,95,5,65,Yes,No,92,3,Card purchase,Grocery,Visa,OTP,No,Rejected,42,International,Standard,0
+07000546,58,10865,120,1,51,Yes,No,60,2,Card purchase,Electronics,Mastercard,Biometric,No,Rejected,12,India,Premium,0
+07000547,35,140503,152,0,48,No,No,42,5,Card purchase,Dining,Visa,PIN,No,Rejected,43,International,Standard,1
+07000548,34,61434,142,3,39,No,Yes,35,4,ATM,Electronics,Visa,None,No,Agreed,1,India,Standard,0
+07000549,66,155861,123,4,34,No,No,13,0,Card purchase,Electronics,RuPay,OTP,Yes,Pending,67,International,Premium,0
+07000550,50,149484,63,0,42,Yes,Yes,92,1,ATM,Grocery,Visa,PIN,No,Agreed,74,India,Premium,1
+07000551,26,2715,8,5,29,Yes,No,33,3,ATM,Travel,Mastercard,None,Yes,Rejected,0,India,Premium,1
+07000552,36,56013,61,5,25,No,Yes,47,2,ATM,Dining,Mastercard,OTP,No,Pending,62,International,Premium,0
+07000553,63,86688,48,1,64,No,Yes,47,5,Card purchase,Dining,RuPay,OTP,Yes,Pending,76,India,Premium,1
+07000554,58,25120,138,4,48,Yes,Yes,34,5,ATM,Electronics,Mastercard,OTP,Yes,Rejected,72,India,Standard,0
+07000555,38,27462,127,1,33,Yes,Yes,48,5,Card purchase,Travel,Visa,OTP,Yes,Pending,26,International,Standard,1
+07000556,38,85699,31,1,24,No,Yes,41,3,ATM,Travel,Mastercard,PIN,No,Pending,58,International,Standard,1
+07000557,52,12175,175,4,33,Yes,No,39,1,Card purchase,Dining,RuPay,PIN,No,Agreed,81,International,Premium,0
+07000558,67,57079,92,2,51,No,No,47,2,Card purchase,Electronics,Mastercard,OTP,No,Pending,10,International,Premium,0
+07000559,57,3185,46,3,30,No,Yes,29,4,Card purchase,Fuel,Visa,OTP,Yes,Pending,49,India,Premium,1
+07000560,51,13045,70,4,24,No,No,87,0,Transfer,Grocery,Mastercard,PIN,No,Rejected,70,India,Premium,0
+07000561,46,66225,96,3,65,No,Yes,17,4,Transfer,Dining,Mastercard,OTP,No,Agreed,7,India,Premium,0
+07000562,24,101707,50,0,26,No,Yes,29,2,Transfer,Grocery,Visa,OTP,No,Pending,11,International,Premium,1
+07000563,24,171631,32,4,44,No,Yes,12,0,Card purchase,Fuel,Mastercard,PIN,No,Agreed,11,India,Premium,1
+07000564,49,176090,115,2,28,No,Yes,56,3,Transfer,Fuel,Visa,PIN,Yes,Agreed,8,International,Premium,1
+07000565,68,137535,138,2,69,Yes,No,52,1,Card purchase,Travel,Visa,Biometric,Yes,Rejected,82,India,Standard,0
+07000566,31,145934,128,2,40,No,Yes,77,0,Card purchase,Dining,RuPay,Biometric,Yes,Agreed,38,India,Standard,0
+07000567,35,54100,29,3,23,Yes,Yes,92,0,Card purchase,Electronics,Mastercard,PIN,No,Pending,26,International,Standard,1
+07000568,31,110920,159,4,48,Yes,Yes,92,2,Card purchase,Electronics,Visa,Biometric,No,Rejected,73,India,Standard,1
+07000569,58,178732,86,2,41,No,Yes,68,2,Card purchase,Electronics,Visa,None,Yes,Rejected,26,International,Standard,1
+07000570,35,80146,98,0,49,Yes,No,41,4,ATM,Fuel,RuPay,PIN,No,Rejected,49,India,Premium,0
+07000571,46,150897,118,0,65,No,Yes,15,0,Transfer,Travel,RuPay,PIN,No,Agreed,12,India,Premium,0
+07000572,44,55052,140,0,42,Yes,Yes,8,4,Card purchase,Fuel,RuPay,PIN,No,Rejected,10,International,Standard,1
+07000573,58,152700,136,2,25,Yes,Yes,15,5,Card purchase,Grocery,RuPay,None,Yes,Pending,11,International,Standard,1
+07000574,36,59826,119,3,64,Yes,Yes,27,1,Card purchase,Dining,Mastercard,OTP,Yes,Agreed,7,International,Standard,1
+07000575,64,30765,10,2,31,No,Yes,33,3,Card purchase,Fuel,Mastercard,OTP,Yes,Pending,41,International,Standard,1
+07000576,32,117250,167,0,29,Yes,Yes,68,4,Card purchase,Electronics,Visa,OTP,No,Agreed,42,International,Standard,0
+07000577,42,103704,35,0,38,No,No,94,1,ATM,Dining,Visa,None,No,Pending,15,International,Standard,0
+07000578,30,99292,63,1,21,No,No,37,2,Transfer,Travel,RuPay,Biometric,No,Pending,42,India,Premium,0
+07000579,65,114714,63,5,67,Yes,Yes,74,5,Transfer,Dining,Visa,None,No,Agreed,27,International,Premium,1
+07000580,67,74452,179,4,59,Yes,No,26,2,Card purchase,Dining,Mastercard,PIN,Yes,Pending,14,International,Premium,0
+07000581,26,52596,18,3,62,Yes,No,40,4,Card purchase,Grocery,Visa,PIN,Yes,Pending,76,India,Standard,0
+07000582,48,155781,141,1,53,No,No,47,4,Transfer,Dining,RuPay,Biometric,Yes,Rejected,55,India,Standard,1
+07000583,35,58071,20,3,35,Yes,No,14,4,Card purchase,Grocery,RuPay,Biometric,Yes,Rejected,14,India,Premium,0
+07000584,65,39987,109,2,52,Yes,No,11,2,ATM,Grocery,RuPay,None,Yes,Rejected,43,International,Standard,1
+07000585,37,75152,68,2,47,No,No,93,5,Transfer,Grocery,Mastercard,OTP,No,Rejected,43,India,Premium,1
+07000586,56,8944,53,3,46,Yes,Yes,11,2,Card purchase,Grocery,Mastercard,OTP,No,Rejected,49,International,Premium,0
+07000587,58,39848,51,1,61,No,No,90,0,Transfer,Travel,RuPay,None,No,Agreed,19,International,Premium,0
+07000588,38,76358,44,0,33,Yes,Yes,58,5,Card purchase,Electronics,RuPay,OTP,No,Pending,77,International,Premium,1
+07000589,22,5065,174,1,60,Yes,No,10,5,Transfer,Electronics,RuPay,Biometric,No,Agreed,44,International,Premium,0
+07000590,54,61168,26,5,64,No,No,26,1,Transfer,Electronics,Mastercard,PIN,No,Rejected,31,International,Premium,1
+07000591,29,22983,80,3,47,Yes,Yes,55,0,Transfer,Electronics,Visa,PIN,No,Agreed,50,International,Premium,1
+07000592,46,108108,20,1,53,Yes,No,48,1,ATM,Fuel,RuPay,Biometric,No,Rejected,25,India,Premium,1
+07000593,49,135396,134,1,36,Yes,No,83,0,ATM,Fuel,Visa,PIN,Yes,Pending,4,International,Standard,1
+07000594,34,35503,120,2,23,No,Yes,51,0,Card purchase,Grocery,Mastercard,Biometric,Yes,Rejected,4,India,Premium,0
+07000595,48,56450,116,2,46,No,Yes,49,1,ATM,Grocery,Visa,OTP,No,Pending,69,International,Premium,0
+07000596,22,146635,176,2,57,Yes,Yes,28,2,Card purchase,Dining,Mastercard,OTP,No,Pending,72,India,Premium,0
+07000597,56,52298,57,1,29,No,No,66,5,Card purchase,Electronics,RuPay,Biometric,No,Agreed,19,International,Premium,0
+07000598,49,17123,178,0,55,No,No,49,0,Transfer,Electronics,RuPay,Biometric,No,Pending,35,International,Standard,0
+07000599,39,84779,117,1,28,Yes,No,22,4,ATM,Dining,Visa,Biometric,No,Agreed,33,India,Standard,0
+07000600,53,138599,26,5,54,No,Yes,30,5,Transfer,Fuel,Visa,OTP,No,Rejected,68,International,Standard,0
+07000601,30,18595,25,4,34,Yes,Yes,75,5,ATM,Fuel,RuPay,Biometric,Yes,Pending,3,International,Premium,1
+07000602,39,173304,146,4,38,No,No,28,4,Transfer,Fuel,RuPay,PIN,Yes,Pending,41,International,Standard,1
+07000603,32,117990,72,5,44,No,Yes,25,1,ATM,Fuel,RuPay,None,Yes,Rejected,62,International,Standard,1
+07000604,31,21556,134,1,54,No,No,67,5,Transfer,Fuel,Mastercard,Biometric,Yes,Agreed,37,India,Standard,1
+07000605,44,93596,175,1,46,No,No,62,5,ATM,Dining,Visa,None,Yes,Rejected,18,India,Standard,1
+07000606,37,172632,67,4,41,Yes,Yes,90,1,Transfer,Fuel,RuPay,OTP,No,Rejected,69,India,Standard,1
+07000607,64,33080,2,4,23,No,No,37,0,Transfer,Dining,Mastercard,PIN,No,Agreed,74,International,Standard,0
+07000608,59,40076,179,1,21,Yes,No,32,5,Card purchase,Travel,RuPay,None,Yes,Pending,74,India,Premium,0
+07000609,42,17767,137,1,23,No,No,43,2,ATM,Fuel,Mastercard,PIN,Yes,Rejected,0,India,Standard,0
+07000610,52,110086,114,0,58,Yes,Yes,19,1,ATM,Dining,RuPay,PIN,No,Agreed,4,India,Premium,1
+07000611,47,103606,15,2,55,No,Yes,92,0,Transfer,Dining,Visa,Biometric,No,Rejected,12,International,Premium,1
+07000612,65,178140,60,1,22,Yes,Yes,46,3,Card purchase,Grocery,Visa,None,No,Pending,27,India,Premium,1
+07000613,42,57532,117,2,47,No,Yes,91,2,ATM,Grocery,Mastercard,PIN,Yes,Pending,58,International,Standard,1
+07000614,32,13288,10,0,38,No,No,56,3,Transfer,Travel,RuPay,Biometric,No,Pending,4,International,Premium,1
+07000615,22,46392,25,0,58,Yes,Yes,72,3,Card purchase,Fuel,RuPay,None,Yes,Pending,16,India,Standard,1
+07000616,65,129056,26,1,40,No,Yes,29,2,Transfer,Fuel,Mastercard,None,Yes,Agreed,33,International,Premium,1
+07000617,21,9939,37,4,59,No,Yes,13,3,Card purchase,Travel,Mastercard,None,No,Rejected,48,International,Premium,1
+07000618,65,77865,32,2,58,No,No,92,0,Card purchase,Fuel,Visa,OTP,Yes,Pending,69,India,Premium,1
+07000619,57,39456,136,1,56,Yes,No,48,2,Transfer,Travel,Mastercard,PIN,Yes,Pending,25,India,Premium,1
+07000620,29,16103,140,3,43,Yes,Yes,87,5,Card purchase,Grocery,Visa,PIN,No,Rejected,38,India,Standard,1
+07000621,62,151019,135,3,41,Yes,Yes,59,1,ATM,Dining,Mastercard,PIN,Yes,Pending,41,India,Standard,1
+07000622,33,46311,41,1,21,Yes,No,80,5,ATM,Fuel,Mastercard,None,No,Pending,59,International,Standard,0
+07000623,35,66917,6,2,36,Yes,Yes,9,0,Transfer,Fuel,Mastercard,PIN,No,Pending,21,International,Premium,0
+07000624,69,66210,44,2,35,No,No,35,3,Transfer,Grocery,Visa,None,Yes,Agreed,67,International,Premium,1
+07000625,38,148254,172,2,44,No,No,12,4,ATM,Electronics,Visa,PIN,No,Agreed,68,India,Standard,0
+07000626,40,145558,165,1,37,Yes,No,82,2,ATM,Fuel,Visa,Biometric,Yes,Rejected,35,India,Standard,0
+07000627,62,160481,124,2,57,No,Yes,51,3,Card purchase,Grocery,Visa,PIN,No,Agreed,4,India,Standard,1
+07000628,47,93133,4,5,66,Yes,Yes,89,0,Transfer,Electronics,Visa,Biometric,No,Rejected,78,India,Standard,1
+07000629,41,171195,165,1,32,Yes,Yes,8,0,Card purchase,Grocery,Visa,None,Yes,Rejected,15,International,Premium,1
+07000630,40,132865,34,4,41,Yes,No,68,3,Transfer,Fuel,Mastercard,PIN,Yes,Agreed,72,International,Standard,1
+07000631,31,78152,174,2,34,No,Yes,61,1,Transfer,Dining,RuPay,Biometric,No,Pending,81,International,Standard,1
+07000632,48,122858,63,2,31,Yes,Yes,79,4,ATM,Travel,RuPay,PIN,Yes,Agreed,51,International,Standard,1
+07000633,66,76340,1,2,31,No,No,77,0,ATM,Electronics,RuPay,PIN,Yes,Rejected,66,India,Standard,1
+07000634,47,109710,46,1,61,Yes,No,23,4,Card purchase,Electronics,Visa,None,No,Agreed,33,International,Standard,0
+07000635,38,154131,106,2,46,Yes,No,30,2,Transfer,Grocery,Mastercard,PIN,Yes,Agreed,68,International,Standard,0
+07000636,29,94546,142,5,59,Yes,Yes,36,3,Card purchase,Grocery,Visa,None,Yes,Agreed,3,India,Premium,1
+07000637,36,5137,171,1,30,Yes,Yes,32,4,Transfer,Electronics,RuPay,PIN,Yes,Pending,12,International,Premium,0
+07000638,68,99693,51,5,35,No,Yes,58,4,Transfer,Grocery,Mastercard,Biometric,Yes,Agreed,4,International,Standard,0
+07000639,44,155499,82,3,66,No,No,87,4,Transfer,Fuel,RuPay,PIN,Yes,Pending,82,India,Standard,1
+07000640,47,22725,18,4,37,Yes,No,22,5,Card purchase,Fuel,Visa,OTP,No,Agreed,6,India,Standard,0
+07000641,21,33405,69,5,29,Yes,Yes,95,0,Card purchase,Travel,Mastercard,OTP,No,Rejected,31,India,Standard,1
+07000642,43,88691,117,3,45,Yes,No,36,4,Transfer,Grocery,Mastercard,PIN,No,Agreed,19,International,Premium,0
+07000643,28,29832,19,2,37,Yes,Yes,17,2,Transfer,Dining,Visa,OTP,Yes,Pending,67,India,Standard,1
+07000644,46,124436,90,2,41,No,Yes,58,4,Card purchase,Grocery,Mastercard,Biometric,Yes,Pending,0,India,Premium,0
+07000645,55,165096,67,0,35,Yes,Yes,77,4,ATM,Electronics,Mastercard,Biometric,No,Rejected,54,India,Premium,0
+07000646,46,92414,45,4,60,No,Yes,95,5,Transfer,Travel,Visa,PIN,Yes,Agreed,51,International,Premium,1
+07000647,39,384,71,3,65,No,Yes,5,3,Transfer,Dining,Visa,None,Yes,Agreed,56,India,Standard,1
+07000648,40,113436,104,1,23,No,Yes,17,4,Transfer,Dining,Visa,Biometric,Yes,Rejected,4,India,Standard,0
+07000649,32,160514,22,4,30,Yes,No,93,4,Card purchase,Fuel,Visa,Biometric,Yes,Pending,38,India,Premium,1
+07000650,29,101109,93,2,21,Yes,Yes,66,5,Transfer,Grocery,RuPay,Biometric,No,Agreed,11,International,Premium,0
+07000651,58,62437,28,5,56,No,Yes,28,3,ATM,Grocery,RuPay,OTP,Yes,Rejected,84,India,Standard,1
+07000652,40,161588,57,2,42,No,Yes,62,2,ATM,Grocery,RuPay,OTP,Yes,Rejected,3,India,Standard,1
+07000653,23,146220,55,0,65,Yes,Yes,64,4,ATM,Grocery,Mastercard,OTP,Yes,Pending,34,India,Premium,0
+07000654,44,90937,179,3,39,No,No,48,0,ATM,Electronics,Visa,PIN,No,Rejected,1,International,Premium,0
+07000655,28,169010,15,3,28,No,Yes,18,0,Card purchase,Electronics,Mastercard,None,No,Pending,50,International,Standard,1
+07000656,31,62904,39,0,21,No,No,66,5,Card purchase,Fuel,Mastercard,Biometric,Yes,Pending,62,International,Premium,1
+07000657,21,106554,87,3,29,Yes,Yes,26,0,ATM,Fuel,RuPay,PIN,Yes,Agreed,62,International,Standard,1
+07000658,34,139410,79,5,38,Yes,Yes,84,4,Transfer,Grocery,Visa,PIN,No,Rejected,54,India,Standard,1
+07000659,33,73609,92,0,53,No,No,53,2,Transfer,Electronics,Mastercard,PIN,Yes,Agreed,27,International,Premium,1
+07000660,38,75661,97,5,30,No,No,71,1,ATM,Dining,Visa,PIN,No,Rejected,76,International,Premium,0
+07000661,32,112549,139,1,31,Yes,No,29,5,Card purchase,Electronics,Visa,Biometric,Yes,Agreed,6,International,Premium,0
+07000662,63,90335,53,5,49,No,No,87,2,Card purchase,Grocery,Visa,OTP,Yes,Rejected,76,India,Standard,1
+07000663,36,14836,66,0,55,No,No,56,0,Transfer,Travel,Mastercard,PIN,Yes,Agreed,25,International,Premium,1
+07000664,47,113539,125,4,48,Yes,No,82,3,Transfer,Dining,RuPay,Biometric,No,Rejected,36,India,Premium,0
+07000665,34,138803,138,0,61,No,No,49,0,Card purchase,Dining,Visa,OTP,Yes,Rejected,56,International,Standard,0
+07000666,53,117240,119,0,52,No,Yes,51,1,Card purchase,Travel,Visa,None,No,Rejected,21,International,Premium,0
+07000667,68,122555,63,4,56,No,Yes,85,1,Card purchase,Fuel,RuPay,Biometric,No,Pending,73,International,Premium,1
+07000668,60,22243,101,1,68,No,No,60,5,ATM,Grocery,Mastercard,Biometric,Yes,Rejected,46,International,Standard,0
+07000669,41,9485,82,0,32,Yes,Yes,58,2,Card purchase,Grocery,RuPay,PIN,Yes,Pending,0,International,Premium,1
+07000670,44,120033,152,1,38,No,No,86,0,Card purchase,Grocery,RuPay,OTP,No,Rejected,5,International,Premium,0
+07000671,46,68756,95,5,27,No,Yes,35,2,Card purchase,Travel,RuPay,None,Yes,Rejected,2,International,Premium,1
+07000672,66,127875,12,0,45,No,Yes,29,0,Card purchase,Grocery,RuPay,OTP,Yes,Pending,55,International,Premium,1
+07000673,56,134629,115,3,69,Yes,No,59,4,Card purchase,Fuel,Mastercard,PIN,No,Rejected,82,India,Standard,1
+07000674,50,140658,135,4,29,No,No,73,1,Transfer,Dining,Visa,PIN,No,Rejected,9,India,Standard,0
+07000675,32,98410,29,5,39,No,Yes,92,1,ATM,Electronics,RuPay,OTP,Yes,Pending,82,International,Standard,1
+07000676,27,2838,11,4,26,Yes,No,16,3,ATM,Travel,Mastercard,Biometric,Yes,Pending,10,International,Premium,1
+07000677,61,127154,77,4,50,Yes,Yes,60,2,Card purchase,Travel,Mastercard,Biometric,No,Pending,76,International,Standard,0
+07000678,38,31514,94,1,55,Yes,Yes,95,1,Transfer,Fuel,Mastercard,None,No,Pending,50,India,Premium,0
+07000679,57,172139,137,5,30,Yes,Yes,23,0,Transfer,Electronics,Mastercard,OTP,No,Agreed,74,International,Premium,0
+07000680,57,9333,78,5,31,No,Yes,53,3,ATM,Fuel,RuPay,PIN,Yes,Rejected,11,International,Premium,1
+07000681,50,73110,179,4,40,No,No,70,1,ATM,Fuel,Mastercard,OTP,No,Agreed,62,International,Premium,0
+07000682,37,34602,143,5,62,Yes,Yes,84,0,Card purchase,Travel,RuPay,None,No,Rejected,55,International,Premium,0
+07000683,42,164099,87,2,66,No,No,43,2,Transfer,Grocery,Visa,None,Yes,Rejected,7,International,Premium,1
+07000684,30,89815,70,3,38,Yes,No,7,4,ATM,Dining,Visa,None,Yes,Pending,59,International,Standard,1
+07000685,45,121446,101,1,25,Yes,No,24,3,ATM,Electronics,Mastercard,PIN,Yes,Pending,45,India,Premium,0
+07000686,69,128747,45,0,56,Yes,No,94,5,Transfer,Grocery,Visa,None,Yes,Agreed,25,International,Premium,1
+07000687,60,119957,93,3,30,Yes,No,87,3,ATM,Dining,RuPay,Biometric,Yes,Agreed,22,International,Standard,0
+07000688,22,90209,162,1,39,No,No,57,5,Card purchase,Electronics,RuPay,None,Yes,Pending,50,International,Standard,1
+07000689,33,151077,108,1,68,No,Yes,86,1,Card purchase,Grocery,Visa,OTP,No,Rejected,76,International,Premium,1
+07000690,58,74745,112,5,60,Yes,No,61,4,ATM,Fuel,RuPay,OTP,Yes,Pending,56,International,Premium,1
+07000691,53,153209,106,0,42,No,Yes,58,2,Transfer,Fuel,Mastercard,PIN,Yes,Rejected,34,International,Standard,1
+07000692,42,125964,122,4,50,Yes,No,51,2,Card purchase,Fuel,Visa,OTP,No,Pending,39,International,Standard,0
+07000693,30,66818,53,3,44,Yes,Yes,12,1,ATM,Grocery,Mastercard,None,No,Pending,53,International,Premium,0
+07000694,44,21521,144,3,27,Yes,No,45,4,ATM,Electronics,Mastercard,Biometric,No,Pending,80,International,Premium,0
+07000695,49,16973,149,5,62,Yes,No,91,1,ATM,Grocery,Mastercard,Biometric,Yes,Agreed,34,International,Standard,1
+07000696,52,34423,44,3,64,No,No,60,0,Card purchase,Fuel,Mastercard,PIN,No,Agreed,71,India,Premium,0
+07000697,50,102669,68,4,21,Yes,No,74,2,Transfer,Grocery,RuPay,Biometric,Yes,Agreed,32,India,Premium,1
+07000698,32,157924,74,1,39,No,Yes,13,1,Card purchase,Grocery,Mastercard,PIN,Yes,Agreed,44,India,Premium,0
+07000699,39,125668,166,0,57,No,Yes,49,3,Card purchase,Grocery,Visa,None,Yes,Rejected,6,International,Premium,0
+07000700,34,148300,44,4,63,No,No,90,4,ATM,Electronics,Visa,Biometric,No,Agreed,70,India,Premium,1
+07000701,42,119740,144,0,60,No,No,91,4,Transfer,Fuel,Visa,OTP,Yes,Agreed,42,International,Premium,1
+07000702,62,113230,32,2,46,Yes,Yes,68,1,ATM,Fuel,RuPay,Biometric,No,Pending,35,India,Premium,0
+07000703,65,45937,22,3,53,Yes,Yes,20,1,Card purchase,Travel,Visa,None,Yes,Rejected,22,India,Premium,1
+07000704,58,80070,30,2,32,Yes,Yes,66,5,Transfer,Grocery,Mastercard,None,No,Rejected,52,International,Standard,1
+07000705,37,51197,160,5,23,No,Yes,81,4,Card purchase,Fuel,RuPay,PIN,No,Pending,57,India,Premium,1
+07000706,58,177144,31,3,58,Yes,No,92,3,Transfer,Dining,Mastercard,OTP,No,Pending,71,International,Standard,0
+07000707,34,40796,16,1,69,No,Yes,33,5,ATM,Fuel,Visa,PIN,Yes,Pending,54,International,Standard,1
+07000708,21,108394,146,4,59,No,No,70,4,ATM,Grocery,Mastercard,None,No,Agreed,21,India,Premium,0
+07000709,51,16170,130,5,54,Yes,Yes,36,4,Transfer,Fuel,Visa,None,Yes,Agreed,16,India,Premium,1
+07000710,42,76930,169,0,29,No,No,57,3,Transfer,Fuel,Visa,OTP,No,Agreed,15,India,Standard,1
+07000711,25,24949,95,4,47,No,No,48,1,Transfer,Dining,RuPay,PIN,Yes,Pending,31,International,Standard,1
+07000712,48,105082,20,2,50,Yes,No,72,5,ATM,Electronics,Mastercard,PIN,Yes,Agreed,13,International,Premium,1
+07000713,33,8553,133,1,27,Yes,No,26,1,Transfer,Travel,RuPay,Biometric,No,Agreed,52,International,Premium,0
+07000714,34,65095,82,2,53,No,Yes,47,2,ATM,Grocery,RuPay,Biometric,Yes,Agreed,8,International,Standard,1
+07000715,23,105065,127,4,58,No,No,28,1,Transfer,Electronics,Visa,OTP,Yes,Pending,39,International,Premium,0
+07000716,65,131367,174,1,30,No,No,52,5,Card purchase,Fuel,Visa,PIN,No,Agreed,19,International,Standard,1
+07000717,39,727,112,3,23,Yes,No,92,4,ATM,Dining,RuPay,PIN,Yes,Rejected,53,International,Standard,1
+07000718,65,53614,145,0,46,No,No,23,1,Transfer,Electronics,Mastercard,Biometric,Yes,Rejected,9,India,Standard,1
+07000719,67,112434,132,3,69,No,No,34,3,Card purchase,Dining,Visa,None,Yes,Agreed,33,India,Standard,0
+07000720,51,147125,23,3,45,Yes,No,37,2,ATM,Electronics,RuPay,None,Yes,Pending,45,India,Premium,1
+07000721,22,46005,131,2,41,Yes,Yes,95,3,ATM,Travel,Visa,Biometric,No,Rejected,40,India,Premium,0
+07000722,51,113523,89,0,48,Yes,Yes,87,3,ATM,Travel,RuPay,None,No,Pending,13,India,Standard,0
+07000723,22,163230,126,3,29,Yes,No,92,4,Transfer,Fuel,Mastercard,Biometric,No,Rejected,58,International,Standard,1
+07000724,45,164645,123,0,69,Yes,Yes,55,3,ATM,Travel,RuPay,PIN,No,Pending,53,International,Standard,0
+07000725,65,84682,178,1,29,Yes,Yes,54,4,Transfer,Electronics,Mastercard,None,No,Rejected,51,International,Premium,1
+07000726,57,159040,19,2,61,Yes,Yes,10,2,ATM,Fuel,Visa,OTP,Yes,Pending,54,India,Standard,1
+07000727,68,135948,70,5,37,Yes,No,62,5,Card purchase,Fuel,Mastercard,None,No,Agreed,15,India,Standard,1
+07000728,22,100281,29,3,42,Yes,Yes,91,0,ATM,Electronics,RuPay,PIN,Yes,Rejected,44,India,Premium,1
+07000729,50,27357,71,3,43,No,No,44,4,Transfer,Fuel,Visa,None,Yes,Agreed,12,India,Standard,0
+07000730,36,126651,84,4,42,Yes,Yes,20,4,Transfer,Dining,RuPay,OTP,No,Pending,24,International,Standard,0
+07000731,40,176496,135,3,54,Yes,No,10,1,ATM,Grocery,Mastercard,PIN,Yes,Pending,42,International,Premium,0
+07000732,37,71527,26,0,52,No,No,50,4,Transfer,Travel,RuPay,PIN,No,Pending,5,International,Premium,1
+07000733,23,46129,67,5,45,Yes,No,25,1,Transfer,Dining,RuPay,PIN,Yes,Agreed,66,India,Standard,0
+07000734,48,117880,27,0,36,Yes,Yes,6,1,Card purchase,Grocery,Mastercard,Biometric,No,Rejected,62,India,Standard,0
+07000735,63,65601,24,3,69,No,No,48,5,Transfer,Grocery,Visa,None,Yes,Rejected,58,India,Premium,1
+07000736,31,104086,99,0,60,Yes,Yes,33,2,ATM,Travel,Visa,OTP,Yes,Pending,59,India,Standard,0
+07000737,66,174853,15,0,60,Yes,Yes,27,2,ATM,Fuel,Visa,PIN,Yes,Agreed,19,International,Premium,0
+07000738,69,12141,147,4,68,Yes,No,49,4,Card purchase,Travel,RuPay,PIN,Yes,Rejected,29,India,Premium,1
+07000739,41,161504,139,1,64,Yes,Yes,91,5,Transfer,Fuel,RuPay,PIN,No,Rejected,2,India,Premium,0
+07000740,35,112300,21,4,59,Yes,No,5,3,Card purchase,Fuel,Visa,Biometric,Yes,Rejected,61,India,Premium,0
+07000741,26,103254,179,2,25,No,Yes,83,2,Transfer,Dining,Mastercard,OTP,Yes,Rejected,78,India,Standard,1
+07000742,27,27519,72,4,28,Yes,No,73,2,Transfer,Electronics,Visa,OTP,Yes,Rejected,67,International,Premium,1
+07000743,58,22438,139,5,65,No,Yes,47,5,ATM,Electronics,Mastercard,PIN,No,Agreed,5,International,Premium,1
+07000744,66,67699,14,3,25,No,No,27,1,ATM,Grocery,RuPay,OTP,No,Agreed,17,India,Standard,1
+07000745,51,117348,174,2,39,Yes,Yes,8,2,Card purchase,Dining,Visa,OTP,No,Agreed,29,International,Premium,0
+07000746,26,96220,43,1,51,No,Yes,61,1,Card purchase,Fuel,RuPay,Biometric,No,Agreed,27,India,Premium,0
+07000747,39,76921,129,5,37,No,Yes,60,4,Card purchase,Electronics,RuPay,OTP,No,Agreed,43,International,Premium,1
+07000748,32,29670,100,4,55,Yes,Yes,79,0,ATM,Electronics,Mastercard,PIN,Yes,Agreed,53,India,Premium,0
+07000749,48,140942,90,1,24,No,No,49,5,ATM,Travel,Mastercard,Biometric,No,Rejected,32,International,Standard,0
+07000750,65,21444,133,3,24,No,Yes,13,2,Card purchase,Travel,Visa,None,No,Agreed,84,International,Premium,1
+07000751,54,101742,32,5,57,Yes,No,22,1,ATM,Electronics,Mastercard,Biometric,Yes,Pending,43,India,Standard,1
+07000752,36,163268,121,3,66,Yes,Yes,48,3,ATM,Grocery,Visa,OTP,No,Agreed,52,International,Standard,1
+07000753,24,10976,106,4,52,No,No,51,0,Card purchase,Dining,RuPay,None,Yes,Agreed,7,India,Premium,1
+07000754,22,150184,72,2,48,No,No,44,5,ATM,Grocery,Mastercard,PIN,Yes,Agreed,33,India,Standard,0
+07000755,50,36831,151,5,61,Yes,No,25,3,ATM,Travel,Visa,PIN,Yes,Agreed,66,India,Premium,0
+07000756,62,17855,92,2,60,Yes,No,36,4,ATM,Travel,RuPay,None,Yes,Rejected,76,India,Standard,0
+07000757,52,10301,139,0,68,Yes,No,6,2,ATM,Dining,Visa,None,Yes,Rejected,18,International,Premium,0
+07000758,22,153491,83,1,47,Yes,Yes,39,2,ATM,Travel,Visa,None,No,Agreed,14,India,Premium,0
+07000759,35,14233,177,1,51,No,Yes,64,1,Card purchase,Electronics,Visa,None,Yes,Agreed,81,India,Standard,1
+07000760,31,103610,150,2,45,No,Yes,87,4,ATM,Electronics,Mastercard,OTP,No,Agreed,24,India,Premium,1
+07000761,54,22165,85,2,22,No,No,82,2,ATM,Fuel,Mastercard,None,No,Rejected,24,International,Premium,1
+07000762,33,152543,163,4,23,Yes,Yes,65,1,Card purchase,Fuel,Mastercard,None,Yes,Agreed,15,International,Standard,1
+07000763,42,40625,122,1,42,No,Yes,92,2,ATM,Grocery,Visa,Biometric,Yes,Rejected,46,International,Standard,1
+07000764,60,46869,79,0,36,No,Yes,31,1,Card purchase,Dining,Mastercard,PIN,Yes,Pending,12,International,Standard,1
+07000765,26,82975,4,5,37,Yes,No,77,3,Transfer,Dining,Visa,OTP,No,Rejected,44,India,Standard,1
+07000766,39,106567,7,1,27,No,No,15,5,Transfer,Travel,Mastercard,None,No,Pending,7,India,Premium,0
+07000767,35,49150,156,2,51,No,No,25,2,ATM,Travel,Mastercard,Biometric,No,Rejected,50,India,Standard,0
+07000768,65,15733,93,1,69,No,Yes,32,3,ATM,Grocery,RuPay,PIN,Yes,Rejected,47,International,Premium,0
+07000769,54,19716,35,0,47,Yes,Yes,65,4,Card purchase,Grocery,Mastercard,PIN,No,Pending,63,International,Standard,0
+07000770,58,59924,98,0,45,Yes,Yes,65,4,ATM,Fuel,Mastercard,OTP,No,Pending,81,India,Premium,1
+07000771,67,65650,152,4,61,No,No,67,0,ATM,Fuel,Mastercard,OTP,No,Pending,23,India,Premium,0
+07000772,35,177688,157,0,39,No,Yes,23,5,Card purchase,Travel,Mastercard,PIN,No,Pending,69,International,Premium,0
+07000773,33,147181,168,3,63,Yes,No,62,1,ATM,Travel,Visa,None,Yes,Pending,20,International,Standard,0
+07000774,32,13681,136,2,27,No,Yes,64,1,ATM,Electronics,Mastercard,PIN,Yes,Pending,12,International,Standard,1
+07000775,35,31027,163,2,53,No,Yes,9,2,Card purchase,Fuel,RuPay,OTP,No,Agreed,84,International,Standard,0
+07000776,25,159409,152,3,51,Yes,Yes,37,1,Card purchase,Dining,Visa,None,No,Rejected,30,India,Premium,0
+07000777,21,67687,158,3,51,No,Yes,70,2,Card purchase,Electronics,RuPay,PIN,Yes,Agreed,61,International,Standard,1
+07000778,29,146785,176,3,49,Yes,Yes,59,1,ATM,Dining,RuPay,PIN,Yes,Agreed,53,India,Premium,1
+07000779,54,87811,164,3,21,No,Yes,64,3,Card purchase,Dining,RuPay,PIN,Yes,Pending,79,India,Standard,1
+07000780,60,153762,139,2,66,No,No,70,0,ATM,Dining,Mastercard,OTP,No,Pending,50,International,Premium,0
+07000781,63,16644,98,2,55,Yes,No,49,4,Card purchase,Dining,RuPay,OTP,Yes,Rejected,43,International,Premium,0
+07000782,32,18586,68,5,53,Yes,No,52,1,Card purchase,Grocery,RuPay,None,Yes,Agreed,1,India,Standard,0
+07000783,23,66060,97,0,36,No,No,51,5,Transfer,Electronics,RuPay,OTP,Yes,Agreed,79,India,Standard,1
+07000784,39,94626,180,5,52,Yes,No,54,2,Card purchase,Electronics,RuPay,None,Yes,Pending,77,International,Premium,0
+07000785,59,25098,28,0,58,No,No,71,0,Card purchase,Dining,RuPay,None,Yes,Agreed,74,India,Premium,1
+07000786,23,40513,9,2,34,Yes,No,31,0,ATM,Fuel,Visa,None,Yes,Agreed,48,International,Standard,0
+07000787,59,138613,60,2,45,Yes,No,50,1,Card purchase,Grocery,RuPay,PIN,Yes,Rejected,60,India,Premium,1
+07000788,36,94709,54,2,36,No,No,75,2,Card purchase,Travel,Visa,PIN,No,Agreed,49,India,Premium,1
+07000789,37,103746,16,3,24,No,Yes,71,2,Card purchase,Dining,RuPay,PIN,Yes,Pending,1,International,Standard,0
+07000790,27,5798,101,2,58,No,No,8,3,ATM,Fuel,RuPay,OTP,No,Pending,70,India,Standard,0
+07000791,59,16709,69,5,66,Yes,Yes,82,3,Card purchase,Electronics,Mastercard,Biometric,No,Rejected,23,India,Standard,1
+07000792,56,145051,165,0,22,Yes,Yes,64,3,ATM,Travel,RuPay,PIN,No,Pending,7,International,Premium,1
+07000793,31,174891,88,2,57,No,No,91,4,ATM,Grocery,Visa,OTP,Yes,Agreed,15,International,Premium,1
+07000794,48,115899,61,3,54,Yes,No,63,0,Card purchase,Grocery,RuPay,Biometric,Yes,Pending,70,India,Standard,1
+07000795,60,49085,151,0,21,No,No,36,4,Transfer,Fuel,Visa,Biometric,Yes,Pending,22,India,Premium,0
+07000796,44,40115,140,1,35,No,No,67,3,Transfer,Electronics,Mastercard,OTP,No,Rejected,9,International,Standard,0
+07000797,51,166765,48,3,62,Yes,No,44,0,Transfer,Fuel,Mastercard,PIN,No,Agreed,67,International,Standard,1
+07000798,58,159687,54,3,60,No,No,58,0,Transfer,Electronics,RuPay,Biometric,Yes,Agreed,33,International,Standard,1
+07000799,38,109458,14,0,35,No,No,13,0,ATM,Fuel,Visa,Biometric,Yes,Pending,51,India,Standard,1
+07000800,27,133203,88,4,63,No,Yes,35,1,Transfer,Electronics,Mastercard,Biometric,No,Rejected,12,India,Standard,0
+07000801,65,115062,57,5,36,No,Yes,77,2,Card purchase,Electronics,Mastercard,OTP,Yes,Pending,59,India,Standard,1
+07000802,46,48286,7,5,63,Yes,No,17,2,Card purchase,Electronics,Visa,PIN,No,Pending,73,International,Premium,0
+07000803,57,129629,125,3,67,Yes,No,44,4,Card purchase,Grocery,Visa,OTP,Yes,Pending,49,International,Premium,1
+07000804,54,68740,43,2,28,No,No,14,4,Card purchase,Electronics,Visa,Biometric,No,Agreed,70,India,Premium,0
+07000805,39,66020,36,1,55,Yes,No,18,2,ATM,Travel,Visa,OTP,Yes,Rejected,56,India,Standard,0
+07000806,69,54580,117,4,47,Yes,No,84,2,Transfer,Electronics,Mastercard,Biometric,Yes,Agreed,81,International,Premium,1
+07000807,35,79073,86,1,23,No,No,6,1,Card purchase,Grocery,Visa,None,Yes,Rejected,83,India,Standard,0
+07000808,38,85977,143,4,52,No,Yes,67,3,Transfer,Dining,Mastercard,PIN,Yes,Pending,21,India,Standard,0
+07000809,22,129198,59,5,60,No,No,50,5,Transfer,Electronics,RuPay,OTP,No,Pending,45,International,Standard,0
+07000810,36,122901,70,0,49,No,Yes,87,0,Transfer,Dining,RuPay,Biometric,Yes,Agreed,12,International,Standard,1
+07000811,25,19078,164,3,67,No,Yes,8,2,ATM,Fuel,Mastercard,PIN,No,Agreed,25,International,Premium,0
+07000812,50,76986,78,1,46,No,No,32,0,Transfer,Fuel,Mastercard,Biometric,No,Agreed,74,India,Standard,0
+07000813,52,144651,48,4,43,Yes,No,89,1,ATM,Electronics,Visa,None,No,Pending,22,India,Premium,1
+07000814,36,14512,122,5,58,No,Yes,11,2,Transfer,Travel,Mastercard,OTP,Yes,Rejected,11,India,Standard,1
+07000815,39,146373,57,3,65,Yes,Yes,79,5,ATM,Electronics,RuPay,OTP,Yes,Rejected,77,India,Premium,1
+07000816,25,160149,0,4,43,Yes,No,16,2,ATM,Fuel,Visa,Biometric,No,Agreed,27,India,Standard,1
+07000817,38,91035,135,3,38,No,No,9,4,Card purchase,Fuel,Visa,None,Yes,Rejected,60,International,Standard,0
+07000818,26,129231,5,0,56,No,Yes,29,2,ATM,Electronics,Mastercard,None,Yes,Rejected,29,International,Premium,1
+07000819,55,156053,102,0,59,Yes,No,56,0,ATM,Grocery,Visa,Biometric,No,Agreed,13,International,Premium,0
+07000820,33,132584,115,0,47,No,No,90,3,Transfer,Grocery,RuPay,Biometric,No,Pending,48,International,Standard,1
+07000821,26,41267,18,1,43,Yes,No,21,4,Card purchase,Grocery,Visa,OTP,No,Rejected,56,International,Premium,0
+07000822,25,46883,168,0,36,No,Yes,95,4,Card purchase,Travel,Mastercard,Biometric,No,Pending,54,India,Premium,1
+07000823,53,150453,118,1,44,Yes,Yes,87,3,Transfer,Grocery,Mastercard,Biometric,Yes,Agreed,66,India,Premium,1
+07000824,26,74535,74,1,65,Yes,Yes,34,3,Card purchase,Travel,RuPay,None,Yes,Pending,76,International,Standard,0
+07000825,22,133707,107,4,57,Yes,Yes,84,1,Transfer,Grocery,Visa,Biometric,Yes,Pending,9,India,Premium,0
+07000826,67,55872,155,1,43,Yes,No,46,4,ATM,Electronics,RuPay,Biometric,No,Agreed,69,International,Premium,0
+07000827,33,28096,13,5,24,Yes,Yes,60,3,Card purchase,Dining,RuPay,None,No,Pending,48,India,Premium,1
+07000828,50,47160,47,4,64,Yes,No,44,0,ATM,Travel,Visa,Biometric,No,Pending,67,India,Standard,0
+07000829,33,65460,114,4,50,No,No,71,2,Card purchase,Fuel,RuPay,PIN,No,Rejected,62,International,Premium,1
+07000830,67,131471,27,4,50,No,No,82,1,Transfer,Fuel,Mastercard,None,Yes,Agreed,71,India,Standard,1
+07000831,41,20718,52,2,27,No,Yes,52,4,ATM,Travel,RuPay,None,No,Rejected,59,India,Standard,1
+07000832,52,110338,121,5,34,Yes,Yes,12,4,Transfer,Electronics,Mastercard,OTP,No,Agreed,0,International,Standard,0
+07000833,36,172575,41,2,54,No,No,73,0,Card purchase,Dining,RuPay,PIN,Yes,Rejected,53,India,Standard,0
+07000834,21,137938,34,2,39,No,Yes,85,4,ATM,Fuel,RuPay,Biometric,No,Agreed,43,India,Premium,1
+07000835,26,167284,45,2,66,No,No,77,1,ATM,Dining,Visa,PIN,No,Pending,38,India,Premium,0
+07000836,27,48071,90,1,22,No,No,30,0,Transfer,Grocery,RuPay,PIN,No,Pending,66,International,Premium,0
+07000837,50,13722,63,5,29,Yes,No,57,5,Transfer,Electronics,Mastercard,None,Yes,Pending,52,International,Standard,1
+07000838,66,15598,138,0,22,Yes,No,43,3,ATM,Dining,RuPay,None,No,Rejected,48,International,Premium,0
+07000839,52,147462,114,5,22,No,Yes,48,1,ATM,Dining,Visa,PIN,No,Rejected,16,International,Premium,1
+07000840,22,48568,47,5,63,Yes,No,89,2,ATM,Fuel,Mastercard,None,No,Pending,30,International,Premium,1
+07000841,36,71705,122,3,33,Yes,No,20,2,ATM,Grocery,Mastercard,PIN,Yes,Rejected,34,India,Premium,0
+07000842,65,104749,152,2,62,No,Yes,35,1,ATM,Electronics,Visa,None,Yes,Pending,11,International,Premium,0
+07000843,55,165857,160,5,30,No,Yes,95,0,ATM,Dining,RuPay,Biometric,Yes,Agreed,19,International,Standard,1
+07000844,59,120630,140,4,44,Yes,No,38,5,ATM,Grocery,RuPay,Biometric,Yes,Pending,74,India,Standard,0
+07000845,38,137135,166,1,35,No,No,32,1,Card purchase,Dining,Visa,OTP,No,Pending,9,International,Standard,0
+07000846,29,56708,118,4,36,No,Yes,29,2,Transfer,Electronics,Mastercard,None,Yes,Pending,52,International,Premium,1
+07000847,30,169677,36,4,34,Yes,No,71,1,ATM,Travel,Visa,OTP,Yes,Pending,67,International,Premium,0
+07000848,61,28064,165,2,57,No,No,6,4,Transfer,Grocery,RuPay,None,Yes,Pending,42,India,Premium,1
+07000849,57,88085,161,1,53,Yes,No,72,3,ATM,Grocery,Visa,None,No,Agreed,76,International,Premium,0
+07000850,31,33767,149,2,49,Yes,No,46,5,ATM,Travel,RuPay,Biometric,No,Pending,40,India,Standard,0
+07000851,62,123032,147,2,67,No,Yes,9,5,Card purchase,Travel,Mastercard,OTP,Yes,Pending,71,International,Premium,1
+07000852,65,66189,138,0,28,No,Yes,82,3,Transfer,Electronics,Visa,OTP,Yes,Pending,42,International,Premium,1
+07000853,56,138064,110,3,25,Yes,Yes,65,1,Transfer,Electronics,Mastercard,Biometric,No,Pending,44,India,Standard,0
+07000854,27,8898,114,2,65,Yes,No,95,2,Transfer,Electronics,Mastercard,OTP,No,Rejected,14,International,Standard,0
+07000855,50,49860,50,4,33,No,No,77,4,Transfer,Fuel,Visa,PIN,No,Rejected,39,International,Premium,0
+07000856,60,157611,49,3,39,No,Yes,67,5,Transfer,Electronics,Visa,Biometric,Yes,Rejected,82,India,Standard,1
+07000857,30,114641,29,3,55,Yes,No,95,0,ATM,Travel,Visa,OTP,No,Pending,37,International,Standard,0
+07000858,41,146353,132,1,26,No,No,22,5,Transfer,Electronics,Visa,Biometric,No,Rejected,49,India,Standard,0
+07000859,41,94075,116,3,56,Yes,No,33,0,Card purchase,Travel,Visa,None,Yes,Agreed,8,India,Standard,1
+07000860,59,2179,117,5,53,No,No,76,4,Transfer,Fuel,Mastercard,None,No,Pending,49,International,Premium,0
+07000861,58,113104,39,4,62,Yes,Yes,61,3,ATM,Grocery,Mastercard,OTP,Yes,Agreed,67,International,Standard,1
+07000862,60,107344,23,4,28,No,Yes,75,0,Card purchase,Grocery,Mastercard,OTP,No,Pending,5,International,Standard,1
+07000863,47,73628,180,3,57,No,No,31,2,Transfer,Grocery,RuPay,None,Yes,Rejected,7,International,Premium,1
+07000864,46,18501,161,4,37,Yes,No,74,2,ATM,Grocery,RuPay,Biometric,No,Rejected,67,International,Standard,0
+07000865,28,16290,56,3,64,No,Yes,58,4,Transfer,Electronics,Mastercard,Biometric,No,Pending,38,International,Premium,1
+07000866,32,134650,28,5,69,No,No,83,2,Transfer,Fuel,RuPay,Biometric,Yes,Rejected,80,International,Standard,1
+07000867,59,89433,139,2,65,Yes,No,10,3,ATM,Grocery,Mastercard,None,Yes,Pending,11,International,Standard,0
+07000868,36,36789,38,2,50,Yes,Yes,81,3,Card purchase,Fuel,Mastercard,Biometric,No,Rejected,17,International,Premium,1
+07000869,36,113536,128,3,41,No,Yes,65,0,ATM,Electronics,RuPay,Biometric,Yes,Pending,38,International,Premium,1
+07000870,69,82068,33,5,42,No,No,31,5,Transfer,Grocery,RuPay,Biometric,No,Pending,27,India,Standard,1
+07000871,21,40352,68,2,66,Yes,Yes,66,0,Card purchase,Travel,Visa,PIN,Yes,Rejected,62,India,Standard,1
+07000872,44,30599,38,1,68,No,No,72,4,Transfer,Fuel,Mastercard,PIN,Yes,Pending,64,India,Standard,1
+07000873,57,119767,85,2,49,Yes,No,67,2,ATM,Travel,Mastercard,Biometric,Yes,Agreed,55,India,Standard,1
+07000874,34,97128,69,0,33,Yes,Yes,90,5,ATM,Fuel,Visa,OTP,No,Rejected,72,India,Premium,1
+07000875,54,148218,121,5,50,Yes,No,51,3,Card purchase,Dining,RuPay,Biometric,No,Agreed,62,India,Standard,0
+07000876,33,168389,177,5,37,Yes,Yes,51,1,ATM,Dining,Mastercard,Biometric,No,Rejected,23,International,Premium,0
+07000877,39,153603,121,0,61,No,Yes,59,1,Transfer,Fuel,RuPay,PIN,No,Rejected,43,International,Premium,1
+07000878,41,43447,145,2,65,Yes,Yes,14,4,ATM,Electronics,RuPay,PIN,No,Rejected,64,International,Standard,0
+07000879,68,66196,124,1,32,No,Yes,95,1,Transfer,Fuel,Mastercard,Biometric,No,Rejected,33,India,Premium,1
+07000880,43,144545,119,2,34,Yes,Yes,19,4,Card purchase,Grocery,RuPay,OTP,Yes,Agreed,22,India,Standard,1
+07000881,52,116952,48,1,57,Yes,No,52,0,ATM,Fuel,Mastercard,OTP,No,Rejected,28,India,Premium,0
+07000882,39,124253,133,3,48,Yes,Yes,95,4,Transfer,Grocery,Visa,OTP,No,Pending,22,India,Standard,0
+07000883,45,97122,79,3,27,No,Yes,18,3,Card purchase,Dining,RuPay,None,Yes,Rejected,34,International,Standard,0
+07000884,54,33731,89,2,66,Yes,Yes,36,0,ATM,Dining,Mastercard,OTP,No,Rejected,78,India,Standard,0
+07000885,60,170948,126,1,37,No,No,33,5,Card purchase,Electronics,Mastercard,PIN,No,Agreed,67,India,Standard,0
+07000886,41,98481,14,0,68,Yes,No,6,3,Card purchase,Dining,RuPay,PIN,Yes,Agreed,69,India,Standard,0
+07000887,66,53809,49,3,44,No,No,87,2,ATM,Electronics,Visa,None,No,Rejected,13,India,Standard,1
+07000888,36,32883,112,4,25,No,Yes,31,3,Card purchase,Travel,RuPay,None,No,Agreed,52,India,Premium,0
+07000889,50,52566,105,5,32,No,No,83,4,ATM,Dining,Visa,None,No,Agreed,28,International,Standard,0
+07000890,54,31527,97,2,25,Yes,No,12,2,Transfer,Dining,Mastercard,PIN,No,Pending,5,India,Standard,0
+07000891,23,59173,179,0,37,No,Yes,44,1,Card purchase,Grocery,Visa,Biometric,Yes,Pending,58,International,Premium,1
+07000892,33,74619,142,4,63,No,No,80,3,Transfer,Dining,Mastercard,OTP,Yes,Rejected,74,India,Premium,1
+07000893,53,13411,2,4,60,Yes,No,30,4,Transfer,Electronics,Visa,Biometric,Yes,Pending,10,India,Premium,1
+07000894,53,100282,64,2,67,No,No,37,1,Card purchase,Fuel,Visa,OTP,No,Rejected,39,International,Premium,0
+07000895,24,135067,13,3,30,No,No,5,5,ATM,Grocery,Visa,Biometric,Yes,Agreed,1,India,Premium,0
+07000896,67,99005,76,0,68,No,No,57,4,Transfer,Fuel,Visa,Biometric,Yes,Rejected,34,India,Standard,1
+07000897,63,30176,11,5,64,No,Yes,28,0,ATM,Grocery,Visa,OTP,Yes,Agreed,25,International,Standard,1
+07000898,34,72131,167,3,54,Yes,Yes,93,0,ATM,Fuel,Mastercard,Biometric,No,Agreed,10,International,Premium,1
+07000899,23,114615,46,5,32,Yes,No,43,0,Card purchase,Dining,Mastercard,PIN,Yes,Rejected,5,India,Premium,1
+07000900,31,124252,60,4,47,No,No,82,5,ATM,Fuel,Visa,Biometric,No,Agreed,75,India,Standard,1
+07000901,29,109868,62,5,59,Yes,Yes,43,1,Card purchase,Electronics,Visa,None,Yes,Agreed,31,International,Premium,1
+07000902,56,17787,93,3,40,Yes,Yes,8,2,ATM,Electronics,RuPay,OTP,Yes,Rejected,2,India,Standard,0
+07000903,38,142621,177,2,49,No,No,44,5,Transfer,Grocery,Visa,PIN,Yes,Pending,83,International,Standard,0
+07000904,58,85371,139,4,53,Yes,Yes,22,0,ATM,Electronics,Mastercard,OTP,No,Agreed,3,India,Premium,0
+07000905,42,178318,140,5,22,No,No,76,2,ATM,Electronics,RuPay,OTP,Yes,Pending,22,India,Standard,1
+07000906,26,127424,172,3,41,Yes,No,44,4,ATM,Dining,Mastercard,Biometric,No,Agreed,13,International,Standard,0
+07000907,25,50654,104,1,29,No,No,9,1,Card purchase,Electronics,RuPay,OTP,Yes,Rejected,3,International,Premium,1
+07000908,22,105334,10,2,41,Yes,No,5,2,ATM,Dining,Mastercard,PIN,Yes,Agreed,22,International,Premium,1
+07000909,39,153346,121,1,47,No,No,64,4,Card purchase,Travel,Visa,None,No,Rejected,25,India,Premium,0
+07000910,53,118134,158,5,21,Yes,No,54,1,Card purchase,Electronics,Visa,Biometric,No,Pending,45,International,Premium,0
+07000911,45,37637,53,4,45,Yes,No,63,3,Card purchase,Grocery,Mastercard,None,No,Rejected,50,India,Standard,1
+07000912,63,120423,94,2,29,Yes,Yes,94,3,Transfer,Travel,RuPay,OTP,Yes,Rejected,66,International,Standard,1
+07000913,52,96721,99,1,37,No,Yes,11,3,ATM,Dining,Visa,PIN,Yes,Pending,4,International,Standard,1
+07000914,50,60722,128,0,31,Yes,Yes,77,3,Card purchase,Fuel,RuPay,OTP,No,Agreed,71,India,Standard,1
+07000915,24,4730,29,2,57,Yes,Yes,88,1,Transfer,Dining,Visa,Biometric,Yes,Pending,3,India,Premium,0
+07000916,59,335,112,0,57,Yes,No,78,5,Transfer,Fuel,RuPay,Biometric,No,Pending,63,India,Premium,0
+07000917,34,154741,140,2,52,Yes,Yes,59,0,Transfer,Dining,Visa,Biometric,Yes,Rejected,54,India,Standard,1
+07000918,24,21702,25,3,60,No,Yes,60,1,Card purchase,Fuel,RuPay,OTP,Yes,Agreed,39,India,Premium,1
+07000919,43,159501,158,1,66,No,No,80,4,Card purchase,Fuel,RuPay,None,No,Agreed,42,India,Standard,0
+07000920,25,54302,170,0,34,Yes,No,90,3,Card purchase,Grocery,Mastercard,Biometric,Yes,Rejected,10,India,Premium,0
+07000921,45,93788,101,3,27,No,No,22,4,ATM,Fuel,RuPay,None,Yes,Rejected,7,International,Premium,0
+07000922,57,72541,131,1,28,No,Yes,65,0,ATM,Fuel,RuPay,PIN,Yes,Pending,68,India,Premium,1
+07000923,69,172727,149,3,34,Yes,Yes,8,3,Transfer,Fuel,Visa,PIN,Yes,Agreed,64,International,Premium,0
+07000924,57,24288,32,3,61,No,No,39,1,Card purchase,Grocery,Mastercard,PIN,No,Pending,34,India,Premium,1
+07000925,45,91797,45,5,52,No,Yes,92,2,Transfer,Fuel,Visa,PIN,No,Rejected,52,India,Premium,1
+07000926,68,103887,42,3,22,No,No,48,1,Card purchase,Dining,RuPay,Biometric,Yes,Rejected,45,International,Premium,0
+07000927,27,36790,82,0,60,Yes,No,12,2,ATM,Grocery,RuPay,PIN,No,Agreed,49,India,Standard,0
+07000928,37,27478,146,0,64,No,No,65,4,Card purchase,Grocery,Mastercard,PIN,No,Rejected,32,International,Standard,0
+07000929,57,26275,43,1,44,No,No,17,4,ATM,Travel,Mastercard,None,Yes,Pending,11,India,Premium,0
+07000930,50,57406,179,3,25,Yes,No,93,3,Transfer,Grocery,RuPay,OTP,No,Agreed,36,India,Standard,1
+07000931,56,80397,128,3,40,Yes,Yes,24,4,Card purchase,Grocery,Mastercard,Biometric,No,Agreed,82,International,Premium,0
+07000932,22,31762,21,0,50,No,No,66,0,ATM,Dining,RuPay,None,Yes,Pending,31,India,Standard,1
+07000933,60,145032,39,3,21,Yes,No,13,3,ATM,Electronics,RuPay,None,Yes,Agreed,44,India,Standard,1
+07000934,30,112649,142,2,33,No,No,65,2,ATM,Fuel,RuPay,PIN,Yes,Agreed,57,International,Premium,0
+07000935,44,57035,55,3,29,Yes,Yes,6,4,Card purchase,Dining,Visa,None,Yes,Rejected,25,International,Premium,1
+07000936,33,99172,64,5,57,Yes,No,37,4,Card purchase,Fuel,RuPay,Biometric,No,Agreed,0,International,Standard,0
+07000937,47,22775,123,1,31,Yes,Yes,25,0,Card purchase,Electronics,Visa,PIN,Yes,Pending,57,International,Premium,1
+07000938,56,163065,30,5,49,Yes,Yes,53,5,Transfer,Grocery,Mastercard,PIN,No,Rejected,11,International,Standard,1
+07000939,38,87916,128,0,31,Yes,No,56,3,Card purchase,Travel,Mastercard,Biometric,Yes,Rejected,59,India,Standard,1
+07000940,47,47128,51,5,65,Yes,No,54,4,Card purchase,Travel,Visa,PIN,No,Agreed,75,India,Standard,1
+07000941,57,8035,111,2,46,No,No,60,2,Card purchase,Grocery,Mastercard,None,No,Rejected,20,India,Standard,1
+07000942,26,177196,20,3,22,No,Yes,79,5,Card purchase,Electronics,Mastercard,Biometric,Yes,Pending,83,India,Premium,1
+07000943,59,14207,138,1,22,No,No,87,1,Card purchase,Grocery,Visa,None,No,Agreed,48,International,Standard,1
+07000944,21,121094,138,5,30,No,No,93,5,Card purchase,Electronics,Visa,PIN,No,Agreed,41,International,Premium,1
+07000945,49,100057,46,5,24,Yes,Yes,26,5,Transfer,Electronics,Mastercard,None,No,Agreed,26,India,Premium,0
+07000946,57,19718,58,4,40,No,No,30,3,ATM,Grocery,Mastercard,None,Yes,Rejected,73,India,Premium,1
+07000947,62,174821,51,1,66,Yes,No,74,0,Transfer,Fuel,RuPay,None,Yes,Pending,78,India,Standard,0
+07000948,38,96220,1,5,56,Yes,Yes,18,1,Transfer,Grocery,Mastercard,OTP,No,Agreed,50,India,Standard,1
+07000949,57,10109,34,0,61,Yes,No,10,2,ATM,Fuel,Visa,Biometric,Yes,Rejected,1,India,Premium,0
+07000950,23,71575,7,5,35,Yes,Yes,58,4,ATM,Fuel,Mastercard,Biometric,No,Rejected,71,International,Premium,0
+07000951,26,22925,168,2,28,No,No,63,0,ATM,Electronics,RuPay,PIN,Yes,Pending,46,International,Premium,1
+07000952,36,20205,92,1,58,No,No,76,3,Transfer,Electronics,Mastercard,None,No,Pending,59,International,Premium,1
+07000953,53,133167,159,4,25,Yes,No,78,0,Transfer,Fuel,Mastercard,Biometric,Yes,Agreed,83,India,Premium,1
+07000954,64,10357,28,1,27,No,No,36,2,Card purchase,Dining,RuPay,None,No,Agreed,18,International,Standard,1
+07000955,37,145657,160,2,53,No,Yes,26,0,Card purchase,Travel,Visa,Biometric,Yes,Pending,37,India,Standard,0
+07000956,36,4394,74,0,40,No,Yes,21,5,Transfer,Travel,Mastercard,PIN,No,Rejected,8,International,Standard,1
+07000957,54,76055,48,2,23,Yes,No,69,2,Card purchase,Fuel,Visa,OTP,No,Agreed,5,International,Premium,0
+07000958,32,137557,143,3,23,Yes,Yes,44,1,Transfer,Electronics,RuPay,OTP,No,Pending,23,International,Premium,1
+07000959,40,141304,74,3,26,No,No,83,4,Card purchase,Fuel,Mastercard,OTP,Yes,Rejected,79,India,Premium,1
+07000960,24,2958,104,4,31,Yes,Yes,5,4,Card purchase,Fuel,Visa,PIN,No,Rejected,48,International,Premium,0
+07000961,49,120229,92,1,54,Yes,No,21,1,ATM,Electronics,Visa,PIN,Yes,Rejected,61,India,Premium,0
+07000962,65,131923,132,5,68,No,Yes,27,1,Transfer,Electronics,Mastercard,Biometric,No,Agreed,57,International,Standard,0
+07000963,58,27357,117,1,25,No,Yes,60,1,Card purchase,Dining,Mastercard,PIN,No,Rejected,50,India,Standard,0
+07000964,27,52811,80,1,69,No,Yes,13,2,Card purchase,Grocery,Mastercard,Biometric,No,Pending,73,International,Premium,1
+07000965,47,81389,22,0,31,Yes,Yes,20,5,Card purchase,Travel,Mastercard,PIN,No,Agreed,35,India,Premium,1
+07000966,52,13254,143,2,36,Yes,No,26,5,Card purchase,Electronics,RuPay,Biometric,Yes,Rejected,17,India,Standard,1
+07000967,38,157320,73,0,50,Yes,No,39,1,Transfer,Grocery,RuPay,Biometric,Yes,Pending,17,International,Premium,0
+07000968,22,66631,125,1,62,No,Yes,79,5,Card purchase,Dining,Mastercard,OTP,No,Agreed,14,International,Standard,0
+07000969,59,77394,106,1,39,No,Yes,73,4,Transfer,Electronics,Visa,PIN,Yes,Agreed,30,India,Standard,1
+07000970,27,154850,131,2,59,Yes,Yes,5,5,Card purchase,Electronics,Visa,Biometric,Yes,Agreed,23,India,Standard,1
+07000971,45,65315,124,0,66,Yes,Yes,6,4,Transfer,Grocery,RuPay,None,No,Agreed,47,International,Standard,0
+07000972,24,109429,45,0,43,Yes,No,61,4,ATM,Dining,Visa,Biometric,Yes,Pending,52,India,Standard,1
+07000973,34,7632,114,3,41,No,No,81,2,ATM,Fuel,RuPay,Biometric,No,Pending,80,International,Standard,1
+07000974,44,15140,35,2,61,Yes,No,26,2,ATM,Grocery,Mastercard,Biometric,No,Pending,52,India,Standard,0
+07000975,40,137270,142,3,33,No,No,87,0,Card purchase,Grocery,RuPay,None,No,Pending,67,International,Standard,0
+07000976,61,9972,32,4,65,Yes,No,85,4,ATM,Travel,Mastercard,Biometric,Yes,Rejected,41,International,Standard,1
+07000977,32,26818,64,4,34,No,No,78,3,Card purchase,Travel,Visa,PIN,Yes,Pending,71,India,Premium,0
+07000978,26,108900,146,3,58,No,No,95,2,Card purchase,Grocery,Visa,Biometric,Yes,Agreed,49,International,Standard,0
+07000979,28,118367,10,3,42,No,No,76,1,Card purchase,Dining,Visa,Biometric,Yes,Rejected,39,India,Premium,0
+07000980,51,116860,161,4,22,Yes,Yes,47,0,ATM,Travel,Visa,None,No,Agreed,71,India,Premium,0
+07000981,65,27510,173,3,47,No,No,53,5,ATM,Fuel,Visa,Biometric,Yes,Rejected,45,International,Standard,1
+07000982,60,46771,11,1,50,No,Yes,46,3,ATM,Fuel,Mastercard,PIN,No,Pending,67,India,Standard,1
+07000983,61,87493,42,3,66,No,No,14,5,Transfer,Travel,RuPay,Biometric,Yes,Rejected,60,India,Premium,1
+07000984,24,145566,58,4,44,Yes,Yes,15,1,Transfer,Dining,RuPay,PIN,No,Rejected,83,International,Premium,0
+07000985,35,118167,128,2,24,Yes,No,34,1,Transfer,Dining,Visa,Biometric,Yes,Rejected,54,India,Standard,0
+07000986,34,138650,94,0,32,No,Yes,76,3,Card purchase,Fuel,RuPay,OTP,No,Pending,82,India,Premium,1
+07000987,62,35692,119,5,45,Yes,Yes,28,0,Transfer,Fuel,Visa,Biometric,No,Agreed,74,India,Standard,0
+07000988,39,24866,3,4,63,Yes,No,26,5,Card purchase,Fuel,Visa,OTP,Yes,Rejected,26,India,Standard,1
+07000989,53,90531,11,1,62,Yes,Yes,84,1,ATM,Grocery,RuPay,Biometric,No,Pending,16,India,Standard,1
+07000990,54,41794,118,3,28,Yes,Yes,68,1,Transfer,Grocery,Mastercard,None,Yes,Pending,14,India,Standard,1
+07000991,38,128134,137,4,67,Yes,No,65,3,Transfer,Electronics,Visa,None,Yes,Agreed,63,International,Premium,0
+07000992,27,86565,88,5,37,Yes,No,68,4,Transfer,Fuel,RuPay,OTP,No,Agreed,12,India,Premium,1
+07000993,54,176603,63,4,25,No,No,60,2,ATM,Dining,Mastercard,PIN,Yes,Pending,50,India,Premium,1
+07000994,39,103806,70,3,35,Yes,No,91,5,Transfer,Dining,RuPay,OTP,Yes,Agreed,28,India,Standard,1
+07000995,55,98363,51,4,29,No,Yes,80,5,Transfer,Electronics,RuPay,Biometric,Yes,Agreed,56,India,Premium,1
+07000996,62,60253,48,0,62,Yes,Yes,82,1,Card purchase,Dining,Visa,None,Yes,Pending,84,International,Premium,1
+07000997,65,39351,135,2,35,Yes,Yes,76,1,ATM,Travel,Visa,OTP,No,Rejected,58,India,Premium,0
+07000998,60,88589,164,1,53,Yes,No,13,3,ATM,Dining,Visa,Biometric,Yes,Agreed,18,India,Standard,1
+07000999,40,136368,83,1,56,No,No,14,0,ATM,Travel,Visa,None,No,Agreed,7,India,Standard,0
+07001000,22,173776,15,4,26,No,Yes,79,5,ATM,Fuel,RuPay,OTP,No,Rejected,76,International,Premium,1
