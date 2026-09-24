@@ -1,0 +1,2501 @@
+age,annual_income_inr,account_balance_inr,tenure_years,credit_score,credit_utilization,missed_payments_12m,existing_loans,monthly_transactions,employment_type,account_type,region,risk_category
+52,61730,124078,13,850,0.28,3,2,54,Self-employed,Savings,North,Moderate Risk
+66,28467,671442,7,606,0.69,0,1,9,Self-employed,Savings,North,High Risk
+60,105697,515440,9,631,0.38,2,1,35,Self-employed,Salary,East,Moderate Risk
+57,38062,743186,7,838,0.74,0,3,37,Self-employed,Savings,South,Very Low Risk
+54,72353,77231,6,510,0.38,1,1,11,Business owner,Salary,North,Very High Risk
+27,34615,107709,12,594,0.6,3,1,11,Salaried,Current,North,Very High Risk
+33,68063,983645,19,667,0.61,4,2,24,Salaried,Savings,West,Low Risk
+60,157422,806730,10,696,0.22,0,0,32,Business owner,Savings,South,Very Low Risk
+37,114438,256274,3,740,0.88,1,0,12,Salaried,Current,East,Low Risk
+61,151821,905445,12,833,0.61,2,0,5,Self-employed,Savings,North,Very Low Risk
+29,87258,435564,6,683,0.8,1,0,38,Salaried,Salary,East,Low Risk
+37,132023,164702,5,809,0.59,2,3,19,Business owner,Current,West,Low Risk
+67,104223,823807,20,474,0.13,2,0,24,Self-employed,Current,South,Low Risk
+45,65253,926046,10,778,0.56,0,3,46,Self-employed,Salary,North,Very Low Risk
+61,61456,661127,0,782,0.07,2,1,5,Business owner,Savings,East,Low Risk
+49,86743,132107,17,809,0.75,3,4,33,Business owner,Current,East,Moderate Risk
+24,151216,260840,6,588,0.44,0,2,3,Salaried,Savings,East,Moderate Risk
+37,96919,113030,9,498,0.12,3,1,9,Salaried,Current,West,Very High Risk
+45,62401,352347,17,482,0.57,1,3,13,Business owner,Savings,West,Very High Risk
+50,87336,697255,10,520,0.55,3,3,8,Business owner,Current,North,Very High Risk
+68,58034,872571,12,492,0.21,0,4,26,Business owner,Current,South,High Risk
+56,79296,408661,10,843,0.78,1,1,54,Business owner,Savings,South,Very Low Risk
+37,101590,875749,13,570,0.61,1,1,23,Salaried,Salary,North,Low Risk
+62,159021,220246,14,809,0.69,2,4,18,Business owner,Salary,East,Very Low Risk
+41,139157,322590,2,641,0.4,3,1,22,Self-employed,Savings,West,High Risk
+37,77657,202495,10,795,0.72,0,0,42,Salaried,Salary,South,Moderate Risk
+22,115653,211574,8,487,0.14,3,0,51,Salaried,Salary,South,Very High Risk
+41,39024,915134,10,591,0.76,3,2,50,Salaried,Current,East,High Risk
+31,96054,292643,8,651,0.84,4,1,45,Self-employed,Salary,West,Very High Risk
+49,36791,877232,13,512,0.37,3,0,5,Salaried,Salary,East,High Risk
+53,98450,947224,19,480,0.18,0,1,28,Self-employed,Current,South,Very Low Risk
+67,43141,485560,10,713,0.86,0,1,53,Self-employed,Savings,South,Moderate Risk
+45,148384,453926,6,548,0.64,1,1,35,Business owner,Savings,North,High Risk
+65,79880,590849,4,487,0.36,2,1,27,Self-employed,Savings,West,Very High Risk
+65,121998,692037,12,730,0.85,3,1,34,Salaried,Current,East,Low Risk
+23,118954,683110,16,482,0.41,0,2,40,Business owner,Salary,South,Low Risk
+58,82345,257527,0,833,0.48,2,1,49,Business owner,Salary,South,Low Risk
+57,26892,466945,16,512,0.37,3,3,27,Business owner,Salary,North,Very High Risk
+55,90611,244541,6,806,0.52,2,2,36,Business owner,Salary,East,Low Risk
+28,138884,111127,18,768,0.66,1,3,7,Salaried,Current,North,Low Risk
+39,125344,452900,12,793,0.73,0,3,5,Business owner,Current,South,Very Low Risk
+34,122486,167710,18,497,0.28,0,3,30,Self-employed,Savings,South,High Risk
+65,70686,652892,8,703,0.6,3,4,30,Salaried,Salary,West,High Risk
+49,158083,85675,9,557,0.24,1,1,7,Salaried,Current,North,Moderate Risk
+53,55939,212427,3,502,0.41,3,1,37,Salaried,Savings,West,Very High Risk
+58,111999,289135,1,526,0.74,2,4,23,Business owner,Salary,West,Very High Risk
+53,44160,580445,11,488,0.11,0,4,48,Self-employed,Salary,West,Very High Risk
+29,97891,541754,2,522,0.58,4,1,23,Self-employed,Salary,North,Very High Risk
+26,70447,44458,12,484,0.68,1,1,25,Self-employed,Current,South,Very High Risk
+65,124879,194019,5,496,0.33,0,0,51,Business owner,Salary,West,High Risk
+47,87678,118056,14,535,0.64,4,2,41,Business owner,Savings,South,Very High Risk
+37,90486,933702,6,549,0.8,2,2,5,Salaried,Current,South,High Risk
+27,129425,521116,12,787,0.36,4,1,38,Salaried,Current,North,Very Low Risk
+61,105147,565033,0,825,0.92,2,4,36,Business owner,Current,West,Moderate Risk
+28,26530,710055,3,636,0.16,2,4,46,Salaried,Current,North,High Risk
+64,74475,260345,4,838,0.66,0,1,29,Business owner,Salary,East,Low Risk
+62,51737,496795,10,787,0.36,1,1,48,Business owner,Salary,East,Low Risk
+31,118215,392818,14,691,0.64,1,4,36,Self-employed,Savings,South,Low Risk
+41,118194,2472,4,659,0.73,4,1,45,Business owner,Current,East,Very High Risk
+28,142069,233632,11,832,0.68,2,3,47,Salaried,Salary,West,Very Low Risk
+48,116907,896151,8,799,0.33,0,1,4,Salaried,Salary,East,Very Low Risk
+63,37002,25882,7,561,0.7,0,4,22,Business owner,Savings,South,Very High Risk
+47,95250,450715,13,781,0.76,3,1,53,Salaried,Current,North,Low Risk
+28,113284,424461,13,810,0.15,1,4,29,Salaried,Salary,West,Very Low Risk
+51,46954,895793,14,603,0.76,3,4,40,Business owner,Salary,North,High Risk
+58,35051,563157,4,510,0.81,4,0,23,Business owner,Current,West,Very High Risk
+58,137164,119010,16,533,0.6,1,4,39,Self-employed,Current,West,Very High Risk
+68,142359,126340,1,513,0.47,1,0,14,Salaried,Salary,South,High Risk
+64,34383,548457,7,730,0.73,3,4,35,Self-employed,Current,South,Very High Risk
+24,72390,139596,6,540,0.56,2,3,48,Business owner,Salary,West,Very High Risk
+35,154705,949554,13,570,0.14,2,0,18,Business owner,Salary,North,Very Low Risk
+48,134358,842819,6,838,0.11,3,1,39,Business owner,Current,East,Very Low Risk
+28,97237,92653,15,759,0.32,0,4,19,Self-employed,Salary,South,Very Low Risk
+37,146881,673109,0,752,0.86,3,2,12,Business owner,Current,South,Moderate Risk
+61,142524,877828,17,759,0.11,1,4,8,Salaried,Savings,West,Very Low Risk
+55,97197,299109,15,564,0.14,0,0,52,Salaried,Savings,West,Low Risk
+55,74198,452515,15,482,0.56,2,0,11,Business owner,Salary,East,High Risk
+63,97955,904062,8,562,0.36,0,3,31,Self-employed,Current,West,Low Risk
+36,87945,901383,17,566,0.11,1,1,45,Business owner,Current,East,Very Low Risk
+36,118373,197495,18,758,0.28,1,1,39,Self-employed,Salary,South,Very Low Risk
+67,67559,517887,16,755,0.26,2,0,7,Salaried,Current,North,Very Low Risk
+36,124646,535943,5,524,0.91,2,3,44,Salaried,Savings,East,High Risk
+55,75310,612953,7,602,0.15,0,4,16,Salaried,Savings,South,Low Risk
+33,62560,611504,19,677,0.33,2,2,18,Salaried,Current,North,Low Risk
+38,99263,342459,8,535,0.8,2,4,11,Self-employed,Salary,South,Very High Risk
+61,125773,335214,0,477,0.09,2,2,7,Self-employed,Current,North,Very High Risk
+66,134718,674316,0,557,0.51,0,4,54,Salaried,Salary,East,Moderate Risk
+57,88523,75720,19,775,0.91,0,0,20,Salaried,Savings,West,Very Low Risk
+55,154567,579575,17,500,0.08,0,1,17,Self-employed,Salary,South,Low Risk
+62,90771,17486,12,577,0.1,1,3,16,Salaried,Current,North,Moderate Risk
+28,158459,596379,13,479,0.91,1,0,37,Salaried,Current,South,Moderate Risk
+47,79470,809501,19,632,0.26,0,3,42,Business owner,Salary,West,Very Low Risk
+39,49124,799457,16,731,0.84,0,4,41,Self-employed,Salary,East,Very Low Risk
+63,75575,372873,7,472,0.23,0,3,38,Salaried,Current,West,High Risk
+30,52476,991443,10,485,0.83,3,0,46,Salaried,Current,South,Very High Risk
+27,112463,576601,3,499,0.92,1,0,32,Self-employed,Savings,West,High Risk
+68,82607,832631,0,691,0.41,2,0,13,Self-employed,Salary,South,Low Risk
+63,86298,384876,6,513,0.7,3,0,53,Business owner,Savings,East,Very High Risk
+29,134274,942932,10,801,0.17,1,0,23,Business owner,Salary,North,Very Low Risk
+38,137483,590927,12,501,0.65,2,3,42,Business owner,Salary,South,High Risk
+28,112248,203038,19,815,0.13,0,3,8,Salaried,Current,North,Very Low Risk
+40,44410,823877,16,571,0.76,3,3,45,Business owner,Savings,South,High Risk
+22,71206,182537,18,533,0.54,3,1,29,Business owner,Salary,East,Very High Risk
+60,46514,791901,18,718,0.88,2,4,35,Salaried,Current,East,Moderate Risk
+54,41449,915193,6,582,0.14,1,3,49,Self-employed,Salary,West,High Risk
+55,149789,944574,3,769,0.68,3,2,33,Self-employed,Salary,West,Very Low Risk
+64,58401,931964,17,734,0.5,0,3,54,Business owner,Salary,East,Very Low Risk
+23,95992,397439,5,647,0.47,1,1,3,Self-employed,Current,North,Moderate Risk
+33,87370,11135,6,787,0.65,4,3,31,Business owner,Current,East,High Risk
+33,116285,388295,14,544,0.64,3,2,10,Salaried,Salary,West,Very High Risk
+27,107588,964485,3,817,0.33,4,0,49,Self-employed,Salary,West,Very Low Risk
+65,125288,445148,9,632,0.09,3,3,37,Business owner,Salary,East,Moderate Risk
+45,35044,846014,2,658,0.37,2,2,6,Salaried,Salary,West,Moderate Risk
+26,158031,521096,12,641,0.08,3,3,24,Business owner,Savings,East,Very Low Risk
+51,131190,305415,6,502,0.78,4,2,4,Salaried,Salary,West,Very High Risk
+55,80111,317811,1,818,0.39,0,4,39,Business owner,Current,East,Very Low Risk
+21,84054,710356,14,593,0.51,1,2,8,Self-employed,Current,West,Moderate Risk
+34,38034,578238,2,566,0.07,0,4,29,Business owner,Salary,East,Moderate Risk
+29,59378,659556,6,518,0.38,0,0,10,Business owner,Salary,West,Moderate Risk
+39,149575,943964,14,569,0.39,0,3,9,Salaried,Savings,West,Very Low Risk
+34,23602,395717,10,821,0.18,4,3,33,Self-employed,Savings,North,High Risk
+60,155173,719288,19,709,0.32,1,4,36,Salaried,Salary,North,Very Low Risk
+27,50926,204562,12,636,0.1,0,0,27,Self-employed,Salary,East,Low Risk
+59,111500,786465,12,626,0.71,1,4,40,Business owner,Salary,West,Low Risk
+29,137034,723504,2,734,0.29,0,2,31,Self-employed,Salary,South,Very Low Risk
+23,121639,178823,3,813,0.34,1,2,20,Salaried,Savings,East,Low Risk
+25,71785,389640,10,647,0.24,3,0,27,Salaried,Savings,East,Low Risk
+63,58722,24125,13,714,0.56,0,4,13,Salaried,Salary,West,High Risk
+21,52317,726367,7,739,0.24,0,2,21,Business owner,Savings,West,Very Low Risk
+22,106375,688849,19,492,0.56,0,4,5,Business owner,Savings,East,Moderate Risk
+57,72683,52057,6,609,0.47,1,0,20,Business owner,Salary,South,High Risk
+50,99221,276286,13,553,0.42,4,3,6,Business owner,Current,West,Very High Risk
+25,26488,393243,17,838,0.76,3,3,42,Business owner,Salary,East,Moderate Risk
+47,39344,994516,11,550,0.17,2,3,27,Business owner,Current,East,Moderate Risk
+61,73589,847143,4,650,0.63,0,4,27,Business owner,Current,South,Moderate Risk
+25,85311,820178,2,501,0.72,0,1,19,Salaried,Savings,South,High Risk
+63,61051,581198,15,750,0.09,4,0,49,Self-employed,Savings,South,Low Risk
+67,99829,841631,13,701,0.84,1,1,31,Self-employed,Salary,North,Very Low Risk
+58,53982,410364,16,794,0.09,3,3,50,Salaried,Current,North,Low Risk
+51,149662,208413,14,777,0.37,1,3,19,Business owner,Savings,West,Very Low Risk
+52,48549,489818,13,770,0.84,0,4,51,Business owner,Current,North,Very Low Risk
+66,84435,940318,15,521,0.62,2,3,39,Salaried,Salary,West,Moderate Risk
+60,52561,430262,12,720,0.1,3,0,54,Salaried,Savings,North,Low Risk
+54,36426,604740,12,693,0.76,3,1,50,Salaried,Salary,North,High Risk
+59,44461,141552,13,697,0.4,2,3,20,Self-employed,Savings,East,High Risk
+52,100781,290573,18,702,0.81,0,3,40,Salaried,Savings,North,Low Risk
+49,119368,992317,0,483,0.48,3,4,51,Self-employed,Savings,West,High Risk
+27,106562,298885,6,504,0.47,0,2,21,Business owner,Savings,South,High Risk
+65,24639,585535,17,638,0.37,2,2,45,Salaried,Salary,North,High Risk
+40,156901,119362,6,710,0.36,3,0,39,Business owner,Current,North,Moderate Risk
+56,154731,294047,8,764,0.62,4,2,29,Self-employed,Salary,South,Moderate Risk
+48,63596,667617,19,503,0.18,0,1,32,Salaried,Savings,North,Low Risk
+50,96840,641703,4,525,0.49,2,2,15,Self-employed,Current,East,Very High Risk
+24,98439,568068,14,654,0.1,4,4,25,Business owner,Salary,North,Moderate Risk
+27,138237,610277,12,688,0.75,4,4,30,Business owner,Savings,North,Moderate Risk
+27,37667,523860,17,512,0.29,0,2,30,Business owner,Current,South,High Risk
+47,72094,822896,11,714,0.46,2,1,35,Business owner,Current,West,Low Risk
+52,90044,979303,8,646,0.31,0,3,27,Business owner,Savings,East,Very Low Risk
+54,41067,372901,10,478,0.8,0,2,52,Business owner,Salary,East,Very High Risk
+49,144150,794757,14,531,0.61,1,0,28,Business owner,Current,East,Moderate Risk
+26,128514,368070,4,748,0.63,0,3,15,Self-employed,Current,South,Low Risk
+43,42437,876480,0,747,0.79,3,2,19,Salaried,Current,East,High Risk
+52,108419,684646,6,475,0.83,4,4,32,Salaried,Savings,North,Very High Risk
+62,81323,273029,20,479,0.35,2,3,31,Business owner,Salary,South,Very High Risk
+45,49424,432539,11,796,0.14,2,1,39,Business owner,Savings,North,Very Low Risk
+45,30616,757686,13,587,0.29,4,4,43,Business owner,Salary,West,High Risk
+68,97768,435067,4,674,0.89,3,2,18,Salaried,Salary,North,Very High Risk
+55,62567,245743,15,639,0.52,4,2,15,Self-employed,Current,East,Very High Risk
+41,56293,394956,12,607,0.56,0,4,30,Salaried,Savings,West,High Risk
+29,102389,425623,12,560,0.64,4,3,22,Salaried,Salary,South,Very High Risk
+29,63624,61728,7,558,0.91,2,2,51,Salaried,Current,East,Very High Risk
+57,64366,122143,3,580,0.33,4,1,53,Salaried,Salary,South,Very High Risk
+27,153657,268137,18,818,0.46,3,2,42,Self-employed,Savings,South,Very Low Risk
+67,158514,106894,0,706,0.3,2,1,14,Self-employed,Savings,South,High Risk
+24,32495,1926,4,580,0.65,3,0,50,Self-employed,Savings,East,Very High Risk
+51,43958,773881,20,684,0.83,0,3,48,Business owner,Current,East,Low Risk
+33,89886,498244,17,508,0.72,3,3,35,Salaried,Savings,West,High Risk
+42,104292,391171,16,797,0.61,3,2,38,Business owner,Current,South,Very Low Risk
+40,134873,736449,0,584,0.15,4,3,48,Salaried,Current,South,High Risk
+55,136850,318634,20,773,0.38,4,0,15,Business owner,Salary,West,Very Low Risk
+39,37853,320739,10,549,0.88,2,0,40,Salaried,Savings,North,Very High Risk
+24,150332,624510,19,502,0.39,3,1,3,Business owner,Salary,South,Low Risk
+54,130373,125803,0,795,0.16,2,4,45,Salaried,Salary,South,Low Risk
+60,86347,888532,7,822,0.9,0,0,17,Business owner,Current,East,Very Low Risk
+35,78688,290837,13,525,0.2,2,2,17,Self-employed,Current,North,High Risk
+44,30268,943630,3,576,0.54,1,4,48,Self-employed,Savings,North,High Risk
+58,112084,697288,12,486,0.69,3,4,9,Self-employed,Salary,East,Very High Risk
+38,36464,483277,12,781,0.4,2,3,19,Salaried,Current,North,Moderate Risk
+51,57982,745693,15,666,0.1,0,4,46,Salaried,Current,South,Low Risk
+45,156318,790763,20,601,0.7,0,1,3,Business owner,Salary,West,Very Low Risk
+39,34142,276426,5,539,0.26,0,0,40,Self-employed,Salary,South,Very High Risk
+31,112684,930556,3,659,0.37,0,1,44,Business owner,Current,North,Very Low Risk
+42,95793,402520,16,476,0.49,0,1,38,Business owner,Current,East,Moderate Risk
+32,132204,769182,14,544,0.47,2,2,26,Self-employed,Salary,East,Low Risk
+63,108688,761027,11,562,0.05,1,3,31,Salaried,Salary,West,Low Risk
+58,46875,722860,5,509,0.57,1,0,8,Self-employed,Current,East,Very High Risk
+52,153777,999242,8,797,0.56,2,1,54,Salaried,Savings,North,Very Low Risk
+41,126778,305331,7,478,0.14,0,4,46,Salaried,Savings,East,High Risk
+34,111298,852706,3,478,0.87,2,3,14,Salaried,Current,South,Very High Risk
+60,122793,476993,13,751,0.33,1,0,37,Salaried,Salary,West,Very Low Risk
+53,129592,235107,15,794,0.3,2,0,47,Self-employed,Savings,East,Very Low Risk
+68,36524,522263,4,546,0.26,1,2,51,Salaried,Current,East,High Risk
+57,96457,962053,18,471,0.47,1,0,16,Salaried,Savings,North,Moderate Risk
+56,95174,839446,4,742,0.52,1,2,38,Self-employed,Current,South,Very Low Risk
+62,68214,155891,17,594,0.53,1,0,36,Business owner,Current,South,Moderate Risk
+29,91138,7807,20,497,0.09,0,3,53,Salaried,Current,West,Moderate Risk
+53,34907,403999,19,801,0.15,0,3,15,Self-employed,Current,South,Very Low Risk
+61,111769,702639,18,829,0.36,2,3,36,Business owner,Savings,North,Very Low Risk
+38,47682,69321,18,706,0.9,1,0,18,Business owner,Salary,North,High Risk
+42,96576,294051,8,789,0.64,0,3,31,Self-employed,Current,West,Low Risk
+23,71951,3109,19,719,0.82,1,0,19,Business owner,Current,South,Low Risk
+57,84461,189543,7,827,0.57,3,0,49,Self-employed,Current,East,Moderate Risk
+33,96130,26346,1,553,0.41,4,1,13,Self-employed,Salary,South,Very High Risk
+27,123397,885533,8,481,0.54,2,0,36,Salaried,Salary,South,Moderate Risk
+60,132710,971420,20,638,0.07,1,1,25,Self-employed,Savings,South,Very Low Risk
+33,71742,972510,15,800,0.3,1,3,44,Business owner,Salary,South,Very Low Risk
+45,78337,616492,17,553,0.37,3,0,26,Salaried,Savings,South,High Risk
+52,81273,499074,20,562,0.25,4,4,37,Salaried,Savings,East,High Risk
+36,131495,385593,8,793,0.73,1,0,7,Salaried,Current,South,Very Low Risk
+51,66836,708193,14,667,0.07,2,4,20,Business owner,Current,West,Low Risk
+32,114838,707604,13,785,0.28,2,3,9,Business owner,Savings,South,Very Low Risk
+25,95091,86957,3,561,0.37,4,2,18,Business owner,Savings,West,Very High Risk
+45,90689,285649,20,689,0.37,0,3,16,Self-employed,Savings,West,Low Risk
+58,42582,236846,8,792,0.82,3,0,25,Business owner,Savings,North,Very High Risk
+67,81443,211264,7,694,0.82,4,0,19,Salaried,Salary,North,High Risk
+66,56625,195514,16,576,0.81,4,2,46,Salaried,Savings,South,Very High Risk
+28,34780,872075,16,799,0.78,3,1,26,Business owner,Current,East,Low Risk
+41,60615,653250,8,512,0.37,2,3,36,Salaried,Savings,North,High Risk
+68,45166,560464,18,683,0.14,4,1,30,Business owner,Savings,West,High Risk
+42,46106,607305,17,776,0.59,1,2,16,Business owner,Salary,South,Low Risk
+22,123460,128361,1,552,0.83,2,1,32,Business owner,Current,South,Very High Risk
+48,149258,844680,15,800,0.3,4,0,19,Business owner,Current,West,Very Low Risk
+51,113169,102816,1,805,0.45,3,4,23,Salaried,Salary,West,Moderate Risk
+34,116952,574267,11,804,0.28,4,1,20,Self-employed,Current,East,Very Low Risk
+35,33440,202594,16,640,0.19,2,0,32,Self-employed,Salary,West,High Risk
+40,124964,631545,19,742,0.08,2,2,44,Business owner,Current,East,Very Low Risk
+39,156435,349836,1,631,0.69,2,4,41,Salaried,Savings,West,High Risk
+56,108658,708073,18,513,0.83,2,1,8,Salaried,Current,North,High Risk
+39,154534,329571,18,779,0.4,1,3,26,Salaried,Savings,East,Very Low Risk
+30,107671,570696,16,620,0.11,2,0,50,Business owner,Savings,South,Low Risk
+48,77491,881875,4,494,0.35,3,0,45,Salaried,Savings,South,Moderate Risk
+38,114996,783606,3,637,0.56,2,1,31,Business owner,Current,West,Moderate Risk
+54,116752,657056,15,839,0.7,0,1,53,Business owner,Salary,South,Very Low Risk
+66,101751,278475,5,722,0.51,1,0,17,Self-employed,Current,West,Moderate Risk
+41,51567,422702,10,551,0.78,4,1,20,Salaried,Savings,West,Very High Risk
+68,130387,955536,8,708,0.17,2,0,51,Business owner,Savings,East,Very Low Risk
+58,47113,981396,6,564,0.9,1,0,48,Self-employed,Current,West,High Risk
+28,113045,737478,20,712,0.19,4,1,24,Self-employed,Savings,North,Very Low Risk
+29,148880,378164,6,601,0.26,4,3,35,Salaried,Savings,North,High Risk
+66,158432,885636,2,569,0.39,0,0,12,Salaried,Salary,North,Very Low Risk
+65,24761,973978,2,707,0.83,2,3,14,Salaried,Savings,North,Moderate Risk
+26,73177,202755,13,551,0.63,4,3,18,Salaried,Savings,North,Very High Risk
+45,139731,969365,7,585,0.28,2,2,26,Salaried,Current,East,Low Risk
+42,67704,38205,1,601,0.57,2,3,29,Business owner,Savings,North,Very High Risk
+39,45878,248079,0,524,0.83,4,0,25,Self-employed,Current,West,Very High Risk
+31,58484,600735,8,643,0.25,3,4,13,Salaried,Savings,West,High Risk
+52,156494,104568,11,744,0.88,3,1,18,Salaried,Salary,North,Low Risk
+29,105274,754637,18,700,0.2,1,0,36,Self-employed,Current,East,Very Low Risk
+56,30582,219065,19,726,0.08,3,0,50,Salaried,Current,South,Moderate Risk
+48,41892,202990,2,773,0.79,0,1,12,Salaried,Salary,North,Moderate Risk
+37,126687,391091,4,641,0.12,2,2,19,Business owner,Salary,South,Moderate Risk
+35,131566,29182,18,710,0.44,4,1,36,Business owner,Current,South,High Risk
+64,29701,955159,14,812,0.1,1,2,29,Salaried,Savings,East,Very Low Risk
+53,153842,758840,19,793,0.36,3,3,50,Business owner,Current,North,Very Low Risk
+27,101383,749404,15,840,0.61,2,2,22,Self-employed,Savings,South,Very Low Risk
+30,28223,997068,20,634,0.84,0,2,5,Salaried,Savings,West,Low Risk
+49,105493,20841,4,540,0.22,4,3,30,Self-employed,Current,North,Very High Risk
+55,102687,401229,17,804,0.74,0,4,54,Self-employed,Salary,South,Very Low Risk
+25,129617,200207,7,555,0.29,3,2,17,Salaried,Current,North,High Risk
+62,115455,807950,17,562,0.34,2,2,45,Business owner,Current,East,Low Risk
+44,56466,338471,17,718,0.54,2,1,50,Self-employed,Savings,East,Moderate Risk
+46,27935,65003,6,500,0.37,0,3,25,Business owner,Savings,South,Very High Risk
+22,85009,190490,1,828,0.15,2,1,20,Self-employed,Savings,South,Moderate Risk
+51,35734,201857,15,736,0.51,4,0,24,Business owner,Salary,North,High Risk
+28,79874,672288,15,470,0.34,0,3,7,Salaried,Savings,North,High Risk
+58,25513,820391,2,591,0.12,0,2,54,Self-employed,Savings,South,Very Low Risk
+34,124875,282335,5,757,0.62,0,0,43,Self-employed,Salary,West,Low Risk
+60,70022,875525,20,481,0.76,4,4,12,Business owner,Savings,West,Very High Risk
+66,111978,88871,14,479,0.53,0,3,8,Business owner,Current,East,High Risk
+34,128270,471686,12,819,0.59,3,0,46,Self-employed,Savings,North,Very Low Risk
+31,154805,580476,15,808,0.35,4,1,54,Self-employed,Current,South,Very Low Risk
+58,116442,140542,16,730,0.58,0,3,34,Business owner,Current,South,Very Low Risk
+26,24198,679401,1,593,0.36,3,3,27,Business owner,Savings,North,Very High Risk
+40,85406,923751,3,724,0.33,4,4,18,Self-employed,Salary,West,Low Risk
+27,117217,783112,15,743,0.25,4,3,17,Self-employed,Current,East,Low Risk
+49,47381,958719,6,830,0.27,0,0,33,Business owner,Current,North,Very Low Risk
+23,135146,245476,0,730,0.73,2,2,6,Salaried,Salary,North,Moderate Risk
+61,70935,39166,19,658,0.15,1,2,45,Business owner,Salary,North,Moderate Risk
+60,112953,361164,14,807,0.64,0,2,44,Business owner,Savings,West,Very Low Risk
+57,79717,358996,18,648,0.18,4,4,28,Salaried,Salary,South,Moderate Risk
+55,58233,741789,12,846,0.67,1,0,45,Self-employed,Current,East,Very Low Risk
+33,72223,693115,6,556,0.74,3,1,27,Self-employed,Salary,South,High Risk
+36,47218,706378,10,601,0.44,2,4,25,Self-employed,Current,West,Moderate Risk
+36,120171,793362,5,837,0.3,4,1,51,Salaried,Current,South,Very Low Risk
+41,111759,562406,14,841,0.23,2,4,46,Self-employed,Savings,East,Very Low Risk
+25,23465,575221,18,842,0.62,1,1,54,Self-employed,Savings,East,Very Low Risk
+59,56221,430485,7,724,0.62,2,4,16,Self-employed,Savings,North,High Risk
+33,35622,526633,5,506,0.7,3,0,16,Salaried,Savings,West,Very High Risk
+29,24312,156475,14,651,0.1,4,1,44,Business owner,Savings,East,Very High Risk
+62,29923,179809,17,749,0.26,4,0,28,Salaried,Savings,East,High Risk
+37,92608,828989,4,815,0.74,2,4,53,Business owner,Salary,South,Low Risk
+59,99920,367124,15,475,0.63,2,0,25,Business owner,Current,West,High Risk
+47,134318,796687,6,760,0.38,3,3,6,Self-employed,Salary,West,Very Low Risk
+52,132997,147648,20,572,0.82,2,2,49,Business owner,Current,North,Moderate Risk
+48,91185,382991,8,724,0.6,4,2,9,Self-employed,Current,East,High Risk
+63,50028,715066,16,755,0.55,2,1,6,Salaried,Savings,East,Low Risk
+48,118830,317679,7,510,0.84,0,1,22,Business owner,Savings,West,High Risk
+60,129266,636560,19,652,0.55,2,4,8,Business owner,Savings,South,Low Risk
+61,28534,417052,11,801,0.23,3,4,9,Salaried,Salary,North,High Risk
+35,66882,741299,9,581,0.33,1,0,4,Salaried,Savings,East,Low Risk
+30,69151,684238,5,578,0.75,0,2,53,Self-employed,Savings,South,Moderate Risk
+27,43555,213566,2,730,0.18,4,4,32,Business owner,Savings,East,Very High Risk
+66,155368,941513,10,654,0.15,0,1,7,Salaried,Salary,South,Very Low Risk
+60,72511,840332,0,559,0.79,4,1,18,Self-employed,Savings,North,Very High Risk
+34,155079,573352,19,471,0.45,2,1,11,Business owner,Savings,East,Low Risk
+22,124911,255029,17,572,0.53,3,2,20,Salaried,Salary,North,Moderate Risk
+42,34161,245008,18,589,0.55,3,3,21,Salaried,Salary,West,Very High Risk
+35,87043,49184,0,539,0.1,4,4,12,Self-employed,Salary,South,Very High Risk
+26,43506,638307,5,572,0.73,4,4,28,Salaried,Salary,North,Very High Risk
+36,88451,996732,19,636,0.48,1,3,26,Self-employed,Salary,East,Very Low Risk
+68,41697,263407,18,537,0.38,1,2,29,Self-employed,Salary,North,Very High Risk
+32,159462,330901,15,776,0.65,1,2,5,Self-employed,Current,West,Very Low Risk
+59,135376,468088,16,751,0.61,3,2,7,Salaried,Salary,West,Low Risk
+30,114587,656251,10,514,0.4,2,2,25,Business owner,Savings,West,Moderate Risk
+34,32150,873051,9,755,0.77,4,3,5,Self-employed,Savings,North,High Risk
+59,67670,386599,11,522,0.83,2,0,32,Business owner,Salary,North,Very High Risk
+47,37552,984751,7,637,0.64,0,1,10,Business owner,Current,East,Low Risk
+48,156280,978760,9,815,0.37,2,2,20,Salaried,Current,South,Very Low Risk
+41,105224,598802,2,660,0.52,1,2,17,Business owner,Current,West,Low Risk
+61,39322,589609,3,603,0.86,3,0,43,Business owner,Savings,North,Very High Risk
+40,90887,223687,12,495,0.15,3,2,16,Self-employed,Salary,North,Very High Risk
+39,132988,628875,16,541,0.84,2,4,45,Salaried,Salary,East,Moderate Risk
+57,59851,46055,13,753,0.5,4,3,27,Business owner,Savings,North,Very High Risk
+49,34022,913104,14,710,0.78,3,1,48,Self-employed,Salary,South,Low Risk
+43,79159,587774,3,509,0.8,1,4,7,Self-employed,Savings,North,Very High Risk
+39,42970,447729,13,681,0.63,3,0,53,Self-employed,Current,West,Moderate Risk
+61,98350,334089,6,521,0.47,4,2,49,Self-employed,Savings,East,Very High Risk
+41,142397,152451,5,690,0.32,3,3,41,Business owner,Salary,North,Moderate Risk
+41,108527,328160,9,786,0.65,4,1,8,Business owner,Salary,West,High Risk
+57,93917,523538,16,752,0.28,0,1,39,Business owner,Salary,South,Very Low Risk
+66,127818,263060,7,704,0.6,4,0,20,Salaried,Salary,West,Moderate Risk
+50,159850,956807,8,667,0.69,4,4,10,Self-employed,Savings,North,Low Risk
+66,124957,482389,10,798,0.52,2,2,27,Salaried,Salary,East,Low Risk
+31,53832,491613,18,509,0.55,3,0,32,Self-employed,Current,South,High Risk
+25,57073,957024,1,592,0.57,0,3,16,Business owner,Salary,East,High Risk
+53,146883,817221,14,491,0.12,4,4,14,Salaried,Salary,North,High Risk
+31,49741,553046,18,809,0.23,3,4,19,Self-employed,Salary,West,Low Risk
+60,128906,448993,7,495,0.46,3,1,23,Self-employed,Savings,West,Very High Risk
+23,116284,503698,0,740,0.08,1,4,33,Self-employed,Savings,South,Low Risk
+44,52289,24017,2,698,0.57,3,1,7,Self-employed,Current,West,Very High Risk
+28,99530,682753,4,791,0.07,3,1,5,Business owner,Savings,West,Very Low Risk
+67,155001,670169,19,627,0.9,4,0,21,Self-employed,Salary,West,Moderate Risk
+36,62974,955698,3,667,0.24,3,1,12,Salaried,Salary,South,Moderate Risk
+61,118067,980218,0,511,0.25,0,3,53,Self-employed,Savings,East,Low Risk
+64,158133,980668,3,681,0.46,3,4,8,Salaried,Savings,West,Low Risk
+32,94428,465303,11,601,0.65,1,4,30,Salaried,Salary,South,High Risk
+59,139077,245315,10,527,0.53,2,3,27,Salaried,Savings,South,High Risk
+57,55861,746378,4,498,0.13,1,0,53,Business owner,Savings,East,High Risk
+30,81644,313216,18,674,0.64,2,0,39,Self-employed,Current,East,Low Risk
+52,51236,109770,8,777,0.66,3,3,46,Self-employed,Savings,East,High Risk
+43,67023,193684,12,826,0.72,2,4,40,Salaried,Current,South,Moderate Risk
+53,43571,568857,20,558,0.45,2,1,47,Salaried,Savings,South,Moderate Risk
+32,137258,688775,18,602,0.12,0,2,33,Self-employed,Savings,West,Very Low Risk
+32,108661,765383,14,764,0.46,3,3,53,Salaried,Salary,West,Very Low Risk
+41,44503,617432,6,757,0.79,4,3,28,Self-employed,Current,South,High Risk
+25,82465,503028,0,619,0.21,1,2,30,Business owner,Savings,East,High Risk
+49,93010,408304,0,683,0.25,0,1,47,Self-employed,Current,East,Low Risk
+29,121912,329791,4,481,0.76,4,4,53,Self-employed,Current,East,Very High Risk
+21,77718,545410,13,619,0.25,4,2,5,Business owner,Salary,East,Moderate Risk
+64,150482,141802,19,525,0.54,3,1,34,Salaried,Savings,North,Very High Risk
+23,93107,737113,17,691,0.24,1,0,48,Self-employed,Current,North,Very Low Risk
+47,70235,326444,13,585,0.4,4,2,29,Business owner,Current,East,High Risk
+65,79327,211993,19,623,0.48,0,3,32,Self-employed,Salary,West,Low Risk
+47,122611,958015,1,734,0.3,0,4,33,Salaried,Salary,East,Low Risk
+45,47369,191748,15,573,0.76,0,1,22,Business owner,Savings,South,High Risk
+67,37400,423411,3,819,0.82,0,2,28,Self-employed,Savings,East,Moderate Risk
+34,135741,150256,8,719,0.71,4,2,9,Business owner,Salary,North,High Risk
+45,90305,485395,4,617,0.36,1,1,28,Self-employed,Salary,East,Moderate Risk
+50,53794,207714,13,777,0.76,4,4,22,Salaried,Current,West,Very High Risk
+50,147602,671255,6,677,0.85,3,4,11,Salaried,Current,West,Moderate Risk
+46,141598,980718,20,849,0.12,0,3,15,Salaried,Current,West,Very Low Risk
+32,99881,632518,8,698,0.49,0,1,30,Self-employed,Savings,South,Very Low Risk
+60,141930,295032,14,622,0.69,1,0,42,Salaried,Savings,North,Low Risk
+21,139896,181515,4,795,0.77,1,1,31,Self-employed,Savings,North,Low Risk
+21,49390,578083,19,764,0.49,2,3,14,Salaried,Current,East,Low Risk
+47,110380,546333,3,775,0.47,2,1,29,Salaried,Savings,West,Low Risk
+40,81455,991450,16,573,0.34,2,3,43,Salaried,Current,West,Low Risk
+42,52565,782737,13,570,0.76,2,0,3,Salaried,Savings,North,High Risk
+47,36293,96753,9,522,0.64,4,0,12,Salaried,Current,East,Very High Risk
+34,141000,968876,3,759,0.41,0,2,49,Self-employed,Salary,East,Very Low Risk
+50,94744,425879,10,726,0.52,0,3,8,Self-employed,Savings,West,Low Risk
+23,145298,585541,11,564,0.68,0,0,20,Salaried,Current,West,Low Risk
+40,148907,356094,17,795,0.45,4,1,45,Salaried,Salary,East,Very Low Risk
+31,26965,292061,3,847,0.65,4,2,16,Business owner,Savings,West,High Risk
+42,113349,885948,4,742,0.31,4,0,41,Business owner,Savings,East,Very Low Risk
+32,86152,754980,17,747,0.08,1,2,43,Business owner,Current,East,Very Low Risk
+58,116476,449787,6,651,0.49,2,0,35,Self-employed,Salary,West,Low Risk
+41,96350,932802,2,809,0.33,0,3,14,Business owner,Savings,East,Very Low Risk
+46,62375,969749,3,516,0.18,0,4,39,Business owner,Salary,West,High Risk
+56,61405,944101,8,758,0.18,1,4,43,Self-employed,Salary,East,Very Low Risk
+62,154566,212729,14,500,0.79,0,3,42,Self-employed,Current,South,Moderate Risk
+22,30840,458155,9,762,0.25,2,0,39,Self-employed,Salary,South,Moderate Risk
+28,124516,397225,1,718,0.79,2,4,9,Salaried,Salary,West,Moderate Risk
+51,81555,736473,14,785,0.34,2,1,40,Business owner,Salary,West,Very Low Risk
+61,61967,374795,9,489,0.7,4,3,32,Business owner,Savings,East,Very High Risk
+33,123039,905812,4,713,0.64,2,1,5,Salaried,Savings,West,Low Risk
+57,153040,502691,15,849,0.47,3,2,15,Self-employed,Current,East,Very Low Risk
+52,118970,112205,2,645,0.82,2,1,18,Business owner,Current,West,High Risk
+33,66221,572928,6,678,0.9,0,2,13,Salaried,Savings,South,Moderate Risk
+41,96962,650436,7,551,0.42,1,2,31,Salaried,Salary,North,Moderate Risk
+30,31739,585618,15,518,0.44,3,0,4,Self-employed,Savings,South,Very High Risk
+21,117110,540485,2,498,0.41,3,1,9,Salaried,Savings,North,High Risk
+36,31998,871026,14,846,0.63,2,4,15,Salaried,Current,East,Low Risk
+32,103915,531534,12,661,0.67,3,0,20,Business owner,Current,North,High Risk
+25,142405,223912,19,788,0.21,1,2,42,Self-employed,Current,East,Very Low Risk
+45,103542,34212,15,505,0.22,4,0,19,Business owner,Salary,South,Very High Risk
+34,108162,315416,12,789,0.42,4,1,31,Self-employed,Salary,North,Low Risk
+36,80004,820530,10,566,0.33,0,2,38,Self-employed,Current,East,Low Risk
+53,50964,737111,9,738,0.57,3,3,37,Self-employed,Salary,East,High Risk
+39,92142,779204,13,690,0.35,1,0,21,Business owner,Current,West,Very Low Risk
+68,36789,169311,1,693,0.07,2,0,35,Salaried,Current,East,High Risk
+47,68334,174758,17,560,0.38,2,1,6,Business owner,Current,West,Very High Risk
+34,111552,573280,8,473,0.39,3,0,21,Business owner,Savings,East,Very High Risk
+41,68980,71661,15,653,0.25,3,1,8,Salaried,Salary,East,High Risk
+51,80912,160512,10,588,0.45,4,0,24,Salaried,Salary,West,Very High Risk
+41,128294,14105,13,473,0.35,0,0,25,Business owner,Savings,South,High Risk
+22,50355,969411,15,848,0.09,4,3,20,Business owner,Savings,West,Very Low Risk
+37,52757,439620,14,517,0.72,4,3,41,Self-employed,Salary,West,Very High Risk
+31,95213,906821,11,766,0.55,2,0,7,Salaried,Salary,East,Very Low Risk
+50,80024,485313,17,578,0.13,1,1,45,Salaried,Savings,West,Moderate Risk
+42,54540,591338,11,503,0.72,2,3,16,Self-employed,Savings,North,Very High Risk
+56,141270,508995,1,539,0.65,4,2,5,Business owner,Current,West,Very High Risk
+33,150410,949793,9,505,0.34,1,1,32,Self-employed,Savings,North,Low Risk
+34,111211,301406,9,629,0.69,0,1,41,Business owner,Savings,North,Moderate Risk
+30,102509,202434,7,575,0.4,3,2,25,Business owner,Salary,West,Very High Risk
+56,130626,207129,2,508,0.09,0,1,22,Self-employed,Savings,South,Moderate Risk
+57,42965,727836,5,723,0.19,3,3,50,Salaried,Salary,South,Moderate Risk
+45,25448,181507,20,562,0.06,0,1,13,Salaried,Current,South,High Risk
+42,36120,732730,6,590,0.23,4,1,16,Self-employed,Salary,North,High Risk
+56,91155,299074,1,643,0.6,3,1,15,Salaried,Savings,South,High Risk
+66,139327,833815,8,620,0.82,2,2,23,Business owner,Current,North,Low Risk
+54,50227,185022,11,635,0.68,1,1,31,Business owner,Salary,East,High Risk
+44,71221,876103,16,503,0.28,1,3,49,Self-employed,Savings,North,Moderate Risk
+33,140621,654063,5,674,0.55,3,0,22,Self-employed,Current,West,Low Risk
+33,47742,124626,7,549,0.78,3,1,14,Business owner,Current,East,Very High Risk
+45,135374,813604,2,509,0.47,1,0,50,Business owner,Current,East,Moderate Risk
+58,59051,894958,8,742,0.38,0,3,22,Business owner,Salary,North,Very Low Risk
+30,146140,496366,4,836,0.83,2,3,21,Salaried,Savings,West,Very Low Risk
+22,106401,401007,5,721,0.21,3,2,29,Business owner,Current,East,Low Risk
+24,143408,189850,0,572,0.4,2,2,47,Business owner,Salary,North,Moderate Risk
+49,110323,639734,19,698,0.57,3,1,44,Business owner,Savings,West,Low Risk
+56,147987,392958,17,762,0.5,4,1,22,Self-employed,Current,East,Very Low Risk
+57,31434,919003,7,670,0.35,1,0,45,Business owner,Savings,West,Low Risk
+62,85829,565569,14,591,0.35,4,4,17,Business owner,Salary,North,High Risk
+60,146101,75508,0,777,0.64,3,3,50,Business owner,Current,North,Moderate Risk
+54,41355,123341,15,687,0.74,1,3,37,Business owner,Savings,West,High Risk
+35,72398,623030,13,804,0.22,0,2,11,Self-employed,Salary,South,Very Low Risk
+49,47377,957494,1,769,0.12,4,1,31,Self-employed,Salary,South,Low Risk
+57,53612,180111,10,515,0.5,1,4,8,Salaried,Current,East,Very High Risk
+57,123751,691528,0,699,0.79,4,4,20,Self-employed,Salary,South,Moderate Risk
+38,116408,184930,10,527,0.19,0,2,25,Self-employed,Salary,South,Moderate Risk
+44,112066,876205,1,521,0.41,4,2,28,Self-employed,Current,South,Very High Risk
+49,25628,571204,2,750,0.24,4,3,23,Business owner,Salary,North,High Risk
+52,50443,382914,18,834,0.7,0,4,52,Business owner,Savings,East,Very Low Risk
+59,153420,563684,10,651,0.75,4,0,18,Business owner,Savings,South,High Risk
+54,97982,292464,10,819,0.06,1,1,18,Salaried,Salary,North,Very Low Risk
+58,80603,213539,20,479,0.53,2,3,22,Salaried,Savings,West,Very High Risk
+33,141155,237149,17,668,0.66,1,0,35,Salaried,Current,North,Very Low Risk
+27,96796,398093,15,679,0.19,4,0,10,Business owner,Salary,South,Moderate Risk
+42,140552,563714,20,557,0.9,1,2,31,Salaried,Current,South,Moderate Risk
+29,149714,673646,12,740,0.78,0,0,28,Salaried,Current,North,Very Low Risk
+25,54369,710306,2,823,0.73,0,2,14,Self-employed,Salary,West,Low Risk
+49,59283,264003,9,715,0.14,2,2,23,Self-employed,Savings,South,Moderate Risk
+64,53366,476890,14,639,0.75,3,3,25,Self-employed,Current,South,High Risk
+45,98752,624415,13,510,0.39,4,4,40,Salaried,Salary,North,Very High Risk
+65,103329,969053,1,542,0.69,3,2,48,Business owner,Savings,West,High Risk
+23,88424,531826,2,617,0.13,0,3,6,Business owner,Current,North,Moderate Risk
+50,129414,782001,1,581,0.11,4,1,28,Self-employed,Savings,North,Moderate Risk
+64,153766,720240,7,750,0.37,0,1,38,Self-employed,Savings,East,Very Low Risk
+26,29148,836174,7,844,0.8,1,3,33,Salaried,Current,East,Low Risk
+68,129769,201571,19,657,0.78,4,4,44,Salaried,Current,West,High Risk
+23,79914,596020,16,804,0.78,0,1,42,Business owner,Current,West,Very Low Risk
+33,66080,67460,2,545,0.13,3,0,4,Self-employed,Salary,South,Very High Risk
+41,108635,351436,13,545,0.82,0,0,5,Salaried,Salary,North,Moderate Risk
+24,143257,524673,2,535,0.08,2,0,40,Business owner,Current,East,Low Risk
+54,27445,824918,16,676,0.62,4,4,50,Self-employed,Savings,South,Very High Risk
+44,118255,630354,15,639,0.2,0,4,3,Salaried,Salary,South,Low Risk
+45,43801,424513,7,835,0.22,4,2,33,Business owner,Current,North,High Risk
+34,25462,614973,1,671,0.5,2,3,4,Salaried,Salary,East,Very High Risk
+29,139534,4047,10,482,0.67,2,0,37,Self-employed,Savings,North,Very High Risk
+55,77886,838043,6,847,0.12,4,2,31,Self-employed,Salary,South,Very Low Risk
+29,108538,870700,0,498,0.06,4,1,15,Self-employed,Savings,North,Very High Risk
+64,136188,305650,6,623,0.59,4,0,17,Salaried,Current,South,Moderate Risk
+44,126118,966632,5,561,0.08,3,2,10,Self-employed,Salary,West,Moderate Risk
+26,34282,689440,19,768,0.32,4,1,32,Self-employed,Current,East,Low Risk
+64,72284,145033,18,820,0.18,2,2,19,Self-employed,Current,North,Low Risk
+23,37058,356199,3,495,0.86,1,1,8,Self-employed,Current,North,Very High Risk
+31,85588,979179,5,516,0.7,1,3,34,Business owner,Savings,North,High Risk
+28,75631,403588,4,807,0.62,0,2,27,Salaried,Savings,East,Very Low Risk
+62,157097,135745,4,669,0.23,2,1,43,Business owner,Salary,West,Moderate Risk
+30,30584,832361,8,662,0.26,0,1,51,Salaried,Salary,South,Low Risk
+41,153179,262719,9,473,0.25,0,2,16,Business owner,Savings,South,Moderate Risk
+46,56046,277514,12,586,0.43,3,3,48,Self-employed,Current,North,Very High Risk
+36,105694,81392,13,744,0.83,2,3,20,Business owner,Savings,West,Moderate Risk
+59,141510,307308,9,559,0.48,3,3,43,Self-employed,Current,East,High Risk
+41,45307,381090,13,822,0.69,3,4,42,Salaried,Savings,West,Moderate Risk
+21,32612,332780,18,497,0.75,3,1,47,Salaried,Current,East,Very High Risk
+38,146226,957141,0,778,0.63,3,3,27,Business owner,Current,West,Very Low Risk
+56,100132,817182,2,819,0.6,3,4,28,Salaried,Salary,West,Low Risk
+31,124699,327818,20,608,0.57,0,2,8,Salaried,Salary,North,Low Risk
+22,29041,245366,7,824,0.54,4,3,18,Salaried,Salary,East,Very High Risk
+47,125488,127375,5,816,0.18,1,3,20,Self-employed,Savings,North,Low Risk
+41,157976,960397,6,506,0.07,0,3,9,Business owner,Savings,South,Low Risk
+42,40621,111851,15,655,0.47,3,3,5,Business owner,Current,West,Very High Risk
+54,117239,432328,19,689,0.25,0,3,34,Salaried,Current,South,Very Low Risk
+44,68969,474226,20,750,0.61,0,0,36,Business owner,Salary,East,Very Low Risk
+49,133081,523772,6,495,0.7,2,2,28,Business owner,Savings,North,High Risk
+37,140930,953905,8,766,0.57,0,4,52,Salaried,Salary,North,Very Low Risk
+55,34178,484098,4,727,0.78,3,0,42,Salaried,Current,South,High Risk
+52,75719,639884,19,557,0.76,2,0,42,Salaried,Current,West,Moderate Risk
+42,22222,711443,11,589,0.52,4,3,40,Salaried,Savings,South,High Risk
+23,111893,169813,3,471,0.4,2,4,4,Self-employed,Salary,South,Very High Risk
+67,123167,442479,14,486,0.11,4,3,5,Business owner,Savings,East,Very High Risk
+66,53917,233587,1,678,0.22,0,4,14,Business owner,Salary,East,Moderate Risk
+38,123943,843736,4,849,0.64,1,4,17,Salaried,Current,South,Very Low Risk
+31,24494,263665,4,810,0.8,2,1,40,Self-employed,Salary,West,High Risk
+47,83996,876573,6,655,0.09,2,0,47,Self-employed,Salary,East,Very Low Risk
+42,114933,859858,12,599,0.91,0,4,47,Salaried,Savings,South,Low Risk
+29,110874,851291,3,661,0.62,2,0,32,Business owner,Salary,West,Low Risk
+47,109774,890811,1,686,0.11,0,1,13,Business owner,Savings,East,Low Risk
+66,33663,483251,14,518,0.27,0,0,6,Business owner,Current,East,High Risk
+52,113782,805194,10,642,0.36,3,1,39,Salaried,Salary,East,Low Risk
+63,124062,225747,7,741,0.34,0,1,4,Business owner,Salary,West,Very Low Risk
+44,144232,554095,2,803,0.89,2,3,21,Self-employed,Current,South,Very Low Risk
+22,35431,969475,2,747,0.24,2,0,44,Self-employed,Salary,South,Low Risk
+53,147001,618663,20,844,0.62,4,3,30,Self-employed,Savings,West,Very Low Risk
+59,32862,888166,6,812,0.47,4,1,47,Salaried,Savings,East,Moderate Risk
+30,130664,472192,17,501,0.11,3,1,24,Self-employed,Savings,East,Moderate Risk
+49,102934,655098,11,842,0.69,4,4,9,Self-employed,Salary,South,Low Risk
+35,111449,881169,15,758,0.49,4,3,8,Business owner,Current,North,Very Low Risk
+54,124070,392978,16,624,0.73,3,4,17,Business owner,Savings,East,Moderate Risk
+24,45386,608312,17,559,0.28,1,2,12,Salaried,Current,East,High Risk
+37,95010,311426,3,802,0.55,2,4,45,Self-employed,Salary,West,Low Risk
+60,101088,617253,0,701,0.31,4,0,10,Salaried,Savings,South,Moderate Risk
+53,144791,300984,2,846,0.79,2,0,35,Business owner,Salary,North,Very Low Risk
+50,143097,491145,16,848,0.91,2,2,39,Business owner,Salary,North,Very Low Risk
+35,114949,313409,12,499,0.91,0,2,32,Salaried,Savings,East,High Risk
+50,66264,680203,8,600,0.16,3,2,41,Business owner,Salary,East,Moderate Risk
+22,145232,762146,16,483,0.12,1,1,3,Business owner,Savings,West,Very Low Risk
+31,120115,707318,0,538,0.16,2,1,22,Business owner,Current,South,Moderate Risk
+42,144509,578168,20,709,0.21,4,0,43,Self-employed,Current,East,Very Low Risk
+58,143999,624427,3,680,0.49,2,2,6,Business owner,Current,East,Moderate Risk
+43,77745,195734,5,536,0.3,3,3,9,Business owner,Current,North,Very High Risk
+26,24565,798857,20,665,0.12,2,1,24,Business owner,Current,North,Low Risk
+59,89804,419216,9,659,0.31,4,1,21,Self-employed,Current,South,Moderate Risk
+55,156969,936324,16,788,0.83,3,4,34,Business owner,Savings,South,Very Low Risk
+65,73290,452484,3,522,0.29,4,3,35,Business owner,Salary,West,Very High Risk
+22,155139,578741,12,559,0.15,1,2,45,Business owner,Savings,South,Low Risk
+50,96980,937056,11,512,0.78,1,2,10,Business owner,Salary,West,High Risk
+65,25844,4785,5,653,0.53,2,3,53,Self-employed,Current,West,Very High Risk
+67,33665,126595,19,668,0.53,3,1,40,Salaried,Current,South,Very High Risk
+62,82526,466167,15,528,0.07,0,1,35,Salaried,Current,East,Moderate Risk
+42,86409,47039,19,474,0.41,1,0,32,Salaried,Current,North,Very High Risk
+68,64502,112278,5,475,0.73,4,0,6,Salaried,Savings,South,Very High Risk
+30,157771,431747,12,796,0.64,3,0,44,Salaried,Salary,East,Very Low Risk
+43,59329,897093,1,627,0.67,0,1,15,Business owner,Savings,North,Moderate Risk
+39,99359,416342,1,676,0.71,3,4,48,Self-employed,Salary,East,Very High Risk
+49,97235,231655,18,686,0.62,0,2,11,Salaried,Savings,West,Low Risk
+61,75190,133103,14,485,0.36,0,3,18,Business owner,Savings,South,Very High Risk
+56,141197,533458,1,534,0.45,2,2,13,Business owner,Current,East,Moderate Risk
+49,82561,245127,16,686,0.07,0,2,41,Business owner,Current,North,Low Risk
+27,51588,309907,2,725,0.22,4,1,34,Salaried,Current,West,High Risk
+46,132972,210963,18,817,0.61,0,2,24,Business owner,Salary,North,Very Low Risk
+25,35119,561061,9,470,0.2,4,2,19,Self-employed,Savings,West,Very High Risk
+59,151184,875119,6,559,0.25,3,0,32,Self-employed,Current,North,Moderate Risk
+41,109496,688969,19,630,0.65,2,3,46,Salaried,Savings,East,Low Risk
+30,106604,156664,2,751,0.89,2,3,28,Salaried,Salary,East,High Risk
+23,133680,847823,10,785,0.07,3,4,8,Business owner,Salary,East,Very Low Risk
+28,29392,926189,13,612,0.7,4,2,26,Business owner,Savings,South,High Risk
+51,156298,630896,14,716,0.6,1,4,18,Salaried,Salary,East,Very Low Risk
+56,118773,946298,10,475,0.07,3,1,15,Self-employed,Savings,West,Moderate Risk
+54,119200,777506,12,753,0.84,4,4,38,Business owner,Salary,South,Moderate Risk
+21,61646,155901,17,581,0.17,0,4,18,Business owner,Savings,South,Moderate Risk
+66,66191,874357,5,787,0.77,4,2,41,Self-employed,Current,North,Moderate Risk
+25,55597,61258,16,634,0.21,3,3,4,Self-employed,Salary,North,High Risk
+65,101561,119025,10,561,0.42,0,0,9,Self-employed,Savings,South,High Risk
+46,60988,390707,12,802,0.5,0,0,19,Business owner,Savings,East,Very Low Risk
+28,110417,469578,4,711,0.53,2,3,52,Self-employed,Current,East,Low Risk
+24,82299,941314,2,803,0.11,3,2,18,Self-employed,Current,North,Low Risk
+54,32763,829108,10,754,0.34,1,3,14,Self-employed,Current,East,Very Low Risk
+21,22139,218426,10,748,0.08,1,4,17,Self-employed,Savings,East,Moderate Risk
+65,133527,840422,5,585,0.92,4,1,21,Salaried,Savings,North,Moderate Risk
+45,113740,141700,8,478,0.44,2,3,22,Salaried,Savings,East,Very High Risk
+65,120306,95768,18,697,0.52,1,3,44,Business owner,Savings,North,Moderate Risk
+46,81611,823640,14,496,0.11,0,1,43,Business owner,Current,West,Moderate Risk
+35,117877,692468,9,474,0.05,2,2,34,Salaried,Current,West,Moderate Risk
+60,25161,661562,19,471,0.32,4,3,29,Self-employed,Current,East,Very High Risk
+48,26144,340626,16,641,0.05,2,2,10,Salaried,Savings,West,Moderate Risk
+25,148720,137427,3,574,0.57,0,0,41,Self-employed,Current,North,High Risk
+22,146850,13901,20,637,0.53,0,1,52,Salaried,Salary,South,Low Risk
+66,120824,813274,7,559,0.37,3,0,25,Self-employed,Salary,East,Moderate Risk
+33,155563,612689,15,761,0.17,3,4,13,Self-employed,Current,South,Very Low Risk
+48,108910,857055,16,633,0.55,0,3,45,Self-employed,Current,South,Low Risk
+67,48521,870332,8,544,0.08,2,1,45,Business owner,Savings,West,Moderate Risk
+63,62421,723595,7,574,0.49,1,0,45,Business owner,Current,South,High Risk
+35,48602,542567,16,567,0.54,4,2,4,Self-employed,Savings,West,Very High Risk
+24,140417,563015,12,660,0.35,4,4,24,Salaried,Salary,East,High Risk
+53,96804,363070,10,765,0.69,0,4,36,Salaried,Savings,South,Low Risk
+42,152445,472494,10,488,0.9,3,3,10,Salaried,Current,North,Very High Risk
+51,57862,358336,15,611,0.54,0,4,15,Self-employed,Savings,East,Moderate Risk
+27,52490,586859,17,762,0.47,1,2,32,Business owner,Salary,East,Low Risk
+63,105877,832437,17,626,0.66,0,3,15,Salaried,Salary,South,Very Low Risk
+28,85110,601110,3,846,0.07,2,4,23,Self-employed,Savings,West,Low Risk
+37,96843,918202,3,823,0.54,1,2,53,Salaried,Current,North,Very Low Risk
+59,85141,16194,11,483,0.15,2,2,54,Business owner,Salary,South,Very High Risk
+33,154871,488397,2,555,0.74,2,1,3,Self-employed,Salary,East,Moderate Risk
+55,27644,613373,18,628,0.19,4,1,34,Self-employed,Salary,North,High Risk
+56,132473,398002,5,607,0.11,4,2,53,Self-employed,Salary,South,High Risk
+42,136139,97101,8,729,0.13,1,2,54,Business owner,Salary,East,Low Risk
+54,98192,75762,13,823,0.31,4,4,5,Self-employed,Salary,North,Moderate Risk
+55,100968,108332,3,741,0.48,2,0,53,Self-employed,Salary,South,Moderate Risk
+47,81611,776205,12,477,0.49,1,2,39,Business owner,Savings,East,High Risk
+59,125570,126352,15,544,0.68,4,4,34,Self-employed,Savings,East,Very High Risk
+25,88099,645163,15,840,0.78,2,1,25,Self-employed,Current,West,Very Low Risk
+42,117790,119867,4,774,0.54,0,3,49,Salaried,Current,East,Low Risk
+57,64683,66135,18,473,0.3,0,3,21,Business owner,Savings,South,Very High Risk
+53,107795,189198,12,772,0.32,1,0,3,Self-employed,Salary,North,Low Risk
+40,97879,535481,15,837,0.38,1,2,9,Self-employed,Current,West,Very Low Risk
+29,106827,987633,3,714,0.26,3,1,7,Self-employed,Current,East,Low Risk
+32,53781,576331,16,848,0.36,2,3,4,Salaried,Savings,North,Very Low Risk
+56,67004,163880,16,623,0.63,4,3,19,Salaried,Salary,East,Very High Risk
+52,69144,510595,7,537,0.18,3,3,24,Self-employed,Current,West,Very High Risk
+35,102388,202497,16,701,0.21,1,2,32,Self-employed,Current,West,Very Low Risk
+39,140050,220082,8,596,0.87,1,1,15,Business owner,Salary,West,High Risk
+59,34439,501287,11,541,0.27,1,3,12,Self-employed,Savings,South,High Risk
+33,114901,461038,20,640,0.82,3,2,37,Business owner,Current,West,Moderate Risk
+67,136155,938131,7,597,0.06,1,4,3,Salaried,Savings,West,Low Risk
+54,62803,243313,12,837,0.63,3,0,12,Business owner,Savings,South,Low Risk
+22,132471,538071,18,578,0.52,4,4,4,Self-employed,Savings,West,High Risk
+22,142425,198068,14,487,0.56,0,2,3,Business owner,Current,West,High Risk
+45,89359,854477,7,839,0.26,1,0,39,Salaried,Current,South,Very Low Risk
+55,64628,890317,12,546,0.85,3,3,8,Salaried,Savings,East,High Risk
+36,74407,501342,0,766,0.13,2,2,31,Business owner,Salary,North,Low Risk
+40,34765,317905,0,743,0.3,4,3,26,Self-employed,Savings,South,Very High Risk
+56,44310,877043,12,786,0.87,1,3,28,Business owner,Savings,East,Very Low Risk
+37,92727,856471,19,737,0.62,4,4,38,Self-employed,Salary,East,Low Risk
+30,101887,579153,10,518,0.29,1,4,18,Business owner,Current,South,High Risk
+28,129673,235612,14,826,0.26,2,2,48,Salaried,Current,East,Very Low Risk
+54,51816,149947,16,767,0.8,1,0,24,Business owner,Salary,East,Low Risk
+52,152402,106680,18,611,0.11,0,3,49,Self-employed,Current,North,Very Low Risk
+28,142372,353010,0,655,0.12,0,3,44,Business owner,Salary,East,Moderate Risk
+63,25955,790080,5,812,0.57,1,4,11,Business owner,Current,West,Low Risk
+36,136341,313596,10,776,0.35,1,0,15,Self-employed,Salary,West,Very Low Risk
+55,80212,295111,9,509,0.91,3,4,8,Business owner,Savings,South,Very High Risk
+24,124974,791292,10,649,0.55,3,2,11,Business owner,Savings,East,Low Risk
+60,53227,278459,8,722,0.15,2,0,7,Business owner,Salary,East,Moderate Risk
+56,80707,591553,16,547,0.78,0,0,3,Salaried,Current,South,Moderate Risk
+21,120369,147136,3,582,0.5,3,4,33,Salaried,Savings,North,Very High Risk
+42,24210,254791,10,658,0.72,2,4,45,Business owner,Salary,East,Very High Risk
+57,26974,293140,10,519,0.18,4,0,36,Self-employed,Salary,West,Very High Risk
+61,106757,391547,9,721,0.35,1,4,19,Salaried,Current,East,Low Risk
+68,125166,314292,18,635,0.11,0,2,5,Salaried,Savings,West,Very Low Risk
+59,72278,543655,1,805,0.72,4,1,25,Business owner,Salary,South,Moderate Risk
+65,154366,73624,6,551,0.82,4,1,47,Salaried,Salary,South,Very High Risk
+53,67656,422831,3,834,0.47,2,2,14,Business owner,Savings,West,Moderate Risk
+40,75467,853801,19,761,0.28,4,3,32,Salaried,Salary,South,Very Low Risk
+64,149497,823744,14,597,0.17,3,4,25,Self-employed,Salary,South,Low Risk
+54,112206,356049,18,766,0.54,3,3,44,Self-employed,Current,East,Low Risk
+51,69068,659220,14,637,0.2,2,3,23,Business owner,Savings,North,Moderate Risk
+48,82265,949758,6,588,0.51,0,3,48,Self-employed,Current,North,Moderate Risk
+39,92448,771044,7,735,0.3,0,3,19,Self-employed,Salary,East,Very Low Risk
+28,135330,816514,6,490,0.24,4,4,33,Salaried,Savings,East,Very High Risk
+61,53894,829678,1,718,0.83,1,0,49,Salaried,Savings,East,Low Risk
+50,108235,96430,8,604,0.17,2,4,39,Salaried,Current,North,High Risk
+68,149933,635522,17,605,0.57,2,0,42,Self-employed,Savings,South,Low Risk
+25,49364,143655,3,828,0.33,3,2,35,Self-employed,Savings,East,Moderate Risk
+24,63551,387900,6,702,0.71,3,4,33,Business owner,Salary,East,High Risk
+30,93731,254070,2,671,0.23,0,2,24,Self-employed,Salary,North,Low Risk
+43,125154,292790,17,818,0.88,1,4,49,Salaried,Savings,North,Very Low Risk
+33,76121,24313,12,824,0.71,2,1,48,Business owner,Savings,West,Moderate Risk
+60,37896,557004,16,791,0.1,2,4,44,Business owner,Current,West,Low Risk
+45,84199,805120,2,558,0.49,3,4,42,Business owner,Current,West,High Risk
+55,139567,84602,15,539,0.15,4,3,49,Salaried,Savings,South,High Risk
+54,155594,578093,14,845,0.45,1,1,19,Salaried,Savings,South,Very Low Risk
+25,83385,605649,1,658,0.35,3,0,33,Self-employed,Savings,West,Moderate Risk
+60,149392,576832,1,840,0.8,2,0,37,Self-employed,Salary,North,Very Low Risk
+36,131488,247161,15,565,0.18,2,3,31,Business owner,Current,West,Moderate Risk
+23,52760,305436,11,511,0.59,2,3,38,Self-employed,Salary,South,Very High Risk
+57,125553,917955,8,808,0.91,2,3,45,Salaried,Savings,West,Very Low Risk
+67,135413,854089,2,542,0.72,0,4,19,Self-employed,Salary,North,Moderate Risk
+66,54350,206461,10,736,0.16,2,0,19,Business owner,Current,West,Moderate Risk
+60,99861,408056,8,666,0.43,1,2,28,Business owner,Current,South,Low Risk
+23,119198,393553,15,525,0.3,0,2,37,Salaried,Salary,South,Low Risk
+40,92515,59260,8,702,0.91,3,3,16,Salaried,Salary,South,Very High Risk
+48,36392,854084,2,736,0.88,2,2,14,Self-employed,Salary,West,Moderate Risk
+27,52291,385972,7,606,0.4,2,1,34,Salaried,Current,South,High Risk
+32,76362,167150,5,799,0.61,4,4,18,Business owner,Savings,West,Very High Risk
+30,53117,627710,11,648,0.09,2,0,29,Self-employed,Salary,South,Low Risk
+68,59635,911858,6,571,0.21,3,2,24,Self-employed,Current,South,High Risk
+33,77188,816119,11,820,0.7,4,0,51,Self-employed,Salary,South,Very Low Risk
+61,80792,444347,9,633,0.16,2,3,26,Salaried,Salary,South,Moderate Risk
+49,155224,789823,18,535,0.19,4,0,21,Salaried,Current,East,Moderate Risk
+39,90866,316848,0,735,0.76,0,0,48,Business owner,Salary,West,Low Risk
+50,49370,427087,2,844,0.7,3,3,42,Self-employed,Salary,South,Moderate Risk
+62,151190,560591,20,751,0.54,1,0,30,Salaried,Current,South,Very Low Risk
+43,44435,902161,4,539,0.85,1,0,14,Self-employed,Savings,East,Moderate Risk
+60,83024,229284,0,626,0.47,3,1,4,Business owner,Current,North,Very High Risk
+21,112796,978215,5,781,0.7,1,2,38,Business owner,Current,East,Very Low Risk
+26,53456,652989,12,600,0.38,2,1,47,Self-employed,Salary,South,High Risk
+53,63805,681700,12,656,0.37,2,4,3,Salaried,Salary,West,Moderate Risk
+62,67637,35907,20,557,0.52,2,3,45,Business owner,Savings,South,Very High Risk
+41,117530,556776,3,623,0.12,1,0,38,Business owner,Savings,East,Moderate Risk
+43,105215,600531,8,503,0.72,4,2,50,Self-employed,Savings,North,Very High Risk
+67,123839,239932,11,539,0.64,4,2,43,Self-employed,Current,West,Very High Risk
+53,111534,277369,4,725,0.25,2,0,22,Salaried,Savings,North,Low Risk
+42,122587,701881,9,603,0.25,0,0,25,Salaried,Savings,West,Very Low Risk
+58,87935,343429,8,485,0.39,0,4,24,Salaried,Salary,North,High Risk
+61,131154,391303,8,672,0.23,3,3,31,Self-employed,Salary,West,Moderate Risk
+29,86520,872941,9,708,0.69,1,0,33,Business owner,Current,East,Very Low Risk
+59,69376,154825,17,485,0.17,2,2,42,Salaried,Salary,West,Very High Risk
+29,127835,39047,0,848,0.8,3,0,3,Business owner,Current,North,Low Risk
+30,127213,607884,2,824,0.4,0,3,29,Business owner,Current,North,Very Low Risk
+26,134141,465187,3,505,0.69,3,0,11,Self-employed,Salary,West,Very High Risk
+50,53218,824284,17,610,0.63,3,4,50,Salaried,Salary,North,High Risk
+54,158309,2040,11,674,0.52,2,3,3,Business owner,Salary,North,Moderate Risk
+21,125898,411633,10,741,0.4,4,3,5,Salaried,Current,South,Moderate Risk
+24,73117,136065,4,584,0.29,3,4,15,Self-employed,Salary,East,Very High Risk
+40,74501,672217,2,809,0.16,4,2,28,Business owner,Salary,East,Low Risk
+64,86433,279844,8,623,0.64,4,0,11,Self-employed,Savings,North,Very High Risk
+68,133318,812074,18,491,0.42,1,1,6,Salaried,Current,North,Low Risk
+47,98679,402253,7,579,0.27,0,4,14,Salaried,Current,North,High Risk
+29,119415,371336,7,637,0.27,1,0,24,Salaried,Current,East,Low Risk
+26,55122,482186,1,833,0.21,3,0,48,Business owner,Savings,East,Low Risk
+48,155512,854656,1,567,0.06,0,0,47,Business owner,Savings,East,Very Low Risk
+30,157485,502907,15,830,0.55,1,0,24,Salaried,Salary,East,Very Low Risk
+63,102876,343765,13,481,0.75,3,3,32,Self-employed,Current,North,Very High Risk
+46,63635,451084,16,774,0.57,0,0,41,Self-employed,Salary,South,Very Low Risk
+64,125987,833578,19,836,0.11,3,1,46,Salaried,Savings,North,Very Low Risk
+31,112304,315792,0,681,0.36,3,0,5,Business owner,Current,North,Moderate Risk
+60,25629,736731,10,742,0.45,4,4,16,Business owner,Savings,South,High Risk
+58,139477,308074,5,494,0.85,0,3,50,Self-employed,Current,North,High Risk
+42,82378,643311,11,651,0.41,3,3,28,Business owner,Current,South,Low Risk
+67,68446,118109,19,551,0.67,1,3,16,Business owner,Current,North,Very High Risk
+59,89412,194595,17,488,0.22,3,3,54,Self-employed,Savings,North,Very High Risk
+50,137645,319728,11,704,0.09,1,1,6,Salaried,Savings,West,Very Low Risk
+29,93970,292803,11,822,0.82,0,0,6,Business owner,Savings,North,Low Risk
+21,86453,955610,17,828,0.23,3,3,51,Salaried,Salary,North,Very Low Risk
+26,62013,160267,4,614,0.38,1,1,53,Salaried,Current,South,Very High Risk
+39,100153,554304,20,504,0.8,2,0,39,Self-employed,Salary,South,Moderate Risk
+63,152100,918799,5,702,0.77,3,0,53,Salaried,Salary,East,Very Low Risk
+40,57088,256436,7,687,0.32,4,2,18,Salaried,Salary,South,High Risk
+58,74202,146412,1,704,0.61,3,3,7,Salaried,Salary,West,Very High Risk
+50,144588,73420,19,694,0.42,1,3,35,Business owner,Salary,North,Very Low Risk
+29,68354,899244,16,584,0.88,0,4,49,Salaried,Current,North,Very Low Risk
+64,118952,825250,15,478,0.1,4,1,24,Business owner,Salary,North,High Risk
+45,43740,389248,18,602,0.78,4,2,34,Business owner,Current,South,Very High Risk
+48,34071,248165,0,783,0.73,4,3,29,Business owner,Salary,North,Very High Risk
+68,91982,24312,20,821,0.48,3,1,25,Self-employed,Current,East,Moderate Risk
+53,80933,12435,6,672,0.15,0,2,37,Business owner,Salary,East,Moderate Risk
+51,115364,662777,13,706,0.79,1,3,52,Business owner,Savings,West,Very Low Risk
+50,27395,179322,9,498,0.24,1,4,15,Business owner,Current,South,Very High Risk
+65,125411,122919,19,498,0.75,4,4,31,Business owner,Current,South,Very High Risk
+62,73515,141659,0,581,0.75,1,1,7,Business owner,Salary,West,Very High Risk
+65,143184,721824,11,639,0.58,0,1,5,Salaried,Salary,South,Very Low Risk
+64,113016,473613,18,557,0.5,2,4,8,Business owner,Current,West,High Risk
+30,75731,578611,10,670,0.3,0,2,26,Business owner,Savings,South,Very Low Risk
+34,121460,160360,17,746,0.25,2,4,17,Business owner,Salary,East,Low Risk
+59,124157,198143,5,542,0.78,3,2,38,Business owner,Current,South,Very High Risk
+57,151433,58009,7,492,0.39,4,0,34,Self-employed,Current,North,High Risk
+28,99401,293258,4,616,0.82,2,1,49,Business owner,Salary,South,High Risk
+62,44035,544058,0,818,0.21,0,2,10,Business owner,Savings,West,Low Risk
+50,114814,144197,0,551,0.32,0,3,35,Self-employed,Current,West,Very High Risk
+32,117763,732384,19,781,0.07,4,0,21,Salaried,Savings,West,Very Low Risk
+47,34351,180645,14,836,0.92,3,1,7,Self-employed,Salary,North,Moderate Risk
+29,43976,204547,11,552,0.36,3,3,47,Business owner,Current,South,Very High Risk
+53,109256,727588,15,497,0.55,1,2,47,Self-employed,Salary,West,Low Risk
+30,101800,725900,13,490,0.09,3,3,23,Self-employed,Salary,West,High Risk
+49,79224,445672,2,535,0.59,4,3,53,Salaried,Salary,West,Very High Risk
+27,102882,280434,1,592,0.33,0,4,23,Salaried,Current,South,High Risk
+61,54351,651051,9,699,0.68,4,4,49,Salaried,Current,South,Very High Risk
+65,24201,422304,18,787,0.29,2,3,16,Salaried,Current,North,Low Risk
+53,26591,632891,20,793,0.54,0,3,42,Business owner,Salary,East,Very Low Risk
+38,57841,60526,16,746,0.59,4,1,21,Business owner,Current,South,High Risk
+30,65231,123866,9,773,0.32,4,2,46,Salaried,Savings,South,High Risk
+55,130003,378701,3,625,0.84,0,3,13,Self-employed,Current,North,Moderate Risk
+60,147924,983101,8,743,0.26,1,1,45,Self-employed,Current,South,Very Low Risk
+67,132274,777681,8,544,0.59,4,4,14,Self-employed,Current,East,High Risk
+33,26464,522452,17,610,0.17,3,3,3,Business owner,Savings,South,High Risk
+65,38639,171680,8,669,0.13,3,2,9,Business owner,Savings,South,Very High Risk
+35,133808,261162,1,496,0.78,2,2,21,Business owner,Salary,East,Very High Risk
+30,25379,195713,10,551,0.15,1,0,25,Business owner,Savings,West,High Risk
+48,91035,691347,18,569,0.65,3,4,42,Salaried,Current,West,High Risk
+68,38724,724411,18,628,0.84,2,4,29,Self-employed,Savings,East,Moderate Risk
+68,45182,942260,20,518,0.58,1,2,11,Business owner,Current,East,Moderate Risk
+49,141266,372486,18,486,0.43,1,1,49,Business owner,Salary,West,High Risk
+67,104275,668789,4,837,0.25,1,0,46,Self-employed,Current,East,Very Low Risk
+63,41798,762901,15,661,0.54,1,2,29,Self-employed,Salary,North,Moderate Risk
+54,95081,480282,18,633,0.84,2,0,52,Business owner,Savings,South,Low Risk
+39,62249,474561,15,583,0.64,4,1,14,Business owner,Salary,East,Very High Risk
+62,135891,976154,10,563,0.62,2,0,3,Salaried,Current,North,Low Risk
+37,88108,753173,2,532,0.39,3,0,44,Business owner,Current,South,Very High Risk
+25,71577,971150,5,580,0.59,2,3,43,Salaried,Savings,North,Moderate Risk
+37,126309,854587,18,581,0.31,2,0,30,Self-employed,Salary,East,Low Risk
+54,52593,520741,18,516,0.81,3,2,9,Business owner,Salary,West,Very High Risk
+41,144245,168494,2,673,0.68,4,1,52,Salaried,Salary,East,High Risk
+68,93647,762368,19,581,0.06,2,3,30,Self-employed,Salary,West,Very Low Risk
+41,83016,495929,15,543,0.67,0,0,9,Self-employed,Savings,East,Moderate Risk
+38,128363,948865,4,642,0.58,3,4,28,Business owner,Salary,North,Low Risk
+41,42061,901070,5,586,0.28,3,4,30,Business owner,Current,East,Very High Risk
+31,41044,937625,12,715,0.57,1,3,41,Business owner,Savings,South,Moderate Risk
+42,92718,790014,11,656,0.67,2,1,11,Self-employed,Salary,East,Moderate Risk
+54,135332,730543,11,739,0.44,1,4,51,Business owner,Savings,North,Very Low Risk
+38,76403,4310,8,661,0.71,3,4,22,Salaried,Salary,North,Very High Risk
+67,26996,101036,10,578,0.14,0,0,3,Business owner,Savings,East,High Risk
+39,45274,985552,0,535,0.53,4,3,45,Self-employed,Current,North,Very High Risk
+65,47082,809423,19,624,0.65,2,3,53,Salaried,Current,North,Low Risk
+41,64679,673844,6,816,0.76,1,4,4,Business owner,Current,West,Low Risk
+46,52633,273704,17,844,0.16,0,3,3,Business owner,Current,North,Very Low Risk
+33,109017,416420,12,652,0.7,4,3,39,Self-employed,Savings,West,High Risk
+59,135739,145808,10,541,0.48,4,4,29,Salaried,Current,South,Very High Risk
+51,47551,933999,0,757,0.81,3,0,4,Salaried,Savings,West,Moderate Risk
+60,27138,571827,10,692,0.45,1,2,44,Salaried,Salary,West,Moderate Risk
+47,119261,491691,8,522,0.77,1,2,14,Business owner,Savings,North,High Risk
+28,155310,745916,3,818,0.13,0,0,5,Self-employed,Salary,North,Very Low Risk
+24,91726,97943,5,561,0.71,4,0,33,Salaried,Salary,East,Very High Risk
+46,137760,32575,16,747,0.22,0,3,15,Self-employed,Current,South,Very Low Risk
+55,45808,297598,15,822,0.57,3,3,6,Salaried,Savings,North,High Risk
+60,141174,137631,5,535,0.11,3,1,12,Self-employed,Current,West,Very High Risk
+42,36310,766026,13,565,0.88,2,0,45,Self-employed,Current,West,High Risk
+41,92112,970081,20,616,0.43,0,2,23,Salaried,Current,North,Very Low Risk
+57,90987,383120,7,470,0.35,3,4,6,Self-employed,Current,South,Very High Risk
+31,36401,316421,4,705,0.74,0,1,3,Self-employed,Salary,West,High Risk
+54,83951,857009,19,483,0.57,2,1,8,Self-employed,Current,North,Moderate Risk
+57,62946,1897,11,646,0.61,1,4,47,Salaried,Savings,South,High Risk
+46,118430,914009,5,680,0.29,1,2,48,Self-employed,Current,East,Very Low Risk
+26,92730,967880,3,633,0.62,1,2,54,Salaried,Savings,South,Moderate Risk
+65,149290,173575,9,606,0.37,2,0,49,Self-employed,Current,South,Moderate Risk
+31,37516,197394,3,832,0.47,2,0,44,Self-employed,Savings,East,High Risk
+61,52396,163098,14,846,0.14,4,1,35,Business owner,Savings,North,Low Risk
+40,149903,165591,11,586,0.1,2,2,29,Self-employed,Salary,East,Moderate Risk
+33,155613,76356,6,595,0.78,2,0,47,Self-employed,Savings,South,Moderate Risk
+52,58677,569597,2,755,0.62,2,1,35,Salaried,Savings,South,High Risk
+53,64900,192347,0,580,0.13,0,1,23,Self-employed,Savings,West,Very High Risk
+35,141218,113632,16,647,0.71,1,2,29,Business owner,Savings,West,Low Risk
+27,117555,797203,5,767,0.05,3,2,42,Salaried,Savings,South,Very Low Risk
+32,33452,540287,13,520,0.68,4,3,32,Business owner,Savings,East,Very High Risk
+60,126997,197224,20,607,0.71,1,4,23,Self-employed,Savings,East,Moderate Risk
+23,37808,360181,20,828,0.16,1,1,23,Salaried,Savings,East,Very Low Risk
+65,153062,716336,19,599,0.56,3,0,34,Salaried,Current,South,Low Risk
+53,83621,489165,7,487,0.4,0,2,49,Business owner,Current,East,Moderate Risk
+28,147207,779464,0,687,0.12,1,1,41,Salaried,Salary,West,Very Low Risk
+67,23171,178033,4,589,0.66,3,0,46,Self-employed,Current,East,Very High Risk
+57,47505,516931,0,827,0.15,3,3,23,Self-employed,Salary,West,Moderate Risk
+57,24934,978878,1,783,0.72,2,3,19,Self-employed,Current,North,Moderate Risk
+61,143819,87343,10,500,0.73,0,0,45,Salaried,Savings,South,Moderate Risk
+33,43026,543970,3,787,0.76,4,2,22,Salaried,Salary,West,High Risk
+60,141845,871727,14,793,0.84,3,1,27,Self-employed,Salary,East,Low Risk
+37,138456,269830,1,765,0.78,1,0,28,Self-employed,Salary,West,Low Risk
+54,74939,173499,13,817,0.8,1,3,10,Self-employed,Current,South,Low Risk
+68,77002,592002,20,772,0.74,1,0,46,Salaried,Salary,East,Very Low Risk
+23,60661,158559,11,829,0.33,0,4,39,Business owner,Salary,East,Very Low Risk
+56,125919,74516,19,608,0.77,4,4,40,Salaried,Savings,North,High Risk
+57,52571,559765,14,844,0.07,2,4,26,Business owner,Current,North,Very Low Risk
+45,40436,327511,11,768,0.41,0,4,10,Salaried,Current,East,Low Risk
+28,33415,650527,13,730,0.49,3,4,34,Business owner,Savings,North,Moderate Risk
+31,67393,529627,19,839,0.73,3,2,30,Salaried,Current,South,Very Low Risk
+64,147247,908660,18,559,0.77,3,4,12,Business owner,Salary,West,Moderate Risk
+50,110407,922723,4,709,0.61,3,0,20,Business owner,Savings,North,Low Risk
+29,114208,759105,14,530,0.91,2,4,28,Business owner,Current,North,High Risk
+64,46711,54783,18,696,0.4,4,3,52,Salaried,Savings,North,Very High Risk
+41,58447,578529,5,699,0.15,1,4,32,Business owner,Salary,South,Moderate Risk
+46,83773,951162,0,839,0.09,3,1,29,Business owner,Savings,North,Low Risk
+44,44646,670526,2,696,0.59,2,1,40,Salaried,Savings,South,Moderate Risk
+29,136531,946341,2,729,0.18,1,2,29,Self-employed,Savings,South,Very Low Risk
+36,59131,89182,17,582,0.57,0,4,33,Business owner,Savings,West,Moderate Risk
+68,24532,197338,19,815,0.8,0,4,37,Salaried,Savings,East,Low Risk
+60,69346,710950,5,664,0.31,3,2,28,Self-employed,Savings,North,Low Risk
+56,87579,104137,18,700,0.72,4,4,52,Business owner,Savings,West,High Risk
+39,22458,85587,9,538,0.07,4,1,49,Self-employed,Salary,West,Very High Risk
+51,77752,457875,8,644,0.87,2,3,34,Salaried,Current,North,High Risk
+42,93460,334610,20,737,0.5,1,0,45,Business owner,Savings,North,Very Low Risk
+64,46168,921247,9,750,0.59,1,4,13,Business owner,Salary,North,Low Risk
+21,117373,51101,3,498,0.45,3,1,26,Self-employed,Salary,North,Very High Risk
+45,134657,681347,3,842,0.33,0,3,32,Business owner,Salary,East,Very Low Risk
+33,37378,799734,18,738,0.44,1,1,30,Self-employed,Salary,West,Low Risk
+46,107161,823905,8,488,0.05,3,4,6,Self-employed,Current,North,Moderate Risk
+54,44177,577763,7,474,0.25,0,3,17,Self-employed,Salary,East,Very High Risk
+28,126928,516552,14,664,0.4,1,2,51,Self-employed,Salary,West,Low Risk
+42,41316,964811,2,496,0.36,4,0,5,Business owner,Current,South,Very High Risk
+68,30690,787879,20,473,0.17,2,4,49,Business owner,Current,South,Very High Risk
+26,117652,447663,12,556,0.44,0,4,24,Self-employed,Current,North,Moderate Risk
+66,97584,792505,13,849,0.4,4,1,42,Business owner,Current,West,Very Low Risk
+43,45013,159471,20,777,0.23,3,1,14,Salaried,Salary,West,Moderate Risk
+24,154196,595077,10,722,0.41,4,3,46,Business owner,Salary,West,Low Risk
+47,118300,692194,19,711,0.44,0,4,17,Self-employed,Savings,North,Very Low Risk
+27,69800,610099,14,479,0.49,4,4,6,Business owner,Savings,East,Very High Risk
+22,73565,197910,11,615,0.83,1,1,13,Self-employed,Current,South,Very High Risk
+23,103618,106376,3,526,0.1,1,0,6,Salaried,Salary,West,Very High Risk
+58,122194,32793,8,637,0.72,4,0,49,Business owner,Current,North,High Risk
+23,122518,316397,3,510,0.09,1,3,38,Business owner,Savings,West,High Risk
+61,23743,858817,16,542,0.07,1,4,3,Salaried,Current,South,Moderate Risk
+61,152367,978314,2,794,0.79,4,0,30,Self-employed,Savings,South,Very Low Risk
+45,117962,955629,14,527,0.91,2,2,37,Salaried,Savings,West,Moderate Risk
+33,114065,76857,10,816,0.46,4,2,44,Self-employed,Salary,North,Low Risk
+39,142648,163478,13,528,0.72,4,0,42,Business owner,Salary,North,High Risk
+23,71445,413388,0,728,0.43,1,3,44,Business owner,Current,South,Moderate Risk
+29,88211,957830,14,763,0.6,1,3,7,Business owner,Savings,East,Very Low Risk
+65,26072,119938,5,717,0.26,3,0,32,Salaried,Salary,West,Very High Risk
+48,108178,968460,7,651,0.16,1,3,28,Salaried,Savings,North,Very Low Risk
+32,146433,417936,17,686,0.53,0,2,34,Self-employed,Current,East,Very Low Risk
+41,124543,471125,15,506,0.23,0,2,43,Business owner,Salary,South,Moderate Risk
+66,119099,563451,18,494,0.64,3,4,33,Self-employed,Savings,South,Very High Risk
+41,70756,956598,14,836,0.66,0,3,54,Business owner,Salary,East,Very Low Risk
+54,59901,687821,18,740,0.36,1,3,13,Self-employed,Current,West,Very Low Risk
+59,27865,676888,0,683,0.39,0,1,25,Business owner,Current,East,Moderate Risk
+23,53818,213704,20,627,0.91,2,4,39,Self-employed,Savings,South,Very High Risk
+59,132016,63426,14,665,0.77,3,3,23,Business owner,Salary,West,High Risk
+42,74879,178057,13,549,0.09,1,0,8,Self-employed,Savings,West,High Risk
+38,56255,23525,0,616,0.21,3,1,43,Business owner,Current,North,Very High Risk
+26,137145,249143,5,576,0.71,0,0,32,Self-employed,Current,North,High Risk
+32,155168,718406,6,483,0.6,4,4,40,Self-employed,Savings,East,Very High Risk
+28,136056,63175,1,557,0.21,3,4,49,Salaried,Current,East,Very High Risk
+60,134807,184229,17,565,0.83,3,3,46,Business owner,Current,South,High Risk
+25,41643,926876,5,531,0.82,0,4,16,Business owner,Current,East,High Risk
+35,138914,119564,0,525,0.44,2,4,16,Salaried,Salary,South,Very High Risk
+61,26290,101124,12,549,0.09,3,3,23,Self-employed,Savings,North,Very High Risk
+61,157167,578297,18,526,0.59,2,2,53,Business owner,Salary,West,Moderate Risk
+37,66566,55953,10,850,0.82,0,1,45,Business owner,Current,North,Very Low Risk
+65,44855,886380,1,540,0.75,1,1,42,Self-employed,Savings,West,High Risk
+43,117123,784655,19,651,0.17,2,1,11,Self-employed,Savings,North,Very Low Risk
+62,67227,587295,1,542,0.5,4,2,38,Salaried,Salary,South,Very High Risk
+35,38747,743586,20,772,0.07,3,2,11,Business owner,Salary,South,Very Low Risk
+66,101311,841308,17,542,0.51,3,4,4,Salaried,Savings,West,High Risk
+38,37785,99817,9,472,0.88,2,1,7,Salaried,Current,South,Very High Risk
+39,157660,748856,16,786,0.71,0,4,16,Business owner,Current,West,Very Low Risk
+67,77516,704005,7,786,0.47,1,0,46,Salaried,Savings,South,Very Low Risk
+54,92078,564727,18,760,0.41,2,0,23,Salaried,Savings,East,Very Low Risk
+30,89137,445641,11,746,0.85,1,1,53,Business owner,Current,North,Low Risk
+45,45731,803430,0,811,0.24,2,0,8,Self-employed,Current,East,Low Risk
+48,158958,470900,10,552,0.62,3,0,8,Business owner,Current,South,Low Risk
+38,106858,468929,9,507,0.76,3,1,24,Salaried,Savings,North,Very High Risk
+53,50700,85051,19,735,0.58,2,4,28,Business owner,Savings,East,Very High Risk
+66,148161,37512,4,496,0.25,2,0,5,Business owner,Savings,West,Very High Risk
+66,37639,389399,10,759,0.82,3,0,18,Self-employed,Savings,West,High Risk
+60,52625,165515,19,693,0.89,3,0,3,Self-employed,Savings,North,High Risk
+43,141749,727927,12,647,0.27,1,1,5,Business owner,Current,East,Very Low Risk
+50,102418,209297,1,506,0.81,2,4,8,Business owner,Savings,West,Very High Risk
+42,99140,447562,12,689,0.6,0,1,11,Business owner,Current,East,Very Low Risk
+61,51642,416057,13,490,0.16,1,0,34,Salaried,Salary,West,High Risk
+32,101597,972779,13,641,0.34,0,1,5,Business owner,Current,West,Very Low Risk
+24,110203,135181,15,627,0.82,4,2,14,Self-employed,Savings,West,Very High Risk
+58,108501,113333,2,780,0.6,3,1,36,Business owner,Savings,North,High Risk
+31,68870,610528,19,820,0.17,1,4,30,Self-employed,Savings,North,Very Low Risk
+27,51442,565708,17,505,0.25,3,4,16,Business owner,Salary,North,Very High Risk
+32,114521,89623,1,737,0.89,2,4,48,Self-employed,Salary,East,High Risk
+22,151655,32730,17,841,0.79,1,0,15,Self-employed,Salary,North,Very Low Risk
+23,65806,721480,20,572,0.37,1,0,10,Salaried,Salary,North,Low Risk
+24,98247,193102,3,730,0.2,0,0,23,Salaried,Current,West,Low Risk
+46,128373,808701,6,604,0.8,2,0,21,Self-employed,Savings,South,Moderate Risk
+55,61936,549918,15,603,0.23,2,2,5,Business owner,Current,North,Moderate Risk
+30,63686,355627,2,509,0.64,1,3,26,Salaried,Salary,West,Very High Risk
+56,70116,696022,16,547,0.06,0,1,45,Self-employed,Salary,South,Low Risk
+38,92432,490935,17,773,0.07,0,3,26,Self-employed,Current,West,Very Low Risk
+59,153132,339404,15,741,0.41,0,1,52,Salaried,Current,North,Very Low Risk
+21,121487,786317,20,685,0.49,0,1,13,Self-employed,Savings,South,Very Low Risk
+55,129887,402927,14,508,0.18,1,2,13,Self-employed,Current,West,Moderate Risk
+67,69922,762143,4,588,0.08,4,3,27,Salaried,Savings,East,High Risk
+23,75497,85002,13,758,0.84,0,4,49,Salaried,Savings,West,Moderate Risk
+68,69131,991386,20,506,0.48,3,0,48,Self-employed,Salary,West,Moderate Risk
+33,65911,810295,18,604,0.18,1,4,3,Self-employed,Current,North,Low Risk
+35,131304,987016,20,632,0.9,0,1,47,Business owner,Salary,West,Very Low Risk
+43,118873,837079,15,525,0.13,2,1,44,Salaried,Savings,West,Low Risk
+33,72743,772989,20,609,0.57,1,2,20,Salaried,Current,North,Low Risk
+28,51116,432291,14,753,0.56,3,3,17,Business owner,Salary,North,Moderate Risk
+34,110236,924737,18,711,0.6,2,2,36,Salaried,Salary,West,Low Risk
+50,54958,704102,10,791,0.26,1,2,45,Business owner,Current,North,Low Risk
+41,85132,795769,0,475,0.44,2,1,20,Salaried,Salary,North,High Risk
+54,59848,130995,1,514,0.3,0,3,37,Self-employed,Current,South,Very High Risk
+40,91814,35550,8,761,0.25,1,0,54,Business owner,Savings,North,Moderate Risk
+48,53243,892739,10,767,0.56,2,1,11,Self-employed,Savings,East,Very Low Risk
+67,141042,898081,17,573,0.6,0,3,9,Business owner,Current,West,Very Low Risk
+47,55550,255662,0,616,0.46,0,1,21,Salaried,Salary,East,Very High Risk
+23,52849,763325,2,626,0.32,1,1,29,Salaried,Savings,South,Moderate Risk
+25,69104,335349,12,795,0.24,2,1,17,Business owner,Salary,North,Low Risk
+66,96213,321195,19,622,0.18,4,1,36,Business owner,Current,South,High Risk
+26,40563,209780,19,575,0.9,4,1,38,Self-employed,Current,West,Very High Risk
+57,158587,49261,12,829,0.53,1,0,41,Business owner,Current,East,Very Low Risk
+64,67332,269843,16,544,0.29,0,4,52,Self-employed,Current,South,High Risk
+68,141468,999417,16,697,0.36,4,1,47,Salaried,Current,West,Very Low Risk
+37,108034,27540,4,575,0.16,1,2,12,Business owner,Current,South,High Risk
+56,40658,140873,16,539,0.41,2,2,48,Salaried,Current,East,High Risk
+55,100352,297986,10,621,0.27,0,2,47,Self-employed,Savings,East,Low Risk
+23,127679,511098,12,789,0.56,0,4,45,Business owner,Current,West,Very Low Risk
+48,122884,999066,0,846,0.42,0,4,11,Self-employed,Salary,East,Very Low Risk
+26,78927,439157,1,808,0.79,4,2,33,Salaried,Current,South,High Risk
+42,79187,247267,18,788,0.57,3,4,46,Self-employed,Salary,South,Low Risk
+35,85296,190146,10,526,0.84,1,1,39,Business owner,Salary,West,Very High Risk
+22,156340,11385,11,473,0.63,1,0,27,Self-employed,Current,West,High Risk
+64,97258,616898,19,620,0.18,4,3,16,Self-employed,Current,South,Moderate Risk
+68,131349,434389,20,677,0.55,1,3,31,Business owner,Savings,West,Very Low Risk
+57,130771,600397,1,546,0.24,2,2,40,Salaried,Savings,South,High Risk
+40,115373,987962,12,744,0.21,0,2,52,Salaried,Savings,South,Very Low Risk
+31,68396,526975,18,491,0.15,0,3,23,Salaried,Current,West,High Risk
+23,100656,300106,20,827,0.69,1,1,32,Salaried,Salary,West,Very Low Risk
+60,28619,429517,12,547,0.85,0,1,39,Business owner,Current,North,High Risk
+22,150284,854221,0,695,0.5,2,0,29,Self-employed,Salary,East,Low Risk
+38,22819,475483,8,783,0.28,4,2,6,Self-employed,Salary,North,Very High Risk
+58,91088,520933,18,496,0.06,3,0,38,Salaried,Salary,East,High Risk
+33,67033,425577,7,640,0.77,2,3,54,Self-employed,Savings,South,Moderate Risk
+36,53563,978945,1,482,0.31,2,2,16,Business owner,Salary,North,High Risk
+24,45093,420543,6,570,0.55,0,0,29,Business owner,Current,West,High Risk
+60,122578,994640,8,636,0.15,0,0,42,Self-employed,Current,West,Very Low Risk
+37,132509,550213,19,800,0.9,2,0,42,Self-employed,Savings,East,Very Low Risk
+35,106378,638366,12,641,0.42,4,2,11,Self-employed,Salary,South,Moderate Risk
+33,71482,328698,17,481,0.53,1,3,4,Self-employed,Current,East,Very High Risk
+45,29853,993083,15,779,0.56,3,0,34,Salaried,Salary,North,Very Low Risk
+33,57721,241731,7,653,0.92,4,0,22,Salaried,Savings,West,Very High Risk
+38,28988,896053,3,494,0.35,4,3,29,Self-employed,Savings,West,Very High Risk
+49,32274,889940,0,767,0.86,2,3,54,Business owner,Savings,South,Low Risk
+62,157917,158682,18,699,0.19,4,2,14,Salaried,Savings,South,Low Risk
+67,65189,128170,4,636,0.09,1,2,51,Business owner,Savings,North,High Risk
+65,137122,524053,6,511,0.78,2,3,53,Salaried,Savings,East,Very High Risk
+64,147955,471708,20,777,0.41,1,1,47,Self-employed,Savings,West,Very Low Risk
+32,123054,56461,7,495,0.75,4,3,34,Salaried,Current,North,Very High Risk
+43,109178,449628,14,811,0.35,2,0,48,Self-employed,Current,South,Very Low Risk
+34,38860,761210,1,738,0.74,4,4,44,Business owner,Salary,East,High Risk
+53,71693,839936,1,652,0.34,2,3,8,Salaried,Current,West,High Risk
+39,119015,901837,1,804,0.68,2,1,32,Business owner,Salary,South,Very Low Risk
+45,64344,801717,10,484,0.39,0,0,28,Self-employed,Savings,West,Moderate Risk
+32,24159,898939,12,832,0.21,3,0,11,Self-employed,Salary,North,Very Low Risk
+31,133716,302159,14,805,0.66,1,4,51,Salaried,Current,West,Very Low Risk
+42,112416,746654,18,530,0.81,3,0,41,Salaried,Current,West,High Risk
+57,131481,39414,9,752,0.49,3,4,3,Salaried,Salary,North,High Risk
+49,140585,973789,12,769,0.72,2,0,30,Business owner,Salary,East,Very Low Risk
+66,143659,232735,20,656,0.66,2,3,49,Salaried,Salary,East,Low Risk
+36,99600,33342,15,667,0.7,2,3,3,Business owner,Savings,East,High Risk
+47,88658,298548,0,568,0.39,0,2,9,Salaried,Savings,South,High Risk
+24,45354,994042,16,557,0.76,4,0,40,Self-employed,Current,North,Moderate Risk
+32,70740,85653,4,494,0.76,0,2,40,Self-employed,Savings,East,Very High Risk
+61,46174,573901,5,673,0.82,4,3,44,Salaried,Savings,South,Very High Risk
+53,25785,124557,13,470,0.51,4,2,32,Business owner,Current,West,Very High Risk
+43,63922,529539,5,738,0.82,0,3,12,Business owner,Salary,South,Moderate Risk
+42,79092,319665,20,603,0.16,1,1,25,Self-employed,Current,North,Moderate Risk
+23,116282,895221,7,575,0.66,3,2,44,Business owner,Current,South,Low Risk
+35,95105,864117,10,488,0.8,3,4,21,Salaried,Current,East,Very High Risk
+21,70856,335189,14,793,0.57,1,3,28,Salaried,Savings,East,Low Risk
+62,130783,320406,18,480,0.81,3,1,20,Salaried,Savings,South,High Risk
+34,80848,91821,19,796,0.25,3,4,36,Self-employed,Savings,North,Moderate Risk
+22,148976,272121,10,602,0.39,0,1,46,Self-employed,Current,East,Low Risk
+30,153103,497040,1,797,0.78,4,3,51,Salaried,Current,North,Moderate Risk
+36,47875,46308,1,763,0.32,4,0,32,Self-employed,Current,South,High Risk
+52,150026,86025,3,494,0.34,2,1,12,Business owner,Current,South,Very High Risk
+65,28343,597624,19,604,0.26,1,1,53,Self-employed,Salary,West,Moderate Risk
+37,76392,889206,16,708,0.06,4,0,37,Salaried,Current,East,Very Low Risk
+32,159683,635227,4,529,0.28,3,0,12,Self-employed,Savings,North,Moderate Risk
+23,48519,180321,19,665,0.36,0,1,18,Self-employed,Savings,East,Moderate Risk
+58,104113,859219,11,686,0.86,4,4,31,Business owner,Savings,West,Moderate Risk
+26,50906,545780,18,624,0.27,4,4,15,Salaried,Salary,North,High Risk
+48,88799,258770,16,587,0.64,0,2,47,Salaried,Current,North,High Risk
+59,90301,138517,14,742,0.28,4,4,22,Self-employed,Salary,South,High Risk
+40,119726,751770,17,741,0.71,3,2,19,Self-employed,Salary,East,Very Low Risk
+35,157841,867839,6,548,0.43,4,1,29,Business owner,Current,East,High Risk
+43,54917,913963,9,508,0.4,3,2,28,Self-employed,Current,East,High Risk
+60,42979,387783,16,776,0.2,3,3,7,Business owner,Savings,West,Low Risk
+49,66085,433282,14,470,0.11,0,1,18,Salaried,Current,West,High Risk
+34,33029,95098,9,730,0.61,3,1,24,Salaried,Savings,South,Very High Risk
+61,56510,393330,2,474,0.44,1,2,4,Salaried,Current,North,Very High Risk
+53,99455,572322,20,832,0.75,0,2,26,Salaried,Salary,South,Very Low Risk
+65,25969,506723,14,806,0.75,3,3,36,Salaried,Current,South,Moderate Risk
+49,45729,298087,3,771,0.86,0,1,3,Salaried,Current,South,Moderate Risk
+47,71748,567651,4,646,0.65,1,1,11,Salaried,Salary,East,Moderate Risk
+30,80582,159602,8,529,0.37,1,0,15,Self-employed,Salary,East,Very High Risk
+50,113266,830953,4,633,0.17,0,4,26,Salaried,Salary,South,Low Risk
+66,87896,416434,8,832,0.83,4,0,13,Salaried,Current,North,Moderate Risk
+45,65613,700447,8,700,0.28,0,4,47,Self-employed,Savings,West,Low Risk
+28,128851,505218,20,481,0.82,2,1,47,Self-employed,Savings,North,High Risk
+48,50419,139145,6,789,0.55,0,3,39,Salaried,Savings,South,Low Risk
+63,54953,286126,16,720,0.55,0,0,34,Salaried,Salary,North,Low Risk
+36,98203,329924,2,785,0.73,0,1,35,Business owner,Savings,West,Low Risk
+38,143876,212286,13,529,0.29,3,4,43,Salaried,Savings,East,High Risk
+54,96640,345365,0,728,0.56,2,4,50,Self-employed,Current,South,High Risk
+33,127968,961537,7,657,0.85,4,3,5,Business owner,Salary,West,Moderate Risk
+68,49544,267295,4,528,0.67,1,0,32,Salaried,Savings,East,Very High Risk
+40,57919,754711,0,524,0.59,0,1,18,Business owner,Current,North,High Risk
+52,94371,540025,16,771,0.53,0,1,10,Business owner,Savings,East,Very Low Risk
+47,139748,573401,0,795,0.84,2,2,12,Business owner,Savings,West,Low Risk
+44,146748,844199,3,627,0.76,3,1,16,Business owner,Salary,North,Moderate Risk
+56,31946,740631,3,476,0.69,1,0,9,Business owner,Salary,South,Very High Risk
+62,23491,833207,2,709,0.84,1,2,37,Self-employed,Current,South,Moderate Risk
+58,120115,70553,1,838,0.57,0,3,13,Business owner,Salary,West,Moderate Risk
+58,48718,945950,12,770,0.87,1,2,9,Salaried,Current,South,Low Risk
+41,91134,174584,6,590,0.75,1,3,36,Business owner,Savings,North,Very High Risk
+50,101982,400661,1,749,0.41,3,3,8,Salaried,Salary,East,Moderate Risk
+31,57126,669852,4,846,0.48,4,2,13,Business owner,Salary,South,Moderate Risk
+59,80924,194990,4,838,0.38,2,3,39,Business owner,Current,South,Moderate Risk
+39,60234,370845,16,726,0.72,2,0,25,Self-employed,Savings,South,Low Risk
+35,100354,708430,9,709,0.85,2,2,47,Business owner,Savings,South,Low Risk
+43,99860,87289,12,759,0.51,4,2,16,Self-employed,Savings,South,Moderate Risk
+39,138775,744568,15,553,0.05,0,3,31,Business owner,Current,South,Very Low Risk
+42,53034,521616,1,606,0.42,2,0,17,Self-employed,Savings,North,Very High Risk
+50,67593,105698,1,626,0.28,1,0,6,Salaried,Current,West,High Risk
+45,55976,2494,8,510,0.92,0,3,33,Self-employed,Savings,West,Very High Risk
+47,105998,485821,2,569,0.39,0,4,38,Self-employed,Salary,West,Moderate Risk
+31,89155,606213,3,482,0.08,4,2,33,Salaried,Savings,South,Very High Risk
+34,111258,101773,1,745,0.39,0,1,32,Business owner,Savings,East,Low Risk
+66,157528,816495,15,472,0.4,4,4,10,Salaried,Current,North,Moderate Risk
+66,154261,225938,2,553,0.42,0,2,30,Business owner,Salary,East,Moderate Risk
+39,54162,327153,20,514,0.19,4,4,48,Salaried,Current,East,Very High Risk
+50,132929,619201,16,776,0.27,2,3,20,Salaried,Savings,North,Very Low Risk
+49,79989,485076,14,695,0.57,2,0,13,Salaried,Salary,East,Moderate Risk
+56,26725,554856,18,663,0.25,3,0,45,Business owner,Current,North,Moderate Risk
+54,105263,59753,0,592,0.76,0,1,11,Salaried,Savings,North,High Risk
+21,24898,724872,0,659,0.84,2,2,16,Salaried,Savings,East,High Risk
+49,91494,26309,1,680,0.24,3,1,3,Business owner,Current,West,Very High Risk
+29,64689,61505,15,530,0.83,4,4,26,Business owner,Savings,East,Very High Risk
+50,28945,748503,15,603,0.58,1,0,25,Salaried,Savings,East,Moderate Risk
+51,77126,741808,0,574,0.15,1,3,9,Self-employed,Savings,West,High Risk
+49,140033,842631,6,788,0.33,1,2,14,Self-employed,Current,East,Very Low Risk
+59,135929,881986,10,538,0.6,0,2,20,Salaried,Salary,South,Low Risk
+59,87384,381138,8,602,0.3,2,3,9,Business owner,Savings,South,Very High Risk
+62,134543,484984,19,639,0.27,4,1,36,Business owner,Current,North,Low Risk
+37,132060,495196,16,662,0.34,0,2,41,Business owner,Salary,North,Very Low Risk
+25,145752,206361,20,578,0.61,0,2,53,Self-employed,Current,North,Very Low Risk
+65,51306,867250,9,696,0.16,0,0,29,Business owner,Salary,North,Very Low Risk
+27,146896,114742,15,819,0.06,1,1,15,Business owner,Current,East,Very Low Risk
+21,36124,32902,8,733,0.64,3,1,22,Business owner,Savings,South,Very High Risk
+42,90931,183790,7,831,0.36,2,4,19,Self-employed,Savings,South,Low Risk
+54,159801,300138,16,659,0.82,0,1,20,Salaried,Current,West,Very Low Risk
+33,85876,391840,1,538,0.58,1,4,42,Business owner,Savings,West,Very High Risk
+31,49840,625268,1,533,0.61,2,2,37,Salaried,Salary,North,Very High Risk
+51,137685,38517,3,659,0.81,4,0,11,Business owner,Salary,North,Very High Risk
+45,130136,553989,4,568,0.85,1,0,30,Salaried,Current,East,High Risk
+65,131770,895931,17,474,0.32,4,3,10,Business owner,Savings,West,Moderate Risk
+55,159497,782568,12,739,0.11,1,3,10,Self-employed,Salary,North,Very Low Risk
+48,128030,47024,4,681,0.73,0,0,29,Salaried,Current,South,High Risk
+36,31898,406829,13,747,0.11,2,3,45,Salaried,Savings,West,Moderate Risk
+30,115147,365084,4,554,0.28,0,2,22,Salaried,Savings,East,High Risk
+58,66345,722673,14,800,0.16,3,0,31,Business owner,Current,West,Very Low Risk
+33,24987,337619,11,518,0.88,0,2,14,Self-employed,Salary,East,Very High Risk
+37,152470,236021,14,769,0.31,0,4,33,Business owner,Salary,North,Very Low Risk
+34,127483,726130,2,767,0.67,3,4,20,Self-employed,Savings,East,Low Risk
+28,60256,654946,1,609,0.79,4,4,52,Salaried,Current,West,Very High Risk
+50,117674,899500,12,839,0.9,4,4,36,Self-employed,Current,South,Very Low Risk
+38,136425,735290,9,573,0.29,3,2,10,Business owner,Salary,North,Low Risk
+54,124580,762021,1,616,0.28,2,3,39,Salaried,Current,North,Low Risk
+22,108978,216961,13,791,0.36,2,0,30,Salaried,Current,East,Very Low Risk
+43,116503,783118,12,563,0.7,3,0,3,Salaried,Savings,West,High Risk
+26,124292,965068,18,797,0.19,1,1,51,Self-employed,Savings,North,Very Low Risk
+23,50058,840181,18,596,0.56,4,2,53,Self-employed,Salary,West,High Risk
+61,99232,380861,20,645,0.61,1,2,49,Business owner,Current,East,Low Risk
+57,29458,469932,1,647,0.24,4,4,7,Salaried,Savings,South,Very High Risk
+31,73910,764016,15,808,0.86,2,2,16,Self-employed,Savings,South,Very Low Risk
+54,78810,596225,1,711,0.52,3,0,30,Self-employed,Savings,West,Moderate Risk
+66,89188,771088,19,726,0.34,1,4,3,Salaried,Salary,West,Very Low Risk
+38,125188,101858,15,836,0.35,1,0,5,Self-employed,Current,North,Very Low Risk
+48,146279,741961,5,835,0.49,2,1,48,Business owner,Savings,South,Very Low Risk
+41,147078,953413,15,689,0.63,2,3,47,Business owner,Salary,South,Very Low Risk
+38,133392,727472,12,846,0.22,0,4,13,Business owner,Current,West,Very Low Risk
+60,37330,325763,8,682,0.4,2,4,32,Self-employed,Current,East,Very High Risk
+67,33715,901850,8,730,0.5,2,1,26,Business owner,Salary,South,Low Risk
+36,81124,741894,7,624,0.39,3,1,35,Self-employed,Current,West,Moderate Risk
+35,84026,128697,13,656,0.77,4,2,34,Business owner,Current,West,Very High Risk
+62,72319,149359,9,675,0.43,1,3,4,Business owner,Salary,East,High Risk
+34,39662,939391,3,608,0.3,4,3,31,Salaried,Current,South,Very High Risk
+21,141349,779451,2,610,0.76,2,0,18,Business owner,Current,South,Moderate Risk
+50,84542,51834,14,472,0.1,2,2,14,Business owner,Salary,South,Very High Risk
+43,30236,674858,10,633,0.14,2,4,13,Salaried,Salary,South,Moderate Risk
+28,94238,735070,14,697,0.1,1,3,49,Self-employed,Current,East,Very Low Risk
+40,68568,19756,11,770,0.78,3,0,10,Salaried,Savings,West,High Risk
+55,148238,3174,16,811,0.43,1,3,7,Self-employed,Savings,West,Very Low Risk
+43,120388,629048,10,710,0.91,2,4,19,Salaried,Savings,West,Moderate Risk
+29,89870,315941,9,617,0.42,4,1,16,Salaried,Current,North,Very High Risk
+33,39324,652469,9,638,0.55,3,0,15,Self-employed,Savings,South,High Risk
+50,67012,846924,3,664,0.48,4,1,46,Self-employed,Savings,North,High Risk
+52,70119,726048,0,693,0.29,3,1,12,Salaried,Savings,West,Moderate Risk
+46,75245,147288,8,712,0.16,3,4,25,Business owner,Current,East,High Risk
+32,79960,991863,14,639,0.88,0,3,34,Self-employed,Current,North,Low Risk
+49,36215,246686,11,676,0.44,4,1,20,Business owner,Current,South,Very High Risk
+62,137642,235621,9,716,0.7,1,2,14,Salaried,Savings,West,Low Risk
+47,74014,84852,4,609,0.08,0,0,35,Salaried,Current,West,High Risk
+32,45033,40489,9,502,0.37,1,2,19,Business owner,Savings,West,Very High Risk
+58,94269,519192,7,648,0.78,1,2,54,Salaried,Current,North,Moderate Risk
+66,57941,450450,0,623,0.67,2,2,45,Self-employed,Salary,West,Very High Risk
+68,148901,761960,18,524,0.15,3,1,52,Business owner,Savings,West,Low Risk
+46,103916,249626,1,599,0.53,1,3,26,Business owner,Savings,West,High Risk
+34,83721,209978,11,493,0.34,3,2,51,Business owner,Current,West,Very High Risk
+40,79331,615849,14,486,0.68,1,2,33,Self-employed,Current,South,High Risk
+40,81818,89333,13,687,0.8,1,3,22,Self-employed,Salary,North,High Risk
+38,57839,412762,15,508,0.86,1,3,12,Self-employed,Savings,East,Very High Risk
+47,24648,741359,10,604,0.6,1,1,54,Business owner,Salary,East,Moderate Risk
+23,106929,903584,15,549,0.62,0,1,25,Business owner,Savings,East,Very Low Risk
+30,74442,718516,12,833,0.46,4,2,32,Business owner,Salary,East,Low Risk
+67,63403,120405,16,735,0.56,1,3,41,Salaried,Salary,South,Moderate Risk
+43,131187,477118,10,723,0.83,0,1,34,Business owner,Savings,North,Low Risk
+25,131874,862398,14,492,0.26,3,2,50,Salaried,Savings,North,Moderate Risk
+58,142927,823759,18,563,0.09,3,2,16,Salaried,Current,South,Very Low Risk
+57,131767,575307,5,675,0.28,4,3,25,Business owner,Current,West,High Risk
+26,30969,692170,8,776,0.65,2,1,33,Self-employed,Current,North,Low Risk
+26,44282,724766,6,723,0.41,0,4,22,Business owner,Savings,North,Low Risk
+32,53892,66190,7,797,0.49,2,3,5,Self-employed,Salary,South,High Risk
+66,152511,268218,19,755,0.84,1,2,51,Salaried,Salary,North,Very Low Risk
+57,47625,285874,11,774,0.54,1,3,53,Business owner,Current,West,Moderate Risk
+40,109705,618881,10,629,0.42,1,2,7,Self-employed,Salary,North,Moderate Risk
+58,95961,156081,16,759,0.31,3,4,51,Self-employed,Salary,East,Moderate Risk
+53,108670,406611,12,764,0.4,1,3,38,Salaried,Savings,East,Low Risk
+50,44184,720472,0,834,0.86,4,0,48,Salaried,Current,West,High Risk
+30,55247,578640,14,578,0.09,0,4,43,Self-employed,Salary,West,Moderate Risk
+47,63623,61930,13,608,0.79,0,0,40,Business owner,Current,West,High Risk
+32,55778,514243,5,506,0.51,0,2,36,Self-employed,Savings,South,High Risk
+25,47735,229257,5,754,0.81,3,2,17,Business owner,Savings,North,Very High Risk
+24,108711,205919,12,704,0.48,2,2,39,Salaried,Salary,South,Low Risk
+48,45111,726137,4,573,0.12,3,2,31,Self-employed,Salary,North,High Risk
+48,69907,170750,7,503,0.69,4,2,54,Business owner,Current,North,Very High Risk
+62,91581,254522,3,737,0.39,1,2,27,Business owner,Savings,West,Moderate Risk
+46,57726,659544,7,680,0.79,2,3,26,Salaried,Current,East,High Risk
+53,136604,946149,6,576,0.34,1,0,42,Salaried,Savings,South,Low Risk
+66,44492,746455,12,544,0.08,3,2,38,Self-employed,Current,East,High Risk
+54,136851,57819,13,479,0.58,0,3,54,Self-employed,Savings,South,High Risk
+27,104651,549207,9,756,0.08,4,0,40,Salaried,Savings,North,Low Risk
+52,55064,258515,2,540,0.58,1,1,3,Business owner,Current,South,Very High Risk
+68,87555,972906,11,522,0.34,4,2,6,Salaried,Savings,East,High Risk
+62,129690,885469,1,687,0.48,0,0,35,Self-employed,Salary,West,Very Low Risk
+22,97171,153914,20,688,0.89,0,1,46,Salaried,Current,East,Low Risk
+67,86768,272092,15,482,0.73,0,3,12,Business owner,Savings,South,Very High Risk
+49,137763,682472,17,848,0.54,1,1,42,Business owner,Savings,East,Very Low Risk
+67,92021,763797,2,587,0.52,3,4,36,Salaried,Savings,West,High Risk
+46,98507,118689,9,611,0.5,0,4,10,Salaried,Salary,South,High Risk
+28,108422,576778,18,549,0.47,4,4,46,Self-employed,Salary,West,High Risk
+55,149995,994829,18,642,0.73,4,3,24,Salaried,Current,West,Low Risk
+44,80918,3670,7,815,0.8,0,3,5,Self-employed,Savings,South,Moderate Risk
+47,41680,485843,7,674,0.24,0,2,31,Salaried,Current,South,Low Risk
+43,128786,797413,9,734,0.59,1,0,14,Business owner,Salary,South,Very Low Risk
+28,36638,275126,17,673,0.26,3,0,23,Salaried,Savings,East,Moderate Risk
+45,98709,826145,6,538,0.26,2,4,44,Business owner,Current,West,Moderate Risk
+56,129140,975560,5,709,0.17,3,1,31,Salaried,Current,East,Very Low Risk
+56,59320,833143,14,499,0.65,0,4,17,Self-employed,Salary,East,Moderate Risk
+32,124542,173229,2,501,0.05,3,2,43,Salaried,Current,North,Very High Risk
+21,122658,273063,20,583,0.25,2,3,3,Self-employed,Savings,South,Moderate Risk
+49,151890,768440,20,751,0.11,4,3,20,Business owner,Salary,North,Very Low Risk
+26,48558,865171,1,663,0.28,0,1,18,Salaried,Current,North,Low Risk
+59,151383,259387,0,635,0.24,1,2,29,Salaried,Savings,East,Low Risk
+44,76389,885256,1,777,0.68,3,1,11,Self-employed,Current,South,Moderate Risk
+63,130466,379783,14,699,0.87,0,2,43,Self-employed,Salary,South,Low Risk
+58,122255,660132,4,532,0.49,0,3,15,Business owner,Savings,South,Low Risk
+53,143266,203464,5,489,0.49,2,3,25,Self-employed,Current,South,Very High Risk
+36,121058,418897,3,519,0.21,0,0,39,Salaried,Current,South,Low Risk
+61,149180,940757,3,838,0.34,4,2,6,Business owner,Savings,East,Very Low Risk
+29,38371,809444,1,695,0.27,2,4,6,Self-employed,Salary,East,High Risk
+54,120299,853634,9,643,0.4,1,4,7,Self-employed,Current,East,Low Risk
+42,56669,948589,20,527,0.06,2,2,3,Self-employed,Current,East,Moderate Risk
+46,78484,788680,20,772,0.23,2,3,12,Salaried,Current,West,Very Low Risk
+46,78971,259495,9,665,0.57,0,2,5,Business owner,Current,West,Moderate Risk
+54,86060,787357,10,639,0.88,3,2,48,Self-employed,Savings,North,High Risk
+67,28904,250323,10,738,0.49,0,4,17,Business owner,Current,South,Moderate Risk
+67,73037,316853,14,588,0.91,3,1,10,Business owner,Savings,South,High Risk
+66,150313,281455,3,628,0.07,1,0,43,Self-employed,Current,North,Low Risk
+65,144429,59719,7,586,0.66,4,4,17,Business owner,Current,North,Very High Risk
+64,26678,454835,4,740,0.86,3,3,36,Salaried,Savings,North,Very High Risk
+30,98713,921932,4,664,0.18,2,1,26,Salaried,Current,South,Low Risk
+55,60316,176007,15,756,0.31,4,3,5,Self-employed,Current,South,High Risk
+67,64970,416675,19,662,0.64,4,3,31,Self-employed,Savings,South,High Risk
+48,90451,851221,14,702,0.89,3,2,3,Business owner,Savings,North,Low Risk
+41,154843,503706,6,574,0.79,1,0,28,Self-employed,Savings,East,Moderate Risk
+48,36899,370278,12,679,0.3,4,3,52,Self-employed,Salary,West,High Risk
+64,110936,202738,2,837,0.54,4,2,54,Self-employed,Savings,North,High Risk
+57,105833,735813,7,523,0.53,3,0,45,Business owner,Savings,West,High Risk
+29,158172,637249,5,611,0.13,2,1,13,Salaried,Salary,North,Low Risk
+60,32154,266775,2,597,0.14,0,4,4,Salaried,Current,West,High Risk
+27,138483,284215,8,596,0.3,1,2,38,Self-employed,Current,East,Moderate Risk
+32,151423,554327,0,807,0.18,1,1,42,Business owner,Savings,East,Very Low Risk
+47,48716,516490,6,717,0.62,0,0,41,Business owner,Savings,South,Low Risk
+53,91616,184673,16,812,0.34,3,2,31,Salaried,Current,West,Low Risk
+26,158038,583382,15,550,0.8,1,0,9,Business owner,Salary,West,Low Risk
+65,39160,610093,12,580,0.47,3,0,23,Business owner,Current,West,High Risk
+25,106002,100224,17,525,0.77,0,1,48,Self-employed,Current,West,High Risk
+37,29248,706217,14,596,0.1,3,0,6,Business owner,Salary,South,Moderate Risk
+56,51128,461321,2,675,0.9,1,1,29,Business owner,Current,South,Very High Risk
+61,108999,445715,16,694,0.2,3,1,13,Self-employed,Savings,West,Low Risk
+55,152001,523284,11,509,0.21,1,4,22,Self-employed,Savings,North,Moderate Risk
+53,78083,888119,8,781,0.9,2,0,13,Salaried,Salary,North,Very Low Risk
+59,55130,850634,18,817,0.09,0,4,21,Business owner,Savings,East,Very Low Risk
+22,82092,160020,1,700,0.49,2,2,20,Self-employed,Savings,South,High Risk
+45,87852,260064,6,519,0.77,3,0,40,Salaried,Savings,West,Very High Risk
+21,103972,953361,16,702,0.75,0,3,4,Salaried,Current,West,Very Low Risk
+61,99548,633169,17,840,0.15,2,3,43,Self-employed,Savings,West,Very Low Risk
+29,122368,923206,0,600,0.28,1,0,17,Self-employed,Current,East,Low Risk
+67,119273,46469,8,847,0.67,1,0,29,Self-employed,Current,South,Low Risk
+44,33654,205766,0,730,0.9,1,2,13,Self-employed,Salary,West,Very High Risk
+32,96822,169290,20,797,0.21,0,2,9,Business owner,Current,South,Very Low Risk
+36,101666,206356,19,539,0.14,0,2,8,Salaried,Current,South,Moderate Risk
+57,118293,698884,4,796,0.9,3,2,9,Salaried,Current,South,Low Risk
+29,73079,195220,19,800,0.21,1,4,38,Self-employed,Current,West,Low Risk
+28,54196,720382,15,539,0.65,4,3,52,Business owner,Savings,West,Very High Risk
+33,132047,771396,18,687,0.35,4,0,39,Business owner,Current,West,Low Risk
+52,116069,656686,7,645,0.61,3,4,15,Self-employed,Salary,South,Moderate Risk
+29,115316,520714,0,516,0.81,0,0,24,Self-employed,Savings,South,High Risk
+34,147349,11679,9,822,0.41,0,2,27,Business owner,Current,East,Very Low Risk
+61,44907,948551,2,492,0.4,0,2,21,Business owner,Savings,East,High Risk
+63,69371,547283,0,591,0.59,3,2,18,Self-employed,Current,West,Very High Risk
+28,78327,645063,20,524,0.24,2,4,35,Salaried,Salary,South,High Risk
+47,53785,437741,8,578,0.65,0,3,13,Self-employed,Salary,South,High Risk
+35,86781,254230,3,822,0.5,3,3,16,Salaried,Savings,East,High Risk
+35,139186,757314,18,575,0.52,0,2,36,Business owner,Salary,South,Very Low Risk
+63,147427,779364,10,602,0.11,0,4,7,Self-employed,Savings,West,Very Low Risk
+52,42912,162117,8,805,0.5,0,0,9,Business owner,Savings,South,Low Risk
+38,99517,195125,14,646,0.77,4,2,34,Self-employed,Current,West,High Risk
+46,54872,329075,19,527,0.42,2,0,51,Self-employed,Salary,West,High Risk
+35,58976,626555,15,752,0.71,4,3,11,Business owner,Salary,West,Moderate Risk
+46,77247,918340,15,694,0.55,3,1,47,Business owner,Salary,South,Very Low Risk
+40,44510,632794,12,842,0.88,3,4,45,Salaried,Savings,West,Low Risk
+30,62983,577693,0,652,0.74,1,4,9,Self-employed,Salary,East,Very High Risk
+52,107076,582380,14,580,0.4,2,1,43,Self-employed,Salary,North,Moderate Risk
+32,96097,574340,7,802,0.29,4,2,20,Salaried,Salary,South,Low Risk
+53,34878,695614,8,581,0.31,0,4,30,Self-employed,Salary,West,High Risk
+49,70450,428990,2,492,0.24,0,0,45,Salaried,Current,East,High Risk
+61,130033,894307,1,511,0.42,3,2,4,Salaried,Savings,West,High Risk
+43,128063,516982,10,668,0.54,1,3,36,Business owner,Current,East,Low Risk
+48,104726,798782,6,535,0.16,4,1,46,Self-employed,Savings,East,High Risk
+24,56141,573555,19,695,0.74,4,0,12,Business owner,Salary,South,Moderate Risk
+26,61432,178131,13,738,0.67,3,2,53,Business owner,Salary,North,Moderate Risk
+48,70422,567034,4,842,0.64,4,4,31,Self-employed,Savings,North,Low Risk
+64,46441,648506,6,478,0.3,2,0,21,Salaried,Salary,North,Very High Risk
+44,126832,687393,16,562,0.4,3,1,8,Self-employed,Salary,West,Moderate Risk
+32,58590,556510,3,663,0.62,1,1,5,Business owner,Salary,North,Moderate Risk
+34,46411,905643,0,638,0.6,2,0,37,Self-employed,Salary,North,High Risk
+53,115627,942293,5,722,0.63,1,2,41,Business owner,Savings,North,Very Low Risk
+25,55859,725227,15,484,0.42,1,0,17,Business owner,Salary,West,Moderate Risk
+45,29824,624504,11,500,0.22,3,4,33,Self-employed,Salary,East,Very High Risk
+54,45362,641195,18,801,0.08,1,4,16,Salaried,Salary,North,Very Low Risk
+25,154315,225795,15,750,0.35,4,4,26,Self-employed,Salary,South,Low Risk
+62,40494,833522,0,790,0.15,3,4,4,Business owner,Current,North,Moderate Risk
+33,78066,805293,15,508,0.9,0,1,27,Business owner,Current,North,Moderate Risk
+41,155508,690849,19,685,0.89,2,1,4,Business owner,Salary,South,Low Risk
+41,26789,856458,0,636,0.51,4,3,33,Business owner,Salary,South,Very High Risk
+35,71797,145425,20,604,0.85,4,4,3,Self-employed,Salary,West,Very High Risk
+27,153868,316962,19,705,0.21,1,0,53,Self-employed,Savings,East,Very Low Risk
+48,27132,995312,4,646,0.64,0,1,51,Self-employed,Current,East,Very Low Risk
+63,23601,184952,7,509,0.35,4,2,34,Salaried,Savings,South,Very High Risk
+26,41089,962833,16,623,0.31,3,1,37,Business owner,Salary,North,Low Risk
+32,128486,730138,9,751,0.5,4,2,46,Self-employed,Current,North,Very Low Risk
+59,134886,471187,7,794,0.85,3,2,22,Self-employed,Savings,South,Moderate Risk
+51,46904,200292,17,643,0.49,2,4,36,Salaried,Savings,South,High Risk
+54,113148,892556,0,478,0.87,3,1,24,Self-employed,Savings,North,Very High Risk
+51,148716,617882,18,833,0.22,1,1,48,Business owner,Savings,North,Very Low Risk
+45,62504,337157,14,477,0.62,3,4,32,Self-employed,Current,North,Very High Risk
+59,150223,349882,15,722,0.75,3,2,17,Self-employed,Current,East,Low Risk
+47,129934,344911,12,659,0.13,3,2,43,Self-employed,Savings,South,Low Risk
+44,85292,393832,14,550,0.48,3,4,28,Salaried,Savings,South,Very High Risk
+23,72498,285529,20,638,0.7,1,2,37,Salaried,Current,West,High Risk
+67,24139,531791,14,768,0.49,4,3,7,Salaried,Salary,East,High Risk
+63,30642,32339,1,579,0.61,3,2,36,Self-employed,Current,West,Very High Risk
+26,51630,217824,5,580,0.71,4,2,25,Self-employed,Current,East,Very High Risk
+30,43106,856972,19,613,0.76,0,4,48,Salaried,Savings,North,Moderate Risk
+39,52720,785298,12,525,0.36,4,4,13,Business owner,Salary,West,Very High Risk
+62,106683,600774,13,568,0.17,0,3,6,Salaried,Savings,West,Low Risk
+41,41601,947653,0,661,0.82,0,2,37,Salaried,Savings,North,Moderate Risk
+21,126261,175575,9,683,0.11,3,1,12,Salaried,Salary,North,Moderate Risk
+51,46624,730469,5,658,0.22,3,1,18,Salaried,Current,East,High Risk
+53,120780,97188,9,771,0.47,4,2,43,Salaried,Savings,West,Low Risk
+22,158175,91117,10,473,0.78,0,4,45,Salaried,Current,South,Very High Risk
+39,100464,530889,8,545,0.31,0,3,32,Self-employed,Current,North,Moderate Risk
+65,27121,826331,6,847,0.89,3,0,27,Salaried,Salary,North,Low Risk
+34,109070,257717,20,699,0.39,4,0,10,Self-employed,Current,North,Low Risk
+61,91690,389555,7,799,0.55,2,2,12,Self-employed,Current,North,Moderate Risk
+43,133925,521938,16,662,0.28,1,2,25,Self-employed,Savings,North,Very Low Risk
+45,25807,534861,16,733,0.31,1,3,24,Salaried,Savings,North,Low Risk
+49,155709,958551,16,742,0.64,3,4,12,Salaried,Savings,West,Very Low Risk
+48,106689,666032,12,608,0.35,0,3,52,Business owner,Salary,North,Very Low Risk
+59,124461,657938,16,654,0.37,4,2,4,Salaried,Savings,West,Low Risk
+38,132791,436787,4,576,0.48,3,2,13,Self-employed,Current,West,Very High Risk
+65,134961,338894,14,543,0.31,4,4,20,Business owner,Savings,West,Very High Risk
+58,100275,607271,7,827,0.49,2,4,6,Self-employed,Salary,West,Low Risk
+68,55441,973415,5,564,0.73,3,0,11,Salaried,Salary,West,High Risk
+51,94969,381800,11,737,0.73,1,0,31,Self-employed,Current,West,Low Risk
+26,142108,40306,7,499,0.5,1,2,40,Self-employed,Current,South,High Risk
+21,118857,610448,10,742,0.23,0,2,46,Business owner,Current,West,Very Low Risk
+51,145317,648289,15,633,0.48,0,4,45,Self-employed,Salary,West,Very Low Risk
+66,157796,56541,15,576,0.61,1,2,5,Salaried,Current,East,Moderate Risk
+36,57970,611434,10,652,0.52,1,1,49,Business owner,Savings,East,Moderate Risk
+38,101099,299968,10,496,0.44,3,4,11,Self-employed,Current,West,Very High Risk
+57,75639,403728,2,681,0.22,2,3,37,Salaried,Current,South,High Risk
+62,42864,65694,10,827,0.61,1,0,33,Salaried,Savings,North,Moderate Risk
+21,68713,358828,15,638,0.82,3,0,41,Salaried,Savings,East,High Risk
+56,88918,100736,20,518,0.67,3,2,13,Salaried,Salary,North,Very High Risk
+50,155740,79798,6,530,0.42,0,0,52,Salaried,Salary,East,Moderate Risk
+50,135009,669704,7,580,0.89,3,3,7,Business owner,Current,South,High Risk
+47,147159,520641,12,477,0.66,3,1,20,Self-employed,Savings,North,High Risk
+40,41249,198780,20,720,0.85,2,4,41,Self-employed,Current,South,High Risk
+68,44663,903650,15,707,0.76,2,1,51,Salaried,Savings,North,Moderate Risk
+53,121920,757702,17,723,0.09,0,2,24,Business owner,Savings,North,Very Low Risk
+35,26264,275394,9,811,0.67,2,2,54,Self-employed,Savings,East,High Risk
+40,74581,205242,9,561,0.87,1,4,49,Self-employed,Savings,East,Very High Risk
+34,97809,574263,17,801,0.23,3,0,21,Self-employed,Savings,West,Very Low Risk
+48,61274,855117,2,493,0.37,0,0,45,Business owner,Current,West,Moderate Risk
+67,76535,973800,10,692,0.46,4,3,8,Salaried,Current,South,Low Risk
+22,52249,8541,2,556,0.24,3,1,6,Salaried,Savings,South,Very High Risk
+59,57372,34037,16,489,0.6,2,2,17,Self-employed,Savings,East,Very High Risk
+68,27178,913250,7,558,0.33,1,0,13,Self-employed,Salary,South,Moderate Risk
+62,28429,512532,2,794,0.5,1,0,14,Self-employed,Salary,East,Moderate Risk
+43,102847,741692,12,547,0.4,0,0,18,Salaried,Current,North,Low Risk
+21,109631,597125,16,810,0.53,4,0,16,Business owner,Current,South,Very Low Risk
+40,111949,503921,9,488,0.85,1,2,49,Self-employed,Salary,South,High Risk
+35,97510,484762,15,664,0.14,4,3,4,Business owner,Savings,West,High Risk
+29,89456,758255,10,490,0.69,0,1,30,Self-employed,Savings,West,High Risk
+50,53634,452950,19,846,0.35,2,4,49,Self-employed,Salary,South,Very Low Risk
+48,58620,18492,6,497,0.38,1,2,10,Business owner,Savings,North,Very High Risk
+46,86601,971498,15,479,0.77,1,0,18,Salaried,Current,East,Moderate Risk
+22,110834,450781,11,708,0.37,1,2,7,Self-employed,Salary,East,Low Risk
+40,64572,619659,19,518,0.29,1,4,26,Business owner,Salary,South,High Risk
+61,41116,770794,3,718,0.06,1,4,41,Business owner,Current,North,Low Risk
+55,89974,697115,15,548,0.15,3,3,41,Salaried,Current,North,Moderate Risk
+46,78114,553254,12,802,0.74,4,4,51,Business owner,Salary,North,Moderate Risk
+43,147037,710077,12,760,0.11,3,2,11,Salaried,Salary,West,Very Low Risk
+64,78706,822652,8,745,0.62,0,4,15,Salaried,Current,East,Low Risk
+21,75786,645490,20,480,0.37,1,2,28,Self-employed,Current,North,Moderate Risk
+35,65498,790281,10,651,0.88,3,2,32,Self-employed,Savings,North,Moderate Risk
+41,137051,907420,17,753,0.45,4,3,33,Salaried,Current,South,Very Low Risk
+26,73550,601249,12,619,0.63,3,4,16,Salaried,Current,South,High Risk
+55,159421,693591,5,745,0.23,3,4,29,Business owner,Savings,South,Very Low Risk
+39,115164,686755,3,770,0.11,2,0,15,Salaried,Salary,North,Very Low Risk
+31,46896,939444,17,585,0.1,3,3,19,Self-employed,Savings,East,Moderate Risk
+23,115647,909786,17,671,0.44,0,3,23,Business owner,Current,East,Very Low Risk
+57,131004,706314,17,628,0.35,4,3,42,Salaried,Salary,North,Moderate Risk
+49,110750,851870,13,788,0.9,2,0,18,Salaried,Current,South,Very Low Risk
+45,105179,603132,7,612,0.34,2,2,31,Salaried,Savings,South,Low Risk
+68,53277,786241,12,496,0.11,3,2,16,Salaried,Savings,East,High Risk
+32,107952,938589,16,675,0.22,3,2,53,Self-employed,Current,South,Low Risk
+33,63455,487222,9,715,0.06,0,2,10,Salaried,Salary,North,Low Risk
+63,60084,129343,0,766,0.6,1,4,45,Self-employed,Salary,South,High Risk
+63,105536,862476,5,505,0.23,1,4,15,Salaried,Savings,North,High Risk
+52,142244,149511,2,532,0.3,4,1,51,Business owner,Salary,West,Very High Risk
+27,143247,23008,6,827,0.52,1,1,7,Business owner,Current,East,Very Low Risk
+64,27506,940028,6,649,0.73,2,1,35,Salaried,Salary,South,Moderate Risk
+43,99268,438810,5,770,0.75,2,3,3,Self-employed,Current,South,Moderate Risk
+26,24364,706304,12,724,0.4,4,1,5,Salaried,Salary,East,High Risk
+49,107360,354322,11,498,0.16,1,3,5,Business owner,Current,South,High Risk
+34,38003,145139,7,647,0.16,3,1,18,Salaried,Current,South,Very High Risk
+22,91747,936747,1,591,0.08,1,2,12,Self-employed,Savings,North,Low Risk
+64,60613,296224,20,505,0.19,2,0,38,Salaried,Current,North,High Risk
+64,48812,355511,16,644,0.32,0,0,14,Self-employed,Salary,West,Low Risk
+53,142942,251987,10,480,0.26,3,1,35,Business owner,Current,East,High Risk
+23,112217,561777,9,493,0.66,2,0,35,Salaried,Savings,North,Very High Risk
+49,142590,11173,15,771,0.9,2,1,18,Business owner,Savings,East,Low Risk
+24,124979,436467,19,573,0.44,0,3,18,Salaried,Savings,East,Very Low Risk
+62,126880,875490,3,739,0.44,1,3,17,Business owner,Current,North,Very Low Risk
+68,103908,213672,0,715,0.34,0,4,37,Salaried,Savings,West,Low Risk
+52,138971,71336,11,697,0.84,3,1,47,Salaried,Savings,West,High Risk
+59,84695,560537,8,598,0.43,4,3,20,Self-employed,Savings,South,High Risk
+36,90646,854233,9,559,0.55,1,1,14,Self-employed,Savings,North,Moderate Risk
+61,63315,969388,14,689,0.24,4,2,32,Self-employed,Savings,North,Low Risk
+58,77777,355971,20,525,0.36,2,1,52,Salaried,Salary,South,High Risk
+52,44136,421484,1,516,0.3,4,0,13,Self-employed,Current,East,Very High Risk
+65,137209,27472,18,782,0.06,2,2,45,Self-employed,Salary,North,Very Low Risk
+52,86021,237173,3,669,0.59,3,4,39,Self-employed,Salary,West,Very High Risk
+28,148154,276537,7,511,0.59,4,3,36,Self-employed,Savings,East,Very High Risk
+30,108532,323078,8,656,0.44,1,2,22,Self-employed,Current,South,Moderate Risk
+65,114951,554597,0,566,0.6,3,4,37,Business owner,Current,South,Very High Risk
+46,143052,374393,13,691,0.79,3,1,28,Salaried,Salary,East,Moderate Risk
+27,108421,467792,7,668,0.44,4,0,52,Self-employed,Savings,North,High Risk
+60,114531,207261,1,720,0.08,2,2,9,Salaried,Savings,West,Moderate Risk
+59,113250,150744,18,538,0.27,0,1,44,Business owner,Savings,West,Low Risk
+45,49997,135854,16,765,0.66,1,0,16,Business owner,Salary,East,Low Risk
+56,49556,470723,8,721,0.14,2,4,51,Self-employed,Salary,South,Moderate Risk
+22,102871,41258,17,733,0.48,4,4,53,Salaried,Salary,North,High Risk
+37,101923,299240,10,718,0.11,0,0,29,Salaried,Current,East,Low Risk
+31,42154,608618,11,650,0.74,0,1,27,Salaried,Current,South,Low Risk
+66,138205,485975,19,518,0.1,4,1,52,Business owner,Current,East,Moderate Risk
+22,40015,618658,19,722,0.84,0,1,42,Salaried,Current,North,Very Low Risk
+25,82522,158456,20,636,0.42,0,1,37,Self-employed,Current,West,Low Risk
+50,143004,310680,15,682,0.41,4,0,48,Self-employed,Savings,East,Low Risk
+47,81397,817496,19,529,0.57,3,2,54,Business owner,Savings,South,Moderate Risk
+49,40814,210307,18,774,0.45,4,1,19,Salaried,Current,East,High Risk
+45,26193,90187,3,556,0.41,2,4,15,Business owner,Salary,East,Very High Risk
+59,67236,489310,19,829,0.08,0,2,48,Salaried,Current,South,Very Low Risk
+46,65482,664181,3,501,0.52,0,1,32,Salaried,Current,North,Moderate Risk
+53,79573,380079,12,548,0.1,3,4,20,Business owner,Current,West,Very High Risk
+32,50937,926408,8,600,0.61,3,4,28,Self-employed,Savings,North,High Risk
+42,128479,780930,8,694,0.58,1,3,37,Salaried,Savings,South,Very Low Risk
+65,141787,61092,6,717,0.23,3,2,13,Self-employed,Savings,East,Moderate Risk
+40,110008,541084,6,486,0.36,3,0,3,Self-employed,Salary,North,Very High Risk
+58,152281,449077,11,723,0.75,3,1,18,Business owner,Savings,West,Moderate Risk
+56,22773,474088,13,487,0.09,2,0,13,Salaried,Current,East,Very High Risk
+44,29699,481069,15,604,0.46,4,1,47,Business owner,Salary,West,High Risk
+62,142891,775285,16,730,0.51,2,2,38,Salaried,Current,East,Very Low Risk
+32,117973,631605,20,767,0.2,3,2,40,Salaried,Savings,North,Very Low Risk
+50,113658,480584,18,800,0.48,0,0,53,Salaried,Current,South,Very Low Risk
+45,75467,789681,5,639,0.71,4,3,43,Business owner,Savings,West,Very High Risk
+50,117186,905049,16,688,0.86,2,2,42,Self-employed,Current,East,Low Risk
+45,97168,772598,4,535,0.35,4,1,53,Business owner,Savings,South,High Risk
+56,106526,578213,18,608,0.69,4,1,46,Business owner,Current,North,Moderate Risk
+30,54690,870231,17,515,0.27,4,1,45,Business owner,Savings,North,Very High Risk
+62,135373,725748,13,557,0.91,2,3,10,Salaried,Savings,East,High Risk
+55,64303,578782,17,677,0.5,0,1,24,Self-employed,Savings,West,Very Low Risk
+23,30543,962819,8,561,0.7,4,3,8,Self-employed,Savings,South,Very High Risk
+42,108356,461754,11,815,0.61,1,0,4,Self-employed,Salary,West,Very Low Risk
+63,53668,593239,0,744,0.11,2,4,50,Self-employed,Current,West,Moderate Risk
+58,81916,331764,2,674,0.66,3,3,29,Business owner,Savings,West,Very High Risk
+33,131541,151065,13,678,0.68,1,4,16,Business owner,Salary,East,Moderate Risk
+37,60517,391099,9,772,0.86,0,0,13,Self-employed,Current,West,Low Risk
+50,37197,185450,8,681,0.24,0,3,22,Salaried,Salary,West,High Risk
+58,150884,439973,0,794,0.48,3,1,4,Salaried,Savings,East,Low Risk
+68,104848,482021,20,550,0.67,4,2,19,Self-employed,Salary,South,High Risk
+54,73498,77007,4,717,0.87,4,1,30,Self-employed,Current,South,Very High Risk
+60,135144,790221,5,675,0.5,0,3,11,Business owner,Savings,West,Low Risk
+54,79363,567868,18,816,0.32,2,1,29,Self-employed,Savings,North,Very Low Risk
+29,95646,503921,14,677,0.75,3,2,53,Salaried,Savings,East,Low Risk
+31,144631,866702,0,762,0.15,2,0,30,Self-employed,Savings,West,Very Low Risk
+68,151537,142969,8,602,0.22,2,1,51,Self-employed,Current,East,Moderate Risk
+42,75863,72720,8,754,0.08,0,4,38,Self-employed,Current,West,Low Risk
+34,56839,949004,18,616,0.63,4,3,8,Self-employed,Savings,North,High Risk
+51,74508,3429,18,728,0.28,1,1,16,Salaried,Current,East,Low Risk
+37,115246,663967,10,540,0.84,0,3,53,Salaried,Savings,North,Moderate Risk
+64,117343,173648,1,688,0.36,0,3,5,Business owner,Salary,East,Moderate Risk
+29,107016,49363,9,479,0.74,2,0,31,Business owner,Current,South,Very High Risk
+37,126861,49214,9,715,0.41,4,1,3,Business owner,Current,North,High Risk
+46,107023,459501,17,656,0.46,1,3,5,Self-employed,Current,South,Low Risk
+61,98203,574278,17,740,0.34,4,1,21,Self-employed,Savings,East,Low Risk
+66,107172,412801,1,675,0.79,3,2,40,Self-employed,Current,North,High Risk
+59,79893,636589,5,500,0.3,2,0,10,Salaried,Current,West,Very High Risk
+65,121421,876392,13,498,0.2,4,1,4,Business owner,Savings,South,High Risk
+62,39400,701238,20,748,0.21,3,1,54,Self-employed,Savings,South,Low Risk
+66,48520,391909,0,733,0.75,1,4,32,Salaried,Salary,North,High Risk
+65,120142,143378,9,479,0.89,1,4,23,Self-employed,Savings,West,Very High Risk
+64,27163,654574,12,485,0.85,0,0,28,Salaried,Current,East,Very High Risk
+28,102438,760040,3,540,0.91,2,4,48,Business owner,Savings,East,High Risk
+51,58381,580807,13,477,0.9,2,3,39,Self-employed,Savings,North,Very High Risk
+42,77290,899336,2,670,0.21,2,2,37,Salaried,Salary,West,Low Risk
+24,50180,252443,14,601,0.49,1,2,48,Salaried,Savings,South,High Risk
+52,149450,152676,1,621,0.52,3,2,53,Self-employed,Current,South,High Risk
+23,81509,861837,18,510,0.63,4,2,16,Business owner,Savings,North,High Risk
+47,93637,133912,4,798,0.56,2,0,42,Self-employed,Salary,East,Moderate Risk
+36,70847,356785,8,490,0.45,0,2,8,Business owner,Current,East,Very High Risk
+25,79972,724517,19,562,0.51,3,4,14,Business owner,Savings,East,High Risk
+46,151515,827808,3,608,0.16,1,1,25,Salaried,Savings,South,Low Risk
+52,60368,796905,14,532,0.3,1,1,43,Salaried,Salary,East,Low Risk
+38,35791,992751,13,531,0.41,1,4,33,Self-employed,Current,North,Moderate Risk
+47,135378,999264,0,560,0.4,3,4,42,Salaried,Salary,East,Low Risk
+49,150017,218043,7,662,0.36,4,1,28,Self-employed,Savings,South,Moderate Risk
+44,156553,449393,4,846,0.84,1,1,52,Business owner,Current,South,Very Low Risk
+43,150493,751484,3,671,0.87,4,2,30,Business owner,Savings,North,Moderate Risk
+65,156752,34177,14,625,0.74,4,2,32,Salaried,Savings,South,Very High Risk
+47,120166,703596,1,605,0.84,2,1,37,Business owner,Savings,East,Moderate Risk
+67,151310,478129,17,652,0.68,3,4,24,Self-employed,Savings,East,Moderate Risk
+62,93349,841949,5,692,0.5,3,0,48,Self-employed,Current,East,Low Risk
+52,87753,850668,19,506,0.87,1,3,40,Business owner,Savings,North,Moderate Risk
+45,111576,861478,8,765,0.64,1,4,13,Business owner,Savings,North,Very Low Risk
+29,90715,945306,2,753,0.89,1,0,3,Business owner,Savings,East,Very Low Risk
+26,51936,914851,14,500,0.39,1,1,53,Self-employed,Savings,North,High Risk
+67,144553,213287,4,760,0.47,1,1,42,Self-employed,Current,East,Very Low Risk
+63,28166,969606,6,679,0.5,0,3,27,Salaried,Salary,West,Low Risk
+42,97864,213671,12,683,0.05,3,1,40,Self-employed,Savings,East,Moderate Risk
+49,89573,329317,11,806,0.29,1,0,33,Business owner,Salary,South,Very Low Risk
+37,100936,478182,13,781,0.44,1,3,5,Business owner,Savings,West,Very Low Risk
+58,121773,168671,14,840,0.67,2,4,6,Self-employed,Salary,West,Very Low Risk
+44,144800,352430,16,550,0.37,4,4,46,Business owner,Savings,North,Very High Risk
+27,84531,973106,7,526,0.08,0,1,50,Self-employed,Salary,East,Very Low Risk
+24,84300,927532,14,470,0.68,1,0,48,Business owner,Salary,West,Low Risk
+62,82661,371076,4,746,0.36,1,2,49,Self-employed,Savings,West,Low Risk
+30,140140,97353,9,754,0.32,2,3,31,Self-employed,Current,North,Low Risk
+63,144321,677025,16,749,0.56,3,3,10,Business owner,Salary,West,Very Low Risk
+29,80814,536546,3,608,0.79,4,0,13,Self-employed,Savings,East,Very High Risk
+49,40706,907839,2,760,0.78,1,4,26,Business owner,Current,West,Low Risk
+64,34883,565403,5,668,0.77,2,0,52,Self-employed,Current,North,High Risk
+23,124289,809026,19,636,0.08,3,1,44,Business owner,Current,South,Low Risk
+56,73701,456155,13,575,0.49,0,4,17,Self-employed,Current,East,Moderate Risk
+33,147341,964465,1,686,0.12,1,3,51,Business owner,Savings,South,Very Low Risk
+53,128201,539547,7,792,0.07,0,2,8,Salaried,Current,North,Very Low Risk
+38,124818,433969,15,658,0.17,0,4,21,Self-employed,Current,West,Low Risk
+34,110047,691900,0,553,0.06,2,3,27,Business owner,Salary,East,High Risk
+54,82924,373682,7,525,0.77,3,1,29,Salaried,Salary,South,Very High Risk
+25,92307,279045,15,637,0.36,0,3,3,Business owner,Salary,East,Moderate Risk
+53,56912,842000,6,508,0.08,3,1,10,Self-employed,Savings,West,High Risk
+67,114858,525931,15,588,0.38,1,2,4,Business owner,Savings,West,Low Risk
+40,138317,135940,17,686,0.86,0,1,5,Salaried,Savings,North,Low Risk
+65,46538,64682,18,534,0.56,3,3,49,Self-employed,Current,East,Very High Risk
+25,142078,574070,12,727,0.29,2,1,8,Self-employed,Salary,South,Very Low Risk
+45,76020,476568,4,834,0.77,3,2,51,Salaried,Current,South,Moderate Risk
+29,49981,366191,1,707,0.37,2,4,47,Self-employed,Savings,North,High Risk
+55,102685,598435,14,611,0.72,2,3,35,Self-employed,Salary,West,High Risk
+41,136403,661279,16,764,0.79,4,0,31,Business owner,Current,East,Low Risk
+44,111538,885834,4,695,0.17,4,2,19,Salaried,Current,North,Moderate Risk
+29,141436,647014,13,532,0.55,3,4,22,Self-employed,Salary,North,Moderate Risk
+43,135897,846580,20,559,0.57,0,1,20,Self-employed,Current,North,Very Low Risk
+50,29536,446998,9,850,0.45,4,0,24,Salaried,Current,North,Moderate Risk
+64,88471,776591,15,725,0.3,2,1,24,Self-employed,Savings,South,Very Low Risk
+67,53396,5759,7,732,0.89,3,2,32,Self-employed,Current,East,Very High Risk
+25,143680,441587,4,640,0.77,1,4,39,Business owner,Salary,North,Low Risk
+42,83674,722382,9,733,0.36,1,4,48,Salaried,Current,South,Low Risk
+44,51059,584293,12,538,0.42,4,0,49,Self-employed,Current,South,Very High Risk
+31,89201,795969,10,521,0.05,0,4,43,Business owner,Salary,West,Low Risk
+44,143890,276853,5,782,0.07,4,4,5,Salaried,Salary,South,Low Risk
+26,25315,96670,9,818,0.22,1,1,33,Self-employed,Salary,West,Moderate Risk
+50,101449,500672,15,498,0.32,2,1,42,Salaried,Current,North,High Risk
+51,40742,239965,8,611,0.5,0,2,53,Self-employed,Savings,South,High Risk
+56,105280,229944,12,726,0.79,1,3,11,Business owner,Salary,North,Low Risk
+31,103884,499070,19,653,0.07,1,4,6,Salaried,Salary,West,Very Low Risk
+21,106382,99282,20,714,0.53,0,3,40,Salaried,Savings,East,Low Risk
+29,106564,407840,3,777,0.44,2,2,35,Business owner,Salary,West,Low Risk
+35,50668,402597,8,701,0.77,4,1,53,Business owner,Savings,North,High Risk
+60,44398,862293,6,679,0.67,0,3,24,Salaried,Savings,South,Low Risk
+48,102845,912812,20,742,0.47,3,2,10,Business owner,Salary,South,Very Low Risk
+33,76413,549496,13,765,0.68,4,0,26,Self-employed,Salary,South,Moderate Risk
+33,158900,826773,4,647,0.5,2,2,41,Self-employed,Savings,South,Very Low Risk
+31,158795,649928,11,579,0.74,0,1,12,Salaried,Current,West,Low Risk
+28,48635,356777,3,774,0.57,3,3,4,Business owner,Current,North,Very High Risk
+21,118971,54936,13,669,0.46,1,3,24,Salaried,Salary,West,Moderate Risk
+60,119401,667821,19,557,0.37,3,3,4,Self-employed,Salary,South,Moderate Risk
+55,108567,42313,7,825,0.86,1,1,31,Self-employed,Savings,West,Low Risk
+40,156287,37950,4,594,0.64,2,2,17,Business owner,Current,North,Very High Risk
+42,145541,638826,14,566,0.79,0,1,44,Business owner,Savings,East,Very Low Risk
+28,99147,118775,7,612,0.37,0,3,25,Business owner,Savings,West,High Risk
+39,115762,344469,3,850,0.67,3,1,49,Business owner,Salary,West,Low Risk
+32,57827,205428,17,809,0.84,0,3,53,Salaried,Savings,South,Low Risk
+29,48592,137799,13,543,0.59,1,1,46,Self-employed,Current,North,Very High Risk
+27,59631,863977,14,767,0.29,1,3,33,Salaried,Savings,East,Very Low Risk
+60,29994,283295,2,602,0.26,2,2,47,Salaried,Salary,West,Very High Risk
+33,95626,946955,4,547,0.89,3,4,34,Business owner,Salary,East,High Risk
+41,110727,110811,8,490,0.67,4,2,46,Self-employed,Savings,West,Very High Risk
+54,114460,988466,10,697,0.79,0,1,45,Salaried,Current,West,Very Low Risk
+59,144356,135704,4,743,0.9,2,2,46,Business owner,Savings,North,Moderate Risk
+30,45035,25333,8,681,0.83,4,1,20,Self-employed,Current,West,Very High Risk
+43,158203,266086,6,825,0.65,0,0,15,Business owner,Current,East,Very Low Risk
+63,86912,907912,11,654,0.62,1,4,9,Self-employed,Current,West,Low Risk
+36,150873,577505,4,582,0.18,3,4,50,Self-employed,Savings,South,High Risk
+22,109173,652043,19,764,0.74,2,2,49,Business owner,Savings,East,Very Low Risk
+57,36067,64993,19,501,0.32,2,1,33,Business owner,Savings,South,Very High Risk
+42,71095,417446,14,520,0.23,3,0,14,Self-employed,Savings,North,Very High Risk
+37,149360,851258,9,696,0.66,0,2,14,Self-employed,Savings,North,Very Low Risk
+27,126950,724824,14,742,0.39,2,2,9,Self-employed,Current,South,Very Low Risk
+48,36444,21838,13,727,0.61,4,2,19,Business owner,Salary,South,Very High Risk
+21,53839,430649,13,798,0.78,4,4,27,Self-employed,Savings,North,High Risk
+39,159318,450923,7,835,0.63,4,1,11,Self-employed,Current,North,Low Risk
+25,67910,233156,20,606,0.72,1,2,3,Salaried,Savings,South,High Risk
+61,130812,515862,19,607,0.57,3,3,50,Business owner,Current,East,Low Risk
+50,92067,977650,20,658,0.75,1,2,51,Salaried,Savings,West,Low Risk
+43,31759,165466,11,666,0.32,3,4,30,Self-employed,Salary,North,Very High Risk
+31,48247,935334,7,783,0.85,4,2,53,Business owner,Current,North,Low Risk
+64,117855,904573,18,746,0.25,1,1,53,Salaried,Savings,East,Very Low Risk
+36,43631,124982,3,604,0.17,1,4,33,Salaried,Salary,East,Very High Risk
+54,28595,415306,4,549,0.69,3,1,19,Salaried,Current,East,Very High Risk
+25,26551,678507,6,749,0.87,3,3,25,Salaried,Current,North,Moderate Risk
+34,102577,314038,1,689,0.54,3,3,45,Salaried,Savings,East,High Risk
+41,78660,485752,10,484,0.8,4,0,54,Salaried,Salary,West,Very High Risk
+37,159842,550766,5,650,0.39,4,4,41,Self-employed,Salary,South,Moderate Risk
+54,23011,962288,0,485,0.25,4,2,7,Salaried,Salary,North,Very High Risk
+61,62344,889247,15,482,0.84,1,1,17,Self-employed,Current,East,High Risk
+34,154209,625180,14,579,0.34,2,1,16,Self-employed,Salary,South,Low Risk
+38,127282,81274,6,697,0.43,1,0,13,Business owner,Savings,South,Low Risk
+36,94245,394859,5,761,0.37,1,0,24,Business owner,Salary,West,Low Risk
+36,70816,673470,20,664,0.62,1,4,45,Self-employed,Current,West,Low Risk
+24,36632,489965,13,503,0.72,4,4,40,Business owner,Current,North,Very High Risk
+59,51056,842623,14,487,0.52,4,2,31,Self-employed,Salary,South,Very High Risk
+38,114874,786907,20,834,0.78,0,2,9,Business owner,Salary,West,Very Low Risk
+25,110040,262481,15,493,0.26,3,4,54,Self-employed,Current,North,Very High Risk
+54,141649,468931,7,725,0.55,3,0,21,Business owner,Current,West,Low Risk
+45,128827,324611,3,657,0.32,4,0,38,Self-employed,Current,West,High Risk
+44,136852,443942,4,646,0.84,4,2,48,Self-employed,Salary,North,Moderate Risk
+55,34670,122012,4,635,0.26,1,0,36,Self-employed,Savings,North,High Risk
+49,52535,60683,8,653,0.57,0,1,38,Self-employed,Salary,North,Moderate Risk
+39,32007,194868,2,640,0.71,2,2,3,Self-employed,Salary,West,Very High Risk
+48,54582,671614,19,475,0.5,4,2,7,Business owner,Current,South,Very High Risk
+63,142417,693705,9,808,0.59,2,2,39,Business owner,Current,East,Very Low Risk
+47,132024,799484,17,591,0.43,2,2,27,Self-employed,Savings,West,Low Risk
+56,57248,373084,1,575,0.09,1,0,40,Salaried,Current,West,High Risk
+31,37090,553864,11,561,0.45,3,4,7,Self-employed,Current,East,Very High Risk
+31,103139,828514,16,563,0.08,2,4,15,Self-employed,Salary,North,Low Risk
+33,80549,824270,0,764,0.82,2,0,14,Salaried,Salary,East,Low Risk
+46,131018,980619,2,781,0.61,3,2,14,Self-employed,Savings,North,Very Low Risk
+52,154716,688407,3,770,0.61,2,2,44,Salaried,Salary,North,Very Low Risk
+22,145969,912879,15,534,0.73,4,0,27,Salaried,Savings,South,Low Risk
+27,136649,975795,8,657,0.81,2,3,40,Self-employed,Current,East,Low Risk
+59,36024,111637,20,602,0.72,3,3,43,Self-employed,Current,South,Very High Risk
+25,114684,376907,17,629,0.41,2,3,53,Self-employed,Savings,North,Moderate Risk
+64,28600,302532,20,608,0.72,3,2,5,Business owner,Current,East,Very High Risk
+34,144220,564321,3,504,0.35,0,1,3,Business owner,Salary,South,Moderate Risk
+59,134958,1617,18,646,0.66,4,3,22,Business owner,Savings,South,High Risk
+52,104268,374172,20,594,0.62,1,1,21,Self-employed,Savings,West,Moderate Risk
+66,54983,792624,20,586,0.22,3,0,53,Salaried,Current,West,Low Risk
+48,136468,262006,11,478,0.8,1,3,30,Self-employed,Current,North,Very High Risk
+52,151844,820544,14,642,0.76,3,4,26,Salaried,Current,West,Moderate Risk
+62,59469,580939,7,472,0.36,3,3,39,Business owner,Savings,West,Very High Risk
+31,31302,427064,3,702,0.79,2,2,17,Salaried,Current,East,Very High Risk
+26,69124,412714,19,724,0.8,0,0,53,Salaried,Current,South,Very Low Risk
+34,142341,118820,9,733,0.14,1,2,9,Self-employed,Savings,North,Very Low Risk
+68,124170,956247,13,777,0.78,1,3,7,Business owner,Current,West,Very Low Risk
+40,62902,390767,10,632,0.12,2,2,21,Salaried,Current,South,Moderate Risk
+68,59733,27732,5,624,0.83,2,2,31,Salaried,Savings,West,Very High Risk
+23,42253,439225,18,502,0.26,4,1,27,Salaried,Current,North,Very High Risk
+51,150365,980661,5,840,0.9,0,1,22,Business owner,Savings,South,Very Low Risk
+25,107243,775074,15,796,0.3,4,4,24,Business owner,Salary,North,Very Low Risk
+36,117369,465642,12,682,0.22,2,1,6,Salaried,Savings,North,Low Risk
+26,139169,241555,4,607,0.31,0,2,29,Salaried,Salary,North,Moderate Risk
+33,99791,886696,4,554,0.37,3,0,3,Business owner,Salary,South,Moderate Risk
+34,110069,998424,19,628,0.37,0,4,14,Self-employed,Current,East,Very Low Risk
+50,133987,619019,18,565,0.75,4,4,37,Self-employed,Current,West,High Risk
+26,117371,133843,19,637,0.13,3,0,5,Self-employed,Salary,South,Low Risk
+46,109940,546842,5,644,0.49,0,2,29,Business owner,Current,East,Low Risk
+43,60377,805857,8,620,0.16,4,2,45,Salaried,Salary,South,High Risk
+66,95979,848327,15,817,0.75,2,1,14,Self-employed,Savings,South,Very Low Risk
+54,90950,650101,13,603,0.35,0,0,35,Salaried,Current,South,Very Low Risk
+67,34602,415538,2,629,0.64,2,2,15,Salaried,Savings,North,Very High Risk
+32,93573,489607,3,766,0.49,4,4,18,Self-employed,Current,North,Moderate Risk
+40,103743,42011,9,577,0.53,0,2,12,Salaried,Savings,West,High Risk
+23,152677,518572,14,768,0.85,1,4,50,Business owner,Current,North,Very Low Risk
+37,26763,127570,16,849,0.4,4,3,50,Salaried,Savings,South,Moderate Risk
+56,112895,138538,5,694,0.44,4,3,12,Business owner,Savings,South,Very High Risk
+27,87980,300797,6,751,0.61,2,2,49,Self-employed,Salary,South,Low Risk
+43,135772,366798,18,624,0.48,4,2,22,Salaried,Current,West,High Risk
+50,88828,443582,9,839,0.74,2,4,5,Self-employed,Savings,North,Low Risk
+24,118931,178576,14,526,0.71,2,1,33,Salaried,Savings,South,Very High Risk
+34,149816,884935,5,697,0.11,2,4,47,Salaried,Savings,West,Very Low Risk
+50,118587,560359,7,585,0.91,3,4,30,Self-employed,Salary,South,High Risk
+34,84629,423268,19,650,0.06,4,4,44,Business owner,Salary,East,Moderate Risk
+66,74027,243715,6,521,0.12,0,1,15,Business owner,Savings,East,Very High Risk
+50,53667,395429,0,495,0.68,0,3,21,Self-employed,Salary,East,Very High Risk
+34,145311,448355,13,846,0.43,0,3,15,Self-employed,Current,South,Very Low Risk
+45,79848,618396,10,700,0.46,2,2,46,Salaried,Savings,South,Low Risk
+38,137913,85415,14,524,0.76,0,2,33,Salaried,Savings,South,High Risk
+45,96319,211083,17,758,0.26,0,0,32,Salaried,Current,South,Very Low Risk
+35,152546,808958,11,499,0.09,1,3,32,Salaried,Savings,South,Very Low Risk
+38,153972,414929,7,638,0.26,0,1,13,Self-employed,Current,South,Very Low Risk
+57,76895,875865,4,504,0.56,0,3,14,Salaried,Current,East,High Risk
+37,137549,421169,4,492,0.23,2,4,17,Salaried,Salary,West,Very High Risk
+33,98296,412486,17,764,0.67,3,4,36,Business owner,Current,North,Moderate Risk
+44,36494,944369,19,779,0.72,4,3,8,Salaried,Salary,West,Low Risk
+44,116634,693176,9,660,0.41,1,1,8,Salaried,Salary,North,Very Low Risk
+21,120138,141380,2,653,0.27,3,3,12,Self-employed,Savings,North,High Risk
+63,150260,923615,8,602,0.85,0,3,43,Self-employed,Current,East,Very Low Risk
+38,126799,709590,17,747,0.76,1,3,3,Self-employed,Salary,East,Very Low Risk
+58,124557,877343,0,566,0.81,0,1,21,Business owner,Current,West,Moderate Risk
+58,70576,252187,5,599,0.49,2,1,40,Business owner,Current,West,High Risk
+61,58381,881700,12,766,0.82,1,1,38,Self-employed,Current,North,Low Risk
+52,152741,412445,16,771,0.27,3,1,5,Salaried,Salary,South,Very Low Risk
+50,52534,127948,14,715,0.37,3,4,21,Salaried,Savings,East,High Risk
+33,112421,897340,16,527,0.59,3,4,23,Self-employed,Current,North,Moderate Risk
+51,101209,378692,15,636,0.34,0,2,12,Salaried,Savings,South,Low Risk
+22,105752,972014,18,542,0.76,1,1,36,Self-employed,Salary,North,Very Low Risk
+22,50280,411774,14,757,0.55,3,3,10,Salaried,Savings,East,Moderate Risk
+63,119007,906404,17,757,0.26,2,2,7,Business owner,Savings,North,Very Low Risk
+39,100715,115215,16,637,0.82,2,3,31,Self-employed,Savings,North,Very High Risk
+51,86806,491487,19,580,0.19,3,0,49,Business owner,Salary,East,Moderate Risk
+62,122572,23471,20,702,0.34,0,4,4,Self-employed,Savings,South,Low Risk
+32,92557,771370,14,505,0.41,4,0,3,Self-employed,Current,South,Very High Risk
+58,88324,664096,5,711,0.13,3,4,10,Self-employed,Savings,West,Moderate Risk
+57,48483,734519,0,501,0.38,3,1,21,Self-employed,Current,North,Very High Risk
+48,48298,929044,8,622,0.58,2,2,30,Self-employed,Current,North,Moderate Risk
+32,83178,978144,9,675,0.19,3,1,41,Salaried,Current,West,Low Risk
+46,143489,402708,12,528,0.28,0,3,8,Salaried,Salary,East,Low Risk
+43,64309,496999,20,825,0.26,2,2,28,Self-employed,Current,South,Very Low Risk
+51,38086,857967,10,613,0.49,3,3,49,Self-employed,Savings,West,Moderate Risk
+40,64826,36467,2,849,0.76,3,2,37,Business owner,Current,South,Moderate Risk
+53,68900,590273,9,815,0.87,4,2,54,Salaried,Current,East,Low Risk
+23,65024,288841,20,737,0.08,1,3,45,Salaried,Current,North,Low Risk
+32,157694,879439,14,822,0.75,3,2,17,Salaried,Salary,South,Very Low Risk
+45,133937,414177,20,758,0.66,0,2,24,Self-employed,Current,West,Very Low Risk
+52,59668,314301,2,534,0.39,3,1,14,Salaried,Current,West,Very High Risk
+45,94527,946711,1,507,0.09,4,3,14,Business owner,Current,West,Very High Risk
+24,119824,517909,10,515,0.5,1,0,20,Salaried,Current,South,Moderate Risk
+60,28624,642452,0,672,0.34,4,2,31,Business owner,Salary,West,Very High Risk
+33,100185,769775,9,503,0.48,3,0,24,Salaried,Current,South,High Risk
+64,71420,759766,13,475,0.66,3,0,36,Business owner,Current,East,High Risk
+27,91095,345267,10,568,0.16,2,1,15,Business owner,Salary,South,Moderate Risk
+36,99549,564488,16,780,0.78,4,2,35,Business owner,Salary,East,Very Low Risk
+41,98837,489756,15,790,0.69,2,2,10,Self-employed,Savings,West,Low Risk
+31,143425,956545,9,518,0.85,2,0,4,Business owner,Current,North,Low Risk
+54,150175,88652,18,664,0.24,0,4,11,Self-employed,Current,East,Very Low Risk
+26,150857,90700,13,617,0.07,3,2,30,Self-employed,Savings,North,Low Risk
+44,88731,49990,17,751,0.39,0,3,10,Self-employed,Salary,West,Low Risk
+43,34737,639055,15,557,0.64,3,0,52,Self-employed,Savings,North,High Risk
+48,91887,736860,0,537,0.86,0,1,32,Salaried,Savings,East,Moderate Risk
+31,99441,617175,2,542,0.74,1,3,24,Salaried,Savings,South,Very High Risk
+43,106059,18655,16,706,0.13,4,0,7,Salaried,Savings,North,Moderate Risk
+46,64049,944565,14,736,0.21,1,4,50,Self-employed,Current,South,Very Low Risk
+26,59734,161893,2,673,0.67,4,2,29,Self-employed,Salary,South,Very High Risk
+43,28538,785721,17,680,0.35,0,3,5,Business owner,Savings,North,Low Risk
+52,79508,409230,3,656,0.34,1,2,39,Self-employed,Savings,North,Low Risk
+38,45512,627575,19,489,0.86,0,1,52,Salaried,Savings,North,High Risk
+32,22728,543565,18,520,0.23,2,3,3,Business owner,Current,West,Very High Risk
+59,45629,795825,1,628,0.8,1,4,24,Business owner,Current,North,High Risk
+38,150307,31686,7,552,0.31,0,1,47,Business owner,Current,North,High Risk
+68,91642,807419,9,585,0.13,0,4,38,Self-employed,Savings,North,Very Low Risk
+64,77545,827526,20,558,0.55,1,0,19,Salaried,Current,North,Low Risk
+39,156210,322840,2,541,0.19,4,0,6,Salaried,Current,North,High Risk
+31,153191,139020,8,763,0.71,2,3,33,Business owner,Savings,North,Low Risk
+38,101170,392035,17,487,0.24,2,0,17,Self-employed,Salary,South,High Risk
+26,91389,993025,3,743,0.14,4,4,11,Salaried,Savings,West,Low Risk
+51,149021,752382,8,773,0.89,1,0,4,Self-employed,Current,North,Very Low Risk
+62,126544,925003,8,506,0.55,0,4,15,Self-employed,Salary,North,Low Risk
+35,126256,626381,15,571,0.38,0,1,21,Salaried,Salary,West,Low Risk
+53,64855,749644,0,791,0.8,0,3,13,Salaried,Current,West,Very Low Risk
+63,54293,236797,1,824,0.46,2,2,3,Salaried,Current,North,Moderate Risk
+28,43787,99019,11,522,0.45,2,2,24,Self-employed,Salary,East,Very High Risk
+55,142714,789703,15,529,0.58,2,4,16,Self-employed,Current,East,Moderate Risk
+37,83290,877871,5,556,0.59,0,2,21,Business owner,Savings,North,Moderate Risk
+53,36305,948883,17,610,0.15,4,4,48,Salaried,Savings,North,High Risk
+67,30518,598871,2,499,0.74,4,0,18,Self-employed,Savings,East,Very High Risk
+66,51105,732695,9,770,0.61,4,1,49,Business owner,Salary,West,Moderate Risk
+31,63591,351748,11,745,0.11,1,3,14,Business owner,Savings,East,Low Risk
+39,45136,79604,6,742,0.21,1,2,10,Salaried,Current,East,High Risk
+43,51277,940791,0,717,0.88,4,4,10,Salaried,Savings,East,Very High Risk
+48,151310,654482,0,672,0.88,4,4,33,Business owner,Current,North,High Risk
+59,147246,376290,7,704,0.08,3,0,39,Salaried,Savings,East,Low Risk
+29,110204,745902,14,812,0.84,3,1,4,Business owner,Current,West,Low Risk
+32,56630,182366,6,760,0.41,1,1,15,Self-employed,Savings,East,High Risk
+55,32739,546301,3,695,0.72,4,0,40,Business owner,Savings,North,Very High Risk
+60,126970,657437,0,524,0.2,3,1,29,Self-employed,Savings,West,High Risk
+35,36558,282201,2,495,0.89,1,3,53,Self-employed,Salary,North,Very High Risk
+55,54433,865711,16,659,0.33,2,1,41,Salaried,Current,South,Very Low Risk
+32,99251,988391,15,633,0.38,2,0,45,Business owner,Current,West,Very Low Risk
+25,109794,679843,9,701,0.58,1,2,40,Self-employed,Salary,North,Very Low Risk
+22,61126,609077,16,696,0.07,1,1,29,Self-employed,Savings,South,Low Risk
+62,70885,125641,13,702,0.63,4,2,51,Salaried,Savings,South,Very High Risk
+62,56866,70419,8,557,0.81,2,4,41,Business owner,Savings,East,Very High Risk
+55,133056,835798,0,842,0.41,4,1,49,Self-employed,Savings,East,Very Low Risk
+65,81228,317518,11,757,0.23,1,3,18,Salaried,Salary,East,Moderate Risk
+28,56723,233425,16,799,0.26,0,2,38,Salaried,Current,West,Very Low Risk
+25,76349,360078,14,556,0.17,4,3,9,Self-employed,Savings,West,Very High Risk
+46,155743,215131,20,511,0.51,1,2,25,Self-employed,Current,South,High Risk
+66,62793,578354,14,471,0.14,2,2,32,Business owner,Current,South,High Risk
+57,85350,103185,1,762,0.5,4,2,17,Business owner,Current,East,Very High Risk
+30,138355,447267,11,646,0.74,2,3,48,Self-employed,Salary,South,Moderate Risk
+54,122765,494682,1,640,0.69,4,1,14,Salaried,Salary,East,High Risk
+27,150686,155161,3,821,0.28,4,0,52,Business owner,Salary,West,Moderate Risk
+23,57995,598768,20,799,0.56,4,2,51,Business owner,Salary,North,Low Risk
+63,94124,736102,8,645,0.58,0,4,48,Salaried,Salary,East,Very Low Risk
+22,152803,722968,10,671,0.42,4,0,17,Business owner,Salary,East,Moderate Risk
+57,57802,828276,19,805,0.26,2,1,21,Business owner,Savings,East,Low Risk
+47,106169,781306,20,793,0.57,4,4,7,Business owner,Current,East,Very Low Risk
+56,73201,385895,19,745,0.07,4,1,38,Business owner,Savings,South,Low Risk
+63,52363,966321,2,478,0.66,2,0,34,Salaried,Current,North,Very High Risk
+27,56174,3273,0,495,0.88,4,1,47,Salaried,Savings,North,Very High Risk
+52,44633,275168,8,591,0.6,4,2,13,Self-employed,Salary,West,Very High Risk
+49,60160,726993,2,679,0.3,4,2,37,Self-employed,Salary,North,Moderate Risk
+50,115546,940716,9,788,0.07,4,4,34,Business owner,Current,South,Very Low Risk
+33,35787,970465,5,588,0.63,0,4,23,Salaried,Current,West,High Risk
+51,125144,14367,20,776,0.47,4,0,27,Salaried,Salary,East,Low Risk
+63,106887,453334,13,596,0.23,1,0,18,Salaried,Savings,West,Moderate Risk
+43,89406,669980,8,714,0.44,4,2,16,Salaried,Current,North,Moderate Risk
+22,133209,31907,5,616,0.59,0,2,23,Business owner,Salary,West,Moderate Risk
+21,157345,321316,5,836,0.64,0,3,42,Business owner,Salary,North,Very Low Risk
+28,66783,352124,6,655,0.45,3,4,12,Business owner,Salary,West,Very High Risk
+63,60882,371134,14,714,0.35,3,1,16,Business owner,Savings,East,Moderate Risk
+21,99462,349856,2,838,0.28,1,1,9,Self-employed,Savings,South,Low Risk
+58,45223,712363,18,692,0.42,1,2,30,Business owner,Current,West,Moderate Risk
+35,37982,544268,5,475,0.43,4,3,14,Self-employed,Current,North,Very High Risk
+24,47261,313638,3,496,0.37,1,4,45,Salaried,Savings,South,Very High Risk
+28,76518,93414,11,768,0.76,1,0,47,Self-employed,Salary,West,Moderate Risk
+48,137265,886943,17,640,0.61,0,0,6,Self-employed,Salary,East,Very Low Risk
+33,70937,385159,8,793,0.59,1,4,8,Business owner,Savings,East,Moderate Risk
+58,98493,204417,16,661,0.91,0,0,46,Salaried,Salary,South,Low Risk
+41,125987,841442,9,673,0.79,4,1,18,Business owner,Savings,East,Low Risk
+64,47366,157582,9,687,0.52,4,1,28,Business owner,Salary,West,Very High Risk
+67,131448,157085,1,665,0.17,3,3,54,Salaried,Current,South,High Risk
+64,148954,952787,8,677,0.81,0,1,39,Salaried,Savings,West,Very Low Risk
+31,59145,188610,3,633,0.45,1,0,26,Self-employed,Salary,North,High Risk
+45,64472,77947,7,548,0.32,0,3,40,Self-employed,Current,North,High Risk
+42,42010,135018,8,752,0.25,1,3,20,Self-employed,Salary,North,Moderate Risk
+44,120402,742582,7,839,0.59,0,1,30,Self-employed,Savings,South,Very Low Risk
+60,60307,127615,0,569,0.57,4,3,16,Business owner,Salary,West,Very High Risk
+33,25150,826572,5,597,0.33,3,2,29,Business owner,Savings,North,High Risk
+56,85044,105758,7,656,0.42,4,3,44,Salaried,Salary,West,Very High Risk
+49,141423,153374,12,642,0.78,0,0,35,Self-employed,Salary,East,Low Risk
+47,132003,172167,6,552,0.16,2,1,9,Business owner,Current,West,Very High Risk
+64,145945,567691,9,681,0.83,2,0,32,Self-employed,Salary,North,Low Risk
+60,116613,880994,5,555,0.78,4,1,53,Business owner,Current,South,High Risk
+52,76335,653418,8,554,0.18,2,2,45,Self-employed,Savings,South,Moderate Risk
+31,53190,879741,12,746,0.47,1,1,16,Business owner,Salary,North,Low Risk
+54,100658,900558,11,562,0.33,4,0,20,Salaried,Savings,West,Moderate Risk
+50,117110,90996,5,590,0.45,3,2,19,Self-employed,Salary,East,Very High Risk
+34,152640,10865,20,613,0.08,2,0,20,Business owner,Salary,West,Low Risk
+36,28606,778251,3,504,0.3,1,1,47,Business owner,Current,North,High Risk
+63,153590,725874,11,492,0.88,4,4,49,Salaried,Salary,West,High Risk
+40,32049,607628,2,597,0.51,0,1,12,Business owner,Current,East,High Risk
+48,64472,448034,8,834,0.44,3,1,23,Salaried,Savings,East,Low Risk
+53,154687,674625,13,817,0.78,0,4,5,Business owner,Savings,East,Very Low Risk
+28,80028,795654,7,689,0.75,1,1,23,Business owner,Salary,South,Low Risk
+52,115489,740804,0,791,0.75,0,3,46,Self-employed,Savings,West,Very Low Risk
+64,79473,259421,8,705,0.54,0,1,46,Salaried,Current,West,Low Risk
+41,78347,575878,11,473,0.91,3,4,14,Business owner,Savings,South,Very High Risk
+45,46819,54868,4,617,0.46,3,1,17,Self-employed,Salary,South,Very High Risk
+29,111299,94564,3,547,0.37,3,2,41,Self-employed,Savings,West,Very High Risk
+35,50295,786363,20,615,0.71,4,3,15,Business owner,Current,East,High Risk
+39,52283,686171,3,669,0.56,0,3,35,Self-employed,Savings,North,High Risk
+46,84985,29855,10,651,0.47,0,0,13,Business owner,Salary,North,High Risk
+64,83015,632107,14,676,0.61,0,3,40,Business owner,Savings,North,Low Risk
+54,127275,989117,0,482,0.84,3,1,25,Salaried,Savings,North,High Risk
+48,52210,500487,18,848,0.3,1,0,30,Business owner,Salary,West,Very Low Risk
+40,146838,208253,12,775,0.88,3,3,38,Self-employed,Salary,West,Moderate Risk
+66,117146,487820,13,557,0.58,0,4,17,Salaried,Salary,North,Low Risk
+49,60245,176329,0,826,0.14,1,0,53,Self-employed,Savings,South,Low Risk
+57,55531,153355,15,544,0.87,2,0,31,Business owner,Salary,West,High Risk
+32,103019,278559,11,551,0.5,3,4,25,Business owner,Savings,West,Very High Risk
+24,26525,7994,12,702,0.16,0,1,44,Self-employed,Current,East,Moderate Risk
+67,87369,848691,13,645,0.39,1,2,49,Self-employed,Current,South,Low Risk
+49,103582,423848,15,660,0.43,1,2,36,Business owner,Savings,East,Low Risk
+57,100256,977603,20,626,0.61,4,3,25,Business owner,Savings,North,Low Risk
+55,148011,647924,20,720,0.56,4,3,47,Salaried,Current,South,Low Risk
+65,105915,86677,18,542,0.12,3,0,8,Self-employed,Current,East,High Risk
+65,149186,535955,5,817,0.82,0,3,18,Salaried,Salary,West,Very Low Risk
+30,146218,89313,16,479,0.75,1,2,25,Self-employed,Savings,West,High Risk
+59,94778,985534,2,787,0.89,4,0,6,Business owner,Savings,South,Low Risk
+61,98703,396901,5,532,0.87,4,2,41,Self-employed,Savings,North,Very High Risk
+23,52427,217649,18,787,0.45,4,3,50,Salaried,Savings,South,High Risk
+39,95664,68577,0,529,0.21,4,3,12,Self-employed,Current,East,Very High Risk
+23,130170,517133,5,660,0.21,1,0,49,Self-employed,Current,North,Low Risk
+33,107894,49294,11,551,0.62,3,1,34,Business owner,Current,East,Very High Risk
+41,44142,28913,14,490,0.07,2,0,39,Self-employed,Salary,East,Very High Risk
+28,72199,428280,13,514,0.66,4,1,28,Salaried,Current,West,Very High Risk
+58,132636,338422,18,689,0.25,4,3,27,Salaried,Savings,East,Very Low Risk
+37,104015,419617,11,719,0.66,3,4,21,Business owner,Current,South,Moderate Risk
+28,103754,911894,6,558,0.8,3,3,31,Self-employed,Current,North,High Risk
+33,123625,293358,15,753,0.91,0,3,47,Self-employed,Savings,East,Very Low Risk
+62,41251,82568,2,477,0.09,0,2,42,Salaried,Salary,East,Very High Risk
+41,145021,532082,3,625,0.86,3,1,43,Business owner,Savings,East,Moderate Risk
+23,120250,6493,14,669,0.69,4,0,26,Business owner,Savings,North,Very High Risk
+61,31869,349317,9,659,0.83,1,0,48,Business owner,Current,North,High Risk
+39,56553,635128,15,666,0.67,0,0,15,Salaried,Salary,North,Low Risk
+33,60178,401717,1,618,0.22,4,3,11,Self-employed,Savings,South,Very High Risk
+53,23213,699460,0,558,0.77,4,2,4,Business owner,Savings,North,Very High Risk
+34,119545,978391,8,708,0.85,4,4,4,Business owner,Savings,South,Moderate Risk
+50,89592,638041,11,743,0.13,3,3,41,Business owner,Salary,North,Very Low Risk
+23,84096,499458,0,694,0.65,3,0,28,Business owner,Salary,North,High Risk
+35,77867,662376,19,514,0.47,2,2,22,Self-employed,Salary,West,Moderate Risk
+50,151927,704832,1,563,0.09,4,3,6,Business owner,Savings,North,Moderate Risk
+35,28050,179527,14,738,0.21,0,4,41,Salaried,Savings,North,High Risk
+44,44747,578930,2,612,0.52,4,0,41,Self-employed,Current,North,Very High Risk
+30,49093,534001,19,741,0.86,1,4,25,Self-employed,Salary,South,Moderate Risk
+65,50681,455361,1,727,0.81,0,3,53,Self-employed,Savings,South,Moderate Risk
+41,92732,822928,19,632,0.78,2,4,13,Self-employed,Savings,West,Low Risk
+59,38592,19737,3,721,0.15,1,0,53,Self-employed,Current,East,Moderate Risk
+35,74360,458714,9,724,0.89,3,4,50,Salaried,Savings,North,High Risk
+59,49976,447741,7,787,0.28,0,3,50,Self-employed,Savings,West,Very Low Risk
+54,135928,443003,7,806,0.35,3,2,54,Salaried,Current,North,Low Risk
+55,87965,512502,9,768,0.49,2,4,14,Salaried,Savings,West,Very Low Risk
+21,87035,330244,16,750,0.85,3,1,16,Business owner,Current,North,Moderate Risk
+41,78171,940502,12,619,0.85,1,2,6,Salaried,Current,South,Moderate Risk
+45,22437,94589,1,576,0.56,2,3,26,Salaried,Current,East,Very High Risk
+23,115254,492235,11,559,0.86,4,1,3,Self-employed,Current,West,High Risk
+22,108876,280987,20,626,0.09,2,2,51,Business owner,Savings,South,Moderate Risk
+39,84150,935441,12,502,0.37,0,4,35,Business owner,Current,South,High Risk
+52,129960,746070,5,696,0.06,2,1,4,Business owner,Current,South,Very Low Risk
+25,87319,288901,14,695,0.61,4,4,23,Salaried,Current,South,High Risk
+24,23166,612619,0,522,0.19,4,3,22,Self-employed,Salary,South,Very High Risk
+48,124430,289252,19,576,0.4,3,2,52,Self-employed,Savings,West,Moderate Risk
+23,158233,122012,2,703,0.14,2,0,28,Business owner,Current,North,Moderate Risk
+40,140185,925995,10,496,0.8,1,0,41,Salaried,Current,East,Moderate Risk
+50,138896,139740,8,631,0.1,2,4,10,Self-employed,Current,West,Moderate Risk
+50,44147,305446,18,592,0.89,0,3,43,Business owner,Savings,West,High Risk
+47,49382,451858,7,649,0.5,4,2,16,Salaried,Savings,West,High Risk
+46,25056,456023,5,776,0.61,0,3,15,Business owner,Salary,South,Low Risk
+34,43300,777970,12,550,0.63,2,0,11,Salaried,Savings,North,High Risk
+54,25574,599245,3,732,0.9,4,2,15,Self-employed,Salary,South,Very High Risk
+49,32135,458748,20,841,0.81,2,3,9,Business owner,Salary,North,Low Risk
+31,62011,295104,12,787,0.14,0,1,43,Salaried,Savings,North,Very Low Risk
+38,135374,296694,18,787,0.52,0,0,50,Salaried,Savings,North,Very Low Risk
+22,30328,830014,13,564,0.71,2,3,44,Business owner,Current,East,High Risk
+60,25366,207628,1,477,0.76,1,1,40,Salaried,Current,West,Very High Risk
+22,59540,626869,19,522,0.68,1,0,17,Self-employed,Current,South,Moderate Risk
+63,86539,605703,8,577,0.81,4,3,22,Self-employed,Savings,West,Very High Risk
+26,120866,13886,9,603,0.27,0,3,17,Self-employed,Savings,South,High Risk
+66,79233,730885,12,485,0.48,4,3,20,Self-employed,Savings,North,Very High Risk
+54,127767,958442,14,589,0.65,2,0,17,Salaried,Savings,East,Very Low Risk
+26,123030,479816,6,617,0.49,0,4,4,Salaried,Current,East,Low Risk
+52,143274,222882,3,846,0.68,0,2,11,Self-employed,Savings,East,Very Low Risk
+68,145829,45073,18,691,0.78,4,2,30,Self-employed,Salary,West,Moderate Risk
+39,66733,675234,8,491,0.4,1,2,30,Self-employed,Current,East,High Risk
+50,94662,140771,9,759,0.39,2,0,17,Self-employed,Current,North,Low Risk
+37,155196,685896,8,549,0.48,0,1,18,Business owner,Salary,North,Very Low Risk
+39,97782,799299,4,605,0.88,4,0,40,Self-employed,Salary,South,High Risk
+55,90011,436849,19,677,0.26,1,4,12,Business owner,Savings,North,Moderate Risk
+32,159087,562232,2,694,0.72,1,1,8,Self-employed,Savings,North,Low Risk
+61,133848,350844,16,625,0.89,2,0,19,Self-employed,Salary,West,Moderate Risk
+64,73668,419551,10,503,0.28,1,4,13,Self-employed,Current,South,Very High Risk
+63,26946,561347,2,815,0.21,1,1,6,Business owner,Salary,North,Moderate Risk
+37,123631,779571,0,597,0.2,2,1,52,Self-employed,Savings,South,Moderate Risk
+54,153044,126128,1,704,0.5,2,2,19,Self-employed,Salary,East,Moderate Risk
+52,45264,453240,12,570,0.62,0,1,43,Business owner,Savings,East,High Risk
+45,76222,328873,16,587,0.14,2,1,5,Salaried,Salary,West,Moderate Risk
+42,123180,618561,11,797,0.12,0,0,4,Salaried,Current,South,Very Low Risk
+29,62088,781028,12,502,0.06,3,4,37,Business owner,Current,West,Very High Risk
+62,28456,475284,8,719,0.3,2,4,41,Business owner,Current,East,Moderate Risk
+47,112082,766609,13,707,0.05,0,2,39,Self-employed,Current,South,Very Low Risk
+39,82962,428007,16,496,0.62,2,1,41,Self-employed,Current,South,High Risk
+28,50080,14915,4,559,0.41,2,3,34,Self-employed,Current,East,Very High Risk
+64,105429,789744,13,505,0.65,3,2,48,Salaried,Salary,North,Very High Risk
+27,142322,799742,8,745,0.63,0,3,8,Self-employed,Current,West,Very Low Risk
+44,119595,872823,12,531,0.72,3,4,35,Business owner,Salary,West,High Risk
+52,119303,346864,14,696,0.55,4,1,50,Salaried,Salary,West,Low Risk
+37,55955,193382,3,754,0.15,1,4,5,Business owner,Salary,North,High Risk
+24,108834,934763,4,654,0.33,2,1,21,Salaried,Savings,South,Low Risk
+53,87427,661064,3,607,0.72,3,2,9,Self-employed,Savings,South,High Risk
+29,46346,646519,0,583,0.83,2,0,36,Business owner,Current,North,Very High Risk
+50,148352,777399,18,704,0.1,3,1,51,Self-employed,Salary,West,Very Low Risk
+59,95255,708100,11,606,0.25,4,1,46,Salaried,Salary,South,Moderate Risk
+52,69522,164360,2,652,0.17,1,0,34,Self-employed,Savings,South,Moderate Risk
+57,150386,801451,16,786,0.64,0,2,4,Self-employed,Current,North,Very Low Risk
+27,58328,847916,7,618,0.67,3,0,16,Self-employed,Salary,North,High Risk
+60,148488,297704,0,821,0.24,3,0,17,Self-employed,Savings,East,Low Risk
+56,102284,476900,1,512,0.51,0,2,33,Self-employed,Current,North,High Risk
+22,96536,517405,19,819,0.47,2,1,43,Self-employed,Salary,North,Very Low Risk
+39,111797,742560,4,565,0.81,2,1,12,Self-employed,Current,West,Moderate Risk
+46,109881,863038,17,616,0.34,0,2,39,Business owner,Savings,North,Very Low Risk
+24,27337,592310,4,479,0.72,0,3,42,Salaried,Salary,North,High Risk
+56,76368,724070,2,771,0.14,1,4,41,Salaried,Salary,East,Low Risk
+68,114691,387984,7,644,0.7,3,1,35,Self-employed,Current,West,High Risk
+26,140729,217508,12,821,0.63,2,1,22,Business owner,Salary,South,Very Low Risk
+27,53462,124188,18,770,0.9,4,2,12,Salaried,Current,North,High Risk
+58,53750,508212,9,543,0.36,2,4,7,Self-employed,Savings,West,Very High Risk
+37,109683,856240,15,626,0.66,4,4,48,Business owner,Salary,West,Moderate Risk
+46,135524,79012,6,679,0.28,0,1,54,Self-employed,Salary,West,Low Risk
+27,101562,847062,14,542,0.17,3,3,12,Salaried,Salary,South,Moderate Risk
+48,32077,415775,5,517,0.39,0,0,28,Salaried,Current,East,Very High Risk
+31,148002,79909,6,748,0.42,1,1,33,Self-employed,Current,North,Low Risk
+59,40132,476517,10,725,0.17,2,4,37,Business owner,Savings,East,High Risk
+33,40627,817218,4,569,0.38,1,3,44,Self-employed,Current,East,Very High Risk
+50,28606,135991,19,771,0.49,1,2,20,Business owner,Savings,East,Moderate Risk
+54,22408,840147,11,534,0.42,4,3,12,Self-employed,Savings,West,Very High Risk
+38,57597,774484,10,619,0.72,4,4,8,Salaried,Savings,West,High Risk
+63,29225,211087,20,823,0.44,3,4,31,Salaried,Salary,West,Moderate Risk
+27,58864,733966,6,645,0.06,0,3,31,Self-employed,Savings,South,Very Low Risk
+54,159994,802167,3,712,0.64,4,3,21,Salaried,Current,North,Moderate Risk
+50,130921,230107,19,557,0.33,0,4,43,Business owner,Savings,North,Low Risk
+65,93566,653864,20,700,0.4,1,1,33,Self-employed,Savings,North,Low Risk
+52,153716,9845,2,596,0.21,1,2,22,Self-employed,Current,South,Moderate Risk
+39,84678,954649,1,790,0.38,0,2,51,Business owner,Savings,North,Very Low Risk
+22,101892,536901,6,589,0.36,3,3,7,Self-employed,Salary,East,High Risk
+50,106697,628045,8,656,0.79,4,2,39,Self-employed,Salary,North,High Risk
+25,55680,515386,13,596,0.72,0,2,12,Business owner,Salary,North,Moderate Risk
+39,115109,298827,0,657,0.18,4,0,41,Business owner,Current,North,High Risk
+21,50197,278511,3,574,0.38,2,1,44,Self-employed,Salary,East,Very High Risk
+63,33087,31802,18,844,0.42,1,3,12,Self-employed,Current,South,Low Risk
+49,35498,278148,5,566,0.43,2,1,42,Salaried,Salary,East,Very High Risk
+29,110784,777502,19,504,0.07,1,2,19,Business owner,Salary,South,Low Risk
+26,73523,514480,3,670,0.3,3,0,24,Self-employed,Salary,South,Moderate Risk
+68,57472,396845,9,724,0.26,3,0,19,Self-employed,Savings,West,Low Risk
+59,73219,461939,6,643,0.53,0,0,46,Business owner,Savings,South,Moderate Risk
+66,92228,230552,14,703,0.47,2,1,20,Self-employed,Current,East,Moderate Risk
+57,72191,804938,17,604,0.64,4,0,33,Business owner,Current,East,Moderate Risk
+25,106092,533995,5,489,0.84,4,1,14,Salaried,Savings,West,Very High Risk
+34,133764,281488,0,757,0.48,4,4,27,Salaried,Savings,East,High Risk
+49,154003,460818,12,543,0.52,2,1,20,Salaried,Current,West,Moderate Risk
+29,64517,105741,14,490,0.85,1,2,29,Self-employed,Current,West,Very High Risk
+40,145360,442702,2,550,0.32,1,0,22,Salaried,Salary,South,Moderate Risk
+55,47099,488343,15,517,0.42,4,1,4,Self-employed,Savings,East,Very High Risk
+55,65596,826175,18,497,0.55,0,4,22,Salaried,Salary,South,Moderate Risk
+48,40671,215582,4,503,0.46,2,4,48,Self-employed,Savings,East,Very High Risk
+65,114654,29984,10,557,0.59,0,1,32,Business owner,Current,North,High Risk
+50,154968,761113,0,782,0.09,1,2,23,Self-employed,Current,North,Very Low Risk
+60,114742,444957,16,493,0.86,2,4,7,Salaried,Savings,South,Very High Risk
+49,97092,83878,8,829,0.92,3,4,22,Self-employed,Salary,East,Low Risk
+35,132202,921115,19,472,0.23,2,4,43,Self-employed,Salary,West,High Risk
+59,144632,875250,5,731,0.86,0,1,41,Business owner,Savings,West,Very Low Risk
+38,82372,983006,16,470,0.69,2,1,39,Business owner,Current,South,Low Risk
+65,125282,794110,18,761,0.74,1,2,48,Business owner,Salary,South,Very Low Risk
+29,96139,7051,4,685,0.53,1,1,51,Business owner,Savings,South,High Risk
+66,100148,364786,5,698,0.82,0,3,9,Business owner,Salary,West,Low Risk
+40,55493,389245,20,587,0.57,3,3,4,Business owner,Current,North,High Risk
+32,91679,467694,20,635,0.83,0,4,46,Business owner,Current,North,Low Risk
+51,53277,815846,11,572,0.54,0,1,35,Self-employed,Salary,East,Low Risk
+52,85368,843468,12,501,0.17,4,4,25,Self-employed,Current,North,Very High Risk
+34,81333,838396,14,589,0.11,3,4,21,Business owner,Current,South,Moderate Risk
+31,32441,40649,18,827,0.59,0,0,10,Business owner,Current,South,Moderate Risk
+68,138727,516119,19,675,0.69,2,2,9,Business owner,Salary,North,Very Low Risk
+28,140517,841399,20,703,0.27,2,0,51,Salaried,Current,North,Very Low Risk
+34,139070,725858,16,608,0.28,3,1,18,Self-employed,Current,East,Low Risk
+54,56379,603952,4,605,0.59,2,3,21,Salaried,Salary,West,Very High Risk
+63,39076,232264,0,833,0.69,4,0,49,Self-employed,Current,North,High Risk
+48,53329,257352,6,521,0.53,2,2,10,Salaried,Savings,South,Very High Risk
+30,138436,318370,5,765,0.56,3,4,42,Business owner,Salary,North,Moderate Risk
+37,153297,82228,3,595,0.55,3,0,49,Business owner,Salary,North,High Risk
+62,153889,974867,7,743,0.86,0,0,44,Business owner,Current,East,Very Low Risk
+25,145222,664736,9,826,0.89,2,4,25,Salaried,Salary,West,Very Low Risk
+53,59453,566589,14,727,0.62,0,0,14,Self-employed,Salary,North,Low Risk
+47,61810,76433,18,601,0.16,2,2,50,Self-employed,Savings,East,Moderate Risk
+40,136218,131983,13,583,0.59,0,2,10,Salaried,Salary,South,Moderate Risk
+29,35866,289907,20,540,0.49,4,0,42,Salaried,Savings,West,Very High Risk
+44,150617,822132,0,555,0.46,3,0,13,Salaried,Savings,East,High Risk
+65,66790,258487,11,730,0.55,4,3,21,Salaried,Current,North,Very High Risk
+52,63076,411700,13,589,0.17,2,3,15,Salaried,Salary,East,Very High Risk
+53,111604,73599,11,633,0.78,3,1,4,Business owner,Savings,West,Very High Risk
+32,87264,696158,18,696,0.31,4,3,30,Self-employed,Savings,West,Moderate Risk
+25,55668,773253,20,496,0.53,3,2,51,Business owner,Savings,West,Moderate Risk
+61,148189,563095,3,554,0.19,4,3,36,Business owner,Savings,East,Moderate Risk
+41,140484,601966,0,622,0.09,0,0,16,Business owner,Salary,West,Very Low Risk
+63,115405,674950,14,584,0.53,4,0,38,Salaried,Salary,South,Moderate Risk
+59,53905,929731,17,683,0.13,2,4,21,Salaried,Current,North,Low Risk
+60,111097,116048,0,502,0.31,2,2,39,Self-employed,Savings,South,Very High Risk
+23,119247,395154,5,773,0.07,3,1,30,Business owner,Current,South,Low Risk
+33,59927,261901,0,789,0.72,2,2,53,Business owner,Savings,North,Moderate Risk
+68,108227,49478,2,778,0.06,0,0,45,Salaried,Savings,North,Low Risk
+56,151996,988007,6,615,0.66,3,2,51,Salaried,Savings,South,Low Risk
+35,48988,696282,5,512,0.72,2,2,41,Salaried,Salary,West,Very High Risk
+48,63216,857294,17,649,0.91,1,1,14,Self-employed,Current,East,Moderate Risk
+41,102920,791428,9,614,0.34,2,3,38,Self-employed,Salary,West,Moderate Risk
+55,152938,101963,2,844,0.48,3,0,53,Business owner,Salary,North,Low Risk
+31,72683,615434,7,539,0.63,2,2,13,Salaried,Current,West,High Risk
+63,137447,764801,12,533,0.73,2,3,45,Salaried,Current,South,Moderate Risk
+40,67885,984608,9,764,0.06,1,3,26,Salaried,Salary,South,Very Low Risk
+54,146887,437336,15,728,0.15,3,2,54,Self-employed,Savings,North,Very Low Risk
+38,49369,867503,5,621,0.78,3,2,7,Self-employed,Savings,North,High Risk
+68,51949,957067,17,799,0.83,4,3,39,Business owner,Current,East,Very Low Risk
+63,37007,180625,13,525,0.65,4,3,38,Salaried,Current,West,Very High Risk
+39,55635,138953,14,565,0.89,4,4,40,Self-employed,Savings,West,Very High Risk
+33,116699,571912,8,762,0.51,3,1,29,Business owner,Current,South,Very Low Risk
+41,133091,61494,4,670,0.89,3,1,48,Self-employed,Salary,South,Very High Risk
+42,79185,491483,16,554,0.31,4,3,42,Self-employed,Current,East,Very High Risk
+27,122577,392898,5,571,0.22,3,4,49,Business owner,Savings,West,Moderate Risk
+38,102054,287835,6,642,0.19,4,0,43,Self-employed,Salary,East,High Risk
+50,99236,229312,17,676,0.88,1,0,22,Self-employed,Salary,South,Low Risk
+29,76456,1184,4,785,0.9,1,2,7,Salaried,Current,East,Moderate Risk
+39,136601,854605,20,752,0.47,2,1,16,Business owner,Salary,East,Very Low Risk
+68,32667,8931,8,774,0.42,1,4,39,Salaried,Salary,East,High Risk
+32,147978,586508,7,841,0.9,0,1,18,Salaried,Savings,East,Very Low Risk
+68,100247,148526,19,530,0.9,4,2,45,Business owner,Current,South,Very High Risk
+48,91832,267195,1,647,0.68,0,0,40,Self-employed,Current,East,High Risk
+34,25408,817357,0,472,0.36,0,4,29,Salaried,Savings,North,Very High Risk
+36,67761,122866,6,637,0.82,4,1,20,Salaried,Current,East,Very High Risk
+44,80229,545305,6,727,0.83,1,2,4,Self-employed,Savings,South,Moderate Risk
+49,35727,910951,11,791,0.5,2,0,14,Business owner,Savings,North,Very Low Risk
+49,61445,144530,12,796,0.33,4,3,3,Self-employed,Savings,North,High Risk
+35,140648,482273,5,844,0.63,4,3,23,Self-employed,Current,East,Low Risk
+34,89083,103281,10,571,0.19,3,3,37,Self-employed,Current,North,Very High Risk
+46,112781,152774,13,692,0.39,4,1,50,Salaried,Salary,West,High Risk
+55,70966,485481,17,627,0.2,3,1,46,Self-employed,Salary,East,Moderate Risk
+28,56712,228180,4,565,0.5,4,0,26,Self-employed,Salary,North,Very High Risk
+57,140201,123971,14,667,0.07,1,4,51,Business owner,Current,East,Very Low Risk
+54,24386,873545,9,626,0.8,2,2,42,Salaried,Savings,West,High Risk
+49,82653,357351,14,811,0.09,0,4,34,Salaried,Savings,North,Very Low Risk
+29,114732,708297,17,585,0.78,0,0,10,Salaried,Savings,West,Very Low Risk
+55,117170,475156,1,504,0.22,3,2,11,Self-employed,Salary,East,High Risk
+36,61455,256765,12,847,0.12,3,3,39,Salaried,Current,East,Low Risk
+37,43117,294694,16,553,0.57,3,0,39,Business owner,Current,West,Very High Risk
+38,124306,957381,16,673,0.55,2,3,49,Business owner,Salary,North,Very Low Risk
+27,149028,666221,15,511,0.15,0,3,31,Self-employed,Savings,South,Very Low Risk
+58,159076,926067,16,748,0.18,1,2,6,Business owner,Savings,East,Very Low Risk
+52,84493,28787,8,470,0.53,2,2,49,Salaried,Savings,East,Very High Risk
+55,65127,40468,6,794,0.48,1,0,22,Business owner,Savings,North,Moderate Risk
+51,137250,256540,7,816,0.31,2,1,39,Business owner,Savings,North,Very Low Risk
+45,29535,30426,7,720,0.73,3,3,37,Self-employed,Salary,South,Very High Risk
+51,95465,234995,11,565,0.08,3,3,53,Business owner,Savings,East,High Risk
+36,115385,878405,4,504,0.43,2,0,17,Salaried,Current,East,High Risk
+68,141389,293472,6,800,0.69,4,2,11,Salaried,Current,East,Moderate Risk
+42,85367,163306,5,638,0.53,1,2,9,Business owner,Savings,North,High Risk
+56,61754,24443,9,656,0.77,3,4,5,Salaried,Current,South,Very High Risk
+37,119271,894379,16,604,0.51,3,1,37,Salaried,Savings,West,Very Low Risk
+67,126312,888690,18,791,0.88,4,3,39,Salaried,Current,South,Very Low Risk
+43,68959,459941,17,782,0.1,3,3,53,Business owner,Salary,West,Very Low Risk
+54,83898,267074,4,800,0.06,4,2,10,Salaried,Savings,East,Moderate Risk
+63,137413,841190,20,560,0.67,0,0,13,Business owner,Savings,South,Very Low Risk
+58,120535,185261,2,674,0.83,0,1,16,Business owner,Savings,East,Moderate Risk
+24,52850,409909,15,515,0.61,2,3,20,Self-employed,Savings,East,Very High Risk
+22,136359,915082,20,670,0.15,4,0,52,Self-employed,Savings,West,Very Low Risk
+48,82020,650006,11,662,0.4,1,1,33,Self-employed,Savings,East,Low Risk
+32,56252,292686,11,568,0.1,4,2,48,Business owner,Current,North,Very High Risk
+35,86770,131271,19,803,0.28,3,4,29,Self-employed,Current,North,Low Risk
+37,159352,980333,1,667,0.16,2,0,28,Business owner,Current,South,Very Low Risk
+41,105652,97554,17,780,0.81,1,0,53,Salaried,Salary,South,Low Risk
+50,98533,482714,14,769,0.67,4,2,48,Business owner,Savings,West,Low Risk
+62,114494,808917,1,549,0.69,4,0,43,Business owner,Salary,South,High Risk
+59,63766,493182,13,771,0.07,0,4,4,Business owner,Salary,East,Very Low Risk
+44,64588,552116,18,721,0.73,4,2,27,Self-employed,Savings,East,Moderate Risk
+50,39519,705998,5,651,0.5,2,1,45,Business owner,Salary,South,High Risk
+30,126645,775441,9,491,0.25,4,4,22,Salaried,Savings,East,High Risk
+50,133541,511128,11,726,0.9,3,1,12,Salaried,Salary,East,Moderate Risk
+32,100255,52161,9,626,0.57,1,0,3,Salaried,Current,South,Very High Risk
+60,86240,426474,20,705,0.53,2,4,47,Salaried,Savings,North,Very Low Risk
+60,130497,785364,9,676,0.72,2,3,6,Business owner,Current,South,Low Risk
+21,134430,947833,6,688,0.46,0,4,37,Business owner,Salary,West,Very Low Risk
+52,100134,613131,16,489,0.88,3,2,30,Business owner,Salary,East,High Risk
+58,69000,951242,7,487,0.19,2,4,25,Salaried,Savings,South,High Risk
+23,139005,687301,14,850,0.06,2,2,15,Self-employed,Savings,North,Very Low Risk
+25,129776,916024,0,819,0.08,4,0,28,Salaried,Current,South,Very Low Risk
+37,127043,173662,7,785,0.13,3,2,17,Salaried,Savings,South,Low Risk
+53,137817,397290,1,493,0.67,2,1,47,Self-employed,Current,North,Very High Risk
+45,113609,163932,11,715,0.11,0,2,50,Self-employed,Savings,West,Very Low Risk
+67,119267,29652,6,836,0.45,3,0,47,Self-employed,Savings,North,Low Risk
+52,97667,162693,6,588,0.63,4,4,32,Self-employed,Salary,North,Very High Risk
+56,52777,921011,18,633,0.87,2,4,7,Business owner,Current,South,High Risk
+47,89356,309122,19,776,0.87,3,1,38,Self-employed,Current,West,Low Risk
+56,31091,625880,18,575,0.41,1,3,30,Salaried,Salary,West,Very High Risk
+59,123582,416396,9,540,0.14,1,0,40,Self-employed,Salary,East,Moderate Risk
+26,152814,851277,3,689,0.45,3,3,6,Business owner,Savings,North,Low Risk
+67,56689,349628,6,687,0.55,3,3,21,Business owner,Salary,South,High Risk
+51,140466,202020,6,753,0.91,4,1,43,Salaried,Salary,East,High Risk
+21,127788,722665,19,706,0.64,3,1,26,Self-employed,Savings,West,Moderate Risk
+31,35799,535442,15,748,0.73,2,1,24,Salaried,Salary,West,Low Risk
+56,82988,642108,20,646,0.65,0,1,40,Salaried,Savings,East,Very Low Risk
+30,66282,164651,16,554,0.52,3,1,27,Salaried,Savings,East,Very High Risk
+26,121528,731191,8,633,0.51,4,2,41,Self-employed,Savings,North,Moderate Risk
+58,131551,616879,5,593,0.2,4,0,29,Business owner,Savings,West,Moderate Risk
+49,70132,574998,7,498,0.05,1,2,7,Salaried,Current,South,High Risk
+51,79462,195600,7,650,0.62,2,0,17,Business owner,Current,North,High Risk
+27,53298,309273,0,542,0.29,4,0,11,Salaried,Current,South,Very High Risk
+54,123767,830719,10,699,0.73,1,1,49,Self-employed,Salary,West,Very Low Risk
+42,59556,186184,10,737,0.57,0,4,50,Business owner,Salary,West,Moderate Risk
+52,28141,514472,18,555,0.3,0,2,38,Business owner,Current,West,High Risk
+50,141294,963992,2,653,0.36,2,4,22,Business owner,Savings,North,Very Low Risk
+37,142878,949422,20,725,0.15,3,3,16,Business owner,Salary,South,Very Low Risk
+31,73008,948759,10,594,0.31,2,0,32,Self-employed,Savings,North,High Risk
+32,80274,845687,7,826,0.33,2,3,27,Salaried,Current,West,Very Low Risk
+31,147878,931586,12,546,0.12,2,3,22,Self-employed,Savings,North,Moderate Risk
+50,136632,668171,17,695,0.53,1,4,28,Self-employed,Savings,East,Very Low Risk
+53,48565,301758,0,531,0.2,4,1,36,Business owner,Salary,North,Very High Risk
+56,99265,53291,11,813,0.5,3,0,25,Self-employed,Savings,West,Low Risk
+28,58583,134844,19,623,0.44,0,2,21,Self-employed,Savings,West,Moderate Risk
+23,40935,2603,14,697,0.73,3,0,35,Business owner,Current,West,High Risk
+28,25956,183754,0,664,0.39,2,1,29,Salaried,Salary,East,Very High Risk
+37,78835,974759,12,567,0.86,3,3,5,Salaried,Salary,North,High Risk
+40,44459,518153,1,758,0.8,4,2,44,Self-employed,Current,North,Very High Risk
+53,148333,751291,8,757,0.66,2,2,29,Salaried,Current,South,Very Low Risk
+62,127994,511432,9,667,0.76,4,4,17,Business owner,Current,South,High Risk
+46,154609,611224,12,507,0.2,3,4,33,Salaried,Salary,South,High Risk
+32,52839,233697,1,728,0.4,2,3,44,Business owner,Salary,North,Very High Risk
+65,72748,848011,15,660,0.82,2,3,49,Salaried,Salary,West,Low Risk
+63,57624,26943,11,824,0.86,2,1,17,Business owner,Current,South,Moderate Risk
+63,24910,946455,5,562,0.51,2,4,37,Business owner,Salary,South,High Risk
+45,110534,866459,19,526,0.43,0,0,25,Self-employed,Salary,East,Low Risk
+58,158991,549669,18,563,0.77,4,1,38,Business owner,Current,East,High Risk
+34,90843,942200,19,808,0.87,0,3,38,Self-employed,Current,South,Very Low Risk
+62,135782,988854,1,647,0.52,2,0,38,Business owner,Current,South,Low Risk
+30,55395,709680,19,509,0.35,1,4,50,Self-employed,Salary,East,Moderate Risk
+22,152607,972534,13,662,0.43,1,1,35,Business owner,Current,South,Very Low Risk
+50,116276,654174,16,776,0.85,0,2,3,Salaried,Savings,East,Very Low Risk
+27,63198,157192,1,672,0.7,2,1,26,Business owner,Savings,West,Very High Risk
+26,45979,27860,5,817,0.74,2,3,5,Salaried,Current,East,Very High Risk
+63,131367,760189,6,783,0.89,3,4,27,Self-employed,Current,West,Moderate Risk
+37,82577,7272,2,750,0.65,3,4,22,Self-employed,Savings,South,Very High Risk
+64,125972,772049,10,606,0.43,2,0,23,Salaried,Savings,East,Low Risk
+36,27122,164422,1,486,0.66,2,2,29,Business owner,Current,North,Very High Risk
+62,102136,159600,8,849,0.31,3,1,12,Salaried,Current,North,Low Risk
+56,83897,368842,4,537,0.76,1,3,30,Self-employed,Savings,West,High Risk
+24,80379,755137,4,715,0.07,2,0,39,Self-employed,Salary,South,Moderate Risk
+35,109984,649653,10,838,0.53,4,0,20,Self-employed,Current,North,Very Low Risk
+32,116054,625259,7,766,0.13,3,4,27,Self-employed,Savings,South,Very Low Risk
+61,88010,126967,13,664,0.06,4,2,54,Business owner,Savings,East,High Risk
+45,69523,928529,1,668,0.32,3,3,30,Salaried,Salary,North,Moderate Risk
+59,46482,316010,6,545,0.05,1,3,43,Salaried,Savings,West,Very High Risk
+68,93363,744189,1,829,0.34,4,1,27,Salaried,Current,East,Low Risk
+63,159176,304591,9,640,0.23,3,1,17,Salaried,Current,West,Low Risk
+30,82429,622685,1,471,0.48,0,0,47,Salaried,Current,East,Moderate Risk
+21,115512,620297,2,576,0.49,2,3,43,Business owner,Salary,West,Moderate Risk
+63,128490,432761,14,846,0.18,2,4,29,Business owner,Savings,West,Very Low Risk
+31,30184,395064,5,846,0.78,1,2,9,Salaried,Current,West,Low Risk
+35,51694,55413,16,561,0.91,0,2,36,Salaried,Current,East,Very High Risk
+46,124909,378084,8,578,0.23,3,4,33,Salaried,Salary,South,Very High Risk
+22,26375,112568,15,599,0.87,3,2,16,Self-employed,Salary,East,Very High Risk
+35,43899,925560,7,584,0.66,4,4,46,Self-employed,Current,West,Very High Risk
+28,65265,491506,1,736,0.73,1,4,33,Salaried,Current,North,Moderate Risk
+53,47180,354812,0,766,0.73,3,0,5,Business owner,Savings,North,Very High Risk
+40,56039,563820,15,685,0.61,4,4,16,Self-employed,Salary,South,High Risk
+37,81216,954874,18,803,0.4,2,4,6,Business owner,Current,South,Very Low Risk
+38,70962,808717,4,641,0.25,0,0,28,Self-employed,Salary,West,Very Low Risk
+22,109727,406636,8,615,0.2,4,3,53,Salaried,Current,West,High Risk
+54,59852,85799,5,502,0.9,4,3,9,Self-employed,Savings,East,Very High Risk
+34,95052,52923,15,766,0.86,2,0,17,Business owner,Current,South,High Risk
+64,59016,670354,3,840,0.41,2,3,34,Self-employed,Current,South,Low Risk
+36,122591,889664,7,622,0.07,1,0,14,Salaried,Savings,East,Very Low Risk
+45,61362,130797,19,667,0.38,0,1,30,Self-employed,Savings,East,Low Risk
+40,153899,441931,13,523,0.55,3,3,53,Self-employed,Salary,North,High Risk
+34,70165,660534,3,613,0.38,0,2,3,Business owner,Current,East,Moderate Risk
+48,111438,33226,14,597,0.54,2,0,28,Self-employed,Current,South,High Risk
+41,135693,314822,2,731,0.27,1,4,43,Salaried,Savings,East,Low Risk
+33,77220,83857,12,608,0.33,3,2,41,Self-employed,Current,North,Very High Risk
+25,75816,928438,9,642,0.84,3,4,4,Self-employed,Current,North,Moderate Risk
+54,117070,665606,19,571,0.27,0,1,54,Self-employed,Savings,East,Very Low Risk
+59,134525,123292,9,643,0.74,4,3,50,Business owner,Salary,West,Very High Risk
+42,104649,511858,4,620,0.11,2,1,46,Business owner,Current,West,Moderate Risk
+21,138058,842172,2,778,0.12,4,4,21,Business owner,Salary,West,Very Low Risk
+64,63293,889924,20,848,0.66,3,1,31,Self-employed,Current,West,Very Low Risk
+62,113127,77156,8,776,0.79,3,2,3,Self-employed,Salary,North,High Risk
+56,139029,652083,20,512,0.38,2,3,33,Business owner,Savings,South,Moderate Risk
+42,146985,607806,19,756,0.4,2,3,40,Business owner,Savings,North,Very Low Risk
+42,141814,395665,11,587,0.71,2,2,30,Self-employed,Current,North,Moderate Risk
+61,92659,828953,4,835,0.78,0,4,13,Salaried,Savings,North,Very Low Risk
+28,62951,199713,7,805,0.25,1,4,33,Self-employed,Current,North,Moderate Risk
+67,136392,931583,5,681,0.41,3,3,42,Self-employed,Savings,North,Low Risk
+54,93727,770129,5,672,0.12,1,4,44,Salaried,Current,East,Very Low Risk
+29,110992,897414,13,652,0.69,1,2,49,Salaried,Savings,South,Very Low Risk
+56,65455,859082,1,605,0.79,3,4,42,Salaried,Current,South,High Risk
+30,90837,904377,19,609,0.62,4,1,31,Business owner,Savings,West,Moderate Risk
+26,31897,323104,6,678,0.37,2,2,14,Salaried,Salary,West,Very High Risk
+27,39870,689204,8,710,0.71,4,2,48,Business owner,Salary,South,High Risk
+31,60051,173888,7,597,0.16,3,4,21,Business owner,Savings,South,Very High Risk
+55,40623,154541,5,521,0.24,0,0,25,Self-employed,Savings,West,Very High Risk
+48,54844,352639,19,586,0.4,4,4,31,Salaried,Savings,West,Very High Risk
+34,79527,401867,16,849,0.84,1,2,27,Salaried,Current,East,Low Risk
+65,103324,537378,5,655,0.82,4,1,4,Self-employed,Savings,West,Very High Risk
+33,150332,637995,9,850,0.72,2,3,51,Business owner,Savings,North,Very Low Risk
+40,69195,395228,20,538,0.14,0,0,43,Salaried,Salary,North,Low Risk
+44,132470,171176,7,554,0.26,2,2,53,Self-employed,Salary,East,High Risk
+60,108720,723266,7,671,0.47,2,3,32,Business owner,Savings,West,Very Low Risk
+61,139655,614068,3,614,0.41,2,2,39,Business owner,Salary,South,Low Risk
+33,126806,669488,13,606,0.8,1,3,18,Self-employed,Current,North,Low Risk
+35,120517,563153,10,542,0.07,2,1,31,Salaried,Savings,West,Moderate Risk
+27,71454,903578,12,596,0.06,0,4,15,Salaried,Savings,West,Low Risk
+27,119415,773222,0,816,0.09,3,2,38,Salaried,Current,North,Very Low Risk
+60,112243,615731,1,539,0.89,0,0,45,Self-employed,Salary,East,Moderate Risk
+24,139267,379163,0,537,0.53,4,4,46,Salaried,Salary,West,Very High Risk
+54,157267,325663,8,817,0.55,2,0,15,Salaried,Salary,South,Very Low Risk
+67,87939,994996,6,723,0.08,1,1,28,Salaried,Savings,North,Very Low Risk
+29,88094,51248,7,846,0.86,4,2,37,Salaried,Current,South,High Risk
+55,158955,304746,11,583,0.91,1,3,47,Salaried,Current,East,High Risk
+55,69719,173022,11,831,0.11,3,1,15,Salaried,Savings,South,Moderate Risk
+24,103421,540448,4,714,0.87,1,1,34,Self-employed,Savings,East,Moderate Risk
+68,66380,778328,4,736,0.11,0,2,14,Salaried,Savings,West,Very Low Risk
+25,63913,815969,0,602,0.55,4,3,6,Business owner,Current,South,Very High Risk
+33,143363,679982,10,644,0.91,2,1,15,Self-employed,Current,South,Moderate Risk
+68,130825,820571,19,583,0.25,2,1,28,Self-employed,Savings,West,Low Risk
+39,112324,226695,16,752,0.26,2,2,48,Self-employed,Current,East,Very Low Risk
+36,103247,445271,3,703,0.61,3,0,42,Self-employed,Salary,East,Low Risk
+48,75086,843182,2,593,0.45,1,2,30,Salaried,Current,West,Moderate Risk
+38,109695,523162,13,495,0.67,0,0,31,Salaried,Salary,West,Moderate Risk
+62,53051,14035,2,533,0.4,3,1,33,Business owner,Current,West,Very High Risk
+40,135094,684094,3,794,0.89,1,2,10,Salaried,Current,West,Very Low Risk
+29,34386,997816,4,600,0.66,1,3,21,Business owner,Salary,West,High Risk
+41,105030,371359,14,476,0.66,1,2,38,Self-employed,Salary,West,High Risk
+58,72421,810894,1,783,0.62,0,3,37,Business owner,Savings,North,Very Low Risk
+42,89092,95572,12,832,0.2,4,0,26,Business owner,Salary,West,Moderate Risk
+62,110114,462077,3,502,0.76,3,3,5,Business owner,Salary,South,Very High Risk
+63,34945,322286,2,687,0.41,4,2,54,Self-employed,Current,West,Very High Risk
+37,44404,760041,10,515,0.7,1,3,17,Business owner,Salary,West,High Risk
+41,130513,374093,6,593,0.18,1,1,27,Self-employed,Savings,West,Moderate Risk
+57,26219,475681,14,751,0.33,0,0,4,Self-employed,Current,West,Low Risk
+53,104550,503519,14,471,0.26,1,2,24,Salaried,Savings,West,High Risk
+38,31968,650807,3,554,0.51,4,2,15,Business owner,Salary,East,Very High Risk
+65,111872,218048,19,663,0.24,0,1,38,Salaried,Savings,West,Very Low Risk
+29,104664,272558,8,536,0.36,4,0,9,Business owner,Current,East,Very High Risk
+68,125028,927436,4,745,0.84,4,0,23,Business owner,Savings,East,Low Risk
+34,27951,701654,15,486,0.81,1,1,26,Business owner,Savings,North,High Risk
+36,148611,182355,20,534,0.79,1,2,9,Business owner,Current,West,Moderate Risk
+66,56065,894896,2,501,0.54,1,4,26,Self-employed,Salary,West,Very High Risk
+28,72876,865797,1,567,0.24,2,2,25,Self-employed,Current,East,Moderate Risk
+55,121553,357985,7,709,0.1,0,1,4,Self-employed,Current,East,Low Risk
+44,35804,131282,10,639,0.22,1,2,33,Self-employed,Savings,North,High Risk
+53,84477,351938,5,599,0.67,2,1,34,Salaried,Current,East,Very High Risk
+66,101321,930813,7,589,0.07,2,2,3,Salaried,Current,West,Moderate Risk
+50,33374,99586,9,601,0.16,3,1,39,Business owner,Current,East,Very High Risk
+48,109801,193493,14,601,0.11,2,2,12,Salaried,Salary,East,Moderate Risk
+64,156238,42419,1,611,0.16,3,4,13,Business owner,Current,North,Very High Risk
+25,106587,896201,13,731,0.92,3,0,45,Business owner,Savings,East,Low Risk
+63,47553,201513,9,849,0.92,3,3,11,Business owner,Salary,South,High Risk
+32,149376,570958,15,607,0.59,1,0,15,Salaried,Salary,South,Low Risk
+66,72566,228037,12,621,0.35,4,4,27,Business owner,Current,North,High Risk
+44,144170,648498,4,533,0.87,4,2,14,Self-employed,Savings,West,Very High Risk
+64,131624,528511,13,842,0.05,3,4,52,Business owner,Salary,South,Very Low Risk
+64,110021,522055,7,642,0.89,0,0,43,Salaried,Current,West,Low Risk
+38,87641,547573,13,815,0.84,4,1,27,Salaried,Salary,East,Low Risk
+23,111355,15544,17,698,0.69,0,0,7,Salaried,Savings,West,Low Risk
+36,82099,65043,5,507,0.38,2,3,9,Self-employed,Salary,West,Very High Risk
+39,105700,691960,20,626,0.75,1,4,3,Salaried,Current,North,Very Low Risk
+41,76531,725881,3,772,0.86,2,4,42,Self-employed,Savings,North,Moderate Risk
+48,42239,15162,11,623,0.86,2,2,11,Business owner,Savings,East,Very High Risk
+22,99951,721584,16,590,0.22,1,4,24,Business owner,Current,North,Low Risk
+48,66078,389022,16,490,0.45,0,3,32,Salaried,Current,West,High Risk
+50,137517,571810,14,616,0.9,2,4,33,Salaried,Current,North,Moderate Risk
+68,63594,705086,0,681,0.11,4,2,14,Business owner,Savings,West,Very High Risk
+59,118214,501054,5,709,0.46,2,3,36,Salaried,Current,West,Moderate Risk
+22,122146,570871,17,813,0.45,4,4,14,Self-employed,Salary,North,Low Risk
+34,65297,73752,19,686,0.76,4,4,4,Salaried,Current,South,Very High Risk
+56,87599,404641,2,480,0.36,4,3,48,Business owner,Savings,South,Very High Risk
+55,68255,982762,10,474,0.33,1,4,48,Salaried,Current,North,High Risk
+35,47628,676530,5,587,0.54,2,2,6,Self-employed,Current,West,Very High Risk
+62,79913,708048,14,730,0.16,2,1,45,Salaried,Salary,North,Very Low Risk
+45,61966,447832,3,596,0.69,0,4,15,Business owner,Salary,North,Moderate Risk
+63,145980,654984,5,501,0.23,1,3,16,Business owner,Savings,South,Moderate Risk
+45,44826,136786,14,623,0.51,3,3,32,Business owner,Salary,West,Very High Risk
+51,122082,432006,0,744,0.49,4,3,43,Self-employed,Current,West,Moderate Risk
+27,132630,847417,8,554,0.24,3,1,49,Salaried,Savings,West,Low Risk
+30,69108,19949,14,720,0.68,4,4,22,Salaried,Current,East,Very High Risk
+52,69480,346042,13,513,0.34,4,4,41,Self-employed,Salary,South,Very High Risk
+54,114579,662408,9,821,0.89,0,0,14,Self-employed,Salary,East,Very Low Risk
+35,99212,917998,20,620,0.06,2,3,8,Business owner,Savings,West,Very Low Risk
+65,51163,997663,7,707,0.66,1,4,34,Business owner,Savings,East,Low Risk
+63,81111,87913,9,567,0.74,1,0,26,Business owner,Current,West,Very High Risk
+40,90970,602319,11,478,0.3,0,2,39,Salaried,Savings,East,Moderate Risk
+33,144466,735150,14,666,0.11,3,0,9,Business owner,Savings,North,Very Low Risk
+26,61423,51474,5,839,0.76,1,2,21,Salaried,Salary,North,High Risk
+62,110540,200256,5,485,0.61,4,1,35,Business owner,Current,West,Very High Risk
+60,69512,630904,5,792,0.42,2,3,13,Business owner,Current,South,Low Risk
+27,113622,484249,19,688,0.87,1,4,48,Business owner,Salary,West,Very Low Risk
+63,70818,308373,7,470,0.53,2,1,38,Self-employed,Current,West,Very High Risk
+44,64750,695146,16,625,0.33,2,2,53,Self-employed,Salary,East,Low Risk
+24,34602,700124,4,671,0.57,2,4,32,Self-employed,Salary,North,High Risk
+25,48353,424127,4,703,0.89,0,3,54,Self-employed,Current,East,High Risk
+46,76772,189888,8,578,0.6,4,0,3,Self-employed,Salary,North,Very High Risk
+55,94130,356450,18,485,0.62,3,1,43,Salaried,Salary,East,Very High Risk
+49,149700,618647,0,524,0.16,4,4,37,Business owner,Current,South,High Risk
+33,108260,248767,10,662,0.61,3,2,24,Salaried,Current,North,Very High Risk
+43,151414,330261,2,611,0.27,3,1,15,Salaried,Current,West,High Risk
+22,143840,640341,0,608,0.8,2,0,18,Self-employed,Salary,East,Moderate Risk
+55,74179,934078,2,688,0.62,2,3,48,Business owner,Salary,North,Low Risk
+21,95326,365390,13,843,0.63,1,2,41,Business owner,Savings,North,Very Low Risk
+24,125372,190402,1,643,0.25,1,0,53,Business owner,Salary,East,Low Risk
+42,113259,314466,1,820,0.82,1,1,44,Salaried,Savings,South,Low Risk
+56,89626,374341,0,526,0.4,3,4,20,Self-employed,Savings,West,Very High Risk
+45,129500,437608,17,623,0.77,3,4,36,Business owner,Current,East,High Risk
+61,82963,669644,4,707,0.27,4,3,8,Business owner,Salary,East,High Risk
+53,158683,751267,8,721,0.19,1,0,24,Business owner,Current,East,Very Low Risk
+56,37618,119784,8,576,0.72,0,0,11,Business owner,Current,West,Very High Risk
+46,139424,661365,16,828,0.91,4,3,11,Salaried,Salary,East,Very Low Risk
+23,89360,987341,16,809,0.42,4,3,42,Business owner,Salary,South,Low Risk
+64,73159,674825,11,727,0.51,0,1,33,Business owner,Current,West,Low Risk
+26,120647,471457,4,760,0.79,0,4,34,Business owner,Salary,South,Low Risk
+67,65074,1993,18,630,0.63,0,2,32,Business owner,Savings,West,Moderate Risk
+65,107591,178375,12,567,0.44,0,0,24,Self-employed,Salary,East,Moderate Risk
+25,55760,131157,0,625,0.73,0,2,16,Self-employed,Current,North,High Risk
+24,77318,410830,2,753,0.36,1,1,39,Business owner,Current,West,Moderate Risk
+39,75626,609887,15,534,0.42,2,1,37,Salaried,Current,East,High Risk
+50,158195,707175,2,530,0.36,2,1,41,Self-employed,Savings,North,High Risk
+47,28124,103125,8,624,0.55,0,1,22,Salaried,Savings,North,High Risk
+26,63157,444144,12,631,0.46,4,2,51,Salaried,Current,East,Very High Risk
+43,95177,475458,12,586,0.83,4,0,45,Self-employed,Savings,West,Very High Risk
+47,130215,898342,4,552,0.57,1,3,38,Salaried,Salary,East,Low Risk
+38,28751,204283,11,596,0.31,2,3,5,Business owner,Salary,South,High Risk
+47,99448,510366,14,539,0.26,4,0,22,Salaried,Current,South,Very High Risk
+47,72311,144141,18,723,0.81,1,2,29,Self-employed,Savings,West,Moderate Risk
+46,106307,840856,19,596,0.73,0,2,7,Business owner,Salary,East,Very Low Risk
+54,69861,173749,19,717,0.07,3,0,30,Business owner,Savings,South,Low Risk
+41,45870,976402,8,591,0.45,1,0,19,Self-employed,Salary,North,High Risk
+41,60236,371495,16,831,0.61,3,3,30,Self-employed,Current,West,Low Risk
+42,93659,24988,15,664,0.75,3,1,37,Salaried,Current,East,High Risk
+44,40351,252139,12,778,0.84,0,2,28,Self-employed,Savings,East,Moderate Risk
+22,143508,311851,1,698,0.7,4,1,8,Self-employed,Current,East,High Risk
+49,86455,634519,7,706,0.29,0,4,7,Business owner,Salary,West,Low Risk
+33,79987,330283,15,646,0.44,2,4,50,Self-employed,Salary,West,Moderate Risk
+55,144948,427964,6,767,0.72,2,0,45,Business owner,Current,East,Low Risk
+46,126875,896985,3,734,0.31,3,1,49,Self-employed,Salary,North,Very Low Risk
+38,144645,323053,10,830,0.59,4,3,30,Self-employed,Current,West,Low Risk
+65,139577,688200,18,488,0.89,4,1,10,Salaried,Salary,South,High Risk
+68,139715,431750,6,472,0.65,2,1,34,Business owner,Current,West,High Risk
+41,56522,966098,9,588,0.3,1,1,7,Salaried,Savings,West,Low Risk
+36,84632,274413,4,721,0.08,1,2,34,Business owner,Current,East,Low Risk
+61,42381,732782,14,560,0.5,3,4,38,Salaried,Savings,East,High Risk
+44,150980,584577,6,831,0.67,4,2,54,Salaried,Current,North,Low Risk
+62,126344,725299,18,496,0.54,4,1,5,Self-employed,Current,West,Moderate Risk
+35,36712,344317,15,837,0.36,0,2,15,Business owner,Salary,East,Very Low Risk
+51,106758,326033,6,541,0.4,4,0,27,Salaried,Current,South,High Risk
+49,137337,402321,4,821,0.14,4,1,42,Business owner,Current,South,Low Risk
+64,134327,292260,4,808,0.57,4,4,39,Self-employed,Salary,South,Moderate Risk
+22,53397,44997,3,691,0.91,0,3,41,Business owner,Salary,West,High Risk
+35,146498,715714,13,707,0.63,1,0,12,Self-employed,Savings,South,Very Low Risk
+25,35800,830814,3,752,0.36,2,0,10,Business owner,Salary,South,Low Risk
+50,132149,928321,2,739,0.42,1,2,29,Salaried,Current,South,Very Low Risk
+53,34511,698219,10,706,0.69,1,1,37,Self-employed,Savings,East,Moderate Risk
+57,53626,719835,0,830,0.16,2,3,5,Self-employed,Salary,South,Low Risk
+60,101689,202384,17,588,0.57,2,2,23,Self-employed,Salary,East,High Risk
+61,53202,444850,17,833,0.69,4,4,33,Self-employed,Savings,North,Moderate Risk
+21,39336,350961,7,637,0.91,3,4,32,Salaried,Current,West,Very High Risk
+41,30542,476505,0,732,0.47,3,3,33,Business owner,Savings,North,Very High Risk
+26,137433,732089,14,693,0.7,1,1,10,Salaried,Current,South,Very Low Risk
+29,71356,635573,5,656,0.85,1,0,12,Salaried,Savings,East,Moderate Risk
+58,59081,119033,9,770,0.85,2,4,20,Salaried,Current,West,High Risk
+34,40214,213099,11,848,0.32,2,4,29,Business owner,Salary,East,Low Risk
+50,107768,513792,16,657,0.17,1,0,18,Self-employed,Salary,West,Low Risk
+59,28181,908528,15,821,0.61,2,0,8,Self-employed,Savings,South,Very Low Risk
+58,138514,402572,5,685,0.1,0,1,43,Business owner,Current,East,Very Low Risk
+34,121731,723982,8,848,0.62,0,0,47,Business owner,Savings,South,Very Low Risk
+22,106807,407227,6,708,0.37,2,2,42,Self-employed,Salary,North,Moderate Risk
+21,44049,628712,11,617,0.66,4,0,37,Salaried,Savings,East,Very High Risk
+60,94983,907293,1,764,0.51,4,0,28,Self-employed,Salary,North,Low Risk
+55,133599,718390,9,742,0.55,2,0,17,Business owner,Salary,East,Very Low Risk
+59,120910,365715,4,689,0.6,1,4,43,Salaried,Current,South,Moderate Risk
+22,117982,824386,11,598,0.77,3,2,34,Business owner,Salary,West,Moderate Risk
+49,86282,828292,2,494,0.67,2,2,40,Business owner,Current,South,Very High Risk
+43,42958,340225,6,592,0.42,4,4,47,Self-employed,Salary,West,Very High Risk
+59,54080,654099,15,706,0.34,3,2,5,Business owner,Salary,East,Moderate Risk
+31,45238,864459,7,760,0.16,2,4,39,Business owner,Salary,West,Low Risk
+35,60349,258373,12,824,0.3,3,2,24,Self-employed,Current,South,Low Risk
+27,50686,871043,20,757,0.9,0,4,42,Business owner,Savings,West,Low Risk
+38,137291,825334,4,849,0.85,0,1,50,Business owner,Salary,South,Very Low Risk
+66,77840,884069,3,559,0.87,3,2,24,Business owner,Savings,West,Very High Risk
+22,138762,932502,5,586,0.64,4,4,37,Salaried,Current,East,High Risk
+59,139148,286675,9,653,0.64,4,2,10,Salaried,Savings,East,High Risk
+24,123043,952828,7,504,0.7,0,2,5,Salaried,Current,South,Low Risk
+28,100528,924271,10,542,0.75,2,0,29,Self-employed,Current,North,Low Risk
+42,32426,169652,9,843,0.78,2,1,28,Business owner,Savings,North,Moderate Risk
+21,94606,646881,19,532,0.07,4,3,52,Self-employed,Salary,South,Moderate Risk
+42,51090,420917,1,812,0.4,3,1,35,Salaried,Salary,North,Low Risk
+65,35458,126600,7,496,0.18,3,3,4,Business owner,Savings,South,Very High Risk
+51,33466,172816,4,622,0.77,1,4,42,Business owner,Savings,South,Very High Risk
+44,23489,221315,2,569,0.72,4,3,50,Business owner,Salary,West,Very High Risk
+30,152466,824419,13,553,0.09,3,2,54,Business owner,Salary,West,Low Risk
+51,83377,50600,5,732,0.47,1,1,27,Self-employed,Salary,South,Moderate Risk
+23,84369,547039,20,788,0.9,0,2,46,Business owner,Current,South,Very Low Risk
+63,81976,567699,9,691,0.56,3,3,35,Self-employed,Salary,West,Moderate Risk
+41,106327,858529,1,495,0.77,3,4,34,Self-employed,Savings,North,Very High Risk
+46,31439,94677,18,535,0.6,1,0,54,Self-employed,Current,South,High Risk
+45,78311,714802,11,826,0.92,1,4,13,Business owner,Salary,North,Low Risk
+27,123522,389752,10,581,0.36,1,1,10,Business owner,Savings,West,Low Risk
+43,74531,686596,6,767,0.06,4,3,16,Self-employed,Savings,North,High Risk
+25,35426,377641,3,598,0.25,1,1,42,Business owner,Salary,West,High Risk
+46,32356,214482,3,534,0.29,2,4,39,Self-employed,Current,South,Very High Risk
+63,64497,765572,20,561,0.73,4,4,18,Business owner,Current,West,Very High Risk
+67,67792,999548,8,741,0.08,2,3,44,Business owner,Current,North,Very Low Risk
+65,144172,68714,14,574,0.55,1,1,19,Salaried,Current,East,Moderate Risk
+56,149026,111660,2,824,0.25,4,3,36,Business owner,Current,North,Moderate Risk
+27,30767,27434,2,536,0.36,1,0,35,Salaried,Savings,North,Very High Risk
+58,108775,3965,2,688,0.71,4,3,29,Self-employed,Salary,East,Very High Risk
+38,135146,939976,7,827,0.68,3,4,36,Self-employed,Savings,South,Very Low Risk
+49,102590,196502,8,536,0.11,1,4,34,Business owner,Current,West,High Risk
