@@ -1,0 +1,16 @@
+langchain-openai
+langchain-core
+langchain-text-splitters
+pymupdf
+python-dotenv
+numpy
+pandas
+scikit-learn
+rank-bm25
+matplotlib
+jupyter
+langchain-chroma
+chromadb
+streamlit
+pyngrok
+python-docx
