@@ -1,5 +1,0 @@
-turn,question,expected_standalone_question,reference_answer
-1,What is the monthly base compensation?,What is the monthly base compensation?,"$14,583 per month."
-2,And how often is it paid?,How frequently is base compensation paid?,"Not less frequently than bi-monthly, or consistent with company practice. The document does not clarify the meaning of bi-monthly."
-3,What happens if they terminate him without cause?,What notice is required if the company terminates the employee without cause?,15 days prior written notice.
-4,And for cause?,What notice is required for termination for cause?,2 days prior written notice.
