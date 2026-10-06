@@ -1,0 +1,14 @@
+Sunrise Demo Bank - Fictional training FAQ
+All policies are synthetic. No customer data is included.
+
+Q: What should I do if my debit card is lost?
+A: Block the card immediately using the mobile banking app or contact the demo support desk. Request a replacement card; the replacement charge is INR 150.
+
+Q: How do I update my address?
+A: Submit new address proof and a signed address change request at the branch. Processing takes three working days after verification.
+
+Q: How long does personal loan processing take?
+A: Three working days after all required documents are received and verified. Approval is not guaranteed.
+
+Q: How do I raise a service complaint?
+A: Submit a complaint in the mobile banking app or at a branch. Initial acknowledgement is within one working day and target resolution is seven working days.

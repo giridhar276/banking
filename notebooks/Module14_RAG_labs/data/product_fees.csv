@@ -1,0 +1,9 @@
+product,service,amount_inr,condition
+Standard Savings,Minimum average monthly balance,5000,Monthly
+Standard Savings,Balance shortfall fee,250,If monthly balance is below INR 5000
+Standard Savings,Annual debit card fee,200,Annual
+Salary Savings,Minimum balance,0,While salary credits continue
+Salary Savings,Annual debit card fee,0,While salary credits continue
+Personal Loan,Minimum processing fee,1000,Fee is 1 percent of approved amount; minimum INR 1000
+Personal Loan,Duplicate loan statement,100,Per request
+Savings Account,Replacement debit card,150,Per replacement
