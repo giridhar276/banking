@@ -1,0 +1,5 @@
+chunk_id,product,attribute,value,content
+PROD01,Basic Savings,minimum balance,0 INR,The fictional Basic Savings product has zero minimum balance.
+PROD02,Premium Savings,minimum balance,10000 INR,The fictional Premium Savings product requires a monthly average balance of 10000 INR.
+PROD03,Debit Card,annual fee,200 INR,"The fictional debit card annual fee is 200 INR, excluding applicable taxes."
+PROD04,Domestic Transfer,daily demo limit,50000 INR,The fictional domestic-transfer daily limit is 50000 INR. Verified channels may apply additional restrictions.
